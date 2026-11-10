@@ -160,8 +160,8 @@ Fionn mac Cumhaill
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
 - Total de registros documentales iniciales cargados: 144 de 144. No quedan registros pendientes de documentación inicial.
 - Siguiente paso: auditoría historiográfica individual de los 144 registros, contraste de fuentes primarias y académicas, resolución de discrepancias y aprobación editorial antes de desarrollar las ilustraciones definitivas.
-- Auditoría historiográfica en curso: `docs/auditoria_historica/gobernantes_001_036_auditoria.md`. Tandas examinadas: HIS-001 a HIS-006, HIS-007 a HIS-012, HIS-013 a HIS-018 y HIS-019 a HIS-024; acumulado 24/36 examinados, 0/24 aprobados para diseño. Se documentan hallazgos, discrepancias cronológicas, matices y bibliografía sin modificar todavía las fichas JSON originales.
-- Próxima tanda de auditoría: HIS-025 a HIS-030 (Pedro el Grande, Napoleón Bonaparte, Simón Bolívar, José de San Martín, George Washington y Abraham Lincoln).
+- Auditoría historiográfica en curso: `docs/auditoria_historica/gobernantes_001_036_auditoria.md`. Tandas examinadas: HIS-001 a HIS-006, HIS-007 a HIS-012, HIS-013 a HIS-018, HIS-019 a HIS-024 y HIS-025 a HIS-030; acumulado 30/36 examinados, 0/30 aprobados para diseño. Se documentan hallazgos, discrepancias cronológicas, matices y bibliografía sin modificar todavía las fichas JSON originales.
+- Próxima tanda de auditoría: HIS-031 a HIS-036 (Otto von Bismarck, Qin Shi Huang, Liu Bang, Tokugawa Ieyasu, Mehmed II y Suleimán el Magnífico).
 - La documentación diferencia hechos históricos, tradiciones posteriores, fechas aproximadas y aspectos debatidos.
 - Las fuentes se guardan en cada registro para facilitar la auditoría y evitar depender del historial del chat.
 
