@@ -159,7 +159,7 @@ Fionn mac Cumhaill
 - Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros), `data/historicos/guerreros_037_061.json` (25 registros), `data/historicos/sabios_cientificos_062_091.json` (30 registros) y `data/historicos/exploradores_092_109.json` (18 registros) y `data/historicos/lideres_espirituales_110_127.json` (18 registros) y `data/historicos/bloque_final_128_144.json` (17 registros).
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
 - Total de registros documentales iniciales cargados: 144 de 144. No quedan registros pendientes de documentación inicial.
-- Siguiente paso: revisión historiográfica transversal de los 144 registros, contraste reforzado de fuentes primarias, institucionales y académicas, resolución de discrepancias, revisión de clasificación y aprobación editorial antes de desarrollar las ilustraciones definitivas.
+- Integración documental transversal completada: 144/144 registros integrados (100 %), 0 pendientes de integración y 0/144 aprobados editorialmente. Todas las fichas permanecen en `en_verificacion` hasta la aprobación formal; las ilustraciones definitivas continúan suspendidas.
 
 
 
@@ -435,3 +435,12 @@ Emela-Ntouka
 - **Estado del archivo:** 18/18 integrados, 0/18 aprobados para diseño. Todos permanecen en `en_verificacion`; la integración documental y la validación técnica no constituyen aprobación editorial.
 - **Balance global de integración transversal:** 127/144 registros integrados (88,19 %), 17 pendientes de integración, 0/144 aprobados para diseño. La primera fase de examen individual permanece completada para 144/144.
 - **Siguiente archivo:** `data/historicos/bloque_final_128_144.json` (HIS-128 a HIS-144). Se mantendrá el procedimiento completo de investigación, documentación, publicación y validación.
+
+
+### Cierre de integración documental transversal — HIS-128 a HIS-144
+
+- Integración documental completada para `data/historicos/bloque_final_128_144.json`: HIS-128 a HIS-144. Se revisaron los 17 registros completos, se contrastaron cronologías y grados de historicidad, se completaron tres hitos por ficha y se reforzaron tres referencias pertinentes por personaje.
+- Se sustituyeron fuentes inadecuadas detectadas en Ragnar Lodbrok y Lady Triệu; se añadieron referencias académicas e institucionales sobre baladas, manuscritos, crónicas y tradiciones literarias. Las discrepancias y límites de evidencia permanecen documentados en el informe del bloque y el registro maestro.
+- **Estado del archivo:** 17/17 integrados, 0/17 aprobados. Todos permanecen en `en_verificacion`; la integración documental no equivale a aprobación editorial.
+- **Balance global de integración transversal:** 144/144 registros integrados (100 %), 0 pendientes de integración y 0/144 aprobados. El examen individual de 144/144 es una etapa separada.
+- **Siguiente fase:** aprobación editorial formal independiente, ficha por ficha, resolviendo observaciones y criterios transversales. Las ilustraciones definitivas permanecen suspendidas hasta completar y aprobar esa fase.
