@@ -445,3 +445,19 @@ Esta sección registra la primera pasada de integración posterior a la auditor�
 | HIS-006 | Se simplificó la descripción y se añadieron Badian, Tucídides y University of Bristol. | Mantener el contexto de democracia e imperio y no presentar el discurso fúnebre como transcripción literal. |
 
 **Validación del subbloque:** 6 registros actualizados; 6 continúan en `en_verificacion`; 0 aprobados. La revisión comparativa de clasificación de HIS-005 permanece abierta. El resto de HIS-007–HIS-036 no se modificó en esta pasada.
+
+
+## Integración documental y correcciones justificadas — HIS-007 a HIS-012
+
+Segunda pasada de integración. Se añadieron referencias académicas, institucionales y fuentes primarias; se ajustaron fechas o descripciones cuando la evidencia permitió formular una corrección concreta. Ninguna ficha queda aprobada automáticamente.
+
+| Código | Integración realizada | Observación pendiente |
+|---|---|---|
+| HIS-007 | Se explicitó el reinado 522–486 a. C.; Behistún se caracteriza como autorrepresentación real. | No atribuirle la fundación aqueménida ni la invención del sistema de satrapías. |
+| HIS-008 | Se normalizó la fecha a c. 600–530 a. C.; Babilonia se fechó en 539 a. C. | Evitar la interpretación anacrónica del Cilindro como carta moderna de derechos humanos. |
+| HIS-009 | Se explicitó el reinado 486–465 a. C. y el fracaso de la invasión de Grecia. | Mantener c. 519 como nacimiento aproximado; contrastar fuentes griegas con evidencia aqueménida. |
+| HIS-010 | Se explicitó el reinado c. 1279–1213 a. C.; Qadesh y el tratado del año 21 quedaron contextualizados. | No llamar a Qadesh victoria estratégica decisiva ni al tratado «el primero de la historia». |
+| HIS-011 | Se corrigió el inicio de cronología de c. 1481 a c. 1479 a. C.; se precisó la regencia y posterior reinado de Hatshepsut. | Mantener la cautela sobre corregencias y leer los anales de Karnak como registros reales. |
+| HIS-012 | Se precisaron corregencias, alianzas, Accio (31 a. C.) y anexión romana (30 a. C.). | Completar cotejo de fuentes romanas con papiros, monedas e inscripciones ptolemaicas. |
+
+**Validación del subbloque:** seis registros actualizados; los seis continúan en `en_verificacion`; 0 aprobados. No se modificaron las categorías.
