@@ -40,7 +40,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: conservar el nacimiento como estimación y la ejecución en 1525; la fecha tradicional del 28 de febrero se apoya en Ciencia UNAM. La identificación de restos de Ichcateopan no está demostrada. La defensa de Tenochtitlan enfrentó una coalición hispano-indígena. Pendiente de aprobación editorial."
+      "editorial_note": "Integración documental: conservar el nacimiento como estimación y la ejecución en 1525; la fecha tradicional del 28 de febrero se apoya en Ciencia UNAM. La identificación de restos de Ichcateopan no está demostrada. La defensa de Tenochtitlan enfrentó una coalición hispano-indígena. Pendiente de aprobación editorial.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-129",
@@ -76,7 +77,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: precisar la secuencia elecciones del 27 de abril e investidura del 10 de mayo de 1994; contextualizar MK y el juicio de Rivonia y no atribuir el fin del apartheid a una sola persona. Pendiente de aprobación editorial."
+      "editorial_note": "Integración documental: precisar la secuencia elecciones del 27 de abril e investidura del 10 de mayo de 1994; contextualizar MK y el juicio de Rivonia y no atribuir el fin del apartheid a una sola persona. Pendiente de aprobación editorial.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-130",
@@ -112,7 +114,8 @@
       ],
       "historical_nature": "Semihistórico / legendario",
       "verification_status": "en_verificacion",
-      "editorial_note": "No presentar como rey históricamente comprobado. Diferenciar posibles antecedentes posromanos, primeras menciones y desarrollo literario posterior."
+      "editorial_note": "No presentar como rey históricamente comprobado. Diferenciar posibles antecedentes posromanos, primeras menciones y desarrollo literario posterior.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-131",
@@ -148,7 +151,8 @@
       ],
       "historical_nature": "Legendario",
       "verification_status": "en_verificacion",
-      "editorial_note": "Tratar como personaje literario y legendario. No convertir las tradiciones sobre Myrddin en una biografía demostrada de Merlín."
+      "editorial_note": "Tratar como personaje literario y legendario. No convertir las tradiciones sobre Myrddin en una biografía demostrada de Merlín.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-132",
@@ -184,7 +188,8 @@
       ],
       "historical_nature": "Legendario / posible trasfondo folclórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: reemplazadas referencias genéricas por bibliografía especializada sobre las baladas medievales; no atribuir identidad civil ni relación histórica comprobada con Ricardo I. Pendiente de aprobación editorial."
+      "editorial_note": "Integración documental: reemplazadas referencias genéricas por bibliografía especializada sobre las baladas medievales; no atribuir identidad civil ni relación histórica comprobada con Ricardo I. Pendiente de aprobación editorial.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-133",
@@ -217,7 +222,8 @@
       ],
       "historical_nature": "Legendario / literario",
       "verification_status": "en_verificacion",
-      "editorial_note": "El personaje pertenece a la épica. Distinguir posibles recuerdos históricos del mundo escandinavo de la trama heroica y sobrenatural."
+      "editorial_note": "El personaje pertenece a la épica. Distinguir posibles recuerdos históricos del mundo escandinavo de la trama heroica y sobrenatural.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-134",
@@ -253,7 +259,8 @@
       ],
       "historical_nature": "Legendario / literario",
       "verification_status": "en_verificacion",
-      "editorial_note": "Distinguir Sigfrido/Siegfried de Sigurd según las tradiciones. No presentar el episodio del dragón ni la biografía épica como hechos históricos."
+      "editorial_note": "Distinguir Sigfrido/Siegfried de Sigurd según las tradiciones. No presentar el episodio del dragón ni la biografía épica como hechos históricos.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-135",
@@ -288,7 +295,8 @@
       ],
       "historical_nature": "Semihistórico / legendario",
       "verification_status": "en_verificacion",
-      "editorial_note": "No afirmar que Gilgamesh existió como hecho probado. Presentar la posibilidad de un antecedente real como hipótesis y explicar el carácter mixto de la Lista Real."
+      "editorial_note": "No afirmar que Gilgamesh existió como hecho probado. Presentar la posibilidad de un antecedente real como hipótesis y explicar el carácter mixto de la Lista Real.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-136",
@@ -323,7 +331,8 @@
       ],
       "historical_nature": "Legendario / tradición literaria",
       "verification_status": "en_verificacion",
-      "editorial_note": "No asignar una fecha de nacimiento ni afirmar que la balada narra una biografía comprobada. Diferenciar texto temprano y adaptaciones posteriores."
+      "editorial_note": "No asignar una fecha de nacimiento ni afirmar que la balada narra una biografía comprobada. Diferenciar texto temprano y adaptaciones posteriores.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-137",
@@ -359,7 +368,8 @@
       ],
       "historical_nature": "Semihistórico / legendario",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: retirada la referencia de FamilySearch por no ser fuente historiográfica. Se incorporan estudios académicos que muestran posiciones distintas sobre la historicidad de Ragnar; no afirmar identidad única ni genealogía con Ivar como hechos probados. Pendiente de aprobación editorial."
+      "editorial_note": "Integración documental: retirada la referencia de FamilySearch por no ser fuente historiográfica. Se incorporan estudios académicos que muestran posiciones distintas sobre la historicidad de Ragnar; no afirmar identidad única ni genealogía con Ivar como hechos probados. Pendiente de aprobación editorial.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-138",
@@ -395,7 +405,8 @@
       ],
       "historical_nature": "Semihistórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Diferenciar al líder atestiguado en fuentes sobre las campañas de 865–870 de la genealogía y episodios legendarios de las sagas."
+      "editorial_note": "Diferenciar al líder atestiguado en fuentes sobre las campañas de 865–870 de la genealogía y episodios legendarios de las sagas.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-139",
@@ -430,7 +441,8 @@
       ],
       "historical_nature": "Legendario / mitológico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Tratar como personaje mitológico. Documentar la diferencia entre tradición oral, trabajo editorial de Lönnrot y reconstrucciones modernas de la mitología finesa."
+      "editorial_note": "Tratar como personaje mitológico. Documentar la diferencia entre tradición oral, trabajo editorial de Lönnrot y reconstrucciones modernas de la mitología finesa.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-140",
@@ -466,7 +478,8 @@
       ],
       "historical_nature": "Semihistórico / épico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: diferenciar el Hruodland mencionado en la tradición carolingia de la figura épica posterior; la identificación y el texto de Einhard requieren atención a variantes manuscritas. Pendiente de aprobación editorial."
+      "editorial_note": "Integración documental: diferenciar el Hruodland mencionado en la tradición carolingia de la figura épica posterior; la identificación y el texto de Einhard requieren atención a variantes manuscritas. Pendiente de aprobación editorial.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-141",
@@ -502,7 +515,8 @@
       ],
       "historical_nature": "Legendario / literario",
       "verification_status": "en_verificacion",
-      "editorial_note": "Tratar como héroe literario del ciclo del Úlster. No convertir la geografía o los posibles reflejos sociales de los relatos en prueba de existencia individual."
+      "editorial_note": "Tratar como héroe literario del ciclo del Úlster. No convertir la geografía o los posibles reflejos sociales de los relatos en prueba de existencia individual.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-142",
@@ -538,7 +552,8 @@
       ],
       "historical_nature": "Legendario",
       "verification_status": "en_verificacion",
-      "editorial_note": "No presentarlo como personaje histórico probado. Distinguir la primera documentación de la leyenda, los motivos folclóricos y su uso como símbolo nacional."
+      "editorial_note": "No presentarlo como personaje histórico probado. Distinguir la primera documentación de la leyenda, los motivos folclóricos y su uso como símbolo nacional.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-143",
@@ -575,7 +590,8 @@
       ],
       "historical_nature": "Semihistórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: retirada la referencia sobre las hermanas Trưng por no documentar a Lady Triệu. Se conserva 248 como fecha tradicional del levantamiento, pero no 225 como nacimiento comprobado; fuentes vietnamitas tardías y estudios modernos deben distinguirse, y las fuentes chinas no nombran a la líder en el registro principal del episodio. Pendiente de aprobación editorial."
+      "editorial_note": "Integración documental: retirada la referencia sobre las hermanas Trưng por no documentar a Lady Triệu. Se conserva 248 como fecha tradicional del levantamiento, pero no 225 como nacimiento comprobado; fuentes vietnamitas tardías y estudios modernos deben distinguirse, y las fuentes chinas no nombran a la líder en el registro principal del episodio. Pendiente de aprobación editorial.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-144",
@@ -612,7 +628,15 @@
       ],
       "historical_nature": "Legendario / literario",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: reforzado con catálogo académico del Early Fenian Corpus y bibliografía especializada; diferenciar corpus textual, variantes lingüísticas y fechas de manuscritos. Pendiente de aprobación editorial."
+      "editorial_note": "Integración documental: reforzado con catálogo académico del Early Fenian Corpus y bibliografía especializada; diferenciar corpus textual, variantes lingüísticas y fechas de manuscritos. Pendiente de aprobación editorial.",
+      "production_status": "aprobado_produccion"
     }
-  ]
+  ],
+  "production_approval": {
+    "status": "aprobado_globalmente",
+    "scope": "HIS-001–HIS-144",
+    "approved_by": "usuario",
+    "approval_mode": "global_sin_revision_ficha_por_ficha",
+    "next_step": "plantilla_maestra_y_lote_piloto"
+  }
 }
