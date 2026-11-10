@@ -2,7 +2,7 @@
 
 Humanity Legends - Colección Fundacional ORÍGENES (360 cartas)
 1. Históricos (144)
-Gobernantes y Conquistadores (32)
+Gobernantes y Conquistadores (31)
 Alejandro Magno
 Julio César
 Augusto
@@ -137,7 +137,7 @@ Otto von Bismarck
 George Washington
 Abraham Lincoln
 Nelson Mandela
-Semihistóricos y Legendarios (14)
+Semihistóricos y Legendarios (15)
 Rey Arturo
 Merlín
 Robin Hood
@@ -155,11 +155,11 @@ Lady Triệu
 Fionn mac Cumhaill
 ## Estado de documentación histórica
 
-- Distribución editorial de los 144 registros actualizada según la reorganización aprobada.
-- Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros), `data/historicos/guerreros_037_061.json` (25 registros), `data/historicos/sabios_cientificos_062_091.json` (30 registros) y `data/historicos/exploradores_092_109.json` (18 registros) y `data/historicos/lideres_espirituales_110_127.json` (18 registros).
+- Distribución editorial de los 144 registros conciliada y completada según la aprobación del catálogo.
+- Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros), `data/historicos/guerreros_037_061.json` (25 registros), `data/historicos/sabios_cientificos_062_091.json` (30 registros) y `data/historicos/exploradores_092_109.json` (18 registros) y `data/historicos/lideres_espirituales_110_127.json` (18 registros) y `data/historicos/bloque_final_128_144.json` (17 registros).
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
-- Total de registros documentales iniciales cargados: 127 de 144. Restan 17 por documentar y verificar.
-- Siguiente paso: conciliar el listado editorial restante y documentar los 17 códigos HIS-128 a HIS-144. La distribución por categoría y el listado nominal contienen una diferencia de recuento que debe resolverse antes de asignar el siguiente bloque.
+- Total de registros documentales iniciales cargados: 144 de 144. No quedan registros pendientes de documentación inicial.
+- Siguiente paso: auditoría historiográfica individual de los 144 registros, contraste de fuentes primarias y académicas, resolución de discrepancias y aprobación editorial antes de desarrollar las ilustraciones definitivas.
 - La documentación diferencia hechos históricos, tradiciones posteriores, fechas aproximadas y aspectos debatidos.
 - Las fuentes se guardan en cada registro para facilitar la auditoría y evitar depender del historial del chat.
 
