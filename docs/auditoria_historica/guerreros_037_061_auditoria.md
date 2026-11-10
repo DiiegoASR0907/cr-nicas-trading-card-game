@@ -288,3 +288,74 @@ La auditoría histórica global de los 144 registros queda en **61/144 examinado
 ## Siguiente archivo
 
 El siguiente archivo será `data/historicos/sabios_cientificos_062_091.json` (HIS-062 a HIS-091). Se aplicará el mismo método documental antes de cualquier modificación de los JSON o desarrollo de ilustraciones definitivas.
+
+
+---
+
+# Addenda de integración transversal — HIS-037 a HIS-061
+
+**Esta addenda actualiza y sustituye las afirmaciones de la primera auditoría que indicaban que el JSON original permanecía sin cambios.** En esta segunda pasada se integraron al archivo JSON correcciones y referencias ampliadas en los 25 registros. Ninguna de estas modificaciones equivale a aprobación editorial.
+
+## Correcciones integradas
+
+| Código | Personaje | Cambio incorporado |
+|---|---|---|
+| HIS-037 | Aníbal Barca | Muerte expresada como c. 183/182 a. C.; se añade su actividad política posterior como sufete y cautela sobre ruta y cifras del cruce alpino. |
+| HIS-038 | Escipión el Africano | Se conserva 236–183 a. C.; Zama se describe como victoria de fuerzas romanas y aliadas, incluidos contingentes númidas. |
+| HIS-039 | Belisario | Se mantiene c. 500–565; se precisan las campañas africanas e italianas y el carácter prolongado de la guerra gótica. |
+| HIS-040 | Sun Tzu | Se cambia a figura tradicional de historicidad/autoría debatidas; se distingue la figura atribuida del texto, probablemente formado durante el siglo IV a. C. |
+| HIS-041 | Guan Yu | Se corrige la muerte a 219 d. C. y se diferencia al general histórico de la figura religiosa y literaria posterior. |
+| HIS-042 | Yue Fei | Se conserva 1103–1142; se contextualiza la ejecución y se separa la leyenda del tatuaje de la evidencia histórica. |
+| HIS-043 | Miyamoto Musashi | Se mantiene c. 1584–1645; se distingue su tratado de las biografías tardías y de los relatos legendarios de duelos. |
+| HIS-044 | Hattori Hanzō | Se aclara que Hanzō fue un nombre usado por varias generaciones; la identificación con Masanari y las hazañas atribuidas quedan sujetas a cautela. |
+| HIS-045 | Juana de Arco | Se añaden Orleans y Reims (1429), captura (1430), ejecución (1431) y anulación del proceso (1456). |
+| HIS-046 | El Cid | Se marca el nacimiento como incierto, con propuestas c. 1043–1054; se mantiene 1099 y se distinguen documentos, crónica y épica. |
+| HIS-047 | Vercingétorix | Se elimina el intervalo especulativo de nacimiento; queda desconocido. Se conserva la ejecución en 46 a. C. y se contrasta a César con la evidencia numismática. |
+| HIS-048 | Arminio | Se mantiene c. 18/17 a. C.–21 d. C. como aproximación; se rechaza la proyección nacionalista moderna. |
+| HIS-049 | Espartaco | Se elimina una fecha de nacimiento no documentada; se conserva la rebelión de 73–71 a. C. y muerte en 71 a. C. |
+| HIS-050 | Hernán Cortés | Se mantiene 1485–1547; la caída de Tenochtitlan se presenta como proceso con alianzas indígenas, epidemias, guerra y asedio. |
+| HIS-051 | Francisco Pizarro | Se corrige el nacimiento a 1478–1541 según PARES; se distingue Cajamarca (1532) de la conquista prolongada del Tahuantinsuyo. |
+| HIS-052 | Pancho Villa | Se precisan 5 de junio de 1878–20 de julio de 1923 y se contextualizan sus alianzas revolucionarias cambiantes. |
+| HIS-053 | Emiliano Zapata | Se mantiene 1879–1919; el Plan de Ayala se atribuye a un proceso colectivo del zapatismo, con participación de Otilio E. Montaño. |
+| HIS-054 | Shaka Zulu | Se conserva c. 1787–1828; se explicita la naturaleza aproximada de la cronología y la combinación de fuentes orales y coloniales. |
+| HIS-055 | Robert E. Lee | Se mantiene 1807–1870; se hace explícito su mando confederado y el contexto de defensa de la esclavitud. |
+| HIS-056 | Ulysses S. Grant | Se mantiene 1822–1885; se precisan mando supremo desde 1864, Appomattox y presidencia (1869–1877). |
+| HIS-057 | Georgy Zhukov | Se mantiene 1896–1974; se evita atribuirle en solitario operaciones colectivas del Ejército Rojo y del Stavka. |
+| HIS-058 | George S. Patton | Se precisan 1885–1945 y campañas; se incorpora la controversia de Sicilia de 1943 y la estructura de mando aliada. |
+| HIS-059 | Subutai | Se conserva c. 1175/1176–1248; se precisa el mando compartido con Batu y otros príncipes durante la campaña occidental. |
+| HIS-060 | Yi Sun-sin | Se mantiene 1545–1598; se refuerza el Nanjung Ilgi como fuente primaria y se matizan detalles del barco tortuga. |
+| HIS-061 | Yasuke | Se eliminan fechas biográficas no documentadas; se limita la presencia conocida a 1579–1582 y no se afirma un rango formal de samurái. |
+
+## Clasificación e historicidad
+
+- Se conservan provisionalmente las 25 categorías como «Guerreros y Generales», respetando la distribución editorial aprobada; no se cambian códigos, nombres ni categorías en esta pasada.
+- HIS-040 requiere etiqueta de figura tradicional/autoría discutida; HIS-044 necesita individualización del miembro de la familia Hattori; HIS-061 tiene documentación breve y no permite asegurar rango formal.
+- HIS-050 y HIS-051 son también conquistadores y autoridades coloniales; HIS-053 fue líder agrario y político; HIS-056 fue presidente; HIS-054 fue gobernante. Estas dimensiones quedan para la revisión comparativa global.
+- En las fichas visibles se priorizan descripciones sintéticas y 2–3 hitos relevantes. La discusión extensa permanece en el expediente documental y el registro maestro.
+
+## Fuentes reforzadas destacadas
+
+- Aníbal y Escipión: *Oxford Classical Dictionary*, Polibio y Tito Livio.
+- Belisario y Procopio: *Oxford Classical Dictionary* y las obras de Procopio.
+- Sun Tzu: Stephen Morillo, *The Encyclopedia of War*; Scott Boorman, Cambridge University Press (2024); manuscritos de Yinqueshan.
+- Guan Yu y Yue Fei: Oxford University Press, *Song Shi* y estudios de Cambridge University Press.
+- Hattori Hanzō: entrevista especializada de Nippon.com y bibliografía sobre la familia Hattori; aún falta cotejo directo de fuentes japonesas primarias.
+- Juana de Arco: proceso de 1431 y archivos del proceso de rehabilitación de la British Library.
+- El Cid y Vercingétorix: estudios académicos, crónicas medievales, numismática y museo arqueológico francés.
+- Cortés y Pizarro: Library of Congress, PARES, Códice Florentino y *Nueva corónica y buen gobierno*.
+- Villa y Zapata: INEHRM, Archivo General de la Nación, Library of Congress y Plan de Ayala.
+- Shaka: John Laband, Elizabeth A. Eldredge y estudios de historia oral zulú.
+- Lee y Grant: Library of Congress, National Archives y memorias/documentos primarios.
+- Zhukov, Patton y Subutai: Oxford Bibliographies, U.S. Army Center of Military History, National WWII Museum y estudios académicos.
+- Yi Sun-sin y Yasuke: UNESCO, Academy of Korean Studies, manuscrito Nanjung Ilgi, Thomas Lockley y estudios de la misión jesuita.
+
+## Estado actualizado del archivo
+
+- **Registros integrados:** 25/25.
+- **Aprobados para diseño:** 0/25.
+- **Estado JSON:** los 25 permanecen en `en_verificacion`.
+- **Pendientes de cautela reforzada:** HIS-040, HIS-044 y HIS-061; también requieren revisión comparativa de clasificación HIS-050, HIS-051, HIS-053, HIS-054 y HIS-056.
+- **Registro maestro:** actualizado en `docs/registro_maestro_correcciones.md`.
+- **Ilustraciones:** siguen suspendidas hasta la aprobación editorial formal de los 144 personajes.
+
+**Siguiente archivo:** `data/historicos/sabios_cientificos_062_091.json` (HIS-062 a HIS-091). Se aplicará la misma revisión completa y se integrarán los cambios solo con respaldo suficiente.
