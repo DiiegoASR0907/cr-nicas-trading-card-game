@@ -733,3 +733,138 @@ Se conservan las categorías actuales en esta pasada, respetando la distribució
 **Revisión comparativa de clasificación:** se conserva provisionalmente «Sabios, Científicos e Inventores» como categoría editorial amplia. Las fichas identifican las especialidades históricas concretas y evitan proyectar disciplinas modernas sin matiz. La categoría se revisará comparativamente al cerrar los seis archivos.
 
 **Cierre de integración:** 30/30 registros actualizados; 0/30 aprobados. La validación técnica posterior no equivale a aprobación historiográfica ni autoriza ilustraciones.
+
+ 
+## Integración transversal — HIS-092 a HIS-109 (Exploradores y Navegantes)
+
+**Archivo:** `data/historicos/exploradores_092_109.json`  
+**Informe:** `docs/auditoria_historica/exploradores_092_109_auditoria.md`  
+**Resultado:** 18/18 integrados; 0/18 aprobados. Todos permanecen en `en_verificacion`.
+
+### HIS-092 — Cristóbal Colón
+
+- **Decisión integrada:** Navegante genovés que dirigió cuatro expediciones transatlánticas al servicio de la monarquía castellana entre 1492 y 1504. Sus viajes iniciaron un contacto transatlántico sostenido entre Europa y el Caribe, dentro de procesos de conquista, colonización, esclavización y desposesión de pueblos indígenas. Murió sin reconocer que las tierras alcanzadas formaban parte de un continente distinto de Asia. Los diarios originales no se conservan íntegros y su reconstrucción depende de copias, resúmenes y testimonios posteriores.
+- **Hitos para tarjeta:** Zarpó en 1492 con la Niña, la Pinta y la nao Santa María; llegó a las Antillas en octubre. Realizó cuatro viajes transatlánticos entre 1492 y 1504. La Corona investigó su gobierno en La Española; las fuentes sobre esa administración deben leerse junto con las denuncias y la documentación colonial.
+- **Fuentes reforzadas:** Biblioteca Nacional de España, «Viajes de Cristóbal Colón» (https://www.bne.es/es/colecciones/hispanoamerica/viajes-cristobal-colon); UCLA Center for Early Global Studies, «Repertorium Columbianum: fuentes contemporáneas de los cuatro viajes» (https://cegs.ucla.edu/repertorium-columbianum/); CSIC, «Estudios de historia americana: artículo sobre Colón y su época» (https://estudiosamericanos.revistas.csic.es/index.php/estudiosamericanos/article/view/749).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-093 — Américo Vespucio
+
+- **Decisión integrada:** Mercader, navegante y cosmógrafo florentino vinculado a viajes ibéricos por las costas atlánticas de Sudamérica. Los textos atribuidos a él presentan problemas de autoría, transmisión y veracidad que impiden aceptar sin matices el número tradicional de expediciones. Sus escritos contribuyeron a la discusión cosmográfica europea sobre la existencia de tierras continentales distintas de Asia. En 1507 Martin Waldseemüller empleó el nombre America en su mapa, a partir de la forma latinizada Americus.
+- **Hitos para tarjeta:** Trabajó en redes comerciales y navieras de Sevilla y Lisboa. Los viajes que se le atribuyen y la autenticidad de algunas cartas siguen siendo objeto de debate filológico e historiográfico. El mapa de Waldseemüller de 1507 es el primer uso cartográfico conocido del nombre America.
+- **Fuentes reforzadas:** Library of Congress, «Recognizing and Naming America: Waldseemüller’s 1507 Map» (https://www.loc.gov/collections/discovery-and-exploration/articles-and-essays/recognizing-and-naming-america/); Ca’ Foscari University Press, «Amerigo Vespucci: The Historical Context of His Explorations and Scientific Contribution» (https://edizionicafoscari.unive.it/en/edizioni4/libri/978-88-6969-403-5/); Pietro T. Omodeo, Nuncius, «The Authenticity of Amerigo Vespucci’s Mundus Novus» (https://doi.org/10.1163/18253911-02902001).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-094 — Fernando de Magallanes
+
+- **Decisión integrada:** Navegante portugués que dirigió inicialmente la expedición de cinco naves organizada por la monarquía hispánica en 1519 para alcanzar las islas de las especias navegando hacia el oeste. La flota atravesó el estrecho que recibió su nombre y entró en el Pacífico. Magallanes murió en Mactán, Filipinas, el 27 de abril de 1521, durante una intervención armada en un conflicto local. La nao Victoria regresó a España en 1522 bajo el mando de Juan Sebastián Elcano, completando la primera circunnavegación documentada.
+- **Hitos para tarjeta:** La expedición partió en 1519 con cinco naves; solo la Victoria regresó a España. El paso fue llamado inicialmente estrecho de Todos los Santos. Magallanes murió en Mactán en 1521; Elcano y los supervivientes completaron la circunnavegación en 1522.
+- **Fuentes reforzadas:** Mateo Martinić Beroš, Abriu, «Estudio sobre las fuentes primarias de la travesía del estrecho» (https://revistes.ub.edu/index.php/Abriu/article/view/abriu2019.8.4); Archivo General de Indias, PARES, «Declaración de Elcano, Albo y Bustamante sobre el viaje (18 de octubre de 1522)» (https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/122228); Junta de Andalucía, «Documentos de Magallanes y Elcano y culminación de la circunnavegación» (https://www.juntadeandalucia.es/organismos/culturapatrimoniohistoricoydeporte/areas/cultura/archivos/archivos-consejeria/archivo-real-chancilleria/arcgr-recomienda/paginas/exposicion-magallaneselcanochanchilleria-2022.html).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-095 — Vasco da Gama
+
+- **Decisión integrada:** Navegante portugués cuya expedición de 1497–1499 estableció una ruta marítima directa entre Portugal y la costa de Malabar, en India, rodeando África. Su llegada a Calicut en 1498 fue un hito de la expansión portuguesa en el océano Índico, cuyas redes comerciales y conocimientos náuticos ya estaban desarrollados por sociedades africanas, árabes, persas e indias. Las expediciones portuguesas posteriores recurrieron a la coerción naval y la violencia para imponer intereses comerciales y políticos. Fue nombrado virrey en 1524 y murió ese mismo año en Cochin.
+- **Hitos para tarjeta:** Zarpó de Lisboa en julio de 1497 y llegó a Calicut en mayo de 1498. Su primera expedición se conoce, entre otras fuentes, por un diario anónimo atribuido tradicionalmente a un participante. Fue nombrado virrey de la India portuguesa en 1524 y murió en Cochin ese año.
+- **Fuentes reforzadas:** UNESCO, Memoria del Mundo, «Diario del primer viaje de Vasco da Gama a la India, 1497–1499» (https://www.unesco.org/es/memory-world/journal-first-voyage-vasco-da-gama-india-1497-1499); Cambridge University Press / Hakluyt Society, «A Journal of the Voyage of Vasco da Gama in 1497–99» (https://www.cambridge.org/core/books/journal-of-the-first-voyage-of-vasco-da-gama-14971499/journal-of-the-voyage-of-vasco-da-gama-in-149799/B47DC1671D3BD096377C4ACEA8DB083D); Stefania Elena Carnemolla, Medicina nei Secoli, «Estudio del relato de Álvaro Velho y el primer viaje» (https://rosa.uniroma1.it/rosa01/medicina_nei_secoli/article/view/904).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-096 — Marco Polo
+
+- **Decisión integrada:** Mercader veneciano que viajó por rutas euroasiáticas junto con su padre Niccolò y su tío Maffeo, según la tradición biográfica y el relato conocido como Il Milione. La obra fue redactada en colaboración con Rustichello de Pisa durante el cautiverio de ambos en Génova y circuló en múltiples versiones manuscritas. Describe la corte de Kublai Kan y diversas regiones de Asia, pero combina experiencias, información recibida y recursos literarios; la fiabilidad de episodios concretos debe evaluarse por separado.
+- **Hitos para tarjeta:** La tradición sitúa su partida hacia Asia en 1271 y su regreso a Venecia en 1295. Su relato describe la corte de Kublai Kan y rutas comerciales del Imperio mongol. El texto se asocia a Rustichello de Pisa y presenta una compleja transmisión manuscrita.
+- **Fuentes reforzadas:** David Jacoby, Mediterranean Historical Review, «Marco Polo, His Close Relatives, and His Travel Account» (https://www.tandfonline.com/doi/full/10.1080/09518960601030134); The Mariners’ Museum, «Marco Polo: contexto biográfico y viajes» (https://exploration.marinersmuseum.org/subject/marco-polo/); Encyclopaedia Britannica, «Marco Polo: mercader y autor del relato de viajes» (https://www.britannica.com/biography/Marco-Polo).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-097 — Zheng He
+
+- **Decisión integrada:** Almirante de la dinastía Ming, nacido Ma He, que dirigió siete grandes expediciones navales entre 1405 y 1433 durante los reinados de Yongle y Xuande. Las flotas recorrieron el sudeste asiático y el océano Índico hasta puertos de India, Arabia y África oriental. Sus misiones combinaron diplomacia, comercio, relaciones tributarias y demostración del poder estatal Ming; no fueron viajes privados ni deben describirse como una versión de la exploración europea.
+- **Hitos para tarjeta:** Dirigió siete expediciones navales entre 1405 y 1433. Las inscripciones de Liujiagang y Changle de 1431 ofrecen testimonios vinculados a las expediciones. Las cifras extraordinarias sobre el tamaño de los llamados barcos del tesoro siguen discutidas y no deben presentarse como datos seguros.
+- **Fuentes reforzadas:** Edward L. Dreyer, Smithsonian Libraries, «Zheng He: China and the Oceans in the Early Ming Dynasty, 1405–1433» (https://www.si.edu/object/siris_sil_843382); Encyclopaedia Britannica, «Zheng He: expediciones marítimas Ming» (https://www.britannica.com/biography/Zheng-He); Ming History / inscripciones de Liujiagang y Changle, «Documentación primaria reproducida y estudiada en la monografía de Dreyer» (https://www.si.edu/object/siris_sil_843382).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-098 — Leif Erikson
+
+- **Decisión integrada:** Explorador nórdico conocido por las sagas islandesas, que lo relacionan con viajes desde Groenlandia hacia tierras llamadas Vinland. La arqueología confirma presencia nórdica en L’Anse aux Meadows, Terranova, en el siglo XI; un estudio dendrocronológico fechó actividad allí en 1021. Esa evidencia no demuestra por sí sola que Leif encabezara personalmente todos los viajes narrados. Las sagas fueron escritas generaciones después y ofrecen versiones distintas de los episodios.
+- **Hitos para tarjeta:** Las sagas principales que lo mencionan son la Saga de los groenlandeses y la Saga de Erik el Rojo. L’Anse aux Meadows es el único asentamiento nórdico confirmado en América del Norte. Un estudio de anillos de árboles estableció presencia nórdica en el sitio en 1021.
+- **Fuentes reforzadas:** Nature, «Evidence for European presence in the Americas in AD 1021» (https://www.nature.com/articles/s41586-021-03972-8); UNESCO World Heritage Centre, «L’Anse aux Meadows National Historic Site» (https://whc.unesco.org/en/list/4); Parks Canada, «L’Anse aux Meadows National Historic Site» (https://parks.canada.ca/lhn-nhs/nl/meadows).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-099 — James Cook
+
+- **Decisión integrada:** Oficial naval y cartógrafo británico que comandó tres expediciones por el Pacífico entre 1768 y 1779. Sus diarios y levantamientos cartográficos registraron Nueva Zelanda, la costa oriental de Australia y numerosas islas desde una perspectiva europea, dentro de proyectos científicos y de expansión imperial. En el segundo viaje cruzó el círculo polar antártico, sin avistar el continente. Murió en Kealakekua Bay, Hawái, el 14 de febrero de 1779, durante un enfrentamiento que causó también numerosas muertes hawaianas y británicas.
+- **Hitos para tarjeta:** En Tahití observó el tránsito de Venus de 1769 como parte de un programa científico internacional. Cartografió Nueva Zelanda y la costa oriental de Australia en 1769–1770. En su segundo viaje cruzó el círculo polar antártico; murió en Hawái durante su tercera expedición.
+- **Fuentes reforzadas:** National Museum of Australia, «Cook’s journal: transcripciones del viaje del Endeavour» (https://www.nma.gov.au/exhibitions/endeavour-voyage/cooks-journal); National Library of Australia, «James Cook and his voyages: colecciones y diarios» (https://www.library.gov.au/research/guides-and-resources/guides-selected-collections/james-cook-and-his-voyages); National Museum of Australia, «Timeline of Cook and Forster voyages» (https://www.nma.gov.au/explore/features/cook_forster/background/timeline).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-100 — Roald Amundsen
+
+- **Decisión integrada:** Explorador polar noruego que encabezó la expedición de la Gjøa, primera travesía completa del Paso del Noroeste realizada por una misma expedición y embarcación entre 1903 y 1906. En 1911 dirigió la expedición que alcanzó el Polo Sur geográfico el 14 de diciembre, antes que el equipo de Robert Falcon Scott. Su trabajo ártico dependió de observaciones científicas y de conocimientos prácticos inuit sobre vestimenta, desplazamiento y adaptación al entorno. Desapareció en 1928 durante una misión aérea de rescate en el Ártico.
+- **Hitos para tarjeta:** La Gjøa completó el Paso del Noroeste entre 1903 y 1906, tras varias invernadas. Alcanzó el Polo Sur el 14 de diciembre de 1911 con un equipo que utilizó esquís y trineos de perros. Desapareció en junio de 1928 durante la búsqueda de la expedición de Umberto Nobile.
+- **Fuentes reforzadas:** Fram Museum, «Roald Amundsen: Northwest Passage and polar expeditions» (https://frammuseum.no/en/polar-history/explorers/roald-amundsen-explorer/); Norwegian Polar Institute, «Roald Amundsen: biografía y expediciones» (https://www.npolar.no/en/people/roald-amundsen/); Royal Museums Greenwich, «Amundsen’s Northwest Passage expedition, 1903–1906» (https://www.rmg.co.uk/stories/maritime-history/roald-amundsen-north-west-passage-expedition-1903-06).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-101 — Ernest Shackleton
+
+- **Decisión integrada:** Explorador polar anglo-irlandés que dirigió la Expedición Imperial Transantártica de 1914–1917. El Endurance quedó atrapado en el mar de Weddell y fue destruido por el hielo en 1915, antes de que comenzara el cruce continental previsto. Shackleton y cinco compañeros navegaron desde isla Elefante hasta Georgia del Sur para pedir ayuda; los 28 integrantes de la partida del Endurance sobrevivieron. La partida del mar de Ross, perteneciente a la misma expedición, perdió tres hombres.
+- **Hitos para tarjeta:** El Endurance quedó atrapado en el hielo en 1915 y se hundió antes de iniciar el cruce de la Antártida. Shackleton y cinco compañeros cruzaron en el James Caird desde isla Elefante hasta Georgia del Sur. Los 28 integrantes de la partida del Endurance sobrevivieron; tres miembros de la partida del mar de Ross murieron.
+- **Fuentes reforzadas:** Library of Congress, «South: The Story of Shackleton’s Last Expedition» (https://www.loc.gov/item/20001604/); Scott Polar Research Institute, «Endurance expedition: historical collections and records» (https://www.spri.cam.ac.uk/); Royal Museums Greenwich, «Ernest Shackleton and the Endurance expedition» (https://www.rmg.co.uk/stories/topics/ernest-shackleton).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-102 — Ibn Battuta
+
+- **Decisión integrada:** Jurista y viajero marroquí que salió de Tánger en 1325 para peregrinar a La Meca y viajó durante casi tres décadas por regiones de África, Oriente Próximo, Asia central, India y el sudeste asiático. La Rihla fue dictada por Ibn Battuta por encargo del sultán meriní Abu Inan y redactada por el secretario Ibn Juzayy, que terminó su trabajo en 1355–1356. No es un diario de campo continuo: combina memoria, convenciones literarias, información recibida y experiencia personal; algunos tramos del itinerario siguen debatidos.
+- **Hitos para tarjeta:** Partió de Tánger el 14 de junio de 1325 para realizar la peregrinación a La Meca. Sirvió como juez en el sultanato de Delhi y visitó diversas cortes del mundo islámico. La Rihla fue dictada y editada por Ibn Juzayy por encargo del sultán Abu Inan.
+- **Fuentes reforzadas:** Library of Congress, «Ibn Battuta’s Rihla: manuscrito y edición digital» (https://www.loc.gov/item/2021666192/); Islam Museum, «The Rihla of Ibn Battuta: composición y papel de Ibn Juzayy» (https://islam.museum/en/work/rihla-ibn-battuta/); University of California, Berkeley ORIAS, «The Travels of Ibn Battuta: itinerario y contexto» (https://orias.berkeley.edu/node/163).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-103 — David Livingstone
+
+- **Decisión integrada:** Médico, misionero y explorador escocés que recorrió regiones del África austral y central. Entre 1852 y 1856 atravesó el continente de oeste a este con apoyo de guías, comunidades y redes africanas. Llegó en 1855 a Mosi-oa-Tunya, conocida por pueblos locales, y difundió el nombre colonial Victoria Falls. Su última expedición, iniciada en 1866, investigó regiones vinculadas a los grandes lagos y las fuentes del Nilo. Su oposición al comercio esclavista coexistió con una misión cristiana y una visión victoriana del comercio y la expansión europea.
+- **Hitos para tarjeta:** Atravesó África austral de oeste a este entre 1852 y 1856. Llegó a Mosi-oa-Tunya en 1855 y popularizó el nombre Victoria Falls. Sus diarios de la última expedición (1866–1873) documentan sus viajes por África central.
+- **Fuentes reforzadas:** Library of Congress, «The Last Journals of David Livingstone, 1865–1873» (https://www.loc.gov/item/17009532/); South African History Online, «David Livingstone: biografía crítica» (https://sahistory.org.za/people/david-livingstone); University of Glasgow, «David Livingstone: manuscritos y colecciones digitalizadas» (https://www.gla.ac.uk/myglasgow/archivespecialcollections/digitisedcollections/provenance/davidlivingstone/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-104 — Vasco Núñez de Balboa
+
+- **Decisión integrada:** Conquistador castellano que en 1513 encabezó una expedición a través del istmo de Panamá y fue el primer europeo del que se conserva registro de haber avistado el océano Pacífico desde ese istmo. La expedición dependió de guías, informantes, cargadores y alianzas indígenas. La toma de posesión del llamado Mar del Sur fue una reivindicación imperial castellana, no un descubrimiento del océano ni una transferencia de soberanía reconocida por los pueblos de la región. Fue ejecutado en Acla en 1519 por orden de Pedrarias Dávila tras un conflicto político.
+- **Hitos para tarjeta:** Encabezó en 1513 la expedición castellana que llegó al Pacífico desde el istmo de Panamá. La travesía dependió de guías y aliados indígenas, cuya participación debe reconocerse. Fue ejecutado en Acla en 1519 por orden de Pedrarias Dávila.
+- **Fuentes reforzadas:** HISTORY, «Vasco Núñez de Balboa: expedición de 1513 y ejecución» (https://www.history.com/articles/vasco-nunez-de-balboa); The Mariners’ Museum, «Vasco de Balboa: biografía y exploración» (https://exploration.marinersmuseum.org/subject/vasco-de-balboa/); Biblioteca Nacional de España, «Documentación y crónicas de la expansión castellana en América» (https://www.bne.es/es/colecciones/hispanoamerica).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-105 — Álvar Núñez Cabeza de Vaca
+
+- **Decisión integrada:** Explorador, funcionario y cronista castellano que sobrevivió al desastre de la expedición de Pánfilo de Narváez, iniciada en 1527 y desarticulada tras naufragios y dispersión en 1528. Cabeza de Vaca y otros tres supervivientes alcanzaron asentamientos españoles en Nueva España en 1536, después de años entre distintas comunidades indígenas. Su Naufragios, publicado en 1542, es un testimonio excepcional sobre esas sociedades y experiencias, pero fue redactado para la Corona y refleja intereses y categorías coloniales. Más tarde fue gobernador del Río de la Plata.
+- **Hitos para tarjeta:** Fue uno de los cuatro supervivientes que llegaron a Nueva España en 1536. Naufragios se publicó en 1542 y relata la expedición de Narváez y los años de supervivencia. Posteriormente fue gobernador del Río de la Plata y entró en conflicto con autoridades coloniales.
+- **Fuentes reforzadas:** Smithsonian Libraries and Archives, «Relación / Naufragios de Álvar Núñez Cabeza de Vaca: edición histórica» (https://www.si.edu/es/object/relation-alvar-nunez-cabeca-de-vaca-translated-spanish-buckingham-smith%3Asiris_sil_260155); Library of Congress, «Naufragios: registro bibliográfico y documentación» (https://www.loc.gov/item/04008076/); Oxford Dictionary of National Biography / American National Biography, «Álvar Núñez Cabeza de Vaca: referencia biográfica» (https://academic.oup.com/american-national-biography/reference/63042/reference-article-abstract/570515360).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-106 — Richard Francis Burton
+
+- **Decisión integrada:** Explorador, traductor, orientalista y oficial británico conocido por sus viajes por Asia, África y Oriente Próximo. En 1853 peregrinó a La Meca bajo identidad musulmana y disfraz, según sus propios escritos. En 1857–1858 dirigió con John Hanning Speke una expedición a África oriental que llegó al lago Tanganica; Speke continuó hacia el lago Victoria, que propuso como fuente del Nilo. Burton fue un prolífico escritor y traductor, pero sus obras deben leerse críticamente por sus intervenciones editoriales y los marcos orientalistas y coloniales del siglo XIX.
+- **Hitos para tarjeta:** Realizó la peregrinación a La Meca en 1853 bajo identidad y vestimenta musulmanas. La expedición con John Hanning Speke llegó al lago Tanganica en 1858. Publicó traducciones influyentes, entre ellas Las mil y una noches, acompañadas de notas e intervenciones editoriales.
+- **Fuentes reforzadas:** Royal Asiatic Society Archives, «Richard Francis Burton: archivo biográfico y colecciones» (https://www.royalasiaticarchives.org/index.php/richard-burton); National Portrait Gallery, «Sir Richard Francis Burton: biografía y referencias» (https://www.npg.org.uk/collections/search/personExtended/mp00673/sir-richard-francis-burton?tab=biography); Royal Asiatic Society, «Richard Francis Burton (1821–1890)» (https://royalasiaticsociety.org/richard-francis-burton-1821-1890/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-107 — John Cabot
+
+- **Decisión integrada:** Navegante de origen italiano, conocido como John Cabot en Inglaterra, que obtuvo apoyo de Enrique VII para explorar el Atlántico norte. En 1497 realizó una travesía desde Bristol en el Matthew y llegó a una costa de Norteamérica, cuya localización exacta sigue debatida. La documentación contemporánea incluye cartas de comerciantes y diplomáticos, pero no se conserva un relato escrito por Cabot. Emprendió otra expedición en 1498; su destino final no está documentado. Sus viajes fueron utilizados después por Inglaterra para reivindicaciones territoriales.
+- **Hitos para tarjeta:** Recibió cartas patentes de Enrique VII en 1496 para explorar bajo bandera inglesa. Llegó a una costa norteamericana en 1497 a bordo del Matthew; el punto exacto de desembarco es debatido. Una nueva expedición partió en 1498 y se desconoce el destino de Cabot.
+- **Fuentes reforzadas:** Dictionary of Canadian Biography, «John Cabot: documentación y debate sobre el desembarco» (https://www.biographi.ca/en/bio/101.html); The National Archives (UK), «John Cabot: cartas patentes de Enrique VII» (https://www.nationalarchives.gov.uk/education/resources/significant-people-collection/john-cabot/); PARES / Archivo General de Simancas, «Documentación diplomática sobre los viajes atlánticos de finales del siglo XV» (https://pares.cultura.gob.es/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-108 — Bartolomeu Dias
+
+- **Decisión integrada:** Navegante portugués que dirigió la expedición de 1487–1488 que rodeó el extremo meridional de África y alcanzó aguas del océano Índico desde el Atlántico. El viaje demostró para la navegación portuguesa la continuidad marítima alrededor del continente y preparó la ruta que Vasco da Gama seguiría hacia India. La denominación Cabo das Tormentas se asocia a la expedición; la tradición atribuye a Juan II el nombre Cabo da Boa Esperança. Dias acompañó a la flota de Cabral en 1500 y murió durante la travesía.
+- **Hitos para tarjeta:** Rodeó el extremo meridional de África en 1488. La expedición llamó al cabo Cabo das Tormentas; la monarquía portuguesa difundió el nombre Cabo da Boa Esperança. Acompañó a la expedición de Pedro Álvares Cabral en 1500 y murió en el naufragio de la flota.
+- **Fuentes reforzadas:** Marinha Portuguesa, «Bartolomeu Dias: expedición y paso al Índico» (https://www.marinha.pt/en/a-marinha/historia/servir-portugal/Pages/default.aspx); HISTORY, «Bartolomeu Dias: expedición de 1487–1488» (https://www.history.com/articles/bartolomeu-dias); Visit Portugal, «Cronología de las navegaciones portuguesas» (https://www.visitportugal.com/en/NR/exeres/31ADBA57-48F6-470C-94C6-5C42F44486AF).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-109 — Francisco de Orellana
+
+- **Decisión integrada:** Conquistador castellano que, tras separarse de la expedición de Gonzalo Pizarro, descendió el río Napo y el Amazonas hasta el Atlántico entre 1541 y 1542. La separación, sus motivos y las acusaciones posteriores fueron objeto de controversia entre los participantes. Gaspar de Carvajal, integrante de la expedición, redactó una relación que constituye una fuente primaria esencial, aunque situada en una perspectiva colonial. La travesía recorrió regiones habitadas por sociedades indígenas con redes fluviales y políticas propias. Orellana organizó una segunda expedición y murió en 1546.
+- **Hitos para tarjeta:** Descendió el Napo y el Amazonas entre 1541 y 1542 tras separarse de Gonzalo Pizarro. Gaspar de Carvajal dejó una relación del viaje, fuente primaria que requiere lectura crítica. La expedición recorrió territorios densamente habitados; la mención de mujeres guerreras no demuestra una sociedad idéntica a las amazonas clásicas.
+- **Fuentes reforzadas:** Smithsonian Libraries and Archives, «Relación del nuevo descubrimiento del Río Grande de las Amazonas (1541–1542)» (https://www.si.edu/object/relacion-del-nuevo-descubrimiento-del-rio-grande-de-las-amazonas-1541-1542-fray-gaspar-de-carvajal%3Asiris_sil_452582); Biblioteca de la Casa de la Cultura Ecuatoriana, «Relación del nuevo descubrimiento del río grande de las Amazonas» (https://biblioteca.casadelacultura.gob.ec/bib/59264); Encyclopaedia Britannica, «Francisco de Orellana: expedición amazónica» (https://www.britannica.com/biography/Francisco-de-Orellana).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+**Balance global de integración transversal tras este archivo:** 109/144 registros integrados (75,69 %), 35 pendientes de integración y 0/144 aprobados. La fase de examen individual sigue siendo 144/144; no debe confundirse con aprobación.
