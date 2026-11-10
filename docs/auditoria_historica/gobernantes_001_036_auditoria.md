@@ -461,3 +461,54 @@ Segunda pasada de integración. Se añadieron referencias académicas, instituci
 | HIS-012 | Se precisaron corregencias, alianzas, Accio (31 a. C.) y anexión romana (30 a. C.). | Completar cotejo de fuentes romanas con papiros, monedas e inscripciones ptolemaicas. |
 
 **Validación del subbloque:** seis registros actualizados; los seis continúan en `en_verificacion`; 0 aprobados. No se modificaron las categorías.
+
+
+---
+
+## Addenda de integración transversal — HIS-013 a HIS-036
+
+Esta sección complementa y actualiza el cierre de la auditoría individual anterior. A diferencia de aquella primera fase, aquí sí se incorporaron correcciones justificadas y bibliografía reforzada al JSON. Ninguna ficha se aprueba automáticamente.
+
+| Código | Personaje | Ajuste documental incorporado | Asunto que permanece bajo cautela |
+|---|---|---|---|
+| HIS-013 | Nabucodonosor II | Se precisó reinado 605–562 a. C., Carquemis y las campañas contra Judá. | Nacimiento aproximado; contrastar crónicas babilónicas con relatos bíblicos. |
+| HIS-014 | Sargón de Acad | Se normalizó a c. 2340–2285 a. C. | Cronología discutida; Acad no ha sido localizada. |
+| HIS-015 | Gengis Kan | Se explicitó el debate entre 1162 y 1167; proclamación de 1206. | Tradición biográfica temprana y relato de la Secret History. |
+| HIS-016 | Kublai Kan | Se distinguieron 1260, 1271 y 1279 (Gran Kan, Yuan y fin de Song). | Diferenciar las tradiciones chinas, mongolas y de Marco Polo. |
+| HIS-017 | Atila | Se precisó el gobierno conjunto con Bleda y luego individual. | Fecha y circunstancias de muerte discutidas; no presentarlo como causa única del fin romano. |
+| HIS-018 | Timur | Se precisó su título de emir y el carácter violento de las campañas. | Contrastar relatos de víctimas y cronistas cortesanos timúridas. |
+| HIS-019 | Saladino | Se contextualizaron Hattin, 1187 y la recuperación de Jerusalén. | Nacimiento 1137/1138 y secuencia de consolidación del poder. |
+| HIS-020 | Ricardo Corazón de León | Se aclaró que no conquistó Jerusalén y se explicó la tregua de Jaffa. | No reducir su reinado a la Tercera Cruzada. |
+| HIS-021 | Guillermo el Conquistador | Se destacó Hastings, coronación y consecuencias de la conquista normanda. | Cronología vital aproximada y proceso de transformación gradual. |
+| HIS-022 | Carlomagno | Se precisó rey desde 768 y emperador desde 800. | Nacimiento aproximado; evitar el anacronismo de llamarlo emperador del Sacro Imperio en sentido institucional posterior. |
+| HIS-023 | Federico Barbarroja | Se normalizó la fecha de nacimiento a 1122 y se precisó su muerte en el río Saleph. | Interpretar la muerte en el contexto de la Tercera Cruzada. |
+| HIS-024 | Iván el Terrible | Se matizó el título de zar y se incorporó el contexto de la opríchnina. | No confundir autoridad soberana con dirección táctica personal de las campañas. |
+| HIS-025 | Pedro el Grande | Se diferenciaron co-reinado, gobierno efectivo y proclamación imperial. | Balance entre reformas, coerción y servidumbre. |
+| HIS-026 | Napoleón Bonaparte | Se incluyeron ambos periodos imperiales, 1804–1814 y 1815. | Diferenciar reformas institucionales de expansión militar. |
+| HIS-027 | Simón Bolívar | Se evitó atribuirle individualmente todas las independencias; se destacó la Gran Colombia. | Perfil político-militar mixto y clasificación provisional. |
+| HIS-028 | José de San Martín | Se precisaron el cruce de los Andes y la campaña peruana hasta 1821. | Perfil político-militar mixto y clasificación provisional. |
+| HIS-029 | George Washington | Se incorporó su papel militar y el contexto de su propiedad de personas esclavizadas. | Equilibrar la fundación republicana con las contradicciones esclavistas. |
+| HIS-030 | Abraham Lincoln | Se distinguió la Proclamación de Emancipación de la abolición constitucional de 1865. | La proclamación de 1863 tuvo alcance territorial limitado. |
+| HIS-031 | Otto von Bismarck | Se precisaron los cargos prusianos, confederales e imperiales. | La unificación fue un proceso colectivo bajo liderazgo prusiano. |
+| HIS-032 | Qin Shi Huang | Se precisaron unificación de 221 a. C. y estandarizaciones. | No atribuirle la construcción íntegra de la Gran Muralla. |
+| HIS-033 | Liu Bang | Se distinguieron victoria sobre Xiang Yu, fundación Han y reinado como Gaozu. | Fecha de nacimiento discutida. |
+| HIS-034 | Tokugawa Ieyasu | Se contextualizaron Sekigahara, campañas de Osaka y cesión del título en 1605. | No presentar Sekigahara como fin instantáneo de toda resistencia. |
+| HIS-035 | Mehmed II | Se añadieron los dos periodos de reinado y la reconstrucción de Constantinopla. | Distinguir conquista militar de consolidación imperial. |
+| HIS-036 | Suleimán el Magnífico | Se conservaron las variantes 1494/1495 y se reforzaron expansión, derecho y mecenazgo. | No idealizar la «edad dorada» ni borrar los conflictos del periodo. |
+
+### Revisión comparativa de clasificación
+
+- Se mantienen las categorías del JSON en esta pasada; no se modifican códigos, nombres ni distribución.
+- HIS-004 Leónidas y HIS-005 Temístocles continúan en «Guerreros y Generales»; HIS-006 Pericles, HIS-029 Washington, HIS-030 Lincoln y HIS-031 Bismarck continúan en «Líderes Políticos y Estadistas».
+- HIS-027 Bolívar y HIS-028 San Martín presentan funciones político-militares mixtas. Se conserva provisionalmente «Gobernantes y Conquistadores», pero ambos quedan señalados para comparar el criterio con los demás archivos.
+- La categoría de cada ficha requiere aprobación editorial expresa; esta integración no cierra la decisión definitiva.
+
+### Estado actualizado del archivo
+
+- 36/36 registros con integración documental y referencias ampliadas.
+- 0/36 fichas aprobadas para diseño.
+- Los 36 registros permanecen en `en_verificacion`.
+- El JSON ya no permanece intacto respecto de la versión inicial: se actualizaron biografías, cronologías seleccionadas, fuentes y notas editoriales con respaldo. Los cambios están descritos en el registro maestro.
+- La auditoría técnica confirma estructura y fuentes, pero no sustituye el juicio historiográfico ni la aprobación editorial.
+
+**Siguiente archivo:** `data/historicos/guerreros_037_061.json` (HIS-037 a HIS-061), que se revisará como una unidad completa.
