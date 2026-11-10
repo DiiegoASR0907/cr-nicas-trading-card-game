@@ -151,10 +151,78 @@ Se contrastan por separado identidad, cronología, cargos y acontecimientos, for
 
 **Resultado de aprobación de esta tanda:** 0 de 6 aprobados para diseño. Se detectan correcciones o precisiones necesarias, especialmente en los campos cronológicos de Darío I, Jerjes I, Ramsés II y Tutmosis III.
 
+## Resultados individuales — tercera tanda (HIS-013 a HIS-018)
+
+### HIS-013 — Nabucodonosor II
+
+- **Datos revisados:** registro actual: c. 634–562 a. C.; reinado consignado como 605–562 a. C.; rey del Imperio neobabilónico; campañas en Siria-Palestina y obras monumentales en Babilonia.
+- **Resultado:** el reinado de 43 años y el ascenso en 605 a. C. están respaldados por la cronología neobabilónica y la documentación cuneiforme. La Crónica Babilónica conservada para los primeros años registra a Nabucodonosor como príncipe heredero y comandante junto a su padre Nabopolasar en 605 a. C.; el ascenso al trono siguió a la muerte de este. Es más preciso expresar el reinado como 605/604–562 a. C. según convención de cómputo de años de acceso. La fecha de nacimiento c. 634 a. C. no queda corroborada con el mismo nivel de certeza y debe tratarse como estimación, o eliminarse si no se encuentra fuente sólida.
+- **Matices y correcciones necesarias:** la toma de Jerusalén debe desglosarse en episodios distintos: la primera captura y deportación importante ocurrió en 597 a. C.; la destrucción de la ciudad y del templo se sitúa en 587/586 a. C. No condensar ambas en una sola conquista. La Crónica Babilónica y los documentos administrativos son testimonios cuneiformes fundamentales; los relatos bíblicos aportan otra tradición textual, que debe contrastarse y no sustituir la documentación contemporánea. Las obras de Babilonia deben distinguirse entre proyectos atestiguados por inscripciones reales, restos arqueológicos y atribuciones tradicionales posteriores; evitar adjudicarle sin reservas cada maravilla arquitectónica asociada a la ciudad.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** British Museum, «The Life and Times of Nebuchadnezzar II» (tablilla de la Crónica Babilónica); Amélie Kuhrt, *The Ancient Near East c. 3000–330 BC*; A. K. Grayson, *Assyrian and Babylonian Chronicles*; documentos cuneiformes neobabilónicos y registros administrativos; 2 Reyes 24–25 y Jeremías 39–52, tratados como tradición textual y contrastados críticamente.
+- **Decisión:** mantener en verificación. Revisar o retirar la fecha de nacimiento c. 634; precisar 597 frente a 587/586 a. C.; separar obras arqueológicamente atestiguadas de atribuciones tradicionales.
+
+### HIS-014 — Sargón de Acad
+
+- **Datos revisados:** registro actual: siglo XXIV a. C., con fechas expresamente aproximadas; fundador de la dinastía acadia y figura central en la formación del poder territorial acadio.
+- **Resultado:** la caracterización como fundador del poder imperial acadio está respaldada, pero las fechas absolutas dependen de cronologías mesopotámicas reconstruidas. Una propuesta académica sitúa su reinado en 2334–2279 a. C.; otras cronologías publicadas ofrecen 2324–2285 o 2316–2277 a. C. La duración del reinado también varía en las copias de la Lista Real Sumeria. Por ello, el campo cronológico del JSON —«siglo XXIV a. C. (fechas aproximadas y debatidas)»— es prudente y no debe sustituirse por fechas exactas sin declarar el sistema utilizado.
+- **Matices y correcciones necesarias:** la Lista Real Sumeria es una composición historiográfica posterior y sus relatos sobre los orígenes de Sargón no son una biografía contemporánea. La tradición de su nacimiento expuesto y crianza por un aguador aparece en la llamada Leyenda de Sargón, transmitida en copias posteriores; no debe narrarse como hecho comprobado. La ciudad de Acad/Agadé todavía no ha sido localizada con certeza. La expresión «primer gran imperio territorial conocido» requiere matiz: Sargón y sus sucesores construyeron un estado expansivo de gran escala en Mesopotamia, pero la definición de «imperio» es una categoría analítica moderna y las fronteras/control efectivo no fueron uniformes.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Ingo Schrakamp, «Akkadian Empire», *The Encyclopedia of Ancient History* (Wiley, 2016); Thorkild Jacobsen, *The Sumerian King List*, Assyriological Studies 11, Oriental Institute, University of Chicago (1939); J. A. Brinkman, «Appendix: Mesopotamian Chronology of the Historical Period», en *Ancient Mesopotamia: Portrait of a Dead Civilization* (University of Chicago Press, 1977); inscripciones reales acadias y copias paleobabilónicas de textos atribuidos a Sargón.
+- **Decisión:** mantener en verificación. Conservar la cronología como aproximada; separar evidencia contemporánea, listas reales posteriores y leyenda literaria; evitar presentar el origen legendario como biografía factual.
+
+### HIS-015 — Gengis Kan
+
+- **Datos revisados:** fechas del registro c. 1162–1227; nombre de nacimiento Temüjin; unificación de grupos mongoles y proclamación como Chinggis Khan en 1206.
+- **Resultado:** la muerte en 1227 y la proclamación de 1206 están sólidamente asentadas. El año de nacimiento no es seguro: la tradición mongola y varias fuentes chinas favorecen 1162, mientras que otras fuentes persas y estudios sitúan alternativas como 1155 o 1167. Columbia University presenta la fecha como discutida y advierte que la información fiable sobre su juventud es limitada. El «c.» del JSON es apropiado, aunque la ficha final debe explicar la controversia.
+- **Matices y correcciones necesarias:** no describir la fundación del Imperio mongol como un acto aislado de un solo individuo: la unificación de las confederaciones de la estepa se produjo mediante alianzas, guerras, incorporación de grupos y reorganización política y militar. En 1206, una asamblea o quriltai lo proclamó Chinggis Khan. La *Historia secreta de los mongoles* es la narración más importante desde una perspectiva mongola, probablemente del siglo XIII, pero contiene elaboración literaria y legitimadora; debe contrastarse con Juvaini, Rashid al-Din, documentos chinos y estudios modernos. Las campañas imperiales incluyeron destrucción y violencia masiva; no romantizar su expansión ni reducirla a genio militar.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente. Su dimensión militar es central, pero la categoría de gobernantes refleja su papel político fundacional.
+- **Fuentes de referencia:** UNESCO, «Chinggis Khan and the Mongol state»; Columbia University, *Mongols in World History*, «Key Figures in Mongol History» y «The Primary Sources»; *The Secret History of the Mongols* (traducción y estudio de Igor de Rachewiltz); Ata-Malik Juvaini, *The History of the World-Conqueror*; Rashid al-Din, *Jamiʿ al-Tawarikh*.
+- **Decisión:** mantener en verificación. Mantener el nacimiento como aproximado y hacer explícita la pluralidad de testimonios; no convertir la narración de la *Historia secreta* en un registro neutral.
+
+### HIS-016 — Kublai Kan
+
+- **Datos revisados:** fechas 1215–1294; nieto de Gengis Kan; Gran Kan desde 1260; proclamación de la dinastía Yuan en 1271; final de la conquista de la dinastía Song del Sur en 1279.
+- **Resultado:** fechas de vida y principales hitos políticos respaldados por el Smithsonian National Museum of Asian Art y el Metropolitan Museum of Art. Conviene distinguir tres momentos: elección/proclamación como Gran Kan en 1260, fundación nominal de la dinastía Yuan en 1271 y derrota final de los Song del Sur en 1279. No afirmar que «fundó la dinastía Yuan en 1279»: ese año marca la culminación de la conquista de China.
+- **Matices y correcciones necesarias:** la sucesión de 1260 estuvo disputada por Ariq Böke y desencadenó una guerra civil entre facciones mongolas; el título de Gran Kan no significó que Kublai ejerciera control uniforme sobre todos los kanatos mongoles occidentales. Su gobierno incorporó instituciones y funcionarios chinos, pero mantuvo jerarquías que privilegiaban a mongoles y otros grupos clasificados por el régimen. Las expediciones contra Japón de 1274 y 1281 fracasaron; no reducir la explicación exclusivamente a tifones, pues también hubo factores logísticos, militares y navales. El relato de Marco Polo es valioso pero debe leerse críticamente y no como testimonio único de la corte.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Smithsonian National Museum of Asian Art, «Yuan dynasty, 1279–1368» y cronología de China; James C. Y. Watt et al., *The World of Khubilai Khan: Chinese Art in the Yuan Dynasty*, The Metropolitan Museum of Art (2010); *Yuan shi* (Historia de Yuan), fuente historiográfica dinástica; Marco Polo, *Il Milione*, contrastado con fuentes chinas y persas; estudios académicos sobre las invasiones mongolas de Japón.
+- **Decisión:** mantener en verificación. Separar 1260, 1271 y 1279; añadir contexto de la guerra sucesoria y de las estructuras sociales Yuan; revisar cómo se describe el fracaso de las invasiones de Japón.
+
+### HIS-017 — Atila
+
+- **Datos revisados:** el registro indica fallecimiento en 453 y gobierno de los hunos desde 434; campañas contra los imperios romanos de Oriente y Occidente.
+- **Resultado:** el fallecimiento en 453 y la centralidad de Atila en el poder huno están respaldados. La cronología del acceso necesita mayor precisión: Peter Heather, en *Oxford Classical Dictionary*, sitúa su reinado en 435/440–453 y explica que primero gobernó junto a su hermano Bleda, asesinado por Atila en 445; otras síntesis usan 434 como comienzo de la corregencia. Por tanto, «gobernante desde 434» no debe sugerir que ejerció solo desde ese año.
+- **Matices y correcciones necesarias:** distinguir las campañas de 442–443 y 447 contra el Imperio romano de Oriente, la invasión de la Galia en 451 y la campaña italiana de 452. La campaña de 451 terminó con la retirada de Atila después de enfrentarse a una coalición romano-visigoda en los Campos Cataláunicos; describirla sin más como una derrota total puede simplificar un resultado debatido. Prisco de Panio visitó la corte de Atila en una embajada de 449 y es un testigo de primera mano importante, pero su historia se conserva fragmentariamente mediante compilaciones posteriores. Jordanes escribió después y con objetivos literarios y políticos propios. «Azote de Dios» pertenece a una interpretación cristiana posterior, no a un título oficial huno.
+- **Clasificación:** Gobernantes y Conquistadores; válida provisionalmente, aunque su perfil militar también es dominante. Aplicar el mismo criterio usado para otros gobernantes que dirigieron personalmente campañas.
+- **Fuentes de referencia:** Peter Heather, «Attila», *Oxford Classical Dictionary* (Oxford Academic, 2015); Ralph W. Mathisen, «Attila and the Huns», *Oxford Bibliographies* (2016); Prisco de Panio, fragmentos de su historia y relato de la embajada de 449; Michael Maas, «Fugitives and ethnography in Priscus of Panium», *Byzantine and Modern Greek Studies* (Cambridge University Press, 2016); Jordanes, *Getica*, leído críticamente.
+- **Decisión:** mantener en verificación. Ajustar el lenguaje sobre corregencia con Bleda y precisar la secuencia de campañas; identificar «Azote de Dios» como tradición cristiana posterior.
+
+### HIS-018 — Timur
+
+- **Datos revisados:** fechas 1336–1405; origen en Transoxiana; pertenencia al grupo/clan Barlas; formación de un poder dinástico con centro en Samarcanda y campañas en Asia Central, Irán, India y Anatolia.
+- **Resultado:** fechas de vida 1336–1405 y origen en la región de Kesh/Transoxiana están respaldados por *Encyclopaedia Iranica*. La caracterización «de origen turco-mongol» requiere precisión: Timur pertenecía a los Barlas, un grupo de origen mongol ya turquizado y asentado en Transoxiana. Se hizo con el poder en 1370, pero no asumió el título de kan como descendiente de Gengis; gobernó como amir/beg y legitimó su autoridad mediante vínculos dinásticos, alianzas y kanes chagataíes nominales.
+- **Matices y correcciones necesarias:** evitar presentarlo como heredero directo o descendiente de Gengis Kan. La afirmación del JSON en ese sentido es correcta, pero debe explicarse que la legitimidad chingisí siguió siendo políticamente importante. La expresión «fundó el Imperio timúrida» es aceptable como síntesis retrospectiva, aunque su estructura política se apoyó en redes militares y dinásticas. Las campañas de Timur incluyeron masacres, deportaciones y destrucción; las cifras concretas de cronistas medievales deben verificarse y no repetirse sin crítica. Las fuentes cortesanas timúridas y las narraciones de autores afectados por sus campañas tienen posiciones distintas. Ahmad ibn Arabshah, por ejemplo, escribió una narración crítica tras la captura de Damasco y el desplazamiento forzado; su testimonio es valioso, pero no neutral.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** *Encyclopaedia Iranica*, «Central Asia v. In the Mongol and Timurid Periods»; Ursula Nashashibi, «ʿAjāʾeb al-Maqdūr», *Encyclopaedia Iranica*; H. R. Roemer, «The Successors of the Mongol Empire», en *The Cambridge History of Iran*, vol. 6; Ahmad ibn Arabshah, *ʿAjaʾib al-maqdur fi nawaʾib Timur*; Sharaf al-Din Ali Yazdi, *Zafarnama*, fuente cortesana timúrida que debe leerse como obra de legitimación.
+- **Decisión:** mantener en verificación. Afinar la descripción de la identidad Barlas y la titulatura política; contrastar fuentes cortesanas y testimonios de regiones conquistadas; evitar cifras de atrocidades sin verificación independiente.
+
+## Balance de la tercera tanda
+
+| Código | Resultado de datos | Clasificación | Estado editorial |
+|---|---|---|---|
+| HIS-013 | Reinado respaldado; nacimiento y episodios de Jerusalén requieren precisión | Adecuada provisionalmente | En verificación |
+| HIS-014 | Fundación del poder acadio respaldada; cronología absoluta y relatos de origen debatidos | Adecuada provisionalmente | En verificación |
+| HIS-015 | 1206 y 1227 respaldados; año de nacimiento discutido y fuentes con sesgo/elementos literarios | Adecuada provisionalmente | En verificación |
+| HIS-016 | Fechas y Yuan respaldados; separar 1260, 1271 y 1279 y matizar la guerra sucesoria | Adecuada provisionalmente | En verificación |
+| HIS-017 | Muerte en 453 respaldada; corregencia con Bleda y secuencia de campañas por precisar | Adecuada provisionalmente | En verificación |
+| HIS-018 | Fechas y campañas generales respaldadas; precisar identidad Barlas y legitimidad dinástica | Adecuada provisionalmente | En verificación |
+
+**Resultado de aprobación de esta tanda:** 0 de 6 aprobados para diseño. Los seis perfiles tienen una base histórica identificable, pero persisten precisiones cronológicas, de interpretación de fuentes y de redacción que deben resolverse antes de su aprobación.
+
 ## Balance acumulado de auditoría
 
-- Registros examinados individualmente: 12 de 36.
-- Registros aprobados para diseño: 0 de 12.
-- Registros todavía pendientes de auditoría: 24 de 36.
+- Registros examinados individualmente: 18 de 36.
+- Registros aprobados para diseño: 0 de 18.
+- Registros todavía pendientes de auditoría: 18 de 36.
 - El JSON original permanece sin cambios; esta fase continúa siendo documental y de contraste.
-
