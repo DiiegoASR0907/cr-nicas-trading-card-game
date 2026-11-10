@@ -159,7 +159,7 @@ Fionn mac Cumhaill
 - Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros), `data/historicos/guerreros_037_061.json` (25 registros), `data/historicos/sabios_cientificos_062_091.json` (30 registros) y `data/historicos/exploradores_092_109.json` (18 registros) y `data/historicos/lideres_espirituales_110_127.json` (18 registros) y `data/historicos/bloque_final_128_144.json` (17 registros).
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
 - Total de registros documentales iniciales cargados: 144 de 144. No quedan registros pendientes de documentación inicial.
-- Siguiente paso: continuar la auditoría historiográfica individual de los 144 registros, contrastar fuentes primarias y académicas, resolver discrepancias y realizar la aprobación editorial antes de desarrollar las ilustraciones definitivas.
+- Siguiente paso: revisión historiográfica transversal de los 144 registros, contraste reforzado de fuentes primarias, institucionales y académicas, resolución de discrepancias, revisión de clasificación y aprobación editorial antes de desarrollar las ilustraciones definitivas.
 
 
 
