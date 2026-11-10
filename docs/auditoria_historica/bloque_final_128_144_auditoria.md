@@ -125,7 +125,7 @@
 - «Sigfrido» y «Sigurd» son figuras equivalentes o relacionadas en tradiciones emparentadas, pero no versiones idénticas de una biografía única. La ficha debe evitar intercambiar nombres sin explicar las variantes.
 - La *Völsunga saga* es una elaboración medieval islandesa; el *Nibelungenlied* es una epopeya germánica medieval. Ambos textos son fuentes para estudiar la historia de la leyenda, no testigos contemporáneos de los hechos narrados.
 - Fáfnir, el tesoro maldito y Brynhild pertenecen al repertorio mítico y heroico. Las conexiones con los burgundios y con conflictos del periodo de las migraciones son materia de interpretación, no prueba de la existencia de Sigfrido.
-- La fecha de composición, transmisión y manuscritos de cada texto debe mantenerse diferenciada.
+- La fecha de composición, transmisión y manuscritos de cada texto debe mantenerse diferenciada. El *Nibelungenlied* y la *Völsunga saga* no son testimonios contemporáneos de la época legendaria narrada.
 
 **Decisión.** Mantener **Semihistóricos y Legendarios**, subtipo «legendario/épico». No asignar fechas personales ni convertir la trama del dragón en hecho. No aprobar.
 
@@ -229,7 +229,7 @@
 **Naturaleza y cronología.** Figura semihistórica y épica. Un Hruodland/Roland aparece asociado a la retaguardia de Carlomagno y a la emboscada de Roncesvalles de 778; la figura del caballero de la *Chanson de Roland* es una elaboración literaria posterior.
 
 **Hallazgos.**
-- La tradición carolingia vincula a Hruodland con la retaguardia muerta en 778. La transmisión manuscrita de la referencia nominal debe revisarse con cuidado: existen discusiones filológicas sobre variantes y sobre la historia textual de la *Vita Karoli Magni* de Eginardo.
+- La tradición carolingia vincula a Hruodland con la retaguardia muerta en 778. La atribución nominal depende de la transmisión manuscrita: algunos testimonios de la *Vita Karoli Magni* de Eginardo incluyen el nombre y otros lo omiten. La investigación filológica ha debatido si la mención pertenece a una revisión del texto o a una variante posterior; no debe afirmarse sin matiz que todos los manuscritos de Eginardo nombran a Roland.
 - La emboscada histórica fue obra de vascones en el contexto de la retirada franca por los Pirineos, no la gran batalla entre francos y musulmanes que presenta la epopeya.
 - La *Chanson de Roland* convirtió el episodio en una narración de cruzada y heroísmo cristiano varios siglos después. Durendal, el cuerno Olifante y el parentesco con Carlomagno pertenecen a esa construcción épica, no a datos biográficos comprobados.
 - No se conoce fecha de nacimiento. «Murió en 778» puede conservarse solo como referencia al personaje histórico tradicionalmente asociado al episodio, explicitando que la identificación del nombre en la transmisión de fuentes requiere cautela.
