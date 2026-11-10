@@ -173,6 +173,8 @@ Fionn mac Cumhaill
 - Balance de auditoría histórica global: 144/144 registros examinados (100 %), 0/144 aprobados para diseño. Los 144 registros continúan en `en_verificacion`; el examen documental inicial no equivale a aprobación historiográfica, bibliográfica o editorial ni autoriza ilustraciones definitivas.
 - Sexta auditoría de archivo completada: `data/historicos/bloque_final_128_144.json`, con informe en `docs/auditoria_historica/bloque_final_128_144_auditoria.md`. Se examinaron individualmente HIS-128 a HIS-144: 17/17 examinados, 0/17 aprobados para diseño. Se documentaron cronologías, grados de historicidad, tradiciones textuales, fuentes inadecuadas y asuntos pendientes; el JSON original permanece sin cambios.
 - Siguiente fase: revisión transversal de los 144 registros, resolución de discrepancias, refuerzo y sustitución de fuentes, revisión de clasificación y aprobación editorial. Las ilustraciones definitivas siguen suspendidas.
+- Registro maestro de correcciones: `docs/registro_maestro_correcciones.md`. Centraliza hallazgos, fuentes, decisiones, cambios incorporados y estados editoriales de los seis archivos históricos.
+- Integración documental iniciada en `data/historicos/gobernantes_001_036.json`: HIS-001 a HIS-006 actualizados con fuentes y precisiones justificadas; 6/144 registros integrados en esta fase, 0 aprobados. HIS-005 conserva revisión comparativa de clasificación pendiente.
 - La documentación diferencia hechos históricos, tradiciones posteriores, fechas aproximadas y aspectos debatidos.
 - Las fuentes se guardan en cada registro para facilitar la auditoría y evitar depender del historial del chat.
 
