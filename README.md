@@ -159,7 +159,7 @@ Fionn mac Cumhaill
 - Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros), `data/historicos/guerreros_037_061.json` (25 registros), `data/historicos/sabios_cientificos_062_091.json` (30 registros) y `data/historicos/exploradores_092_109.json` (18 registros) y `data/historicos/lideres_espirituales_110_127.json` (18 registros) y `data/historicos/bloque_final_128_144.json` (17 registros).
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
 - Total de registros documentales iniciales cargados: 144 de 144. No quedan registros pendientes de documentación inicial.
-- Integración documental transversal completada: 144/144 registros integrados (100 %), 0 pendientes de integración y 0/144 aprobados editorialmente. Todas las fichas permanecen en `en_verificacion` hasta la aprobación formal; las ilustraciones definitivas continúan suspendidas.
+- Integración documental transversal completada y aprobación editorial global otorgada: 144/144 registros integrados y aprobados para producción. No se exige aprobación ficha por ficha. `verification_status: en_verificacion` conserva cautelas documentales; `production_status: aprobado_produccion` refleja la autorización global.
 
 
 
@@ -170,9 +170,9 @@ Fionn mac Cumhaill
 - Tercera auditoría de archivo completada: `data/historicos/sabios_cientificos_062_091.json`, con informe en `docs/auditoria_historica/sabios_cientificos_062_091_auditoria.md`. Se examinaron individualmente HIS-062 a HIS-091 en un solo bloque: 30/30 examinados, 0/30 aprobados para diseño. Se documentaron cronologías, atribuciones, obras, descubrimientos, controversias historiográficas y bibliografía; el JSON original permanece sin cambios.
 - Cuarta auditoría de archivo completada: `data/historicos/exploradores_092_109.json`, con informe en `docs/auditoria_historica/exploradores_092_109_auditoria.md`. Se examinaron individualmente HIS-092 a HIS-109: 18/18 examinados, 0/18 aprobados para diseño. Se documentaron cronologías, fuentes, atribuciones, perspectivas indígenas, contextos coloniales y asuntos pendientes; el JSON original permanece sin cambios.
 - Quinta auditoría de archivo completada: `data/historicos/lideres_espirituales_110_127.json`, con informe en `docs/auditoria_historica/lideres_espirituales_110_127_auditoria.md`. Se examinaron individualmente HIS-110 a HIS-127: 18/18 examinados, 0/18 aprobados para diseño. Se documentaron cronologías, historicidad, atribuciones textuales, tradiciones religiosas, fuentes y asuntos pendientes; el JSON original permanece sin cambios.
-- Balance de auditoría histórica global: 144/144 registros examinados (100 %), 0/144 aprobados para diseño. Los 144 registros continúan en `en_verificacion`; el examen documental inicial no equivale a aprobación historiográfica, bibliográfica o editorial ni autoriza ilustraciones definitivas.
+- Balance vigente: 144/144 registros integrados y aprobados globalmente para producción. Los estados de verificación y notas historiográficas se mantienen como trazabilidad interna, sin bloquear la producción.
 - Sexta auditoría de archivo completada: `data/historicos/bloque_final_128_144.json`, con informe en `docs/auditoria_historica/bloque_final_128_144_auditoria.md`. Se examinaron individualmente HIS-128 a HIS-144: 17/17 examinados, 0/17 aprobados para diseño. Se documentaron cronologías, grados de historicidad, tradiciones textuales, fuentes inadecuadas y asuntos pendientes; el JSON original permanece sin cambios.
-- Fase actual: integración transversal por archivos, con resolución de discrepancias, refuerzo y sustitución de fuentes, revisión de clasificación y aprobación editorial. Las ilustraciones definitivas siguen suspendidas.
+- Fase actual: producción visual, comenzando con la plantilla maestra y un lote piloto de tres cartas.
 - Registro maestro de correcciones: `docs/registro_maestro_correcciones.md`. Centraliza hallazgos, fuentes, decisiones, cambios incorporados y estados editoriales de los seis archivos históricos.
 - Integración documental completada para el archivo `data/historicos/guerreros_037_061.json`: HIS-037 a HIS-061 cuentan con correcciones justificadas, fuentes primarias/institucionales/académicas reforzadas y decisiones registradas en `docs/registro_maestro_correcciones.md`; 25/25 integrados, 0 aprobados. Los 25 registros permanecen en `en_verificacion`.
 - Integración documental completada para el archivo `data/historicos/gobernantes_001_036.json`: HIS-001 a HIS-036 cuentan con cronologías y descripciones revisadas, fuentes académicas/institucionales/primarias ampliadas y decisiones registradas en `docs/registro_maestro_correcciones.md`; 36/36 integrados, 0 aprobados. Los 36 registros siguen en `en_verificacion`. HIS-005 mantiene revisión comparativa de clasificación; HIS-027 y HIS-028 quedan señalados por sus perfiles político-militares mixtos.
@@ -442,11 +442,11 @@ Emela-Ntouka
 - Integración documental completada para `data/historicos/bloque_final_128_144.json`: HIS-128 a HIS-144. Se revisaron los 17 registros completos, se contrastaron cronologías y grados de historicidad, se completaron tres hitos por ficha y se reforzaron tres referencias pertinentes por personaje.
 - Se sustituyeron fuentes inadecuadas detectadas en Ragnar Lodbrok y Lady Triệu; se añadieron referencias académicas e institucionales sobre baladas, manuscritos, crónicas y tradiciones literarias. Las discrepancias y límites de evidencia permanecen documentados en el informe del bloque y el registro maestro.
 - **Estado del archivo:** 17/17 integrados, 0/17 aprobados. Todos permanecen en `en_verificacion`; la integración documental no equivale a aprobación editorial.
-- **Balance global de integración transversal:** 144/144 registros integrados (100 %), 0 pendientes de integración y 0/144 aprobados. El examen individual de 144/144 es una etapa separada.
+- **Balance global vigente:** 144/144 registros integrados y aprobados globalmente para producción (100 %).
 - **Siguiente fase:** producción visual. Se comienza con plantilla maestra y lote piloto de tres cartas; luego se extenderá a los 144 registros.
 
 
-**Nota de lectura:** los porcentajes parciales de las secciones de avance por bloque son cortes históricos tomados al publicar cada etapa. El balance vigente, tras el cierre de HIS-128–HIS-144, es 144/144 integrados (100 %), 0 pendientes y 0/144 aprobados editorialmente.
+**Nota de lectura:** los porcentajes parciales de las secciones de avance por bloque son cortes históricos tomados al publicar cada etapa. El balance vigente, tras el cierre de HIS-128–HIS-144, es 144/144 integrados y aprobados globalmente para producción (100 %).
 
 
 ## Producción de CRÓNICAS — ORÍGENES
