@@ -1,0 +1,594 @@
+{
+  "collection": "CRÓNICAS — ORÍGENES",
+  "section": "Históricos",
+  "category": "Guerreros y Generales",
+  "batch": "HIS-037 a HIS-061",
+  "schema_version": "1.0-draft",
+  "status": "documentacion_en_progreso",
+  "note": "25 registros iniciales. La categoría contiene 27 personajes; Leónidas (HIS-004) y Temístocles (HIS-005) ya están documentados en el primer bloque. Todas las fichas permanecen en_verificacion; las referencias iniciales no equivalen a aprobación editorial.",
+  "records": [
+    {
+      "code": "HIS-037",
+      "name": "Aníbal Barca",
+      "alternate_names": [
+        "Hannibal Barca"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Guerras púnicas",
+      "origin": "Cartago, norte de África",
+      "dates": "c. 247–c. 183 a. C.",
+      "biography": "General cartaginés que dirigió la invasión de Italia durante la segunda guerra púnica y obtuvo victorias como Trebia, Trasimeno y Cannas; fue derrotado por Escipión en Zama.",
+      "highlight_facts": [],
+      "curiosity": "El cruce de los Alpes con elefantes es célebre, pero los detalles del itinerario y las cifras antiguas son discutidos.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://academic.oup.com/reference/62399/reference-article-abstract/559665113"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-038",
+      "name": "Escipión el Africano",
+      "alternate_names": [
+        "Publio Cornelio Escipión",
+        "Scipio Africanus"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "República romana",
+      "origin": "Roma",
+      "dates": "236–183 a. C.",
+      "biography": "General y estadista romano que llevó la guerra a Hispania y África durante la segunda guerra púnica; derrotó a Aníbal en Zama en 202 a. C.",
+      "highlight_facts": [],
+      "curiosity": "Su conocimiento del adversario cartaginés fue clave; las fuentes principales incluyen a Polibio y Tito Livio.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Scipio-Africanus"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-039",
+      "name": "Belisario",
+      "alternate_names": [
+        "Flavio Belisario"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Imperio bizantino",
+      "origin": "Imperio romano de Oriente",
+      "dates": "c. 500–565",
+      "biography": "General del emperador Justiniano I, dirigió campañas que recuperaron territorios del antiguo Imperio romano en el norte de África e Italia.",
+      "highlight_facts": [],
+      "curiosity": "Su vida se conoce en gran medida por Procopio, cuya valoración de Belisario cambia entre sus obras.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Belisarius"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-040",
+      "name": "Sun Tzu",
+      "alternate_names": [
+        "Sunzi",
+        "孫子"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "China antigua",
+      "origin": "Tradición del estado de Wu, China",
+      "dates": "Tradicionalmente siglo VI–V a. C.; historicidad debatida",
+      "biography": "Figura asociada a El arte de la guerra, tratado clásico sobre estrategia, mando, conocimiento del adversario y adaptación.",
+      "highlight_facts": [],
+      "curiosity": "La autoría individual y la fecha exacta del texto siguen debatidas; presentar la tradición sin afirmar una biografía segura.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Sunzi"
+        }
+      ],
+      "historical_nature": "Histórico/tradicional",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-041",
+      "name": "Guan Yu",
+      "alternate_names": [
+        "Guan Gong",
+        "Guandi"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "China Han tardía y Tres Reinos",
+      "origin": "China",
+      "dates": "c. 160–220 d. C.",
+      "biography": "General que sirvió a Liu Bei al final de la dinastía Han; su figura histórica fue ampliada por tradiciones religiosas y literarias hasta convertirse en deidad venerada.",
+      "highlight_facts": [],
+      "curiosity": "La novela Romance de los Tres Reinos moldeó su imagen popular; separar datos históricos, culto y ficción.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Guan-Yu"
+        }
+      ],
+      "historical_nature": "Histórico con tradición legendaria",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-042",
+      "name": "Yue Fei",
+      "alternate_names": [
+        "Yue Wumu"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Dinastía Song",
+      "origin": "China",
+      "dates": "1103–1142",
+      "biography": "General de la dinastía Song del Sur, conocido por sus campañas contra las fuerzas jin y por su posterior ejecución durante una disputa política en la corte.",
+      "highlight_facts": [],
+      "curiosity": "Su memoria patriótica se consolidó en relatos posteriores; la famosa inscripción «servir al país con lealtad» está ligada a la tradición sobre él.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Yue-Fei"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-043",
+      "name": "Miyamoto Musashi",
+      "alternate_names": [
+        "Shinmen Takezō",
+        "Miyamoto Bennosuke"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Japón feudal, periodo Edo temprano",
+      "origin": "Japón",
+      "dates": "c. 1584–1645",
+      "biography": "Espadachín, estratega y escritor japonés, asociado a la escuela de dos espadas y al tratado Go Rin no Sho (El libro de los cinco anillos).",
+      "highlight_facts": [],
+      "curiosity": "Los relatos de sus duelos mezclan documentación, autobiografía y leyenda; algunas fechas tempranas son aproximadas.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Miyamoto-Musashi"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-044",
+      "name": "Hattori Hanzō",
+      "alternate_names": [
+        "Hattori Masanari (nombre asociado a más de una generación)"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Japón, periodo Sengoku y Tokugawa",
+      "origin": "Japón",
+      "dates": "1542–1596 (Hattori Masanari, habitualmente identificado)",
+      "biography": "Samurái y servidor de Tokugawa Ieyasu, recordado por su papel en la asistencia a Ieyasu durante la crisis posterior al incidente de Honnō-ji.",
+      "highlight_facts": [],
+      "curiosity": "El nombre Hanzō fue usado por varios miembros de la familia; la imagen de ninja omnipotente procede en gran parte de ficción posterior.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/topic/ninja"
+        }
+      ],
+      "historical_nature": "Histórico; leyenda posterior",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-045",
+      "name": "Juana de Arco",
+      "alternate_names": [
+        "Jeanne d’Arc",
+        "La Doncella de Orleans"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Guerra de los Cien Años",
+      "origin": "Domrémy, reino de Francia",
+      "dates": "c. 1412–1431",
+      "biography": "Campesina francesa que afirmó recibir guía divina y participó en el levantamiento del sitio de Orleans y la campaña que condujo a la coronación de Carlos VII; fue ejecutada en 1431.",
+      "highlight_facts": [],
+      "curiosity": "Los procesos judiciales de 1431 y de rehabilitación de 1456 son fuentes esenciales y deben leerse en su contexto político y religioso.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-046",
+      "name": "El Cid",
+      "alternate_names": [
+        "Rodrigo Díaz de Vivar",
+        "Ruy Díaz"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Península ibérica medieval",
+      "origin": "Castilla y al-Ándalus",
+      "dates": "c. 1043–1099",
+      "biography": "Noble y jefe militar castellano que sirvió a distintos poderes cristianos y musulmanes y gobernó Valencia desde 1094 hasta su muerte.",
+      "highlight_facts": [],
+      "curiosity": "El Cantar de mio Cid es una obra literaria posterior a su vida; no confundir al personaje histórico con su idealización épica.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/El-Cid"
+        }
+      ],
+      "historical_nature": "Histórico con tradición épica",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-047",
+      "name": "Vercingétorix",
+      "alternate_names": [],
+      "category": "Guerreros y Generales",
+      "period": "Guerra de las Galias",
+      "origin": "Galia central, territorio arverno",
+      "dates": "c. 82/70–46 a. C.",
+      "biography": "Aristócrata arverno que encabezó la gran coalición gala contra Julio César en 52 a. C. y se rindió tras el sitio de Alesia.",
+      "highlight_facts": [],
+      "curiosity": "La mayor parte del relato escrito procede de César, su adversario; las monedas y la arqueología ofrecen controles independientes.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444338386.wbeah20137"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-048",
+      "name": "Arminio",
+      "alternate_names": [
+        "Hermann"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Germania romana",
+      "origin": "Pueblos queruscos, Germania",
+      "dates": "c. 18/17 a. C.–21 d. C.",
+      "biography": "Jefe querusco que organizó una coalición de pueblos germánicos y derrotó a tres legiones romanas en el bosque de Teutoburgo en el año 9 d. C.",
+      "highlight_facts": [],
+      "curiosity": "La tradición nacionalista posterior lo convirtió en símbolo moderno; distinguir esa recepción de la evidencia antigua.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Arminius"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-049",
+      "name": "Espartaco",
+      "alternate_names": [
+        "Spartacus"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "República romana tardía",
+      "origin": "Tracia; rebelión en Italia",
+      "dates": "fallecido en 71 a. C.",
+      "biography": "Gladiador de origen tracio que lideró la gran rebelión de esclavos contra Roma entre 73 y 71 a. C., conocida como tercera guerra servil.",
+      "highlight_facts": [],
+      "curiosity": "Las fuentes antiguas son escasas y hostiles; las cifras de participantes y episodios concretos varían notablemente.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Spartacus-Roman-gladiator"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-050",
+      "name": "Hernán Cortés",
+      "alternate_names": [
+        "Hernando Cortés",
+        "Marqués del Valle de Oaxaca"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Conquista de México",
+      "origin": "Corona de Castilla y Nueva España",
+      "dates": "1485–1547",
+      "biography": "Conquistador castellano que encabezó la expedición que culminó en la caída de México-Tenochtitlan en 1521, mediante alianzas indígenas, guerra, epidemias y asedio.",
+      "highlight_facts": [],
+      "curiosity": "Sus cartas son testimonios de primera mano con propósito justificativo; incorporar también fuentes nahuas y perspectivas indígenas.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/explorations-and-encounters.html"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-051",
+      "name": "Francisco Pizarro",
+      "alternate_names": [
+        "Francisco Pizarro González"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Conquista del Tahuantinsuyo",
+      "origin": "Castilla y región andina",
+      "dates": "c. 1475–1541",
+      "biography": "Conquistador castellano que encabezó la expedición que capturó a Atahualpa en 1532 y contribuyó a la caída del poder imperial inca.",
+      "highlight_facts": [],
+      "curiosity": "La conquista dependió de guerras internas, alianzas locales y violencia colonial; evitar presentarla como una hazaña individual aislada.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/explorations-and-encounters.html"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-052",
+      "name": "Pancho Villa",
+      "alternate_names": [
+        "Francisco Villa",
+        "José Doroteo Arango Arámbula"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Revolución mexicana",
+      "origin": "México",
+      "dates": "1878–1923",
+      "biography": "Jefe revolucionario del norte de México y comandante de la División del Norte; desempeñó un papel central en la lucha contra el régimen de Victoriano Huerta y en los conflictos revolucionarios posteriores.",
+      "highlight_facts": [],
+      "curiosity": "Su biografía temprana y su imagen pública contienen versiones contradictorias; contrastar archivos, testimonios y construcción del mito popular.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://inehrm.gob.mx/es/inehrm/villa"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-053",
+      "name": "Emiliano Zapata",
+      "alternate_names": [
+        "Emiliano Zapata Salazar"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Revolución mexicana",
+      "origin": "Morelos, México",
+      "dates": "1879–1919",
+      "biography": "Líder campesino y revolucionario del sur; impulsó la restitución de tierras y fue figura central del movimiento agrarista asociado al Plan de Ayala de 1911.",
+      "highlight_facts": [],
+      "curiosity": "Su lema y legado agrario fueron reinterpretados por movimientos políticos posteriores; contextualizar las demandas locales y campesinas.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.loc.gov/item/hlas-bi2012002547/"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-054",
+      "name": "Shaka Zulu",
+      "alternate_names": [
+        "Shaka kaSenzangakhona"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Reino zulú, siglo XIX",
+      "origin": "Reino zulú, sur de África",
+      "dates": "c. 1787–1828",
+      "biography": "Gobernante que consolidó y expandió el poder del reino zulú durante las primeras décadas del siglo XIX.",
+      "highlight_facts": [],
+      "curiosity": "Las fuentes son en gran medida orales o mediadas por observadores europeos; su figura fue mitificada y politizada, por lo que fechas y relatos deben tratarse con cautela.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.si.edu/object/siris_sil_914390"
+        }
+      ],
+      "historical_nature": "Histórico; tradición oral y mitificación",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-055",
+      "name": "Robert E. Lee",
+      "alternate_names": [
+        "Robert Edward Lee"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Guerra Civil estadounidense",
+      "origin": "Estados Unidos, Confederación",
+      "dates": "1807–1870",
+      "biography": "Oficial estadounidense que comandó el Ejército de Virginia del Norte, principal fuerza confederada en el teatro oriental de la Guerra Civil; se rindió ante Ulysses S. Grant en Appomattox en 1865.",
+      "highlight_facts": [],
+      "curiosity": "Su legado debe situarse en la defensa militar de la Confederación esclavista y en las disputas posteriores sobre la memoria pública.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://wwws.loc.gov/exhibits/civil-war-in-america/biographies/robert-e-lee.html"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-056",
+      "name": "Ulysses S. Grant",
+      "alternate_names": [
+        "Ulysses Simpson Grant"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Guerra Civil y Reconstrucción",
+      "origin": "Estados Unidos",
+      "dates": "1822–1885",
+      "biography": "General de la Unión que asumió el mando supremo de sus ejércitos en 1864 y recibió la rendición de Lee en 1865; posteriormente fue presidente de Estados Unidos.",
+      "highlight_facts": [],
+      "curiosity": "Sus memorias son una fuente primaria destacada; evaluar su carrera militar y presidencia por separado, incluyendo la Reconstrucción.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://wwws.loc.gov/exhibits/civil-war-in-america/biographies/ulysses-s-grant.html"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-057",
+      "name": "Georgy Zhukov",
+      "alternate_names": [
+        "Gueorgui Zhúkov",
+        "Georgy Konstantinovich Zhukov"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Segunda Guerra Mundial",
+      "origin": "Imperio ruso y Unión Soviética",
+      "dates": "1896–1974",
+      "biography": "Mariscal soviético que desempeñó un papel destacado en la defensa de Moscú, las operaciones del frente oriental y la toma de Berlín en 1945.",
+      "highlight_facts": [],
+      "curiosity": "La narrativa soviética oficial exaltó su papel; la investigación debe considerar también la estructura colectiva de mando y el coste humano de las operaciones.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://ehistory.osu.edu/biographies/georgy-konstantinovich-zhukov"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-058",
+      "name": "George S. Patton",
+      "alternate_names": [
+        "George Smith Patton Jr."
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Primera y Segunda Guerra Mundial",
+      "origin": "Estados Unidos",
+      "dates": "1885–1945",
+      "biography": "General estadounidense destacado en la guerra mecanizada; comandó fuerzas en el norte de África, Sicilia y Europa occidental durante la Segunda Guerra Mundial.",
+      "highlight_facts": [],
+      "curiosity": "Su imagen pública combina logros operacionales, temperamento controvertido y construcción mediática; no reducir su trayectoria al mito cinematográfico.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.nationalww2museum.org/war/articles/general-george-s-patton-world-war-ii"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-059",
+      "name": "Subutai",
+      "alternate_names": [
+        "Subedei",
+        "Subutai Bahadur"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Imperio mongol",
+      "origin": "Mongolia y Eurasia",
+      "dates": "c. 1175–1248",
+      "biography": "General mongol al servicio de Gengis Kan y sus sucesores; dirigió campañas de gran alcance en Asia y Europa oriental, coordinando ejércitos a grandes distancias.",
+      "highlight_facts": [],
+      "curiosity": "Las cifras de tropas y el detalle de algunas campañas proceden de crónicas de tradiciones diversas y requieren contraste crítico.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Subutai"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-060",
+      "name": "Yi Sun-sin",
+      "alternate_names": [
+        "Almirante Yi"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Corea, dinastía Joseon",
+      "origin": "Corea",
+      "dates": "1545–1598",
+      "biography": "Almirante coreano que dirigió la flota de Joseon durante las invasiones japonesas de Corea (1592–1598) y obtuvo victorias navales decisivas.",
+      "highlight_facts": [],
+      "curiosity": "Los diarios de guerra y documentos coreanos son fuentes centrales; la leyenda del barco tortuga debe diferenciarse de los detalles debatidos de su diseño y uso.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Yi-Sun-sin"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-061",
+      "name": "Yasuke",
+      "alternate_names": [
+        "弥助"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Japón, periodo Sengoku",
+      "origin": "Japón; origen africano no determinado con certeza",
+      "dates": "activo en Japón desde 1579; fechas de nacimiento y muerte desconocidas",
+      "biography": "Hombre africano que llegó a Japón en el séquito del misionero jesuita Alessandro Valignano y estuvo al servicio de Oda Nobunaga en la década de 1580.",
+      "highlight_facts": [],
+      "curiosity": "Las fuentes contemporáneas son escasas; no se conocen con seguridad su lugar de nacimiento, origen étnico preciso ni su rango formal como samurái.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Oda-Nobunaga"
+        }
+      ],
+      "historical_nature": "Histórico; documentación limitada",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental de trabajo. Verificar afirmaciones, cronología y bibliografía complementaria antes de aprobar la ficha para impresión."
+    }
+  ]
+}
