@@ -156,10 +156,10 @@ Fionn mac Cumhaill
 ## Estado de documentación histórica
 
 - Distribución editorial de los 144 registros actualizada según la reorganización aprobada.
-- Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros) y `data/historicos/guerreros_037_061.json` (25 registros).
+- Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros), `data/historicos/guerreros_037_061.json` (25 registros) y `data/historicos/sabios_cientificos_062_091.json` (30 registros).
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
-- Total de registros documentales iniciales cargados: 61 de 144. Restan 83 por documentar y verificar.
-- Siguiente bloque previsto: Sabios, Científicos e Inventores (30 personajes), con códigos HIS-062 en adelante.
+- Total de registros documentales iniciales cargados: 91 de 144. Restan 53 por documentar y verificar.
+- Siguiente bloque previsto: Exploradores y Navegantes (18 personajes), con códigos HIS-092 a HIS-109.
 - La documentación diferencia hechos históricos, tradiciones posteriores, fechas aproximadas y aspectos debatidos.
 - Las fuentes se guardan en cada registro para facilitar la auditoría y evitar depender del historial del chat.
 
