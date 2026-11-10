@@ -1,0 +1,676 @@
+{
+  "collection": "CRÓNICAS — ORÍGENES",
+  "section": "Históricos",
+  "batch": "HIS-001 a HIS-036",
+  "schema_version": "1.0-draft",
+  "status": "documentacion_en_progreso",
+  "note": "Registros de trabajo. El estado en_verificacion indica que las fuentes y afirmaciones aún requieren comprobación editorial final. No usar como fichas finales de impresión.",
+  "records": [
+    {
+      "code": "HIS-001",
+      "name": "Alejandro Magno",
+      "alternate_names": [
+        "Alejandro III de Macedonia"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Antigüedad clásica",
+      "origin": "Macedonia",
+      "dates": "356–323 a. C.",
+      "biography": "Rey de Macedonia desde 336 a. C.; derrotó al Imperio aqueménida y extendió su campaña hasta el noroeste del subcontinente indio.",
+      "highlight_facts": [],
+      "curiosity": "La narración de sus campañas depende en gran medida de autores posteriores; distinguir fuentes antiguas y leyenda alejandrina.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-002",
+      "name": "Julio César",
+      "alternate_names": [
+        "Cayo Julio César"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "República romana tardía",
+      "origin": "Roma",
+      "dates": "100–44 a. C.",
+      "biography": "General y dirigente político romano; su carrera militar y concentración de poder contribuyeron a la crisis final de la República.",
+      "highlight_facts": [],
+      "curiosity": "Sus Comentarios son testimonios de primera mano, pero también textos políticos y justificativos.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-003",
+      "name": "Augusto",
+      "alternate_names": [
+        "Cayo Octavio",
+        "Cayo Julio César Octaviano"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Roma antigua",
+      "origin": "Roma",
+      "dates": "63 a. C.–14 d. C.",
+      "biography": "Primer emperador romano; recibió el título de Augusto en 27 a. C. y consolidó un nuevo sistema de gobierno tras las guerras civiles.",
+      "highlight_facts": [],
+      "curiosity": "Su imagen pública fue cuidadosamente construida mediante monumentos, literatura y propaganda oficial.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-004",
+      "name": "Leónidas",
+      "alternate_names": [
+        "Leónidas I"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Grecia clásica",
+      "origin": "Esparta, Grecia",
+      "dates": "fallecido en 480 a. C.",
+      "biography": "Rey agíada de Esparta, recordado por dirigir la resistencia griega en el paso de las Termópilas frente al ejército de Jerjes I.",
+      "highlight_facts": [],
+      "curiosity": "La narración más conocida procede de Heródoto y debe leerse dentro de la tradición historiográfica griega.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-005",
+      "name": "Temístocles",
+      "alternate_names": [
+        "Temístocles de Atenas"
+      ],
+      "category": "Guerreros y Generales",
+      "period": "Grecia clásica",
+      "origin": "Atenas, Grecia",
+      "dates": "c. 524–459 a. C.",
+      "biography": "Estadista y estratega ateniense; impulsó el desarrollo naval de Atenas y tuvo un papel decisivo en Salamina (480 a. C.).",
+      "highlight_facts": [],
+      "curiosity": "La estrategia naval ateniense fue un esfuerzo político y colectivo, no obra individual aislada.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-006",
+      "name": "Pericles",
+      "alternate_names": [
+        "Pericles de Atenas"
+      ],
+      "category": "Líderes Políticos y Estadistas",
+      "period": "Grecia clásica",
+      "origin": "Atenas, Grecia",
+      "dates": "c. 495–429 a. C.",
+      "biography": "Dirigente político ateniense asociado con la democracia imperial, las grandes obras públicas y el auge cultural de Atenas.",
+      "highlight_facts": [],
+      "curiosity": "La expresión «siglo de Pericles» es una etiqueta historiográfica; su gobierno también estuvo ligado al imperialismo ateniense y a la guerra.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-007",
+      "name": "Darío I",
+      "alternate_names": [
+        "Darío el Grande"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Persia aqueménida",
+      "origin": "Imperio aqueménida",
+      "dates": "c. 550–486 a. C.",
+      "biography": "Rey aqueménida que reorganizó la administración imperial, desarrolló sistemas tributarios y promovió obras y comunicaciones a gran escala.",
+      "highlight_facts": [],
+      "curiosity": "La inscripción de Behistún es una fuente primaria fundamental para estudiar su ascenso y legitimación.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-008",
+      "name": "Ciro el Grande",
+      "alternate_names": [
+        "Ciro II de Persia"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Imperio aqueménida",
+      "origin": "Persia",
+      "dates": "c. 600/599–530 a. C.",
+      "biography": "Fundador del Imperio aqueménida; conquistó Media, Lidia y Babilonia y estableció un dominio de gran extensión territorial.",
+      "highlight_facts": [],
+      "curiosity": "Relatos griegos posteriores, en especial los de Jenofonte y Heródoto, contienen elementos literarios que no deben confundirse con evidencia contemporánea.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-009",
+      "name": "Jerjes I",
+      "alternate_names": [
+        "Jerjes el Grande"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Persia aqueménida",
+      "origin": "Imperio aqueménida",
+      "dates": "c. 519–465 a. C.",
+      "biography": "Rey persa, hijo de Darío I; dirigió la gran invasión aqueménida de Grecia en 480 a. C.",
+      "highlight_facts": [],
+      "curiosity": "Las fuentes griegas sobre sus campañas ofrecen una perspectiva externa y a menudo hostil.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-010",
+      "name": "Ramsés II",
+      "alternate_names": [
+        "Ramsés el Grande"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Egipto antiguo, dinastía XIX",
+      "origin": "Egipto",
+      "dates": "c. 1303–1213 a. C.",
+      "biography": "Faraón de la dinastía XIX; gobernó durante décadas, impulsó proyectos monumentales y combatió a los hititas, especialmente en Qadesh.",
+      "highlight_facts": [],
+      "curiosity": "La representación oficial egipcia de Qadesh presenta la batalla como victoria; debe contrastarse con el tratado y las fuentes hititas.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-011",
+      "name": "Tutmosis III",
+      "alternate_names": [
+        "Thutmose III",
+        "Menkheperre"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Egipto antiguo, dinastía XVIII",
+      "origin": "Egipto",
+      "dates": "c. 1481–1425 a. C.",
+      "biography": "Faraón de la dinastía XVIII, asociado a campañas en el Levante y a la expansión de la influencia egipcia.",
+      "highlight_facts": [],
+      "curiosity": "Cronologías y duración de corregencias varían entre estudios; conservar fechas aproximadas y explicar el criterio cronológico.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-012",
+      "name": "Cleopatra VII",
+      "alternate_names": [
+        "Cleopatra VII Filopátor"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Periodo helenístico",
+      "origin": "Egipto ptolemaico",
+      "dates": "69–30 a. C.",
+      "biography": "Última gobernante activa de la dinastía ptolemaica; mantuvo alianzas políticas con Julio César y Marco Antonio durante las guerras civiles romanas.",
+      "highlight_facts": [],
+      "curiosity": "Gran parte de su imagen posterior fue construida por autores romanos; no reducir su trayectoria a sus relaciones personales.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-013",
+      "name": "Nabucodonosor II",
+      "alternate_names": [
+        "Nabu-kudurri-usur II"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Imperio neobabilónico",
+      "origin": "Babilonia",
+      "dates": "c. 634–562 a. C.",
+      "biography": "Rey de Babilonia entre 605 y 562 a. C.; amplió el poder neobabilónico, tomó Jerusalén y promovió importantes construcciones en Babilonia.",
+      "highlight_facts": [],
+      "curiosity": "Las crónicas babilónicas y documentos administrativos permiten contrastar los relatos bíblicos y las tradiciones posteriores.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-014",
+      "name": "Sargón de Acad",
+      "alternate_names": [
+        "Sargón de Akkad",
+        "Šarru-kīn"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad del Bronce",
+      "origin": "Acad, Mesopotamia",
+      "dates": "siglo XXIV a. C. (fechas aproximadas y debatidas)",
+      "biography": "Fundador de la dinastía acadia y del primer gran imperio territorial conocido en Mesopotamia; unificó amplias zonas de Sumer y Acad.",
+      "highlight_facts": [],
+      "curiosity": "La ciudad de Acad no ha sido localizada con certeza; las historias de su nacimiento humilde y origen extraordinario proceden de tradiciones literarias posteriores.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-015",
+      "name": "Gengis Kan",
+      "alternate_names": [
+        "Temüjin",
+        "Chinggis Khan"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Imperio mongol",
+      "origin": "Mongolia",
+      "dates": "c. 1162–1227",
+      "biography": "Unificó diversas confederaciones mongolas y fue proclamado Chinggis Khan en 1206, fundando el Imperio mongol.",
+      "highlight_facts": [],
+      "curiosity": "La fecha de nacimiento es aproximada; la historia de su ascenso debe contrastarse con la Historia secreta de los mongoles y estudios modernos.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-016",
+      "name": "Kublai Kan",
+      "alternate_names": [
+        "Qubilai",
+        "Khubilai Khan"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Imperio mongol y dinastía Yuan",
+      "origin": "Mongolia y China",
+      "dates": "1215–1294",
+      "biography": "Nieto de Gengis Kan; fue Gran Kan y estableció la dinastía Yuan en 1271. Completó la conquista mongola del sur de China en 1279.",
+      "highlight_facts": [],
+      "curiosity": "Su gobierno combinó instituciones mongolas y chinas; también mantuvo jerarquías sociales y emprendió campañas fallidas contra Japón.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-017",
+      "name": "Atila",
+      "alternate_names": [
+        "Attila",
+        "Atila el Huno"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Antigüedad tardía",
+      "origin": "Europa central y cuenca del Danubio",
+      "dates": "fallecido en 453",
+      "biography": "Gobernante de los hunos desde 434 hasta su muerte; dirigió campañas contra los imperios romanos de Oriente y Occidente.",
+      "highlight_facts": [],
+      "curiosity": "Las fuentes romanas son externas y presentan sesgos; el sobrenombre «Azote de Dios» refleja una tradición posterior.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-018",
+      "name": "Timur",
+      "alternate_names": [
+        "Tamerlán",
+        "Timur-i Lang"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Media tardía",
+      "origin": "Transoxiana, Asia Central",
+      "dates": "1336–1405",
+      "biography": "Conquistador de origen turco-mongol que fundó el Imperio timúrida, con centro en Samarcanda, y emprendió campañas desde Asia Central hasta Oriente Próximo y el norte de India.",
+      "highlight_facts": [],
+      "curiosity": "No fue descendiente directo de Gengis Kan; su legitimidad política se apoyó en alianzas dinásticas y títulos, no en una descendencia demostrada.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-019",
+      "name": "Saladino",
+      "alternate_names": [
+        "Ṣalāḥ al-Dīn Yūsuf ibn Ayyūb"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Media",
+      "origin": "Egipto y Siria",
+      "dates": "1137/1138–1193",
+      "biography": "Sultán de Egipto y Siria y fundador de la dinastía ayubí; recuperó Jerusalén en 1187 tras la batalla de Hattin.",
+      "highlight_facts": [],
+      "curiosity": "Su memoria fue idealizada tanto en tradiciones musulmanas como europeas; la ficha debe evitar el retrato de héroe sin matices.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-020",
+      "name": "Ricardo Corazón de León",
+      "alternate_names": [
+        "Ricardo I de Inglaterra",
+        "Richard I"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Media",
+      "origin": "Inglaterra y dominios angevinos",
+      "dates": "1157–1199",
+      "biography": "Rey de Inglaterra entre 1189 y 1199; participó en la Tercera Cruzada y en conflictos dinásticos y territoriales en Francia.",
+      "highlight_facts": [],
+      "curiosity": "Su reputación caballeresca procede en parte de crónicas y literatura posteriores; su reinado también implicó elevados costes fiscales y largos periodos fuera de Inglaterra.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-021",
+      "name": "Guillermo el Conquistador",
+      "alternate_names": [
+        "Guillermo I de Inglaterra",
+        "William I"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Media",
+      "origin": "Normandía e Inglaterra",
+      "dates": "c. 1028–1087",
+      "biography": "Duque de Normandía que conquistó Inglaterra en 1066 y gobernó como rey hasta 1087.",
+      "highlight_facts": [],
+      "curiosity": "La conquista normanda transformó las élites, la tenencia de tierras y la administración inglesa; considerar el impacto sobre la población anglosajona.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-022",
+      "name": "Carlomagno",
+      "alternate_names": [
+        "Carlos I",
+        "Charles the Great"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Alta Edad Media",
+      "origin": "Reino franco y Europa occidental",
+      "dates": "c. 747/748–814",
+      "biography": "Rey de los francos y los lombardos; fue coronado emperador en Roma en el año 800 y amplió el poder carolingio en Europa occidental.",
+      "highlight_facts": [],
+      "curiosity": "El año de nacimiento es incierto; la coronación imperial debe explicarse dentro de la relación entre el papado y el poder franco.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-023",
+      "name": "Federico Barbarroja",
+      "alternate_names": [
+        "Federico I del Sacro Imperio"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Media",
+      "origin": "Sacro Imperio Romano Germánico",
+      "dates": "c. 1122/1123–1190",
+      "biography": "Rey alemán y emperador del Sacro Imperio desde 1155; intervino en Italia y participó en la Tercera Cruzada, donde murió durante la expedición.",
+      "highlight_facts": [],
+      "curiosity": "Las fuentes discrepan en algunos detalles de su nacimiento; no confundir su título imperial con el de un monarca nacional moderno.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-024",
+      "name": "Iván el Terrible",
+      "alternate_names": [
+        "Iván IV Vasílievich",
+        "Ivan IV"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Moderna temprana",
+      "origin": "Rusia",
+      "dates": "1530–1584",
+      "biography": "Gran príncipe de Moscú y primer gobernante coronado formalmente como zar de toda Rusia; expandió el territorio ruso y centralizó el poder.",
+      "highlight_facts": [],
+      "curiosity": "El epíteto ruso Grozny significa aproximadamente «imponente» o «temible»; traducirlo simplemente como «terrible» puede distorsionar su sentido.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-025",
+      "name": "Pedro el Grande",
+      "alternate_names": [
+        "Pedro I",
+        "Pyotr Alekseyevich"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Moderna",
+      "origin": "Rusia",
+      "dates": "1672–1725",
+      "biography": "Zar y primer emperador de Rusia; impulsó reformas administrativas, militares y navales y fundó San Petersburgo.",
+      "highlight_facts": [],
+      "curiosity": "Las reformas modernizadoras estuvieron acompañadas de coerción estatal, cargas fiscales y trabajo forzado.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-026",
+      "name": "Napoleón Bonaparte",
+      "alternate_names": [
+        "Napoleón I",
+        "Napoleone Buonaparte"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Contemporánea temprana",
+      "origin": "Francia y Europa",
+      "dates": "1769–1821",
+      "biography": "General y estadista francés; fue primer cónsul y emperador de los franceses. Sus campañas transformaron el mapa político europeo.",
+      "highlight_facts": [],
+      "curiosity": "El Código Napoleónico y las reformas administrativas tuvieron efectos duraderos, mientras que sus guerras causaron enormes pérdidas humanas y expansión imperial.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-027",
+      "name": "Simón Bolívar",
+      "alternate_names": [
+        "Simón José Antonio de la Santísima Trinidad Bolívar Palacios"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Independencias hispanoamericanas",
+      "origin": "Venezuela y América del Sur",
+      "dates": "1783–1830",
+      "biography": "Dirigente político y militar de las independencias de Venezuela, Nueva Granada, Quito, Perú y Bolivia; figura central de la formación de nuevas repúblicas.",
+      "highlight_facts": [],
+      "curiosity": "Su proyecto de unidad política continental enfrentó conflictos regionales y divisiones internas; tratar sus campañas dentro de procesos colectivos.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-028",
+      "name": "José de San Martín",
+      "alternate_names": [
+        "José Francisco de San Martín y Matorras"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Independencias hispanoamericanas",
+      "origin": "Río de la Plata, Chile y Perú",
+      "dates": "1778–1850",
+      "biography": "Militar y dirigente de la independencia sudamericana; organizó el Ejército de los Andes y encabezó campañas decisivas en Chile y Perú.",
+      "highlight_facts": [],
+      "curiosity": "Su estrategia continental se articuló con otros movimientos independentistas; no reducir la independencia a una sola figura.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-029",
+      "name": "George Washington",
+      "alternate_names": [
+        "George Washington"
+      ],
+      "category": "Líderes Políticos y Estadistas",
+      "period": "Revolución estadounidense y primera república",
+      "origin": "Virginia y Estados Unidos",
+      "dates": "1732–1799",
+      "biography": "Comandante en jefe del Ejército Continental y primer presidente de Estados Unidos (1789–1797).",
+      "highlight_facts": [],
+      "curiosity": "Su legado debe contextualizarse incluyendo su condición de propietario de personas esclavizadas y la contradicción entre esclavitud y los ideales republicanos.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-030",
+      "name": "Abraham Lincoln",
+      "alternate_names": [
+        "Abraham Lincoln"
+      ],
+      "category": "Líderes Políticos y Estadistas",
+      "period": "Siglo XIX",
+      "origin": "Estados Unidos",
+      "dates": "1809–1865",
+      "biography": "Decimosexto presidente de Estados Unidos; dirigió el país durante la Guerra Civil y emitió la Proclamación de Emancipación en 1863.",
+      "highlight_facts": [],
+      "curiosity": "La abolición constitucional de la esclavitud llegó con la Decimotercera Enmienda; diferenciarla de la Proclamación de Emancipación.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-031",
+      "name": "Otto von Bismarck",
+      "alternate_names": [
+        "Otto Eduard Leopold von Bismarck"
+      ],
+      "category": "Líderes Políticos y Estadistas",
+      "period": "Unificación alemana y siglo XIX",
+      "origin": "Prusia y Alemania",
+      "dates": "1815–1898",
+      "biography": "Estadista prusiano que dirigió el proceso de unificación alemana y fue primer canciller del Imperio alemán.",
+      "highlight_facts": [],
+      "curiosity": "Su política combinó diplomacia, guerras limitadas y construcción estatal; se trasladó a Líderes Políticos y Estadistas.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-032",
+      "name": "Qin Shi Huang",
+      "alternate_names": [
+        "Ying Zheng",
+        "Qin Shihuangdi"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "China antigua, dinastía Qin",
+      "origin": "Estado de Qin y China",
+      "dates": "259–210 a. C.",
+      "biography": "Unificó los principales estados combatientes en 221 a. C. y se proclamó primer emperador de China; impulsó estandarizaciones administrativas y materiales.",
+      "highlight_facts": [],
+      "curiosity": "Las fuentes sobre su gobierno incluyen tradiciones historiográficas posteriores; presentar tanto la unificación como la coerción de su régimen.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-033",
+      "name": "Liu Bang",
+      "alternate_names": [
+        "Emperador Gaozu de Han",
+        "Han Gaozu"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Dinastía Han",
+      "origin": "China",
+      "dates": "256/247–195 a. C. (fecha de nacimiento discutida)",
+      "biography": "Líder rebelde que derrotó a sus rivales tras la caída de Qin y fundó la dinastía Han, reinando como emperador Gaozu desde 202 a. C.",
+      "highlight_facts": [],
+      "curiosity": "Las fuentes antiguas ofrecen tradiciones divergentes sobre su nacimiento y juventud; la cronología de nacimiento no es uniforme.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-034",
+      "name": "Tokugawa Ieyasu",
+      "alternate_names": [
+        "Matsudaira Takechiyo",
+        "Tokugawa Ieyasu"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Periodo Sengoku y Edo",
+      "origin": "Japón",
+      "dates": "1543–1616",
+      "biography": "Se impuso en las luchas por la unificación japonesa, venció en Sekigahara en 1600 y fue nombrado shōgun en 1603, estableciendo el shogunato Tokugawa.",
+      "highlight_facts": [],
+      "curiosity": "La consolidación del régimen fue un proceso compartido con otros líderes de la unificación; su gobierno continuó mediante sucesión familiar.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-035",
+      "name": "Mehmed II",
+      "alternate_names": [
+        "Mehmed el Conquistador",
+        "Fatih Sultan Mehmed"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Media tardía",
+      "origin": "Imperio otomano",
+      "dates": "1432–1481",
+      "biography": "Sultán otomano que conquistó Constantinopla en 1453 y convirtió la ciudad en centro imperial otomano.",
+      "highlight_facts": [],
+      "curiosity": "La conquista transformó el equilibrio político regional; incluir también el papel de la población y las instituciones bizantinas preexistentes.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    },
+    {
+      "code": "HIS-036",
+      "name": "Suleimán el Magnífico",
+      "alternate_names": [
+        "Suleimán I",
+        "Kanuni Sultan Süleyman"
+      ],
+      "category": "Gobernantes y Conquistadores",
+      "period": "Edad Moderna",
+      "origin": "Imperio otomano",
+      "dates": "1494–1566",
+      "biography": "Sultán otomano entre 1520 y 1566; expandió el poder imperial y promovió reformas legales, arquitectura y mecenazgo cultural.",
+      "highlight_facts": [],
+      "curiosity": "En la tradición turca es conocido como Kanuni, «el Legislador»; el epíteto occidental «el Magnífico» enfatiza el esplendor cortesano.",
+      "sources": [],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+    }
+  ]
+}
