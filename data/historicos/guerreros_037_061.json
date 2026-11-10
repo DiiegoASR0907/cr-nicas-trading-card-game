@@ -5,7 +5,7 @@
   "batch": "HIS-037 a HIS-061",
   "schema_version": "1.0-draft",
   "status": "documentacion_en_progreso",
-  "note": "25 registros iniciales. La categoría contiene 27 personajes; Leónidas (HIS-004) y Temístocles (HIS-005) ya están documentados en el primer bloque. Todas las fichas permanecen en_verificacion; las referencias iniciales no equivalen a aprobación editorial.",
+  "note": "Registros con integración documental completada y aprobación editorial global para producción. Las reservas y cautelas historiográficas permanecen en editorial_note y sources. No enviar a imprenta hasta superar el control visual y técnico de producción.",
   "records": [
     {
       "code": "HIS-037",
