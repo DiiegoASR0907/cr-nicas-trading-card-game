@@ -242,8 +242,8 @@
           "url": "https://www.newadvent.org/fathers/26017.htm"
         },
         {
-          "title": "Letters of Synesius of Cyrene — Internet Archive catalogue",
-          "url": "https://archive.org/search?query=Synesius+Letters"
+          "title": "Letters of Synesius of Cyrene — Tertullian Project",
+          "url": "https://www.tertullian.org/fathers/synesius_letters_01_letters.htm"
         }
       ],
       "historical_nature": "Histórico",
@@ -278,8 +278,8 @@
           "url": "https://www.iranicaonline.org/articles/avicenna-index/"
         },
         {
-          "title": "The Canon of Medicine — U.S. National Library of Medicine catalogue",
-          "url": "https://catalog.nlm.nih.gov/"
+          "title": "Avicenna — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Avicenna"
         }
       ],
       "historical_nature": "Histórico",
@@ -310,12 +310,12 @@
           "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/"
         },
         {
-          "title": "Roshdi Rashed, studies on Arabic algebra — Encyclopaedia of the History of Science",
+          "title": "Al-Khwarizmi — Encyclopaedia of the History of Science",
           "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/al-khwarizmi"
         },
         {
-          "title": "The Algebra of al-Khwarizmi — Internet Archive catalogue",
-          "url": "https://archive.org/search?query=Al-Khwarizmi+algebra"
+          "title": "Al-Khwarizmi — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/al-Khwarizmi"
         }
       ],
       "historical_nature": "Histórico",
@@ -382,8 +382,8 @@
           "url": "https://galileo.rice.edu/sci/observations/sidereal.html"
         },
         {
-          "title": "The Galileo Affair — Vatican Observatory historical resources",
-          "url": "https://www.vaticanobservatory.org/"
+          "title": "Galileo's trial — Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/galileo/"
         }
       ],
       "historical_nature": "Histórico",
@@ -415,8 +415,8 @@
           "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/"
         },
         {
-          "title": "Astronomia nova (1609) — digital editions catalogue",
-          "url": "https://archive.org/search?query=Kepler+Astronomia+nova"
+          "title": "Johannes Kepler — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Johannes-Kepler"
         }
       ],
       "historical_nature": "Histórico",
@@ -450,8 +450,8 @@
           "url": "https://makingscience.royalsociety.org/people/na8414/isaac-newton"
         },
         {
-          "title": "Principia Mathematica — Cambridge Digital Library",
-          "url": "https://cudl.lib.cam.ac.uk/"
+          "title": "Isaac Newton — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Isaac-Newton"
         }
       ],
       "historical_nature": "Histórico",
@@ -479,12 +479,12 @@
           "url": "https://www.britannica.com/biography/Nikola-Tesla"
         },
         {
-          "title": "Nikola Tesla — Smithsonian National Museum of American History collections",
-          "url": "https://americanhistory.si.edu/collections/search?edan_q=Nikola%20Tesla"
+          "title": "Westinghouse AC induction motor — Smithsonian National Museum of American History",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_712865"
         },
         {
-          "title": "Tesla patents — Google Patents (primary patent records)",
-          "url": "https://patents.google.com/?inventor=Nikola+Tesla"
+          "title": "Tesla's alternating-current motor patent (US381968A) — Google Patents",
+          "url": "https://patents.google.com/patent/US381968A/en"
         }
       ],
       "historical_nature": "Histórico",
@@ -514,12 +514,12 @@
           "url": "https://www.nps.gov/edis/learn/historyculture/thomas-edison.htm"
         },
         {
-          "title": "Thomas A. Edison Papers — Rutgers University",
-          "url": "https://edisondigital.rutgers.edu/"
+          "title": "Thomas A. Edison and His Papers — Rutgers University",
+          "url": "https://edison.sas.rutgers.edu/about/thomas-edison-and-his-papers"
         },
         {
-          "title": "Edison and the incandescent lamp — Smithsonian Institution",
-          "url": "https://americanhistory.si.edu/collections/search?edan_q=Thomas%20Edison%20lamp"
+          "title": "Phonographs and Sound Recording — Thomas A. Edison Papers, Rutgers",
+          "url": "https://edison.rutgers.edu/component/content/article/phonographs-sound-recording?Itemid=101&catid=149"
         }
       ],
       "historical_nature": "Histórico",
@@ -653,12 +653,12 @@
           "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/"
         },
         {
-          "title": "Einstein Papers Project — California Institute of Technology",
+          "title": "Einstein Papers Project — Princeton University Press",
           "url": "https://einsteinpapers.press.princeton.edu/"
         },
         {
-          "title": "Albert Einstein — American Institute of Physics, Emilio Segrè Visual Archives",
-          "url": "https://photos.aip.org/"
+          "title": "Albert Einstein — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Albert-Einstein"
         }
       ],
       "historical_nature": "Histórico",
@@ -760,10 +760,10 @@
         },
         {
           "title": "Aryabhatiya — Internet Archive catalogue",
-          "url": "https://archive.org/search?query=Aryabhatiya+Aryabhata"
+          "url": "https://archive.org/details/aryabhatiyaofaryabhata"
         },
         {
-          "title": "Aryabhata — Encyclopaedia Britannica",
+          "title": "Aryabhata I — Encyclopaedia Britannica",
           "url": "https://www.britannica.com/biography/Aryabhata-I"
         }
       ],
@@ -794,12 +794,12 @@
           "url": "https://americanhistory.si.edu/collections/object/nmah_1135162"
         },
         {
-          "title": "Dragons and Toads: The Chinese Seismoscope of A.D. 132 — bibliographic record",
+          "title": "Dragons and Toads: The Chinese Seismoscope of A.D. 132 — JSTOR",
           "url": "https://www.jstor.org/stable/234975"
         },
         {
-          "title": "Book of Later Han — Internet Archive catalogue",
-          "url": "https://archive.org/search?query=Hou+Hanshu+Zhang+Heng"
+          "title": "Zhang Heng — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Zhang-Heng"
         }
       ],
       "historical_nature": "Histórico",
@@ -825,11 +825,11 @@
       "curiosity": "No inventó la brújula: describió y analizó propiedades de un instrumento con una larga historia de desarrollo en China.",
       "sources": [
         {
-          "title": "Dream Pool Essays — bibliographic record",
-          "url": "https://archive.org/search?query=Shen+Kuo+Dream+Pool+Essays"
+          "title": "Mengxi bitan (Dream Pool Essays) — Chinese Text Project",
+          "url": "https://ctext.org/wiki.pl?if=en&res=517329"
         },
         {
-          "title": "Science and Civilisation in China — Cambridge University Press catalogue",
+          "title": "Science and Civilisation in China — Cambridge University Press",
           "url": "https://www.cambridge.org/core/series/science-and-civilisation-in-china"
         },
         {
@@ -866,8 +866,8 @@
           "url": "https://www.loc.gov/item/89709410/"
         },
         {
-          "title": "Experiments and Observations on Electricity — Internet Archive catalogue",
-          "url": "https://archive.org/search?query=Franklin+Experiments+Observations+Electricity"
+          "title": "Experiments and Observations on Electricity (1751) — Library of Congress",
+          "url": "https://www.loc.gov/item/04006387/"
         }
       ],
       "historical_nature": "Histórico",
@@ -932,8 +932,8 @@
           "url": "https://www.genome.gov/es/genetics-glossary/Mendel"
         },
         {
-          "title": "Versuche über Pflanzen-Hybriden (1866) — original publication record",
-          "url": "https://www.biodiversitylibrary.org/"
+          "title": "Versuche über Pflanzen-Hybriden (1866) — Biodiversity Heritage Library",
+          "url": "https://www.biodiversitylibrary.org/part/175272"
         },
         {
           "title": "Gregor Mendel — Mendel Museum, Masaryk University",
