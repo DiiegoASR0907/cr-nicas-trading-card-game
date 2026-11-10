@@ -1,0 +1,504 @@
+{
+  "collection": "CRÓNICAS — ORÍGENES",
+  "section": "Históricos",
+  "category": "Exploradores y Navegantes",
+  "batch": "HIS-092 a HIS-109",
+  "schema_version": "1.0-draft",
+  "status": "documentacion_en_progreso",
+  "note": "Bloque documental inicial de 18 personajes. Las fuentes son puntos de partida para verificación especializada; las fichas permanecen en_verificacion y no están aprobadas para impresión. Las biografías contextualizan la expansión imperial, la colonización y sus impactos cuando corresponde.",
+  "records": [
+    {
+      "code": "HIS-092",
+      "name": "Cristóbal Colón",
+      "alternate_names": [
+        "Cristoforo Colombo",
+        "Cristóbal Colombo"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglos XV–XVI",
+      "origin": "República de Génova; al servicio de las Coronas de Castilla y Aragón",
+      "dates": "c. 1451–1506",
+      "biography": "Navegante genovés que dirigió cuatro expediciones transatlánticas patrocinadas por los Reyes Católicos entre 1492 y 1504. Sus viajes establecieron una conexión permanente entre Europa y América, aunque Colón murió convencido de haber llegado a regiones de Asia. Su empresa abrió el camino a la conquista, colonización, desposesión y explotación de pueblos indígenas, procesos que deben formar parte de cualquier valoración histórica de su legado.",
+      "highlight_facts": [
+        "En 1492 cruzó el Atlántico con tres embarcaciones: Niña, Pinta y Santa María.",
+        "Realizó cuatro viajes al Caribe y exploró sectores de Centroamérica y Sudamérica.",
+        "Su gobierno colonial en La Española fue objeto de denuncias y controversias."
+      ],
+      "curiosity": "No fue el primer ser humano en llegar a América: pueblos indígenas habitaban el continente desde milenios antes, y existen evidencias de presencia nórdica en Terranova siglos antes de 1492.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://estudiosamericanos.revistas.csic.es/index.php/estudiosamericanos/article/view/749"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-093",
+      "name": "Américo Vespucio",
+      "alternate_names": [
+        "Amerigo Vespucci",
+        "Americus Vespucius"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglos XV–XVI",
+      "origin": "Florencia, República de Florencia (actual Italia)",
+      "dates": "1451–1512",
+      "biography": "Mercader, navegante y cosmógrafo florentino vinculado a expediciones ibéricas por las costas atlánticas de Sudamérica. Sus cartas, de autenticidad y contenido debatidos, contribuyeron a difundir en Europa la idea de que aquellas tierras constituían una masa continental distinta de Asia. El cartógrafo Martin Waldseemüller empleó la forma femenina America en un mapa de 1507.",
+      "highlight_facts": [
+        "Trabajó en Sevilla y participó en redes comerciales y navieras relacionadas con los viajes atlánticos.",
+        "Navegó bajo las coronas castellana y portuguesa.",
+        "La atribución y el número exacto de sus viajes siguen siendo objeto de debate historiográfico."
+      ],
+      "curiosity": "El nombre América procede de la forma latinizada de su nombre, Americus, convertida en la forma femenina America.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/153915/imprimir"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-094",
+      "name": "Fernando de Magallanes",
+      "alternate_names": [
+        "Fernão de Magalhães",
+        "Ferdinand Magellan"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglos XV–XVI",
+      "origin": "Reino de Portugal; expedición al servicio de la Monarquía Hispánica",
+      "dates": "c. 1480–1521",
+      "biography": "Navegante portugués que organizó y comandó inicialmente la expedición castellana de 1519 destinada a alcanzar las islas de las especias navegando hacia el oeste. La flota atravesó el estrecho que hoy lleva su nombre y entró en el océano Pacífico. Magallanes murió en Filipinas en 1521; la primera circunnavegación se completó en 1522 bajo el mando final de Juan Sebastián Elcano y otros oficiales supervivientes.",
+      "highlight_facts": [
+        "La expedición partió de Sanlúcar de Barrameda en 1519 con cinco naves.",
+        "El paso interoceánico fue llamado inicialmente estrecho de Todos los Santos.",
+        "Magallanes murió durante la batalla de Mactán, en un conflicto local en el que intervino la expedición."
+      ],
+      "curiosity": "Magallanes no completó la vuelta al mundo: murió antes de que la nao Victoria regresara a España.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.rmg.co.uk/stories/topics/ferdinand-magellan"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-095",
+      "name": "Vasco da Gama",
+      "alternate_names": [
+        "Vasco de Gama"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglos XV–XVI",
+      "origin": "Reino de Portugal",
+      "dates": "c. 1460/1469–1524",
+      "biography": "Navegante portugués cuya expedición de 1497–1499 abrió una ruta marítima directa entre Europa occidental y la costa de Malabar, en India, rodeando África. Su llegada a Calicut fue un hito de la expansión comercial portuguesa en el océano Índico. Las expediciones posteriores estuvieron ligadas a la imposición violenta de la hegemonía portuguesa y a ataques contra comunidades y redes mercantiles locales.",
+      "highlight_facts": [
+        "Zarpó de Lisboa en 1497 y llegó a Calicut en 1498.",
+        "Fue nombrado virrey de la India portuguesa en 1524.",
+        "Su ruta dependió de conocimientos náuticos y comerciales africanos, árabes e indios."
+      ],
+      "curiosity": "La ruta marítima europea hacia India no creó el comercio del océano Índico: se incorporó a redes comerciales antiguas y complejas ya existentes.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Vasco-da-Gama"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-096",
+      "name": "Marco Polo",
+      "alternate_names": [
+        "Marco Polo de Venecia"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XIII",
+      "origin": "República de Venecia",
+      "dates": "1254–1324",
+      "biography": "Mercader veneciano que viajó por rutas euroasiáticas junto con su padre Niccolò y su tío Maffeo. Su relato de viajes, conocido como Il Milione o Los viajes de Marco Polo, fue dictado o elaborado con Rustichello de Pisa durante su cautiverio en Génova. La obra difundió en Europa descripciones de sociedades, ciudades y circuitos comerciales de Asia, aunque algunos detalles y el alcance exacto de su itinerario siguen debatidos.",
+      "highlight_facts": [
+        "Partió hacia Asia en 1271 y regresó a Venecia en 1295, según la tradición biográfica.",
+        "Su relato describe la corte de Kublai Kan y regiones del Imperio mongol.",
+        "El texto combina experiencias, informaciones de terceros y convenciones literarias medievales."
+      ],
+      "curiosity": "No escribió personalmente el libro en la forma en que ha llegado: el texto se asocia a Rustichello de Pisa, quien recogió sus relatos.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://exploration.marinersmuseum.org/subject/marco-polo/"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-097",
+      "name": "Zheng He",
+      "alternate_names": [
+        "Cheng Ho",
+        "Ma He"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglos XIV–XV",
+      "origin": "China, dinastía Ming",
+      "dates": "1371–1433/1435",
+      "biography": "Almirante y diplomático musulmán de la dinastía Ming que dirigió siete grandes expediciones navales entre 1405 y 1433 por el sudeste asiático, el océano Índico y las costas de Arabia y África oriental. Las flotas proyectaron poder imperial, transportaron enviados y establecieron relaciones tributarias y comerciales. Su trayectoria debe entenderse dentro de la política exterior Ming, no como una simple versión asiática de la exploración europea.",
+      "highlight_facts": [
+        "Dirigió siete expediciones durante los reinados de Yongle y Xuande.",
+        "Su flota visitó puertos de la India, Arabia y África oriental.",
+        "Las expediciones combinaron diplomacia, comercio y demostración de fuerza naval."
+      ],
+      "curiosity": "Las dimensiones exactas de los mayores barcos de su flota son discutidas por especialistas; las cifras populares extraordinarias no deben repetirse sin cautela.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Zheng-He"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-098",
+      "name": "Leif Erikson",
+      "alternate_names": [
+        "Leifr Eiríksson",
+        "Leif Ericson"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XI",
+      "origin": "Islandia y asentamientos nórdicos de Groenlandia",
+      "dates": "Floreció c. 1000",
+      "biography": "Explorador nórdico asociado en las sagas islandesas con una expedición hacia tierras al oeste de Groenlandia, llamadas Vinland. La arqueología de L’Anse aux Meadows, en Terranova, confirma presencia nórdica en América del Norte alrededor del año 1000, aunque no demuestra por sí sola todos los episodios atribuidos a Leif en las sagas.",
+      "highlight_facts": [
+        "Las narraciones medievales principales son la Saga de los groenlandeses y la Saga de Erik el Rojo.",
+        "La presencia nórdica precolombina está respaldada por el yacimiento de L’Anse aux Meadows.",
+        "Las sagas fueron escritas generaciones después de los viajes que describen."
+      ],
+      "curiosity": "La evidencia arqueológica confirma una presencia nórdica en Terranova, pero la identificación precisa de cada viaje y protagonista depende de fuentes literarias posteriores.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Leif-Erikson"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-099",
+      "name": "James Cook",
+      "alternate_names": [
+        "Capitán Cook"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XVIII",
+      "origin": "Reino de Gran Bretaña",
+      "dates": "1728–1779",
+      "biography": "Oficial naval y cartógrafo británico que comandó tres expediciones de exploración por el Pacífico entre 1768 y 1779. Sus levantamientos cartográficos mejoraron el conocimiento europeo de Nueva Zelanda, la costa oriental de Australia y numerosas islas del Pacífico. Sus viajes también contribuyeron a la expansión imperial británica y tuvieron consecuencias profundas para pueblos indígenas; murió en Hawái durante un enfrentamiento con habitantes de la isla.",
+      "highlight_facts": [
+        "En el primer viaje observó el tránsito de Venus de 1769 desde Tahití.",
+        "Cartografió Nueva Zelanda y navegó por la costa oriental de Australia en 1770.",
+        "En su segundo viaje cruzó el círculo polar antártico."
+      ],
+      "curiosity": "La llegada de Cook a lugares del Pacífico no significó que fueran tierras desconocidas para sus habitantes: sus mapas respondían a objetivos europeos de navegación, ciencia y poder.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.rmg.co.uk/stories/maritime-history/captain-james-cook-timeline"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-100",
+      "name": "Roald Amundsen",
+      "alternate_names": [
+        "Roald Engelbregt Gravning Amundsen"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglos XIX–XX",
+      "origin": "Noruega",
+      "dates": "1872–1928",
+      "biography": "Explorador polar noruego, figura central de la exploración antártica y ártica. Dirigió la expedición que alcanzó el Polo Sur geográfico el 14 de diciembre de 1911, antes que la expedición de Robert Falcon Scott. También encabezó la primera travesía ampliamente reconocida del Paso del Noroeste en el barco Gjøa, entre 1903 y 1906. Desapareció en 1928 durante una misión de rescate en el Ártico.",
+      "highlight_facts": [
+        "Utilizó conocimientos de supervivencia y desplazamiento aprendidos de pueblos inuit durante sus expediciones árticas.",
+        "Llegó al Polo Sur con un equipo reducido y trineos tirados por perros.",
+        "Su expedición antártica compitió en una carrera polar con la de Scott."
+      ],
+      "curiosity": "La expedición de Amundsen llegó al Polo Sur el 14 de diciembre de 1911; la de Scott lo alcanzó semanas después y murió durante el regreso.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.npolar.no/en/people/roald-amundsen/"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-101",
+      "name": "Ernest Shackleton",
+      "alternate_names": [
+        "Sir Ernest Henry Shackleton"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglos XIX–XX",
+      "origin": "Irlanda; explorador británico",
+      "dates": "1874–1922",
+      "biography": "Explorador polar anglo-irlandés que participó en expediciones antárticas y dirigió la Expedición Imperial Transantártica de 1914–1917. El barco Endurance quedó atrapado y fue destruido por el hielo del mar de Weddell. Shackleton condujo a sus hombres a través del hielo y organizó una travesía en bote hasta Georgia del Sur para buscar ayuda; todos los integrantes de su grupo principal sobrevivieron.",
+      "highlight_facts": [
+        "Participó en la expedición Discovery de Robert Falcon Scott.",
+        "Alcanzó una latitud austral récord durante la expedición Nimrod de 1907–1909.",
+        "La travesía de rescate desde la isla Elefante hasta Georgia del Sur es uno de los episodios más conocidos de la exploración polar."
+      ],
+      "curiosity": "La expedición Endurance no cruzó la Antártida: el barco se perdió antes de que pudiera comenzar el cruce continental previsto.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.rmg.co.uk/stories/topics/ernest-shackleton"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-102",
+      "name": "Ibn Battuta",
+      "alternate_names": [
+        "Abu Abd Allah Muhammad ibn Battuta"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XIV",
+      "origin": "Tánger, Sultanato meriní (actual Marruecos)",
+      "dates": "1304–1368/1369",
+      "biography": "Jurista y viajero marroquí que emprendió en 1325 una peregrinación a La Meca y extendió sus viajes durante casi tres décadas por el norte y oeste de África, Oriente Próximo, Asia central, India, el sudeste asiático y China, según su relato. Sus experiencias fueron recogidas por encargo del sultán meriní en la Rihla, dictada a Ibn Juzayy. El texto es una fuente excepcional, aunque debe leerse críticamente como relato literario y memoria de viaje.",
+      "highlight_facts": [
+        "Visitó centros políticos y religiosos de gran parte del mundo islámico medieval.",
+        "Sirvió como juez en el sultanato de Delhi.",
+        "Su itinerario total es objeto de debate en algunos tramos por la naturaleza de la fuente."
+      ],
+      "curiosity": "Su relato conocido como Rihla fue redactado por un escriba a partir de sus recuerdos y dictado, no como un diario de campo contemporáneo completo.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Ibn-Battuta"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-103",
+      "name": "David Livingstone",
+      "alternate_names": [
+        "David Livingstone"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XIX",
+      "origin": "Escocia; explorador y misionero en África",
+      "dates": "1813–1873",
+      "biography": "Médico, misionero y explorador escocés que recorrió amplias regiones del África austral y central. Sus viajes contribuyeron al conocimiento europeo de las cuencas del Zambeze y del interior africano, y denunció el comercio esclavista. También actuó dentro de la expansión misionera y de los intereses imperiales británicos, por lo que su legado debe analizarse junto con las perspectivas y conocimientos de las sociedades africanas que encontró.",
+      "highlight_facts": [
+        "Cruzó el África austral de oeste a este entre 1852 y 1856.",
+        "Llegó a las cataratas Mosi-oa-Tunya en 1855 y las nombró Victoria Falls en honor a la monarca británica.",
+        "Su última expedición buscó las fuentes del Nilo."
+      ],
+      "curiosity": "La expresión popular «Dr. Livingstone, supongo» se atribuye al encuentro de Henry Morton Stanley con Livingstone en Ujiji en 1871.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.loc.gov/item/05015248/"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-104",
+      "name": "Vasco Núñez de Balboa",
+      "alternate_names": [
+        "Vasco Núñez de Balboa"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglos XV–XVI",
+      "origin": "Corona de Castilla; Darién y Tierra Firme",
+      "dates": "c. 1475–1519",
+      "biography": "Conquistador y explorador castellano que, en 1513, encabezó una expedición desde la región del Darién y llegó a divisar el océano Pacífico desde el istmo de Panamá, al que llamó Mar del Sur. Su trayectoria estuvo ligada a la conquista, la apropiación territorial y la violencia contra comunidades indígenas. Fue ejecutado en 1519 por orden de Pedrarias Dávila tras un conflicto político entre autoridades coloniales.",
+      "highlight_facts": [
+        "La expedición de 1513 contó con guías e informantes indígenas.",
+        "La toma de posesión castellana del Mar del Sur se realizó en nombre de la Corona.",
+        "Fue ejecutado en Acla en 1519."
+      ],
+      "curiosity": "Balboa no descubrió un océano vacío ni fue el primer ser humano en conocerlo: las sociedades del Pacífico tenían una larga historia marítima y geográfica.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://whc.unesco.org/document/154280"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-105",
+      "name": "Álvar Núñez Cabeza de Vaca",
+      "alternate_names": [
+        "Alvar Núñez Cabeza de Vaca"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XVI",
+      "origin": "Corona de Castilla; actual España y América del Norte",
+      "dates": "c. 1490–1559",
+      "biography": "Explorador, funcionario y cronista castellano que sobrevivió al desastre de la expedición de Pánfilo de Narváez en Florida en 1527–1528. Durante años recorrió regiones de la actual costa del golfo de Estados Unidos y el norte de México, viviendo entre distintas comunidades indígenas y desempeñando, entre otras actividades, el intercambio y la curación. Su obra Naufragios ofrece un testimonio singular, aunque mediado por sus intereses y perspectiva colonial.",
+      "highlight_facts": [
+        "Fue uno de los cuatro supervivientes que alcanzaron asentamientos españoles en Nueva España en 1536.",
+        "Describió pueblos, lenguas, prácticas y redes comerciales indígenas.",
+        "Más tarde fue gobernador del Río de la Plata y terminó enfrentado a autoridades coloniales."
+      ],
+      "curiosity": "Su relato es una fuente importante sobre las sociedades indígenas del siglo XVI, pero no debe tratarse como una descripción neutral ni como una voz indígena directa.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://academic.oup.com/american-national-biography/reference/63042/reference-article-abstract/570515360"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-106",
+      "name": "Richard Francis Burton",
+      "alternate_names": [
+        "Sir Richard Francis Burton"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XIX",
+      "origin": "Inglaterra, Reino Unido",
+      "dates": "1821–1890",
+      "biography": "Explorador, orientalista, traductor y oficial británico conocido por sus viajes por Asia, África y Oriente Próximo. En 1853 realizó una peregrinación a La Meca disfrazado y bajo identidad musulmana; en 1857–1858 participó con John Hanning Speke en una expedición a África oriental en busca de los grandes lagos asociados al Nilo. Sus escritos son valiosos pero reflejan prejuicios y marcos orientalistas y coloniales del siglo XIX.",
+      "highlight_facts": [
+        "Dominaba numerosas lenguas y publicó traducciones de literatura de Asia meridional y Oriente Próximo.",
+        "La expedición con Speke llegó al lago Tanganica en 1858.",
+        "Su relación intelectual y personal con Speke se deterioró durante la disputa sobre las fuentes del Nilo."
+      ],
+      "curiosity": "Su traducción de Las mil y una noches fue influyente, pero contiene decisiones editoriales y comentarios propios de su época que requieren lectura crítica.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Richard-Francis-Burton"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-107",
+      "name": "John Cabot",
+      "alternate_names": [
+        "Giovanni Caboto",
+        "Zuan Chabotto"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XV",
+      "origin": "República de Venecia; al servicio de Inglaterra",
+      "dates": "c. 1450–c. 1498",
+      "biography": "Navegante de origen italiano, conocido como John Cabot en Inglaterra, que obtuvo apoyo de Enrique VII para explorar el Atlántico norte. En 1497 realizó una travesía desde Bristol y llegó a una costa de Norteamérica, cuya identificación exacta sigue discutida. Su viaje fue utilizado por Inglaterra como fundamento de posteriores reivindicaciones territoriales, sin que ello implicara que la región estuviera deshabitada o careciera de soberanías indígenas.",
+      "highlight_facts": [
+        "Navegó en el Matthew en su viaje de 1497.",
+        "La documentación contemporánea sobre el recorrido es escasa.",
+        "Su expedición precedió a la expansión colonial inglesa permanente en Norteamérica."
+      ],
+      "curiosity": "No existe consenso absoluto sobre el punto exacto de desembarco de 1497; varias localizaciones de Terranova y Labrador han sido propuestas.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/John-Cabot"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-108",
+      "name": "Bartolomeu Dias",
+      "alternate_names": [
+        "Bartolomeu Dias de Novais",
+        "Bartolomeu Diaz"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XV",
+      "origin": "Reino de Portugal",
+      "dates": "c. 1450–1500",
+      "biography": "Navegante portugués que dirigió la expedición de 1487–1488 que rodeó el extremo meridional de África y demostró la conexión marítima entre el Atlántico y el Índico. El cabo que llamó Cabo de las Tormentas fue rebautizado por Juan II como cabo de Buena Esperanza. Su viaje preparó la ruta que Vasco da Gama seguiría hacia India, dentro de la expansión marítima y comercial portuguesa.",
+      "highlight_facts": [
+        "Alcanzó el extremo sur africano en 1488.",
+        "La expedición regresó a Portugal en diciembre de 1488.",
+        "Acompañó a la flota de Pedro Álvares Cabral en 1500 y murió durante una tormenta cerca del cabo que había rodeado."
+      ],
+      "curiosity": "La denominación Cabo de Buena Esperanza fue una decisión política y simbólica de la monarquía portuguesa, no el nombre original dado por Dias.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Bartolomeu-Dias"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    },
+    {
+      "code": "HIS-109",
+      "name": "Francisco de Orellana",
+      "alternate_names": [
+        "Francisco de Orellana Bejarano"
+      ],
+      "category": "Exploradores y Navegantes",
+      "period": "Siglo XVI",
+      "origin": "Corona de Castilla; Extremadura y Sudamérica",
+      "dates": "1511–1546",
+      "biography": "Explorador y conquistador castellano que, tras separarse de la expedición de Gonzalo Pizarro en 1541, descendió el río Amazonas hasta su desembocadura en el Atlántico en 1542. La travesía se realizó en condiciones extremas y estuvo marcada por enfrentamientos con pueblos indígenas. Orellana regresó a España y obtuvo autorización para organizar una nueva expedición, durante la cual murió en el delta amazónico.",
+      "highlight_facts": [
+        "La expedición descendió el río Napo y el Amazonas entre 1541 y 1542.",
+        "Gaspar de Carvajal, integrante de la expedición, dejó una crónica del viaje.",
+        "El nombre Amazonas se relacionó en la crónica con relatos de mujeres guerreras, cuya interpretación histórica es debatida."
+      ],
+      "curiosity": "La expedición no fue una exploración de un territorio vacío: recorrió una región densamente habitada y conectada por sociedades indígenas con redes políticas y comerciales propias.",
+      "sources": [
+        {
+          "title": "Referencia documental inicial",
+          "url": "https://www.britannica.com/biography/Francisco-de-Orellana"
+        }
+      ],
+      "historical_nature": "Histórico",
+      "verification_status": "en_verificacion",
+      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+    }
+  ]
+}
