@@ -28,11 +28,11 @@ La aprobación no se deriva automáticamente de la validación técnica del arch
 |---|---|---:|---|
 | `gobernantes_001_036.json` | HIS-001–HIS-036 | 36 | Integración completada; pendiente de aprobación |
 | `guerreros_037_061.json` | HIS-037–HIS-061 | 25 | Integración completada; pendiente de aprobación |
-| `sabios_cientificos_062_091.json` | HIS-062–HIS-091 | 30 | Pendiente |
+| `sabios_cientificos_062_091.json` | HIS-062–HIS-091 | 30 | Integración completada; pendiente de aprobación |
 | `exploradores_092_109.json` | HIS-092–HIS-109 | 18 | Pendiente |
 | `lideres_espirituales_110_127.json` | HIS-110–HIS-127 | 18 | Pendiente |
 | `bloque_final_128_144.json` | HIS-128–HIS-144 | 17 | Pendiente |
-| **Total** | **HIS-001–HIS-144** | **144** | **61 integrados; 0 aprobados** |
+| **Total** | **HIS-001–HIS-144** | **144** | **91 integrados; 0 aprobados** |
 
 ---
 
@@ -511,3 +511,225 @@ Se conservan las categorías actuales en esta pasada, respetando la distribució
 **Revisión comparativa de clasificación:** se conserva provisionalmente «Guerreros y Generales» para el bloque, respetando la distribución aprobada. HIS-040 requiere tratamiento explícito como figura tradicional/autoría discutida; HIS-044 como identidad familiar compuesta; HIS-050 y HIS-051 son conquistadores y autoridades coloniales además de jefes militares; HIS-053 es también líder agrario y político; HIS-056 combina carrera militar y presidencia; HIS-054 fue asimismo gobernante. Estas dimensiones quedan señaladas para una decisión transversal al comparar las categorías de los 144.
 
 **Cierre de integración:** 25/25 registros actualizados, 0/25 aprobados. Los registros permanecen en `en_verificacion`; la validación técnica del JSON no implica aprobación histórica ni autoriza ilustraciones.
+
+
+---
+
+# Archivo 3 — Sabios, Científicos e Inventores (HIS-062–HIS-091)
+
+**Estado:** 30/30 integrados documentalmente; 0/30 aprobados. Todos permanecen en `en_verificacion`.
+
+## HIS-062 — Imhotep
+
+- **Discrepancia y decisión integrada:** Se conserva actividad aproximada en el siglo XXVII a. C.; las inscripciones confirman nombre y cargos, pero no expresan de forma explícita su autoría arquitectónica. Se distingue la tradición de su divinización posterior.
+- **Fuentes reforzadas:** ARCE; The Metropolitan Museum of Art; UCL Digital Egypt.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-063 — Pitágoras
+
+- **Discrepancia y decisión integrada:** Fechas convencionales aproximadas. No se atribuye con certeza el teorema al individuo: las biografías extensas son tardías y la tradición pitagórica abarca varias generaciones.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy; testimonios antiguos.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-064 — Sócrates
+
+- **Discrepancia y decisión integrada:** Se normaliza nacimiento como 469/470 a. C.; se conserva 399 a. C. para la muerte. Se explica la ausencia de escritos propios y la diversidad de testimonios de Aristófanes, Jenofonte y Platón.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy; Platón; Jenofonte.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-065 — Platón
+
+- **Discrepancia y decisión integrada:** Se conserva c. 427/428–347 a. C.; se incorpora Academia hacia 387 a. C. y se advierte que los diálogos son composiciones filosóficas, no transcripciones.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy; diálogos de Platón.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-066 — Aristóteles
+
+- **Discrepancia y decisión integrada:** Se conserva 384–322 a. C.; se precisa la fundación del Liceo hacia 335 a. C. y se matiza la tutoría de Alejandro y la transmisión del corpus.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy; Internet Encyclopedia of Philosophy; obras de Aristóteles.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-067 — Arquímedes
+
+- **Discrepancia y decisión integrada:** Se conserva c. 287–212 a. C. Se priorizan tratados conservados; las anécdotas del ¡Eureka!, espejos y últimas palabras se identifican como relatos posteriores.
+- **Fuentes reforzadas:** MacTutor; tratados de Arquímedes; Plutarco.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-068 — Hipatia
+
+- **Discrepancia y decisión integrada:** Se adopta c. 370–415 d. C. con nacimiento expresamente incierto. No se le atribuye un corpus matemático original conservado con certeza.
+- **Fuentes reforzadas:** MacTutor; Sócrates Escolástico; cartas de Sinesio.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-069 — Avicena
+
+- **Discrepancia y decisión integrada:** Se conserva 980–1037; se identifican El canon de la medicina y El libro de la curación como obras diferentes. Su autobiografía fue continuada por un discípulo.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy; Encyclopaedia Iranica; obras de Ibn Sina.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-070 — Al-Juarismi
+
+- **Discrepancia y decisión integrada:** Se mantiene actividad c. 820–850 y origen incierto. Se describe su contribución a la sistematización del álgebra y al origen del término algoritmo, sin presentarlo como creador absoluto.
+- **Fuentes reforzadas:** MacTutor; Roshdi Rashed; Al-jabr wa-l-muqabala.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-071 — Leonardo da Vinci
+
+- **Discrepancia y decisión integrada:** Se conservan 1452–1519. Los cuadernos se describen como estudios y proyectos; no se afirma que construyera máquinas modernas que solo dibujó.
+- **Fuentes reforzadas:** Science Museum Group; National Gallery of Art; cuadernos conservados.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-072 — Galileo Galilei
+
+- **Discrepancia y decisión integrada:** Se conservan 1564–1642. Se precisa que perfeccionó el telescopio, no lo inventó; se incorpora Sidereus Nuncius (1610) y contexto del proceso de 1633.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy; Galileo Project; documentos históricos.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-073 — Johannes Kepler
+
+- **Discrepancia y decisión integrada:** Se conservan 1571–1630. Se incorporan publicaciones de 1609 y 1619 y el papel esencial de los datos observacionales de Tycho Brahe.
+- **Fuentes reforzadas:** NASA Science; MacTutor; obras de Kepler.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-074 — Isaac Newton
+
+- **Discrepancia y decisión integrada:** Se sustituye 1642/1643 por 25-12-1642 (juliano) / 04-01-1643 (gregoriano). Se mantiene 1727 y se contextualiza la disputa del cálculo con Leibniz.
+- **Fuentes reforzadas:** MacTutor; Royal Society; Principia y Opticks.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-075 — Nikola Tesla
+
+- **Discrepancia y decisión integrada:** Se conservan 1856–1943 y se precisa Smiljan, entonces Imperio austríaco. Se destacan sistemas polifásicos y motor de inducción sin atribuirle toda la corriente alterna o la radio.
+- **Fuentes reforzadas:** Encyclopaedia Britannica; Smithsonian; patentes de Tesla.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-076 — Thomas Edison
+
+- **Discrepancia y decisión integrada:** Se conservan 1847–1931. Se describe el trabajo mediante laboratorio, equipos y comercialización; se evita el mito del inventor solitario de la lámpara o del cine.
+- **Fuentes reforzadas:** National Park Service; Thomas A. Edison Papers, Rutgers; Smithsonian.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-077 — Marie Curie
+
+- **Discrepancia y decisión integrada:** Se conservan 1867–1934. Se distingue el Nobel de Física 1903 compartido con Pierre Curie y Henri Becquerel del Nobel de Química 1911 individual; polonio y radio se atribuyen al trabajo conjunto con Pierre.
+- **Fuentes reforzadas:** Nobel Prize 1903; Nobel Prize 1911; perfil histórico Nobel.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-078 — Charles Darwin
+
+- **Discrepancia y decisión integrada:** Se conservan 1809–1882. Se incorporan viaje del Beagle, presentación conjunta con Alfred Russel Wallace en 1858 y El origen de las especies (1859).
+- **Fuentes reforzadas:** Natural History Museum; Darwin Correspondence Project; Darwin Online.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-079 — Alan Turing
+
+- **Discrepancia y decisión integrada:** Se conservan 1912–1954. Se separan aportes teóricos a la computación y trabajo en Bletchley Park; Enigma se presenta como esfuerzo colectivo.
+- **Fuentes reforzadas:** Bletchley Park; Turing Digital Archive; artículo de 1936.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-080 — Albert Einstein
+
+- **Discrepancia y decisión integrada:** Se conservan 1879–1955. Se destacan relatividad y efecto fotoeléctrico; se aclara que el Nobel de 1921 no fue concedido por la relatividad.
+- **Fuentes reforzadas:** Nobel Prize 1921; Einstein Papers Project; American Institute of Physics.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-081 — Stephen Hawking
+
+- **Discrepancia y decisión integrada:** Se conservan 1942–2018. Se incorpora colaboración con Penrose y se identifica la radiación de Hawking como predicción teórica no observada directamente en agujeros negros astrofísicos.
+- **Fuentes reforzadas:** University of Cambridge; Communications in Mathematical Physics; trabajos Penrose-Hawking.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-082 — Jagadish Chandra Bose
+
+- **Discrepancia y decisión integrada:** Se conservan 1858–1937. Se distinguen ondas milimétricas y fisiología vegetal; no se afirma que inventara la radio ni que demostrara conciencia en plantas.
+- **Fuentes reforzadas:** Royal Society Archives AP/75/10 y AP/76/1; Bose Institute.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-083 — Aryabhata
+
+- **Discrepancia y decisión integrada:** Se conserva 476 como nacimiento; la muerte pasa a c. 550 con nota de incertidumbre. Se fecha Aryabhatiya en 499 y se evita atribuirle sin matices la invención del cero.
+- **Fuentes reforzadas:** MacTutor; Aryabhatiya; Encyclopaedia Britannica.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-084 — Zhang Heng
+
+- **Discrepancia y decisión integrada:** Se conservan 78–139. Se usa sismoscopio para el instrumento descrito en fuentes antiguas; el original no se conserva y las piezas museísticas son reconstrucciones.
+- **Fuentes reforzadas:** Smithsonian National Museum of American History; Hou Hanshu; Sleeswyk y Sivin.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-085 — Shen Kuo
+
+- **Discrepancia y decisión integrada:** Se conservan 1031–1095. Se incorpora Mengxi bitan (c. 1088), la declinación magnética y observaciones geológicas; no se le atribuye la invención de la brújula.
+- **Fuentes reforzadas:** Mengxi bitan; Joseph Needham; Encyclopaedia Britannica.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-086 — Benjamin Franklin
+
+- **Discrepancia y decisión integrada:** Se conservan 1706–1790. Se destacan estudios eléctricos y pararrayos. La cometa se trata con cautela: no se afirma que Franklin recibiera directamente un rayo.
+- **Fuentes reforzadas:** Library of Congress; Experiments and Observations on Electricity.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-087 — Johannes Gutenberg
+
+- **Discrepancia y decisión integrada:** Se conserva c. 1400–1468. Se define su aporte como desarrollo europeo de tipos móviles metálicos; la impresión y los tipos móviles existían antes en Asia.
+- **Fuentes reforzadas:** Library of Congress; UNESCO, Jikji; Biblia de Gutenberg.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-088 — Gregor Mendel
+
+- **Discrepancia y decisión integrada:** Se conservan 1822–1884. Se incorporan presentación de 1865 y publicación de 1866; se contextualiza redescubrimiento c. 1900 y límites de las leyes mendelianas.
+- **Fuentes reforzadas:** NHGRI; publicación original; Mendel Museum.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-089 — Niels Bohr
+
+- **Discrepancia y decisión integrada:** Se conservan 1885–1962. Se fecha el modelo atómico en 1913 y el Nobel en 1922; se identifica como modelo histórico superado por la mecánica cuántica moderna.
+- **Fuentes reforzadas:** Nobel Prize; Niels Bohr Institute; artículo original de 1913.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-090 — Michael Faraday
+
+- **Discrepancia y decisión integrada:** Se conservan 1791–1867. Se precisan rotación electromagnética de 1821 e inducción de 1831; se reconoce la formalización matemática posterior de Maxwell.
+- **Fuentes reforzadas:** Royal Institution; anillo de inducción y generador de Faraday; correspondencia.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+## HIS-091 — Louis Pasteur
+
+- **Discrepancia y decisión integrada:** Se conservan 1822–1895. Se incorpora vacunación de Joseph Meister el 6-07-1885 y la participación de Émile Roux, Charles Chamberland y Jacques-Joseph Grancher.
+- **Fuentes reforzadas:** Institut Pasteur; Science History Institute.
+- **Cambio JSON:** fechas, biografía sintética, 2–3 hitos, curiosidad y referencias sustituidas o ampliadas; se conserva `verification_status: en_verificacion`.
+- **Estado:** integración documental completada; pendiente de aprobación editorial formal.
+
+
+**Revisión comparativa de clasificación:** se conserva provisionalmente «Sabios, Científicos e Inventores» como categoría editorial amplia. Las fichas identifican las especialidades históricas concretas y evitan proyectar disciplinas modernas sin matiz. La categoría se revisará comparativamente al cerrar los seis archivos.
+
+**Cierre de integración:** 30/30 registros actualizados; 0/30 aprobados. La validación técnica posterior no equivale a aprobación historiográfica ni autoriza ilustraciones.
