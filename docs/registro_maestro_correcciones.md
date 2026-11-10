@@ -1040,3 +1040,10 @@ Se conservan las categorías actuales en esta pasada, respetando la distribució
 ## Cierre global vigente de integración transversal
 
 **144/144 registros integrados (100 %); 0 pendientes de integración; 0/144 aprobados editorialmente.** Los balances parciales anteriores se conservan como cortes históricos del avance. Todas las fichas permanecen en `en_verificacion` hasta la aprobación editorial formal. Las ilustraciones definitivas siguen suspendidas.
+
+
+# Aprobación editorial global y autorización de producción
+
+El usuario aprobó globalmente los 144 registros históricos y semihistóricos para pasar a producción, sin exigir una ronda de aprobación ficha por ficha. Esta decisión editorial no elimina las cautelas historiográficas: se conservan los campos `verification_status` y `editorial_note` como documentación interna. El estado operativo se registra en cada JSON mediante `production_status: aprobado_produccion`.
+
+La producción inicia con la plantilla maestra de anverso/reverso y un lote piloto de tres cartas: HIS-129 Nelson Mandela, HIS-110 Siddhartha Gautama (Buda) y HIS-130 Rey Arturo. La producción masiva de las 144 cartas se extenderá tras evaluar legibilidad, coherencia visual y calidad del piloto.
