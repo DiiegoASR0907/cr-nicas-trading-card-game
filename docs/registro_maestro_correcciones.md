@@ -29,10 +29,10 @@ La aprobación no se deriva automáticamente de la validación técnica del arch
 | `gobernantes_001_036.json` | HIS-001–HIS-036 | 36 | Integración completada; pendiente de aprobación |
 | `guerreros_037_061.json` | HIS-037–HIS-061 | 25 | Integración completada; pendiente de aprobación |
 | `sabios_cientificos_062_091.json` | HIS-062–HIS-091 | 30 | Integración completada; pendiente de aprobación |
-| `exploradores_092_109.json` | HIS-092–HIS-109 | 18 | Pendiente |
-| `lideres_espirituales_110_127.json` | HIS-110–HIS-127 | 18 | Pendiente |
-| `bloque_final_128_144.json` | HIS-128–HIS-144 | 17 | Pendiente |
-| **Total** | **HIS-001–HIS-144** | **144** | **91 integrados; 0 aprobados** |
+| `exploradores_092_109.json` | HIS-092–HIS-109 | 18 | Integración completada; pendiente de aprobación |
+| `lideres_espirituales_110_127.json` | HIS-110–HIS-127 | 18 | Integración completada; pendiente de aprobación |
+| `bloque_final_128_144.json` | HIS-128–HIS-144 | 17 | Integración completada; pendiente de aprobación |
+| **Total** | **HIS-001–HIS-144** | **144** | **144 integrados; 0 aprobados** |
 
 ---
 
@@ -1003,3 +1003,35 @@ Se conservan las categorías actuales en esta pasada, respetando la distribució
 - **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
 
 **Balance global de integración transversal tras este archivo:** 127/144 registros integrados (88,19 %), 17 pendientes de integración y 0/144 aprobados. La fase de examen individual permanece completada para 144/144; no debe confundirse con aprobación.
+
+
+# Archivo 6 — Bloque final (HIS-128–HIS-144)
+
+| Código | Personaje | Decisión de integración y cautela que permanece |
+|---|---|---|
+| HIS-128 | Cuauhtémoc | Se mantiene el nacimiento aproximado; se refuerza la ejecución en 1525 y la falta de identificación concluyente de los restos de Ichcateopan. La conquista se presenta como conflicto entre coalición hispano-indígena y Tenochtitlan. |
+| HIS-129 | Nelson Mandela | Se precisa la diferencia entre elecciones del 27 de abril e investidura del 10 de mayo de 1994; se contextualizan MK, Rivonia y el carácter colectivo de la transición. |
+| HIS-130 | Rey Arturo | Se conserva como legendario/semihistórico debatido; Geoffrey de Monmouth es fuente literaria medieval, no testigo de los siglos V–VI. |
+| HIS-131 | Merlín | Se distingue la tradición galesa de Myrddin de la construcción literaria artúrica del siglo XII; no se le atribuye biografía histórica comprobada. |
+| HIS-132 | Robin Hood | Se reemplazan referencias generales por Oxford Bibliographies y Cambridge; se conserva como figura de baladas medievales sin identidad civil demostrada. |
+| HIS-133 | Beowulf | Se incorpora el catálogo de la British Library: el Nowell Codex se copió a fines del X o inicios del XI; no se confunde fecha del manuscrito con fecha de composición. |
+| HIS-134 | Sigfrido | Se refuerza la distinción entre Sigfrido/Siegfried y Sigurd y las capas de las tradiciones germánica y nórdica. |
+| HIS-135 | Gilgamesh | Se conserva c. 2700 a. C. solo como hipótesis; la Lista Real Sumeria combina mito, memoria política e información histórica. |
+| HIS-136 | Mulan | Se distingue la referencia temprana atribuida a una compilación del siglo VI, hoy perdida, de la versión conservada en antología Song y de adaptaciones posteriores. |
+| HIS-137 | Ragnar Lodbrok | Se retira FamilySearch como fuente inadecuada; se incorpora debate académico, incluida la posición que defiende una base histórica, sin convertirla en consenso. |
+| HIS-138 | Ivar el Deshuesado | Se incorpora Oxford DNB; se separan las referencias a un caudillo del siglo IX de su genealogía sagaria y de las interpretaciones del sobrenombre. |
+| HIS-139 | Väinämöinen | Se refuerza la diferencia entre poesía oral finesa/carelia y compilación editorial del Kalevala de 1835 y 1849. |
+| HIS-140 | Roland | Se incorpora Einhard y bibliografía sobre Roncesvalles; se advierten variantes de transmisión del nombre Hruodland y la reelaboración épica posterior. |
+| HIS-141 | Cúchulainn | Se amplían los testimonios CELT sobre los relatos del ciclo del Úlster; se mantiene como héroe literario sin fechas personales. |
+| HIS-142 | William Tell | Se incorpora el registro del manuscrito White Book of Sarnen; la primera documentación escrita conocida de la leyenda es tardomedieval, no prueba de historicidad. |
+| HIS-143 | Lady Triệu | Se retira la referencia sobre las hermanas Trưng. Se incorpora bibliografía histórica sobre Vietnam; 248 se mantiene como núcleo tradicional del levantamiento, mientras que la biografía individual y el año de nacimiento quedan sujetos a cautela. |
+| HIS-144 | Fionn mac Cumhaill | Se incorpora el catálogo académico Early Fenian Corpus y bibliografía especializada; se trata como héroe literario de un corpus estratificado. |
+
+## Hallazgos transversales y asuntos que pasan a aprobación editorial
+
+1. El bloque contiene personajes históricos documentados, figuras con posible referente histórico y héroes literarios o míticos. La categoría compartida no debe borrar esos grados de evidencia.
+2. La fecha de un manuscrito conservado no equivale a la fecha de composición de la obra ni a la época narrada.
+3. Las fuentes tardías y la memoria nacional son valiosas para estudiar la recepción cultural, pero no sustituyen testimonios contemporáneos.
+4. Ragnar Lodbrok y Lady Triệu requieren especial atención a las diferencias entre interpretaciones historiográficas y tradición posterior.
+5. En Roland, la mención de Hruodland debe cotejarse con variantes manuscritas de la tradición carolingia.
+6. Los tres hitos por ficha son síntesis para la tarjeta; el expediente interno conserva las reservas y bibliografía.
