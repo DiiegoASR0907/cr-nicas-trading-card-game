@@ -153,6 +153,15 @@ Cúchulainn
 William Tell
 Lady Triệu
 Fionn mac Cumhaill
+## Estado de documentación histórica
+
+- Distribución editorial de los 144 registros actualizada según la reorganización aprobada.
+- Primer bloque documental cargado: `data/historicos/gobernantes_001_036.json` (36 registros).
+- Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
+- Próximo trabajo: completar y verificar los 108 registros históricos restantes, por bloques.
+- La documentación diferencia hechos históricos, tradiciones posteriores, fechas aproximadas y aspectos debatidos.
+- Las fuentes se guardan en cada registro para facilitar la auditoría y evitar depender del historial del chat.
+
 2. Deidades (90)
 Panteón Griego (15)
 Zeus
