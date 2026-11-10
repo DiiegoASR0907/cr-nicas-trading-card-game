@@ -149,13 +149,17 @@
       "period": "Persia aqueménida",
       "origin": "Imperio aqueménida",
       "dates": "c. 550–486 a. C.",
-      "biography": "Rey aqueménida que reorganizó la administración imperial, desarrolló sistemas tributarios y promovió obras y comunicaciones a gran escala.",
+      "biography": "Rey aqueménida entre 522 y 486 a. C.; consolidó el poder imperial, impulsó obras monumentales y dejó su versión oficial de la ascensión en la inscripción de Behistún.",
       "highlight_facts": [],
       "curiosity": "La inscripción de Behistún es una fuente primaria fundamental para estudiar su ascenso y legitimación.",
-      "sources": [],
+      "sources": [
+        "Alireza Shapur Shahbazi, Encyclopaedia Iranica, Darius I the Great: https://www.iranicaonline.org/articles/darius-iii/",
+        "Encyclopaedia Iranica, Bisotun iii. Darius's Inscriptions: https://www.iranicaonline.org/articles/bisotun-iii/",
+        "University of Göttingen, Dareios I, síntesis de inscripciones y documentación administrativa: https://www.uni-goettingen.de/en/132403.html"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-008",
@@ -166,14 +170,18 @@
       "category": "Gobernantes y Conquistadores",
       "period": "Imperio aqueménida",
       "origin": "Persia",
-      "dates": "c. 600/599–530 a. C.",
-      "biography": "Fundador del Imperio aqueménida; conquistó Media, Lidia y Babilonia y estableció un dominio de gran extensión territorial.",
+      "dates": "c. 600–530 a. C.",
+      "biography": "Fundador del Imperio aqueménida; conquistó Media, Lidia y Babilonia (539 a. C.), estableciendo un dominio que se extendió por gran parte del Próximo Oriente.",
       "highlight_facts": [],
       "curiosity": "Relatos griegos posteriores, en especial los de Jenofonte y Heródoto, contienen elementos literarios que no deben confundirse con evidencia contemporánea.",
-      "sources": [],
+      "sources": [
+        "Muhammad A. Dandamayev, Encyclopaedia Iranica, Cyrus II the Great: https://www.iranicaonline.org/articles/cyrus-iiI/",
+        "Muhammad A. Dandamayev, Encyclopaedia Iranica, The Cyrus Cylinder: https://www.iranicaonline.org/articles/cyrus-iv/",
+        "British Museum, Cyrus Cylinder, registro del objeto 1880,0617.1941: https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-009",
@@ -185,13 +193,17 @@
       "period": "Persia aqueménida",
       "origin": "Imperio aqueménida",
       "dates": "c. 519–465 a. C.",
-      "biography": "Rey persa, hijo de Darío I; dirigió la gran invasión aqueménida de Grecia en 480 a. C.",
+      "biography": "Rey aqueménida entre 486 y 465 a. C.; dirigió la invasión persa de Grecia en 480 a. C., que no logró someter a las ciudades griegas.",
       "highlight_facts": [],
       "curiosity": "Las fuentes griegas sobre sus campañas ofrecen una perspectiva externa y a menudo hostil.",
-      "sources": [],
+      "sources": [
+        "Ehsan Yarshater, Encyclopaedia Iranica, Iran ii. Iranian History (1), Pre-Islamic Times: https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/",
+        "Encyclopaedia Iranica, Greece i. Greco-Persian Political Relations: https://www.iranicaonline.org/articles/greece-i/",
+        "Heródoto, Historias, libros VII–IX (fuente antigua principal, con perspectiva griega)."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-010",
@@ -203,13 +215,18 @@
       "period": "Egipto antiguo, dinastía XIX",
       "origin": "Egipto",
       "dates": "c. 1303–1213 a. C.",
-      "biography": "Faraón de la dinastía XIX; gobernó durante décadas, impulsó proyectos monumentales y combatió a los hititas, especialmente en Qadesh.",
+      "biography": "Faraón de la dinastía XIX (reinado c. 1279–1213 a. C.); impulsó grandes construcciones y combatió al Imperio hitita. La batalla de Qadesh (c. 1274 a. C.) fue seguida años después por un tratado entre ambas potencias.",
       "highlight_facts": [],
       "curiosity": "La representación oficial egipcia de Qadesh presenta la batalla como victoria; debe contrastarse con el tratado y las fuentes hititas.",
-      "sources": [],
+      "sources": [
+        "The Metropolitan Museum of Art, List of Rulers of Ancient Egypt and Nubia: https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+        "UCLA Encyclopedia of Egyptology, Chronology: https://uee.ucla.edu/chronology",
+        "James Henry Breasted, Ancient Records of Egypt, vol. III, Treaty with the Hittites: https://adfonteslibrary.org/work-egypt-breasted-ancient-records",
+        "James B. Pritchard (ed.), Ancient Near Eastern Texts Relating to the Old Testament, Treaty between the Hittites and Egypt: https://e-edu.nbu.bg/pluginfile.php/753301/mod_resource/content/1/AncientNearEasternTexts_Pritchard1969.pdf"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-011",
@@ -221,14 +238,19 @@
       "category": "Gobernantes y Conquistadores",
       "period": "Egipto antiguo, dinastía XVIII",
       "origin": "Egipto",
-      "dates": "c. 1481–1425 a. C.",
-      "biography": "Faraón de la dinastía XVIII, asociado a campañas en el Levante y a la expansión de la influencia egipcia.",
+      "dates": "c. 1479–1425 a. C.",
+      "biography": "Faraón de la dinastía XVIII; dirigió numerosas campañas en el Levante y extendió la influencia egipcia hasta el Éufrates. Su reinado comenzó durante la regencia de Hatshepsut.",
       "highlight_facts": [],
       "curiosity": "Cronologías y duración de corregencias varían entre estudios; conservar fechas aproximadas y explicar el criterio cronológico.",
-      "sources": [],
+      "sources": [
+        "UCLA Encyclopedia of Egyptology, Chronology: https://uee.ucla.edu/chronology",
+        "UCL Digital Egypt, Thutmose III: https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/thutmosisiii.html",
+        "UCL Digital Egypt, Hatshepsut: https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/hatshepsut.html",
+        "Digital Karnak, archivo de monumentos e inscripciones: https://digitalkarnak.ucsc.edu/browse-archive/"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-012",
@@ -240,13 +262,17 @@
       "period": "Periodo helenístico",
       "origin": "Egipto ptolemaico",
       "dates": "69–30 a. C.",
-      "biography": "Última gobernante activa de la dinastía ptolemaica; mantuvo alianzas políticas con Julio César y Marco Antonio durante las guerras civiles romanas.",
+      "biography": "Última soberana de la dinastía ptolemaica; gobernó Egipto mediante corregencias y alianzas políticas con Julio César y Marco Antonio. Tras la derrota de Accio (31 a. C.), Egipto fue anexado por Roma en 30 a. C.",
       "highlight_facts": [],
       "curiosity": "Gran parte de su imagen posterior fue construida por autores romanos; no reducir su trayectoria a sus relaciones personales.",
-      "sources": [],
+      "sources": [
+        "Christelle Fischer-Bovet, Oxford Classical Dictionary, Cleopatra VII, 69–30 BCE: https://academic.oup.com/edited-volume/61673/chapter-abstract/548065820",
+        "Christelle Fischer-Bovet, Oxford Classical Dictionary, Egypt, Ptolemaic: https://academic.oup.com/edited-volume/61673/chapter-abstract/548206937",
+        "Fuentes antiguas a cotejar críticamente: Plutarco, Vida de Antonio; Dion Casio, Historia romana, libros 50–51; papiros y monedas ptolemaicas."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-013",
