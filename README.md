@@ -415,7 +415,7 @@ Emela-Ntouka
 - Integración documental completada para `data/historicos/sabios_cientificos_062_091.json`: HIS-062 a HIS-091. Se revisaron los 30 registros completos, se integraron cronologías y descripciones sintéticas justificadas, 2–3 hitos por personaje, notas de cautela y tres referencias identificables por ficha. Se actualizaron el informe `docs/auditoria_historica/sabios_cientificos_062_091_auditoria.md` y el registro maestro `docs/registro_maestro_correcciones.md`.
 - Hallazgos relevantes: atribución tradicional no explícita de la arquitectura de Saqqara a Imhotep; fuentes tardías sobre Pitágoras; nacimiento incierto de Hipatia; fechas de Newton según calendarios juliano/gregoriano; carácter colectivo de los trabajos de Curie, Darwin/Wallace, Turing, Bose, Tesla, Edison y Pasteur; naturaleza reconstructiva del sismoscopio de Zhang Heng; y desarrollo asiático anterior de tipos móviles metálicos.
 - **Estado del archivo:** 30/30 integrados, 0/30 aprobados para diseño. Los 30 registros permanecen en `en_verificacion`; la integración y la validación técnica no constituyen aprobación editorial.
-- **Balance de integración transversal:** 91/144 registros integrados (63,19 %), 53 pendientes de integración, 0/144 aprobados para diseño. La primera fase de examen individual permanece completada para 144/144.
+- **Corte histórico al cierre de este bloque:** 91/144 registros integrados (63,19 %), 53 pendientes en ese momento y 0/144 aprobados. El balance vigente se actualiza en el cierre transversal final de 144/144.
 - **Siguiente archivo:** `data/historicos/exploradores_092_109.json` (HIS-092 a HIS-109). Se mantendrá el mismo procedimiento de investigación, documentación, publicación y validación.
 
 
@@ -424,7 +424,7 @@ Emela-Ntouka
 - Integración documental completada para `data/historicos/exploradores_092_109.json`: HIS-092 a HIS-109. Se revisaron los 18 registros completos y se actualizaron cronologías, biografías sintéticas, hitos, curiosidades y tres referencias identificables por ficha.
 - Hallazgos relevantes: transmisión indirecta del diario de Colón; debate textual sobre los viajes y cartas de Vespucio; distinción Magallanes/Elcano en la primera circunnavegación; redes comerciales preexistentes y coerción portuguesa en el Índico; transmisión manuscrita del relato de Marco Polo; fuentes e incertidumbres sobre Zheng He; arqueología de L’Anse aux Meadows fechada en 1021; perspectivas hawaianas y conocimientos inuit en las expediciones de Cook y Amundsen; distinción entre las partidas del Endurance y del mar de Ross; composición de la Rihla; reconocimiento de Mosi-oa-Tunya; agencia indígena en Balboa y Cabeza de Vaca; distinción Burton/Speke; incertidumbre sobre el destino de Cabot; cautelas sobre Dias y la crónica de Carvajal para Orellana.
 - **Estado del archivo:** 18/18 integrados, 0/18 aprobados para diseño. Los 18 registros permanecen en `en_verificacion`; la integración y la validación técnica no constituyen aprobación editorial.
-- **Balance global de integración transversal:** 109/144 registros integrados (75,69 %), 35 pendientes de integración, 0/144 aprobados para diseño. La primera fase de examen individual permanece completada para 144/144.
+- **Corte histórico al cierre de este bloque:** 109/144 registros integrados (75,69 %), 35 pendientes en ese momento y 0/144 aprobados. El balance vigente se actualiza en el cierre transversal final de 144/144.
 - **Siguiente archivo:** `data/historicos/lideres_espirituales_110_127.json` (HIS-110 a HIS-127). Se mantendrá el procedimiento completo de investigación, documentación, publicación y validación.
 
 
@@ -433,7 +433,7 @@ Emela-Ntouka
 - Integración documental completada para `data/historicos/lideres_espirituales_110_127.json`: HIS-110 a HIS-127. Se revisaron los 18 registros completos y se actualizaron cronologías, biografías sintéticas, hitos, curiosidades y tres referencias identificables por ficha.
 - Hallazgos relevantes: cronología no consensuada del Buda y transmisión de los cánones; capas textuales de las Analectas; manuscritos de Guodian y Mawangdui para el Daodejing; cronología discutida de Zoroastro y los Gathas; Mahavira como tirthankara y no fundador absoluto; historicidad individual no verificable de Moisés y Abraham; siete cartas paulinas ampliamente aceptadas y contraste con Hechos; contexto africano de Agustín; Summa theologiae inconclusa y transmisión intercultural del aristotelismo en Tomás; debate sobre la escena de las 95 tesis y escritos antijudíos de Lutero; autoridad civil y caso Servet en Ginebra; manuscritos de Guru Nanak y janamsakhis; Libro de la vida y vigilancia inquisitorial de Teresa; encuentro de Francisco con al-Kamil en contexto de cruzada; Maimónides médico y jurista; datación aproximada del Pātañjalayogaśāstra; corpus atribuido a Nāgārjuna.
 - **Estado del archivo:** 18/18 integrados, 0/18 aprobados para diseño. Todos permanecen en `en_verificacion`; la integración documental y la validación técnica no constituyen aprobación editorial.
-- **Balance global de integración transversal:** 127/144 registros integrados (88,19 %), 17 pendientes de integración, 0/144 aprobados para diseño. La primera fase de examen individual permanece completada para 144/144.
+- **Corte histórico al cierre de este bloque:** 127/144 registros integrados (88,19 %), 17 pendientes en ese momento y 0/144 aprobados. El balance vigente se actualiza en el cierre transversal final de 144/144.
 - **Siguiente archivo:** `data/historicos/bloque_final_128_144.json` (HIS-128 a HIS-144). Se mantendrá el procedimiento completo de investigación, documentación, publicación y validación.
 
 
@@ -444,3 +444,6 @@ Emela-Ntouka
 - **Estado del archivo:** 17/17 integrados, 0/17 aprobados. Todos permanecen en `en_verificacion`; la integración documental no equivale a aprobación editorial.
 - **Balance global de integración transversal:** 144/144 registros integrados (100 %), 0 pendientes de integración y 0/144 aprobados. El examen individual de 144/144 es una etapa separada.
 - **Siguiente fase:** aprobación editorial formal independiente, ficha por ficha, resolviendo observaciones y criterios transversales. Las ilustraciones definitivas permanecen suspendidas hasta completar y aprobar esa fase.
+
+
+**Nota de lectura:** los porcentajes parciales de las secciones de avance por bloque son cortes históricos tomados al publicar cada etapa. El balance vigente, tras el cierre de HIS-128–HIS-144, es 144/144 integrados (100 %), 0 pendientes y 0/144 aprobados editorialmente.
