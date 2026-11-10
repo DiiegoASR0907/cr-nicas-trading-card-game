@@ -160,6 +160,8 @@ Fionn mac Cumhaill
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
 - Total de registros documentales iniciales cargados: 144 de 144. No quedan registros pendientes de documentación inicial.
 - Siguiente paso: auditoría historiográfica individual de los 144 registros, contraste de fuentes primarias y académicas, resolución de discrepancias y aprobación editorial antes de desarrollar las ilustraciones definitivas.
+- Auditoría iniciada: `docs/auditoria_historica/gobernantes_001_036_auditoria.md`. Primera tanda revisada: HIS-001 a HIS-006; 6/36 examinados, 0/6 aprobados para diseño. Se registran hallazgos, matices y bibliografía sin modificar todavía las fichas JSON originales.
+- Próxima tanda de auditoría: HIS-007 a HIS-012 (Darío I, Ciro el Grande, Jerjes I, Ramsés II, Tutmosis III y Cleopatra VII).
 - La documentación diferencia hechos históricos, tradiciones posteriores, fechas aproximadas y aspectos debatidos.
 - Las fuentes se guardan en cada registro para facilitar la auditoría y evitar depender del historial del chat.
 
