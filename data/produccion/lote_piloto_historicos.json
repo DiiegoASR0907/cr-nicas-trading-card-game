@@ -1,0 +1,65 @@
+{
+  "collection": "CRÓNICAS — ORÍGENES",
+  "edition": "Lote piloto de producción",
+  "format_mm": {
+    "width": 63,
+    "height": 88
+  },
+  "cards": [
+    {
+      "code": "HIS-129",
+      "name": "Nelson Mandela",
+      "category": "Líderes Políticos y Estadistas",
+      "dates": "1918–2013",
+      "nature": "Histórico",
+      "front_summary": "Abogado y dirigente antiapartheid que participó en la transición negociada hacia la democracia multirracial sudafricana y fue presidente entre 1994 y 1999.",
+      "highlights": [
+        "Premio Nobel de la Paz de 1993, compartido con F. W. de Klerk.",
+        "Fue elegido en las primeras elecciones nacionales no raciales de 1994.",
+        "Presidió Sudáfrica entre 1994 y 1999."
+      ],
+      "curiosity": "Mandela y Oliver Tambo abrieron un despacho de abogados en Johannesburgo en 1952.",
+      "sources": [
+        "https://www.nelsonmandela.org/biography",
+        "https://www.nobelprize.org/prizes/peace/1993/mandela/biographical/"
+      ]
+    },
+    {
+      "code": "HIS-110",
+      "name": "Siddhartha Gautama (Buda)",
+      "category": "Líderes Espirituales y Religiosos",
+      "dates": "c. siglo V a. C. (cronología discutida)",
+      "nature": "Histórico",
+      "front_summary": "Maestro ascético del clan Shakya cuya enseñanza dio origen a la comunidad budista. Las fechas exactas de su vida siguen debatidas.",
+      "highlights": [
+        "La tradición sitúa su despertar en Bodh Gaya y su primera enseñanza en Sarnath.",
+        "La comunidad monástica temprana preservó y transmitió las enseñanzas atribuidas al Buda.",
+        "Las cronologías tradicionales y modernas difieren; no existe fecha biográfica consensuada."
+      ],
+      "curiosity": "Los cánones budistas reúnen colecciones y variantes preservadas por distintas escuelas.",
+      "sources": [
+        "https://academic.oup.com/reference/62340/reference-article-abstract/554143156",
+        "https://academic.oup.com/reference/62340/reference-article-abstract/554134298"
+      ]
+    },
+    {
+      "code": "HIS-130",
+      "name": "Rey Arturo",
+      "category": "Semihistóricos y Legendarios",
+      "dates": "Tradicionalmente siglos V–VI; sin fechas verificables",
+      "nature": "Semihistórico / legendario",
+      "front_summary": "Rey y caudillo legendario de la tradición artúrica. Su posible relación con líderes britanos posromanos no ha sido demostrada.",
+      "highlights": [
+        "Geoffrey de Monmouth dio forma influyente a su leyenda en el siglo XII.",
+        "La posible base histórica de Arturo continúa discutida.",
+        "Camelot, la Mesa Redonda y Excalibur pertenecen a capas literarias posteriores."
+      ],
+      "curiosity": "La imagen popular de Arturo se formó mediante siglos de reelaboraciones medievales.",
+      "sources": [
+        "https://academic.oup.com/reference/62384/reference-article-abstract/571510414",
+        "https://www.cambridge.org/core/books/abs/history-of-the-kings-of-britain/introduction/A8233452C6A6E3E4FBCCE1E3A87D38C3"
+      ]
+    }
+  ],
+  "production_note": "Contenido de prueba sintetizado a partir de los registros históricos. Los estados de aprobación editorial global se documentan en production_status; verification_status conserva la cautela documental."
+}
