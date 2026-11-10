@@ -26,7 +26,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-002",
@@ -48,7 +49,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-003",
@@ -70,7 +72,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-004",
@@ -93,7 +96,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Fuente académica reforzada; pendiente de aprobación editorial final."
+      "editorial_note": "Fuente académica reforzada; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-005",
@@ -115,7 +119,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-006",
@@ -138,7 +143,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-007",
@@ -160,7 +166,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-008",
@@ -182,7 +189,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-009",
@@ -204,7 +212,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-010",
@@ -227,7 +236,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-011",
@@ -251,7 +261,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-012",
@@ -273,7 +284,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-013",
@@ -295,7 +307,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-014",
@@ -318,7 +331,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-015",
@@ -341,7 +355,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-016",
@@ -364,7 +379,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-017",
@@ -387,7 +403,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-018",
@@ -410,7 +427,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-019",
@@ -432,7 +450,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-020",
@@ -455,7 +474,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-021",
@@ -478,7 +498,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-022",
@@ -501,7 +522,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-023",
@@ -523,7 +545,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-024",
@@ -546,7 +569,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-025",
@@ -569,7 +593,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-026",
@@ -592,7 +617,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-027",
@@ -614,7 +640,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-028",
@@ -636,7 +663,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-029",
@@ -658,7 +686,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-030",
@@ -680,7 +709,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-031",
@@ -702,7 +732,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-032",
@@ -725,7 +756,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-033",
@@ -748,7 +780,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-034",
@@ -771,7 +804,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-035",
@@ -794,7 +828,8 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     },
     {
       "code": "HIS-036",
@@ -817,7 +852,15 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final.",
+      "production_status": "aprobado_produccion"
     }
-  ]
+  ],
+  "production_approval": {
+    "status": "aprobado_globalmente",
+    "scope": "HIS-001–HIS-144",
+    "approved_by": "usuario",
+    "approval_mode": "global_sin_revision_ficha_por_ficha",
+    "next_step": "plantilla_maestra_y_lote_piloto"
+  }
 }
