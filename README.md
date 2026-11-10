@@ -2,13 +2,10 @@
 
 Humanity Legends - Colección Fundacional ORÍGENES (360 cartas)
 1. Históricos (144)
-Gobernantes y Conquistadores (36)
+Gobernantes y Conquistadores (32)
 Alejandro Magno
 Julio César
 Augusto
-Leónidas
-Temístocles
-Pericles
 Darío I
 Ciro el Grande
 Jerjes I
@@ -31,15 +28,15 @@ Pedro el Grande
 Napoleón Bonaparte
 Simón Bolívar
 José de San Martín
-George Washington
-Abraham Lincoln
-Otto von Bismarck
 Qin Shi Huang
 Liu Bang
 Tokugawa Ieyasu
 Mehmed II
 Suleimán el Magnífico
-Guerreros y Generales (24)
+Cuauhtémoc
+Guerreros y Generales (27)
+Leónidas
+Temístocles
 Aníbal Barca
 Escipión Africano
 Belisario
@@ -57,13 +54,14 @@ Hernán Cortés
 Francisco Pizarro
 Pancho Villa
 Emiliano Zapata
-Nelson Mandela
 Shaka Zulu
 Robert E. Lee
 Ulysses S. Grant
 Georgy Zhukov
 George Patton
 Subutai
+Yi Sun-sin
+Yasuke
 Sabios, Científicos e Inventores (30)
 Imhotep
 Pitágoras
@@ -112,7 +110,7 @@ Vasco Núñez de Balboa
 Álvar Núñez Cabeza de Vaca
 Richard Francis Burton
 John Cabot
-Bartolomé Díaz
+Bartolomeu Dias
 Francisco de Orellana
 Líderes Espirituales y Religiosos (18)
 Siddhartha Gautama (Buda)
@@ -133,7 +131,13 @@ Francisco de Asís
 Maimónides
 Patanjali
 Nagarjuna
-Semihistóricos y Legendarios (18)
+Líderes Políticos y Estadistas (5)
+Pericles
+Otto von Bismarck
+George Washington
+Abraham Lincoln
+Nelson Mandela
+Semihistóricos y Legendarios (14)
 Rey Arturo
 Merlín
 Robin Hood
@@ -141,17 +145,14 @@ Beowulf
 Sigfrido
 Gilgamesh
 Mulan
-Cuauhtémoc
 Ragnar Lodbrok
 Ivar el Deshuesado
 Väinämöinen
-El Cid Campeador
 Roland
 Cúchulainn
 William Tell
-Yi Sun-sin
 Lady Triệu
-Yasuke
+Fionn mac Cumhaill
 2. Deidades (90)
 Panteón Griego (15)
 Zeus
