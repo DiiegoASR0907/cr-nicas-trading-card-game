@@ -5,7 +5,7 @@
   "batch": "HIS-110 a HIS-127",
   "schema_version": "1.0-draft",
   "status": "documentacion_en_progreso",
-  "note": "Bloque documental inicial de 18 personajes. Las biografías distinguen datos históricos, tradiciones religiosas y cuestiones debatidas; las fuentes son puntos de partida para verificación especializada. Todas las fichas permanecen en_verificacion y no están aprobadas para impresión.",
+  "note": "Integración documental transversal de HIS-110 a HIS-127. Se revisaron cronologías, historicidad, atribuciones textuales, tradiciones religiosas, contextos críticos y referencias académicas/institucionales. Las fichas permanecen en_verificacion y no están aprobadas para impresión.",
   "records": [
     {
       "code": "HIS-110",
@@ -14,21 +14,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "Siglo V a. C. (cronología aproximada)",
       "origin": "Noreste del subcontinente indio; región de los actuales Nepal e India",
-      "dates": "c. siglo V a. C.",
-      "biography": "Maestro ascético y religioso cuya enseñanza dio origen al movimiento budista. Las tradiciones biográficas sitúan su nacimiento en el clan Shakya y narran su renuncia a la vida cortesana, el despertar espiritual en Bodh Gaya y décadas de enseñanza en la llanura del Ganges. La reconstrucción histórica es limitada porque los relatos fueron transmitidos y fijados posteriormente; la cronología tradicional varía entre escuelas y no debe presentarse como certeza.",
+      "dates": "c. siglo V a. C. (cronología discutida)",
+      "biography": "Maestro ascético del clan Shakya cuya enseñanza dio origen a la comunidad budista. Las tradiciones sitúan su despertar en Bodh Gaya y su actividad docente en la llanura del Ganges. La fecha exacta de su vida sigue debatida: las cronologías tradicionales y las reconstrucciones modernas difieren, y los discursos atribuidos a él fueron transmitidos oralmente antes de su fijación escrita. La ficha distingue al maestro histórico de las biografías hagiográficas desarrolladas posteriormente.",
       "highlight_facts": [
-        "Las fuentes budistas tempranas preservan discursos y reglas monásticas atribuidos a él; la comunidad monástica fue central en la difusión inicial del budismo."
+        "La tradición sitúa su despertar en Bodh Gaya y su primera enseñanza en el Parque de los Ciervos, en Sarnath.",
+        "La comunidad monástica temprana fue esencial para preservar y transmitir las enseñanzas atribuidas al Buda.",
+        "No existe una fecha biográfica consensuada; «siglo V a. C.» es una aproximación académica, no una fecha exacta."
       ],
-      "curiosity": "La investigación moderna suele aceptar una figura histórica, pero no permite reconstruir con seguridad muchos episodios de las biografías tradicionales.",
+      "curiosity": "Los cánones budistas no constituyen un único texto uniforme: las distintas escuelas preservaron colecciones y variantes propias.",
       "sources": [
         {
           "title": "Oxford Bibliographies: Gotama, the Historical Buddha",
           "url": "https://academic.oup.com/reference/62340/reference-article-abstract/554143156"
+        },
+        {
+          "title": "Oxford Bibliographies: History of the Buddhist Canon",
+          "url": "https://academic.oup.com/reference/62340/reference-article-abstract/554134298"
+        },
+        {
+          "title": "University of New England: A Discussion on the Determination of the Date of the Historical Buddha",
+          "url": "https://researchers.une.edu.au/en/publications/a-discussion-on-the-determination-of-the-date-of-the-historical-b-5/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-111",
@@ -37,21 +47,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "China antigua, periodo de Primaveras y Otoños",
       "origin": "Estado de Lu, actual Shandong, China",
-      "dates": "trad. 551–479 a. C.",
-      "biography": "Pensador y maestro chino conocido como Kongzi o Maestro Kong. Sus enseñanzas, transmitidas principalmente en las Analectas, trataron la virtud, el aprendizaje, los ritos, la familia y el buen gobierno. Su pensamiento fue desarrollado y reinterpretado por generaciones posteriores, y llegó a influir profundamente en la educación y la administración de Asia oriental.",
+      "dates": "tradicionalmente 551–479 a. C.",
+      "biography": "Pensador y maestro del estado de Lu, conocido como Kongzi o Maestro Kong. Las fuentes antiguas lo asocian con la enseñanza de la virtud, los ritos, el aprendizaje, las obligaciones familiares y el buen gobierno. Las Analectas reúnen diálogos y dichos transmitidos por discípulos y generaciones posteriores; no son un libro redactado y cerrado por Confucio. El confucianismo posterior seleccionó, comentó y transformó esa herencia durante siglos.",
       "highlight_facts": [
-        "La tradición lo presenta como maestro de discípulos y estudioso de los clásicos; la forma actual de las Analectas es resultado de una transmisión textual compleja."
+        "La tradición sitúa su actividad docente en el estado de Lu, durante el periodo de Primaveras y Otoños.",
+        "Las Analectas contienen materiales de transmisión diversa y no pueden tratarse como transcripción literal de sus palabras.",
+        "Su autoridad fue reinterpretada por escuelas y gobiernos chinos posteriores, especialmente durante la época imperial."
       ],
-      "curiosity": "La SEP advierte que los textos asociados a Confucio reflejan diversas capas y que no es sencillo separar con certeza sus palabras originales de las interpretaciones posteriores.",
+      "curiosity": "Algunos textos excavados en Guodian contienen dichos y materiales relacionados con el entorno confuciano sin atribuirlos directamente a Confucio.",
       "sources": [
         {
           "title": "Stanford Encyclopedia of Philosophy: Confucius",
           "url": "https://plato.stanford.edu/entries/confucius/"
+        },
+        {
+          "title": "Internet Encyclopedia of Philosophy: Confucius",
+          "url": "https://iep.utm.edu/confucius/"
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Confucius — textual traditions and Analects",
+          "url": "https://plato.stanford.edu/archives/sum2020/entries/confucius/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-112",
@@ -60,21 +80,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "China antigua; periodo de los Reinos Combatientes en la formación textual",
       "origin": "Tradicionalmente asociado al estado de Chu, China; localización incierta",
-      "dates": "Fecha y biografía inciertas; texto consolidado hacia los siglos IV–III a. C.",
-      "biography": "Figura tradicional vinculada al Daodejing, texto fundamental del pensamiento daoísta. La obra reflexiona sobre el Dao, la virtud, la espontaneidad y el no actuar. La identidad del autor y la fecha de composición son objeto de debate: el nombre Laozi puede significar Maestro Lao y la obra parece haber reunido materiales de distintas épocas.",
+      "dates": "Identidad biográfica incierta; el Daodejing tomó forma entre los siglos IV–III a. C.",
+      "biography": "Figura tradicional asociada al Daodejing, uno de los textos centrales del pensamiento daoísta. La obra reflexiona sobre el Dao, la virtud, la espontaneidad y el gobierno no coercitivo. No está demostrado que todo el texto proceda de un solo autor llamado Laozi: manuscritos de Guodian y Mawangdui muestran versiones y agrupaciones anteriores al texto recibido. La biografía del archivero que abandona China pertenece a la tradición y no puede verificarse como relato biográfico.",
       "highlight_facts": [
-        "El Daodejing fue transmitido como clásico y adquirió un lugar central tanto en el daoísmo filosófico como en tradiciones religiosas daoístas."
+        "Los manuscritos de Guodian, depositados hacia 300 a. C., contienen pasajes que hoy forman parte del Daodejing.",
+        "Los manuscritos de Mawangdui, hallados en una tumba sellada en 168 a. C., conservan otra organización textual.",
+        "El Daodejing fue transmitido y editado en versiones distintas; la división actual en 81 capítulos no es universal ni necesariamente original."
       ],
-      "curiosity": "La biografía del anciano archivero que abandona China y redacta el libro en la frontera procede de relatos antiguos cuya historicidad es cuestionada.",
+      "curiosity": "Los manuscritos de Guodian no contienen el Daodejing completo tal como se lee hoy, sino grupos de pasajes en un orden diferente.",
       "sources": [
         {
-          "title": "Stanford Encyclopedia of Philosophy: Laozi",
+          "title": "Stanford Encyclopedia of Philosophy: Laozi — textual traditions and manuscripts",
           "url": "https://plato.stanford.edu/entries/laozi/"
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Laozi — Guodian and Mawangdui manuscripts",
+          "url": "https://plato.stanford.edu/entries/laozi/"
+        },
+        {
+          "title": "Encyclopaedia Britannica: Daoism: classical texts and traditions",
+          "url": "https://www.britannica.com/topic/Daoism"
         }
       ],
-      "historical_nature": "Histórico",
+      "historical_nature": "Histórico/tradicional; cronología o atribución debatida",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-113",
@@ -83,21 +113,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "Antigüedad iraní; cronología discutida",
       "origin": "Región oriental del mundo iranio o Asia Central; ubicación exacta incierta",
-      "dates": "Probablemente c. 1000 a. C., con propuestas académicas mucho más amplias",
-      "biography": "Profeta y maestro religioso asociado al origen del zoroastrismo. Los Gathas, himnos conservados en el Avesta, constituyen la fuente más cercana a su pensamiento y presentan una enseñanza centrada en Ahura Mazda, la verdad y la elección moral. La fecha y el lugar de su vida siguen debatidos porque los textos no ofrecen sincronismos históricos firmes.",
+      "dates": "Cronología muy discutida; una propuesta influyente lo sitúa c. 1000 a. C.",
+      "biography": "Profeta y maestro religioso asociado al zoroastrismo. Los Gathas, himnos en avéstico antiguo preservados en el Avesta, son la fuente textual más próxima a su pensamiento y se asocian tradicionalmente con Zarathustra. La datación de su vida depende de argumentos lingüísticos e históricos y no cuenta con sincronismos externos firmes: se han propuesto cronologías muy distintas, incluida una fecha cercana a 1000 a. C. y otra alrededor de 600 a. C. Su lugar de origen tampoco está establecido con precisión.",
       "highlight_facts": [
-        "Los Gathas son considerados la parte más antigua del Avesta y la principal base para estudiar su mensaje."
+        "Los Gathas constituyen el núcleo más antiguo del Avesta y la fuente central para estudiar su pensamiento.",
+        "La datación de Zarathustra se debate entre propuestas muy distantes; c. 1000 a. C. es una hipótesis, no una fecha segura.",
+        "La tradición relaciona su enseñanza con Ahura Mazda, la verdad y la elección moral."
       ],
-      "curiosity": "Las cronologías tradicionales tardías no coinciden necesariamente con la datación lingüística e histórica moderna; no existe consenso absoluto sobre su siglo de vida.",
+      "curiosity": "La ausencia de referencias históricas fechables dentro del Avesta impide fijar la vida de Zoroastro mediante una cronología externa directa.",
       "sources": [
         {
-          "title": "Encyclopaedia Iranica: Zoroaster, General Survey",
+          "title": "Encyclopaedia Iranica: Zoroaster: General Survey",
           "url": "https://www.iranicaonline.org/articles/zoroaster-ii-general-survey/"
+        },
+        {
+          "title": "Encyclopaedia Iranica: Zoroaster in the Avesta",
+          "url": "https://www.iranicaonline.org/articles/zoroaster-iii-zoroaster-in-the-avesta/"
+        },
+        {
+          "title": "Wiley / Prods Oktor Skjærvø: The Gathas, a Forgotten Masterpiece",
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781118635193.ctwl0020"
         }
       ],
-      "historical_nature": "Histórico",
+      "historical_nature": "Histórico/tradicional; cronología o atribución debatida",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-114",
@@ -106,21 +146,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "India antigua, periodo de los śramaṇa",
       "origin": "Noreste de India, región de Vaishali según la tradición jaina",
-      "dates": "Tradicionalmente 599–527 a. C.; algunas propuestas modernas lo sitúan más tarde",
-      "biography": "Maestro espiritual jaina conocido también como Vardhamana. La tradición lo considera el vigésimo cuarto tirthankara de la era actual y una figura decisiva en la organización y difusión del jainismo. Enseñó una disciplina ascética basada en la no violencia, la verdad, la no apropiación y el desapego; no debe describirse sin matices como fundador absoluto de una tradición que se entiende a sí misma como mucho más antigua.",
+      "dates": "Tradicionalmente 599–527 a. C.; cronología histórica discutida, probablemente siglo VI–V a. C.",
+      "biography": "Maestro espiritual jaina conocido también como Vardhamana y considerado por la tradición el vigésimo cuarto tirthankara de la era actual. Su enseñanza ascética destacó la no violencia, la verdad, la no apropiación y el desapego. La tradición jaina le atribuye un papel decisivo en la organización de la comunidad de monjes, monjas y laicos; no debe describirse como fundador absoluto de una religión que se considera mucho más antigua. Las fechas tradicionales difieren de varias reconstrucciones históricas modernas.",
       "highlight_facts": [
-        "La tradición jaina le atribuye la consolidación de una comunidad de monjes, monjas y laicos y la formulación de cinco grandes votos."
+        "La tradición jaina lo considera el vigésimo cuarto tirthankara y lo vincula con la consolidación de la comunidad jaina.",
+        "Los textos tempranos jainas, como el Ācārāṅga y el Kalpa Sūtra, transmiten episodios de su vida, pero su redacción y transmisión requieren crítica textual.",
+        "Sus fechas tradicionales 599–527 a. C. no son universalmente aceptadas por la investigación moderna."
       ],
-      "curiosity": "Las fechas tradicionales de su vida difieren de las estimaciones de algunos historiadores; deben mantenerse como cronología discutida.",
+      "curiosity": "La tradición jaina presenta una sucesión de tirthankaras anteriores a Mahavira; por eso «fundador del jainismo» es una simplificación inadecuada.",
       "sources": [
         {
-          "title": "BBC Religions: Mahavira",
-          "url": "https://www.bbc.co.uk/religion/religions/jainism/history/mahavira.shtml"
+          "title": "Routledge Encyclopedia of Philosophy: Mahāvīra (6th–5th century BC)",
+          "url": "https://www.rep.routledge.com/articles/biographical/mahavira-6th-5th-century-bc/v-1"
+        },
+        {
+          "title": "Harvard University: A Timeline of South Asian History — Bibliography",
+          "url": "https://timelinesouthasianhistory.hsites.harvard.edu/bibliography"
+        },
+        {
+          "title": "Oxford History of Historical Writing: Historical traditions in early India",
+          "url": "https://culturahistorica.org/wp-content/uploads/2020/05/thapar-historical-traditions-early-india.pdf"
         }
       ],
-      "historical_nature": "Histórico",
+      "historical_nature": "Histórico/tradicional; cronología o atribución debatida",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-115",
@@ -129,21 +179,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "Tradición israelita antigua; marco histórico debatido",
       "origin": "Egipto y Sinaí en la tradición bíblica; localización biográfica no verificable",
-      "dates": "Fecha desconocida; situado tradicionalmente en el segundo milenio a. C.",
-      "biography": "Figura central de la tradición judía y también del cristianismo y el islam. En la Biblia hebrea aparece como líder de los israelitas en el Éxodo, mediador de la alianza y transmisor de la Ley. La investigación histórica distingue la enorme importancia religiosa y literaria de Moisés de la dificultad para verificar biográficamente los relatos y reconstruir un éxodo tal como lo narran los textos.",
+      "dates": "Fecha desconocida; ubicación tradicional en el segundo milenio a. C. no verificable",
+      "biography": "Figura fundacional de las tradiciones judía, cristiana e islámica. En la Biblia hebrea aparece como líder del Éxodo, mediador de la alianza y transmisor de la Ley; el Corán también lo presenta como profeta. La investigación histórica estudia la formación de las tradiciones mosaicas y la composición del Pentateuco, pero no dispone de una biografía contemporánea independiente que confirme los episodios bíblicos ni permita fijar fechas de nacimiento o muerte. La importancia religiosa de Moisés debe distinguirse de lo que puede establecerse históricamente.",
       "highlight_facts": [
-        "La figura estructura narraciones fundacionales sobre liberación, alianza, legislación y memoria colectiva israelita."
+        "La tradición bíblica lo vincula con el Éxodo, la alianza del Sinaí y la transmisión de la Ley.",
+        "El Pentateuco es una colección textual de composición y redacción complejas, no un testimonio unitario contemporáneo.",
+        "No existe consenso histórico que permita fijar una cronología biográfica de Moisés o verificar de manera independiente todos los episodios del Éxodo."
       ],
-      "curiosity": "No existe consenso académico que permita fijar fechas o confirmar de forma independiente todos los episodios bíblicos de su vida.",
+      "curiosity": "La falta de confirmación externa no demuestra por sí sola que no existiera ninguna memoria histórica detrás de las tradiciones mosaicas.",
       "sources": [
         {
-          "title": "Oxford Academic: Moses and the Exodus",
+          "title": "Oxford Scholarship Online: Moses and the Exodus — James K. Hoffmeier",
           "url": "https://academic.oup.com/book/25374/chapter-abstract/192467684"
+        },
+        {
+          "title": "Society of Biblical Literature: Bible Odyssey: Moses",
+          "url": "https://www.bibleodyssey.org/people/main-articles/moses/"
+        },
+        {
+          "title": "Encyclopaedia Britannica: Moses: Hebrew prophet",
+          "url": "https://www.britannica.com/biography/Moses-Hebrew-prophet"
         }
       ],
-      "historical_nature": "Histórico",
+      "historical_nature": "Figura fundacional de tradición; historicidad individual no verificable con la evidencia disponible",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-116",
@@ -153,20 +213,30 @@
       "period": "Tradiciones patriarcales del antiguo Cercano Oriente",
       "origin": "Mesopotamia y Canaán según el relato del Génesis",
       "dates": "Fecha desconocida; no datable con seguridad",
-      "biography": "Patriarca fundamental de las tradiciones judía, cristiana e islámica. El Génesis lo presenta como Abram, llamado por Dios a dejar su tierra y establecerse en Canaán, y como antepasado de una línea de promesa y alianza. Desde la historia crítica, su biografía no puede reconstruirse con fuentes contemporáneas independientes; sí pueden estudiarse las tradiciones y memorias culturales que se desarrollaron en torno a él.",
+      "biography": "Patriarca central de las tradiciones judía, cristiana e islámica. El Génesis lo presenta como Abram, llamado a dejar su tierra y establecerse en Canaán, y como antepasado de una promesa y alianza. La investigación puede estudiar la antigüedad, geografía y formación de las tradiciones patriarcales, pero no dispone de evidencia contemporánea concluyente que identifique al Abraham individual ni confirme los acontecimientos narrados. Debe describirse como figura fundacional de tradición, no como biografía históricamente comprobada.",
       "highlight_facts": [
-        "Su figura ocupa un lugar central en las genealogías y narrativas de origen de varias religiones abrahámicas."
+        "El Génesis sitúa sus relatos entre Mesopotamia y Canaán, dentro de narraciones sobre parentesco, migración y alianza.",
+        "Las tradiciones sobre Abraham contienen elementos de distintas épocas y no pueden fecharse como una biografía unitaria.",
+        "Su figura es central para las genealogías religiosas de judaísmo, cristianismo e islam."
       ],
-      "curiosity": "La investigación no ha identificado evidencia concluyente que permita confirmar la existencia individual de Abraham ni los acontecimientos narrados sobre él.",
+      "curiosity": "Que algunas tradiciones sobre Abraham conserven recuerdos antiguos no demuestra que podamos identificar al individuo ni verificar los episodios de su relato.",
       "sources": [
         {
-          "title": "Oxford Academic: Historical Memories in the Patriarchal Narratives",
+          "title": "Oxford Scholarship Online: Historical Memories in the Patriarchal Narratives — Ronald Hendel",
           "url": "https://academic.oup.com/book/10720/chapter/158790336"
+        },
+        {
+          "title": "Oxford Scholarship Online: Remembering Abraham — Ronald Hendel",
+          "url": "https://academic.oup.com/book/10720/chapter/158789824"
+        },
+        {
+          "title": "My Jewish Learning: Abraham as a Historical Figure — P. Kyle McCarter",
+          "url": "https://www.myjewishlearning.com/article/abraham/"
         }
       ],
-      "historical_nature": "Histórico",
+      "historical_nature": "Figura fundacional de tradición; historicidad individual no verificable con la evidencia disponible",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-117",
@@ -175,21 +245,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "Siglo I, judaísmo del Segundo Templo y cristianismo primitivo",
       "origin": "Tarso, Cilicia, provincia romana; actividad en el Mediterráneo oriental",
-      "dates": "c. 5–c. 64/67 d. C.",
-      "biography": "Misionero y escritor judío del siglo I, conocido como Pablo de Tarso. Sus cartas auténticas son algunas de las fuentes cristianas más antiguas conservadas. Tras una experiencia de conversión que él describe como revelación de Cristo, desarrolló comunidades entre no judíos y defendió su incorporación sin exigirles la conversión plena al judaísmo. Sus escritos influyeron decisivamente en la teología cristiana posterior.",
+      "dates": "c. 5–c. 64/67 d. C. (fechas aproximadas)",
+      "biography": "Pablo de Tarso fue un misionero y escritor judío del siglo I, y una de las figuras mejor documentadas del cristianismo primitivo. Sus cartas auténticas, escritas aproximadamente entre los años 50 y 60 d. C., son anteriores a los evangelios conservados. Siete cartas suelen aceptarse ampliamente como auténticas; otras atribuidas a Pablo son discutidas. Sus escritos muestran su trabajo entre comunidades judías y no judías y deben cotejarse críticamente con Hechos de los Apóstoles, una narración posterior y de autor distinto.",
       "highlight_facts": [
-        "Siete cartas suelen considerarse ampliamente auténticas por la investigación crítica; sus viajes y conflictos se reconstruyen también mediante Hechos de los Apóstoles, fuente de naturaleza distinta."
+        "Romanos, 1–2 Corintios, Gálatas, Filipenses, 1 Tesalonicenses y Filemón son las siete cartas ampliamente aceptadas como auténticas.",
+        "Sus cartas son algunos de los textos cristianos más antiguos conservados, anteriores a los evangelios canónicos.",
+        "Hechos de los Apóstoles y las cartas paulinas ofrecen testimonios de naturaleza distinta y no siempre coinciden en detalles cronológicos."
       ],
-      "curiosity": "Las fechas de nacimiento y muerte son aproximadas; no todas las cartas atribuidas a Pablo son aceptadas como auténticas por los especialistas.",
+      "curiosity": "Pablo se entendía a sí mismo como judío y situaba su misión dentro de una experiencia de revelación de Cristo; evitar describir su trayectoria con categorías religiosas modernas simplificadoras.",
       "sources": [
         {
-          "title": "Oxford Bibliographies: Paul",
+          "title": "Oxford Bibliographies: Pauline Chronology — Mark Reasoner",
+          "url": "https://academic.oup.com/reference/62341/reference-article-abstract/554103486"
+        },
+        {
+          "title": "American Bible Society: Letters of Paul: chronology and disputed authorship",
+          "url": "https://www.americanbible.org/engage/bible-resources/articles/letters-of-paul/"
+        },
+        {
+          "title": "Oxford Bibliographies: Paul — early Christian writings and chronology",
           "url": "https://academic.oup.com/reference/62341/reference-article-abstract/554098508"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-118",
@@ -199,20 +279,30 @@
       "period": "Antigüedad tardía, siglos IV–V",
       "origin": "Tagaste, África romana (actual Argelia)",
       "dates": "354–430 d. C.",
-      "biography": "Obispo, teólogo y filósofo latino cuya obra articuló debates sobre memoria, voluntad, mal, gracia, libertad y comunidad política. Tras una juventud intelectual vinculada al maniqueísmo y al neoplatonismo, se convirtió al cristianismo y fue obispo de Hipona. Sus Confesiones y La ciudad de Dios tuvieron una influencia duradera en la filosofía y la teología occidentales.",
+      "biography": "Aurelius Augustinus, obispo de Hipona en el norte de África romana, fue filósofo y teólogo de la Antigüedad tardía. Sus Confesiones combinan memoria personal, interpretación bíblica y reflexión filosófica; La ciudad de Dios respondió a debates religiosos y políticos de su tiempo. Participó en controversias con maniqueos, donatistas y pelagianos, y sus ideas sobre gracia, pecado y autoridad tuvieron una influencia duradera. Debe situarse en las redes intelectuales africanas y mediterráneas de su época.",
       "highlight_facts": [
-        "Participó en controversias con maniqueos, donatistas y pelagianos; sus posiciones sobre gracia y pecado suscitaron debates prolongados."
+        "Fue obispo de Hipona y escribió Confesiones y La ciudad de Dios, dos obras influyentes de la Antigüedad tardía.",
+        "Su trayectoria intelectual estuvo marcada por el maniqueísmo, el neoplatonismo y su conversión al cristianismo.",
+        "Sus controversias con donatistas y pelagianos influyeron en debates posteriores sobre gracia, Iglesia y autoridad."
       ],
-      "curiosity": "Debe contextualizarse como pensador de la Antigüedad tardía africana, no simplemente como autor de una supuesta Edad Media ya plenamente formada.",
+      "curiosity": "Las Confesiones no son una autobiografía neutral en sentido moderno, sino una obra literaria, filosófica y teológica de autorrepresentación.",
       "sources": [
         {
           "title": "Stanford Encyclopedia of Philosophy: Augustine of Hippo",
           "url": "https://plato.stanford.edu/entries/augustine/"
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Augustine of Hippo — works and editions",
+          "url": "https://plato.stanford.edu/entries/augustine/index.html"
+        },
+        {
+          "title": "Encyclopaedia Britannica: Saint Augustine: bishop and theologian",
+          "url": "https://www.britannica.com/biography/Saint-Augustine"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-119",
@@ -222,20 +312,30 @@
       "period": "Europa medieval, siglo XIII",
       "origin": "Roccasecca, Italia meridional",
       "dates": "c. 1225–1274",
-      "biography": "Fraile dominico, filósofo y teólogo que integró de manera sistemática elementos de Aristóteles en la reflexión cristiana escolástica. Enseñó en centros universitarios como París y escribió la Suma contra los gentiles y la Suma teológica, obra que quedó inconclusa al morir. Su método combinó exposición de objeciones, argumentos y respuestas.",
+      "biography": "Fraile dominico, filósofo y teólogo que desarrolló una síntesis escolástica de la filosofía aristotélica y la teología cristiana. Trabajó con textos y comentarios transmitidos por tradiciones griegas, árabes y judías, además de fuentes latinas y patrísticas. Escribió la Summa contra gentiles y la Summa theologiae, esta última inconclusa al detenerse su trabajo en 1273. Su trayectoria se conoce mediante sus obras y testimonios posteriores, cuyas anécdotas hagiográficas requieren cautela.",
       "highlight_facts": [
-        "Su trabajo refleja la circulación medieval de textos aristotélicos y comentarios transmitidos también por autores árabes y judíos."
+        "La Summa theologiae fue escrita entre aproximadamente 1267 y 1273 y quedó inconclusa tras la tercera parte.",
+        "Sus comentarios y síntesis filosóficas se apoyaron en traducciones y debates intelectuales de autores griegos, árabes y judíos.",
+        "Murió en la abadía de Fossanova el 7 de marzo de 1274."
       ],
-      "curiosity": "Muchas anécdotas de su vida proceden de testimonios hagiográficos posteriores y no tienen el mismo grado de certeza que su cronología académica.",
+      "curiosity": "La Summa contra gentiles y la Summa theologiae son obras diferentes, con objetivos y contextos propios; no deben confundirse.",
       "sources": [
         {
-          "title": "Stanford Encyclopedia of Philosophy: Thomas Aquinas",
+          "title": "Stanford Encyclopedia of Philosophy: Thomas Aquinas — life and works",
+          "url": "https://plato.stanford.edu/entries/aquinas/"
+        },
+        {
+          "title": "Oxford Scholarship Online: Chronological List of Aquinas’s Writings",
+          "url": "https://academic.oup.com/edited-volume/28242/chapter/213362059"
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Thomas Aquinas — work chronology and unfinished Summa",
           "url": "https://plato.stanford.edu/entries/aquinas/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-120",
@@ -245,20 +345,30 @@
       "period": "Europa de la Reforma, siglo XVI",
       "origin": "Eisleben y territorios del Sacro Imperio Romano Germánico",
       "dates": "1483–1546",
-      "biography": "Teólogo y fraile agustino alemán cuya crítica a prácticas eclesiásticas y cuya reflexión sobre la justificación por la fe impulsaron la Reforma protestante. Sus escritos y traducciones bíblicas contribuyeron a transformar la vida religiosa y política europea. Su legado incluye también escritos antijudíos tardíos, que deben ser tratados críticamente y no omitidos en una valoración histórica completa.",
+      "biography": "Teólogo y fraile agustino alemán cuya crítica a las indulgencias y reflexión sobre la justificación contribuyeron al inicio de la Reforma protestante. Las 95 tesis de 1517 fueron concebidas como invitación a una disputa académica; el relato del gesto dramático de clavarlas personalmente en la puerta de la iglesia se consolidó en la memoria posterior y es debatido. La Reforma fue un proceso colectivo y transnacional. Su legado incluye escritos antijudíos virulentos, especialmente los publicados en 1543, que deben mencionarse críticamente.",
       "highlight_facts": [
-        "Las 95 tesis de 1517 se convirtieron en símbolo del inicio de la Reforma, aunque el proceso fue más amplio y tuvo múltiples causas."
+        "Las 95 tesis de 1517 cuestionaron la predicación y práctica de las indulgencias y convocaron a debate teológico.",
+        "La difusión de sus escritos dependió de imprentas, aliados políticos y movimientos religiosos más amplios.",
+        "En 1543 publicó escritos antijudíos que promovían medidas violentas contra comunidades judías; forman parte central de su legado problemático."
       ],
-      "curiosity": "La Reforma no fue obra de una sola persona: involucró redes políticas, impresores, movimientos religiosos y conflictos institucionales.",
+      "curiosity": "La escena de Lutero clavando personalmente las tesis se convirtió en símbolo de la Reforma, pero su forma exacta no está establecida con certeza.",
       "sources": [
         {
-          "title": "Encyclopaedia Britannica: Martin Luther",
-          "url": "https://www.britannica.com/biography/Martin-Luther"
+          "title": "Library of Congress: Martin Luther as Priest, Heretic and Outlaw: Luther the Priest",
+          "url": "https://guides.loc.gov/martin-luther-priest-heretic-outlaw/luther-the-priest"
+        },
+        {
+          "title": "English Historical Review / Oxford Academic: Luther’s Ninety-Five Theses and the Origins of the Reformation Narrative",
+          "url": "https://doi.org/10.1093/ehr/cex224"
+        },
+        {
+          "title": "Theology Today: Martin Luther and the Jews: Context and Content",
+          "url": "https://journals.sagepub.com/doi/10.1177/0040573617721911"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-121",
@@ -268,20 +378,30 @@
       "period": "Reforma protestante, siglo XVI",
       "origin": "Noyon, Reino de Francia; actividad principal en Ginebra",
       "dates": "1509–1564",
-      "biography": "Teólogo y reformador francés cuya obra Institución de la religión cristiana articuló una influyente exposición de la teología reformada. Tras abandonar Francia, desarrolló gran parte de su labor en Ginebra, donde participó en la organización de la iglesia y de la vida pública. Su pensamiento influyó en diversas comunidades protestantes europeas y atlánticas.",
+      "biography": "Teólogo y reformador francés cuya Institución de la religión cristiana se convirtió en una exposición influyente de la teología reformada. Desarrolló gran parte de su labor en Ginebra, donde participó en la organización de la iglesia y en debates con las autoridades civiles. La disciplina eclesiástica, las Ordenanzas de 1541 y el caso de Miguel Servet en 1553 muestran las tensiones entre autoridad religiosa y gobierno urbano. Calvino tuvo participación en la controversia y defendió el castigo de la herejía, aunque no fue juez civil único ni dictó por sí solo la sentencia.",
       "highlight_facts": [
-        "La Institución apareció por primera vez en 1536 y fue ampliada en ediciones sucesivas."
+        "La primera edición de la Institución de la religión cristiana apareció en 1536 y fue ampliada en ediciones posteriores.",
+        "Las Ordenanzas Eclesiásticas de 1541 organizaron la vida de la iglesia ginebrina en interacción con los consejos civiles.",
+        "Miguel Servet fue ejecutado en Ginebra en 1553 tras un proceso civil; Calvino intervino en la controversia y defendió su condena."
       ],
-      "curiosity": "La Ginebra de Calvino combinó reforma eclesiástica, disciplina moral y autoridad civil; su gobierno y sus conflictos deben estudiarse en contexto.",
+      "curiosity": "La Ginebra de Calvino no fue un gobierno personal del teólogo: las autoridades civiles conservaron funciones decisivas, aunque la disciplina religiosa influyó en la vida pública.",
       "sources": [
         {
-          "title": "Internet Encyclopedia of Philosophy: John Calvin",
-          "url": "https://iep.utm.edu/john-calvin/"
+          "title": "Cambridge University Press: Geneva and Calvin, 1541–64",
+          "url": "https://www.cambridge.org/core/books/abs/christian-polity-of-john-calvin/geneva-and-calvin-154164/93EAAFA927ACD005162D2329186262B2"
+        },
+        {
+          "title": "Verbum et Ecclesia: The question of Calvin’s involvement in the trial of Servetus",
+          "url": "https://verbumetecclesia.org.za/index.php/ve/article/view/1216"
+        },
+        {
+          "title": "Universidade de São Paulo: Study of Geneva’s Ecclesiastical Ordinances and Consistory",
+          "url": "https://revistas.usp.br/revhistoria/en/article/view/214575"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-122",
@@ -290,21 +410,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "Punjab, siglos XV–XVI",
       "origin": "Talwandi, Punjab (actual Nankana Sahib, Pakistán)",
-      "dates": "1469–1539",
-      "biography": "Maestro espiritual, poeta y fundador del sijismo, reconocido como el primero de los diez Gurús sijes. Enseñó la unidad de Dios, la igualdad humana, la honestidad, el servicio y la devoción. Sus himnos forman parte del Guru Granth Sahib. Las narraciones de sus viajes y episodios milagrosos proceden en buena medida de janamsakhis, textos devocionales que deben distinguirse de documentación contemporánea.",
+      "dates": "1469–1539 (cronología tradicional ampliamente aceptada)",
+      "biography": "Guru Nanak fue maestro espiritual, poeta y figura fundacional del sijismo, reconocido como el primero de los diez Gurús humanos en la tradición sij. Sus himnos, incorporados al Guru Granth Sahib, enseñan la devoción a un Dios único, la igualdad, el servicio y la vida honesta. Las janamsakhis narran episodios de su vida y viajes, pero son relatos devocionales redactados posteriormente y no deben tratarse como registros contemporáneos. Los primeros manuscritos de sus composiciones forman parte de una historia textual compleja.",
       "highlight_facts": [
-        "Sus composiciones poéticas fueron incorporadas a la escritura sagrada sij y su comunidad se estableció en Kartarpur."
+        "Sus composiciones poéticas forman parte del Guru Granth Sahib, escritura sagrada sij.",
+        "La tradición vincula su comunidad con Kartarpur, donde se desarrolló una temprana forma de vida comunitaria sij.",
+        "Los primeros manuscritos y pothis permiten estudiar la transmisión de sus himnos antes de la compilación del Adi Granth."
       ],
-      "curiosity": "Las tradiciones biográficas discrepan sobre algunos episodios y fechas festivas; la fecha de nacimiento aceptada suele ser 1469.",
+      "curiosity": "Las janamsakhis son importantes para la memoria religiosa sij, pero sus episodios milagrosos y viajes requieren distinguirse de la evidencia histórica y manuscrita.",
       "sources": [
         {
-          "title": "UCLA: Guru Nanak",
-          "url": "https://southasia.ucla.edu/religions/paths/sikhism/guru-nanak/"
+          "title": "Oxford Scholarship Online: A Survey of Early Manuscripts — Pashaura Singh",
+          "url": "https://academic.oup.com/book/10787/chapter-abstract/158919311"
+        },
+        {
+          "title": "Oxford Academic: Guru Nanak and his first successors — Eleanor Nesbitt",
+          "url": "https://doi.org/10.1093/actrade/9780198745570.003.0002"
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Sikh Philosophy — Janamsakhi traditions",
+          "url": "https://plato.stanford.edu/entries/sikh-philosophy/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-123",
@@ -314,20 +444,30 @@
       "period": "España del Siglo de Oro, siglo XVI",
       "origin": "Ávila, Corona de Castilla",
       "dates": "1515–1582",
-      "biography": "Religiosa carmelita, escritora y reformadora católica. Impulsó junto con colaboradores la reforma descalza del Carmelo y fundó conventos que promovían una vida contemplativa de mayor austeridad. Sus obras, entre ellas Libro de la vida, Camino de perfección y Las moradas, son fuentes centrales de la literatura mística en lengua española.",
+      "biography": "Religiosa carmelita, escritora y reformadora castellana que impulsó, junto con colaboradores, la reforma descalza del Carmelo y fundó conventos. Sus obras —entre ellas Libro de la vida, Camino de perfección y Las moradas— son centrales para la literatura mística en español. El Libro de la vida fue redactado a petición de sus confesores y revisado; su manuscrito fue retenido por la Inquisición hasta 1586. Su familia tenía ascendencia conversa, dato relevante para comprender el contexto social de la España del siglo XVI.",
       "highlight_facts": [
-        "Fue proclamada doctora de la Iglesia en 1970, primera mujer en recibir ese título en la Iglesia católica."
+        "Fundó conventos reformados y participó en la reorganización de la rama descalza del Carmelo.",
+        "Escribió Libro de la vida, Camino de perfección y Las moradas, obras centrales de la mística española.",
+        "Fue canonizada en 1622 y declarada doctora de la Iglesia católica en 1970."
       ],
-      "curiosity": "Sus relatos autobiográficos combinan experiencia espiritual, convenciones literarias y estrategias de defensa ante autoridades eclesiásticas; deben leerse en su contexto.",
+      "curiosity": "El Libro de la vida no es una autobiografía moderna: combina autorrepresentación espiritual, convenciones literarias y una respuesta a la vigilancia de sus confesores e inquisidores.",
       "sources": [
         {
-          "title": "Encyclopaedia Britannica: Saint Teresa of Ávila",
-          "url": "https://www.britannica.com/biography/Saint-Teresa-of-Avila"
+          "title": "Oxford Bibliographies: Teresa of Avila — Elizabeth T. Howe",
+          "url": "https://academic.oup.com/reference/62416/reference-article-abstract/555951626"
+        },
+        {
+          "title": "Oxford Scholarship Online: Teresa of Avila — Robert S. Miola",
+          "url": "https://academic.oup.com/book/48685/chapter-abstract/420805458"
+        },
+        {
+          "title": "Yale University: The Life of Saint Teresa of Avila: A Biography",
+          "url": "https://news.yale.edu/2019/07/01/life-saint-teresa-avila-biography"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-124",
@@ -336,21 +476,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "Italia medieval, siglos XII–XIII",
       "origin": "Asís, ducado de Spoleto, Italia",
-      "dates": "1181/1182–1226",
-      "biography": "Predicador y fundador de la orden de los Hermanos Menores, asociado a una vida de pobreza voluntaria, fraternidad y servicio. Reunió seguidores y obtuvo aprobación pontificia para su movimiento, que se convirtió en una de las grandes órdenes religiosas medievales. En 1219 viajó al campamento cruzado en Egipto y se entrevistó con el sultán al-Kamil, episodio que suele estudiarse en el contexto de las cruzadas.",
+      "dates": "c. 1181/1182–1226",
+      "biography": "Predicador de Asís y fundador del movimiento de los Hermanos Menores, asociado a la pobreza voluntaria, la fraternidad y el servicio. La regla franciscana definitiva recibió aprobación papal en 1223 y Francisco fue canonizado en 1228. En 1219 cruzó las líneas durante la Quinta Cruzada y se entrevistó con el sultán al-Malik al-Kamil en Egipto. El encuentro está atestiguado por fuentes cercanas, pero los detalles y su interpretación posterior como diálogo interreligioso moderno deben tratarse con cautela.",
       "highlight_facts": [
-        "La regla franciscana recibió aprobación papal definitiva en 1223; Francisco fue canonizado en 1228."
+        "La Regla definitiva de los Hermanos Menores recibió aprobación papal en 1223.",
+        "En 1219 se reunió con el sultán al-Malik al-Kamil durante el sitio cruzado de Damieta.",
+        "Fue canonizado por Gregorio IX en 1228, dos años después de su muerte."
       ],
-      "curiosity": "Los relatos de milagros y estigmas pertenecen a tradiciones hagiográficas y deben distinguirse de los datos biográficos documentables.",
+      "curiosity": "La reunión con al-Kamil fue un episodio real en contexto de cruzada; los testimonios no permiten reconstruir con precisión todo lo que se dijo en la audiencia.",
       "sources": [
         {
-          "title": "Encyclopaedia Britannica: Saint Francis of Assisi",
-          "url": "https://www.britannica.com/biography/Saint-Francis-of-Assisi"
+          "title": "Cambridge University Press: Francis and the encounter with the sultan (1219) — Steven J. McMichael",
+          "url": "https://www.cambridge.org/core/books/abs/cambridge-companion-to-francis-of-assisi/francis-and-the-encounter-with-the-sultan-1219/6BC5313CF40FF8620CD2F07432D90824"
+        },
+        {
+          "title": "Cambridge University Press: The Friar and the Sultan: Francis of Assisi’s Mission to Egypt — John Tolan",
+          "url": "https://www.cambridge.org/core/journals/european-review/article/abs/friar-and-the-sultan-francis-of-assisis-mission-to-egypt/9DDB3996FE485ECBBB10B61121706F40"
+        },
+        {
+          "title": "Vatican City State: Saint Francis of Assisi: chronology and canonization",
+          "url": "https://www.vaticanstate.va/en/component/content/article/4-october-saint-francis-of-assisi-patron-saint-of-italy.html"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-125",
@@ -360,20 +510,30 @@
       "period": "Mundo judío medieval, siglo XII",
       "origin": "Córdoba, al-Ándalus; posteriormente Fez y El Cairo",
       "dates": "1138–1204",
-      "biography": "Moisés ben Maimón, conocido como Maimónides o Rambam, fue filósofo, jurista y médico judío. Su Mishné Torá sistematizó la ley judía y su Guía de los perplejos examinó la relación entre filosofía aristotélica y tradición religiosa. Vivió en un periodo de cambios políticos y desplazamientos forzados en el Mediterráneo occidental y el norte de África.",
+      "biography": "Moisés ben Maimón, conocido como Maimónides o Rambam, fue filósofo, jurista y médico judío nacido en Córdoba. Su Mishné Torá sistematizó la ley judía y su Guía de los perplejos, concluida hacia 1190, examinó la relación entre filosofía aristotélica y tradición religiosa. Tras la conquista almohade de Córdoba en 1148, su familia abandonó al-Ándalus y pasó por el norte de África antes de establecerse en Egipto. También escribió tratados médicos y ejerció como médico en El Cairo.",
       "highlight_facts": [
-        "Su producción influyó en el pensamiento judío y en debates filosóficos posteriores dentro y fuera de las comunidades judías."
+        "Nació en Córdoba en 1138 y murió en Fustat, Egipto, en 1204.",
+        "La Mishné Torá es una extensa sistematización de la ley judía cuya recepción generó debates rabínicos.",
+        "La Guía de los perplejos, terminada hacia 1190, dialoga con la filosofía aristotélica y la tradición judía."
       ],
-      "curiosity": "Su trayectoria debe situarse en el intercambio intelectual entre tradiciones judías, islámicas y cristianas del Mediterráneo medieval.",
+      "curiosity": "Además de filósofo y jurista, Maimónides fue médico y escribió tratados sobre enfermedades, higiene y tratamiento.",
       "sources": [
         {
-          "title": "Stanford Encyclopedia of Philosophy: Maimonides",
+          "title": "Stanford Encyclopedia of Philosophy: Maimonides — life, works and medical writings",
           "url": "https://plato.stanford.edu/entries/maimonides/"
+        },
+        {
+          "title": "Jewish Encyclopedia: Moses Maimonides: biography and medical works",
+          "url": "https://www.jewishencyclopedia.com/articles/10320-moses-ben-maimon"
+        },
+        {
+          "title": "National Library of Medicine: Maimonides and medieval medicine",
+          "url": "https://www.nlm.nih.gov/exhibition/islamic_medical/islamic_07.html"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-126",
@@ -382,21 +542,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "India antigua; periodo clásico de la filosofía sánscrita",
       "origin": "Subcontinente indio; lugar de origen desconocido",
-      "dates": "Texto atribuido generalmente a c. siglos I–IV d. C.; autoría y fecha debatidas",
-      "biography": "Sabio tradicional asociado a los Yoga Sutras, texto que sistematiza una vía de disciplina mental, concentración y liberación. La obra organiza prácticas y conceptos que influyeron profundamente en diversas escuelas de yoga. La identidad histórica de Patanjali es incierta y no puede asumirse sin pruebas que sea la misma persona a quien la tradición atribuye obras de gramática o medicina.",
+      "dates": "c. 400 d. C. como propuesta académica para el Pātañjalayogaśāstra; autoría debatida",
+      "biography": "Sabio tradicional asociado a los Yoga Sutras, texto que sistematiza una vía de disciplina mental, concentración y liberación. La datación de la obra y la identidad de su autor son debatidas; estudios filológicos han propuesto que el Pātañjalayogaśāstra, incluidos los sutras y su comentario, tomó forma hacia finales del siglo IV o alrededor del año 400 d. C. No hay base suficiente para identificar sin matices a este Patanjali con el gramático del Mahābhāṣya o con autores de obras médicas.",
       "highlight_facts": [
-        "Los Yoga Sutras fueron acompañados por comentarios que resultaron decisivos para su interpretación y transmisión."
+        "Los Yoga Sutras sistematizan conceptos y prácticas de una tradición de yoga anterior al texto.",
+        "Una propuesta filológica sitúa la composición del Pātañjalayogaśāstra alrededor de 380–400 d. C.",
+        "La identificación del autor de los Yoga Sutras con el gramático Patanjali no está demostrada."
       ],
-      "curiosity": "El nombre Patanjali puede haber sido atribuido a más de un autor; la fecha de composición del texto continúa discutida entre especialistas.",
+      "curiosity": "Algunos especialistas estudian los sutras y su comentario (Bhāṣya) como una unidad textual, lo que cambia la forma de fechar la obra.",
       "sources": [
+        {
+          "title": "Sahapedia / Philipp A. Maas: The Pātañjalayogaśāstra alias the Yogasūtra and the Yogabhāṣya",
+          "url": "https://www.sahapedia.org/patanjalayogasastra-alias-yogasutra-and-yogabhasya"
+        },
         {
           "title": "Internet Encyclopedia of Philosophy: Yoga Sutras of Patanjali",
           "url": "https://iep.utm.edu/yoga/"
+        },
+        {
+          "title": "Journal of Indian Philosophy: Ethical Causality and Rebirth in the Pātañjalayogaśāstra and Abhidharmakośabhāṣya",
+          "url": "https://doi.org/10.1007/s10781-024-09574-8"
         }
       ],
-      "historical_nature": "Histórico",
+      "historical_nature": "Histórico/tradicional; cronología o atribución debatida",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     },
     {
       "code": "HIS-127",
@@ -405,21 +575,31 @@
       "category": "Líderes Espirituales y Religiosos",
       "period": "India antigua, budismo Mahayana, siglos II–III",
       "origin": "Probablemente sur de India; localización exacta incierta",
-      "dates": "c. 150–250 d. C.",
-      "biography": "Monje y filósofo budista considerado figura principal de la escuela Madhyamaka. Sus análisis de la vacuidad y del surgimiento dependiente cuestionaron la idea de que los fenómenos posean una esencia independiente. Sus obras influyeron de manera profunda en las tradiciones filosóficas budistas de India, Tíbet y Asia oriental.",
+      "dates": "c. 150–250 d. C. (cronología aproximada)",
+      "biography": "Monje y filósofo budista indio, figura principal de la escuela Madhyamaka. Su obra más importante, la Mūlamadhyamakakārikā, desarrolla una filosofía de la vacuidad y del surgimiento dependiente, cuestionando que los fenómenos posean una esencia independiente. Se le atribuyen otros tratados con distintos grados de aceptación; la existencia de autores posteriores llamados Nāgārjuna y la atribución de textos a autoridades prestigiosas complican la delimitación de su corpus. Los datos biográficos seguros son escasos y su origen en el sur de India es probable, no definitivo.",
       "highlight_facts": [
-        "La atribución de textos concretos a Nagarjuna requiere cautela, pues distintas obras circularon bajo su nombre y pudieron pertenecer a autores diferentes."
+        "La Mūlamadhyamakakārikā es la obra central asociada a Nāgārjuna y a la filosofía Madhyamaka.",
+        "Su análisis de la vacuidad cuestiona la existencia inherente o independiente de los fenómenos; no equivale a afirmar que nada existe.",
+        "La atribución de otros textos a Nāgārjuna debe evaluarse individualmente, pues no hay un corpus único aceptado sin reservas."
       ],
-      "curiosity": "Las biografías legendarias fueron redactadas siglos después; la información histórica segura sobre su vida es escasa.",
+      "curiosity": "La SEP distingue un núcleo de obras cuya atribución es ampliamente aceptada de otros textos asociados al nombre de Nāgārjuna con menor seguridad.",
       "sources": [
         {
-          "title": "Stanford Encyclopedia of Philosophy: Nāgārjuna",
+          "title": "Stanford Encyclopedia of Philosophy: Nāgārjuna — life and works (revised 2026)",
           "url": "https://plato.stanford.edu/entries/nagarjuna/"
+        },
+        {
+          "title": "Internet Encyclopedia of Philosophy: Nagarjuna",
+          "url": "https://iep.utm.edu/nagarjun/"
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy Archive: Nāgārjuna — works and attribution",
+          "url": "https://plato.stanford.edu/archives/fall2023/entries/nagarjuna/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión."
     }
   ]
 }
