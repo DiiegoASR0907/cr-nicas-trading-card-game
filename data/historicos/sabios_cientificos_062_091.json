@@ -5,7 +5,7 @@
   "batch": "HIS-062 a HIS-091",
   "schema_version": "1.0-draft",
   "status": "documentacion_en_progreso",
-  "note": "30 registros iniciales siguiendo el orden editorial del README. Todas las fichas permanecen en_verificacion; referencias iniciales sujetas a revisión bibliográfica y verificación factual.",
+  "note": "Integración documental transversal realizada para HIS-062 a HIS-091. Las fechas aproximadas, atribuciones discutidas y límites de las fuentes se explicitan en cada registro y en el informe de auditoría. Todas las fichas permanecen en_verificacion y no están aprobadas para impresión.",
   "records": [
     {
       "code": "HIS-062",
@@ -17,18 +17,30 @@
       "period": "Egipto antiguo, Imperio Antiguo",
       "origin": "Egipto",
       "dates": "fl. c. siglo XXVII a. C.",
-      "biography": "Alto funcionario de Dyeser (Zoser), asociado tradicionalmente con el diseño del complejo funerario de Saqqara y la pirámide escalonada. Su prestigio creció después de su muerte hasta recibir culto como figura vinculada a la sabiduría y la medicina.",
-      "highlight_facts": [],
-      "curiosity": "La atribución de conocimientos médicos concretos durante su vida es incierta; su posterior divinización está mejor documentada.",
+      "biography": "Alto funcionario de Dyeser (Netjerkhet), vinculado por la tradición historiográfica al complejo funerario y la pirámide escalonada de Saqqara. Las inscripciones contemporáneas conservadas confirman su nombre y altos cargos, pero no describen explícitamente su autoría arquitectónica; siglos después fue divinizado y asociado con la sabiduría.",
+      "highlight_facts": [
+        "Sirvió durante la III dinastía, bajo el reinado de Dyeser.",
+        "Su nombre aparece en inscripciones vinculadas a la corte real.",
+        "Su culto póstumo lo convirtió en una figura divina asociada con la sabiduría y, más tarde, la medicina."
+      ],
+      "curiosity": "La atribución del diseño de la pirámide escalonada es tradicional y ampliamente aceptada en la divulgación museística, pero no está expresada de forma explícita en las escasas inscripciones contemporáneas.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://egyptianmuseum.org/explore/old-kingdom-architects-imhotep"
+          "title": "Imhotep: A Sage between Fiction and Reality",
+          "url": "https://arce.org/resource/imhotep-sage-between-fiction-and-reality/"
+        },
+        {
+          "title": "Imhotep, donated by Padisu",
+          "url": "https://www.metmuseum.org/art/collection/search/552441"
+        },
+        {
+          "title": "Netjerkhet (Djoser)",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/kingdjoser.html"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-063",
@@ -40,18 +52,30 @@
       "period": "Grecia arcaica",
       "origin": "Samos y Crotona, mundo griego",
       "dates": "c. 570–c. 490 a. C.",
-      "biography": "Filósofo y fundador de una comunidad religiosa e intelectual en el sur de Italia, cuyos seguidores desarrollaron doctrinas sobre número, armonía y vida disciplinada.",
-      "highlight_facts": [],
-      "curiosity": "No dejó escritos conocidos y las biografías conservadas son tardías; no se le deben atribuir sin matices todos los teoremas y descubrimientos pitagóricos.",
+      "biography": "Filósofo y fundador de una comunidad religiosa e intelectual en el sur de Italia. La tradición pitagórica vinculó su enseñanza con la vida disciplinada, la transmigración del alma, la armonía y las relaciones numéricas; distinguir al maestro histórico de los desarrollos de sus seguidores.",
+      "highlight_facts": [
+        "Fundó una comunidad en Crotona, en el sur de Italia.",
+        "Su escuela relacionó número, armonía y orden del cosmos.",
+        "La tradición posterior le atribuyó descubrimientos matemáticos que no pueden adjudicarse con seguridad al individuo."
+      ],
+      "curiosity": "Las biografías extensas conservadas fueron escritas siglos después de su vida; las fuentes tempranas no confirman que demostrara el teorema que lleva su nombre.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Pythagoras — Stanford Encyclopedia of Philosophy",
           "url": "https://plato.stanford.edu/entries/pythagoras/"
+        },
+        {
+          "title": "Pythagoreanism — Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/pythagoreanism/"
+        },
+        {
+          "title": "Aristotle, Metaphysics (referencia al pensamiento pitagórico)",
+          "url": "https://classics.mit.edu/Aristotle/metaphysics.html"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-064",
@@ -60,19 +84,31 @@
       "category": "Sabios, Científicos e Inventores",
       "period": "Grecia clásica",
       "origin": "Atenas",
-      "dates": "469–399 a. C.",
-      "biography": "Filósofo ateniense conocido por el método de diálogo y examen crítico de las creencias. Fue juzgado y ejecutado por la ciudad de Atenas en 399 a. C.",
-      "highlight_facts": [],
-      "curiosity": "No escribió obras; su pensamiento se reconstruye principalmente a través de testimonios distintos y a veces contradictorios, especialmente Platón, Jenofonte y Aristófanes.",
+      "dates": "469/470–399 a. C.",
+      "biography": "Filósofo ateniense conocido por examinar mediante el diálogo las definiciones, creencias y pretensiones de conocimiento. Fue juzgado y condenado en Atenas en 399 a. C.; su pensamiento se reconstruye a partir de testimonios literarios distintos, no de escritos propios.",
+      "highlight_facts": [
+        "Participó en la vida pública e intelectual de Atenas.",
+        "Su interrogación crítica inspiró la tradición conocida como método socrático.",
+        "Fue condenado a muerte en 399 a. C. y murió tras ingerir cicuta, según los relatos antiguos."
+      ],
+      "curiosity": "Aristófanes, Jenofonte y Platón ofrecen retratos diferentes; los diálogos platónicos no son transcripciones literales de conversaciones.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Socrates — Stanford Encyclopedia of Philosophy",
           "url": "https://plato.stanford.edu/entries/socrates/"
+        },
+        {
+          "title": "Plato, Apology — Perseus Digital Library",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Ap."
+        },
+        {
+          "title": "Xenophon, Memorabilia — Perseus Digital Library",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Xen.+Mem."
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-065",
@@ -84,18 +120,30 @@
       "period": "Grecia clásica",
       "origin": "Atenas y mundo griego",
       "dates": "c. 427/428–347 a. C.",
-      "biography": "Filósofo ateniense, discípulo de Sócrates y fundador de la Academia. Sus diálogos abordaron ética, política, conocimiento, realidad y educación, y marcaron profundamente la tradición filosófica.",
-      "highlight_facts": [],
-      "curiosity": "La cronología y autenticidad de algunas obras y cartas siguen debatidas; los diálogos son obras filosóficas y literarias, no transcripciones neutrales.",
+      "biography": "Filósofo ateniense, discípulo de Sócrates y fundador de la Academia, establecida hacia 387 a. C. Sus diálogos exploraron ética, política, conocimiento, metafísica, educación y cosmología, y ejercieron una influencia duradera en la filosofía.",
+      "highlight_facts": [
+        "Fundó la Academia de Atenas, una de las primeras instituciones filosóficas duraderas del mundo griego.",
+        "Compuso diálogos como República, Fedón y Timeo.",
+        "Su pensamiento influyó profundamente en las tradiciones filosóficas antiguas y posteriores."
+      ],
+      "curiosity": "Los diálogos son composiciones filosóficas y literarias, no actas de conversaciones; la autenticidad de algunas obras y cartas atribuidas a Platón continúa debatida.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Plato — Stanford Encyclopedia of Philosophy",
           "url": "https://plato.stanford.edu/entries/plato/"
+        },
+        {
+          "title": "Plato, Republic — Perseus Digital Library",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Rep."
+        },
+        {
+          "title": "Plato, Timaeus — Perseus Digital Library",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Plat.+Tim."
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-066",
@@ -107,18 +155,30 @@
       "period": "Grecia clásica",
       "origin": "Estagira, Atenas y Macedonia",
       "dates": "384–322 a. C.",
-      "biography": "Filósofo y naturalista griego, alumno de Platón y tutor de Alejandro de Macedonia. Sus investigaciones abarcaron lógica, biología, física, metafísica, ética, política y poética.",
-      "highlight_facts": [],
-      "curiosity": "Gran parte de su corpus conservado parece derivar de materiales de enseñanza; algunas ideas científicas fueron superadas, aunque su influencia fue enorme.",
+      "biography": "Filósofo y naturalista nacido en Estagira, alumno de Platón y tutor del joven Alejandro de Macedonia. Tras trabajar en Macedonia regresó a Atenas y estableció su escuela en el Liceo hacia 335 a. C.; sus investigaciones abarcaron lógica, biología, física, ética, política y poética.",
+      "highlight_facts": [
+        "Estudió en la Academia de Platón durante aproximadamente veinte años.",
+        "Fundó su escuela en el Liceo de Atenas hacia 335 a. C.",
+        "Sus escritos abarcaron lógica, ciencias naturales, ética, política y teoría literaria."
+      ],
+      "curiosity": "El corpus conservado parece incluir materiales de enseñanza editados y transmitidos después; no debe suponerse que todos los textos llegaron a nosotros en su forma original.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.britannica.com/biography/Aristotle"
+          "title": "Aristotle — Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/aristotle/"
+        },
+        {
+          "title": "The Lyceum — Internet Encyclopedia of Philosophy",
+          "url": "https://iep.utm.edu/lyceum/"
+        },
+        {
+          "title": "Aristotle, Politics — Perseus Digital Library",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Pol."
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-067",
@@ -130,18 +190,30 @@
       "period": "Periodo helenístico",
       "origin": "Siracusa, Sicilia",
       "dates": "c. 287–212 a. C.",
-      "biography": "Matemático, físico e ingeniero griego cuyos trabajos sobre geometría, áreas, volúmenes, equilibrio e hidrostática fueron fundamentales para la ciencia antigua.",
-      "highlight_facts": [],
-      "curiosity": "Las historias sobre espejos incendiarios y máquinas extraordinarias tienen grados variables de respaldo; distinguir las obras matemáticas conservadas de relatos posteriores.",
+      "biography": "Matemático, físico e ingeniero de Siracusa. Sus tratados sobre geometría, áreas, volúmenes, equilibrio e hidrostática establecieron resultados fundamentales de la matemática antigua; murió durante la captura romana de la ciudad en 212 a. C.",
+      "highlight_facts": [
+        "Desarrolló métodos geométricos para calcular áreas y volúmenes.",
+        "Expuso principios de hidrostática en Sobre los cuerpos flotantes.",
+        "Estudió aproximaciones de π y sistemas para expresar números muy grandes."
+      ],
+      "curiosity": "Los relatos del ¡Eureka!, los espejos incendiarios y sus últimas palabras proceden de tradiciones literarias posteriores y deben diferenciarse de sus obras conservadas.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Archimedes of Syracuse — MacTutor, University of St Andrews",
           "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/"
+        },
+        {
+          "title": "The Method — Archimedes, translated text",
+          "url": "https://www.maths.tcd.ie/pub/HistMath/People/Archimedes/Method/"
+        },
+        {
+          "title": "Plutarch, Life of Marcellus — Perseus Digital Library",
+          "url": "https://www.perseus.tufts.edu/hopper/text?doc=Plut.+Marc."
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-068",
@@ -152,19 +224,31 @@
       "category": "Sabios, Científicos e Inventores",
       "period": "Antigüedad tardía",
       "origin": "Alejandría, Egipto romano",
-      "dates": "c. 350/370–415 d. C.",
-      "biography": "Filósofa, matemática y maestra neoplatónica que dirigió una escuela en Alejandría y participó en la vida intelectual de la ciudad. Murió asesinada en un episodio de violencia política y religiosa.",
-      "highlight_facts": [],
-      "curiosity": "Las fuentes sobre su vida y obra son limitadas; la imagen moderna de Hipatia incorpora elementos legendarios y debe distinguirse de los testimonios antiguos.",
+      "dates": "c. 370–415 d. C. (nacimiento incierto)",
+      "biography": "Filósofa neoplatónica, matemática y maestra en Alejandría, donde alcanzó prestigio intelectual y mantuvo vínculos con figuras públicas como el prefecto Orestes. Fue asesinada en 415 en un contexto de conflicto político y religioso.",
+      "highlight_facts": [
+        "Enseñó filosofía y matemáticas en Alejandría.",
+        "Mantuvo correspondencia y relaciones intelectuales con Sinesio de Cirene.",
+        "Fue asesinada en marzo de 415 por una multitud en medio de tensiones políticas y religiosas."
+      ],
+      "curiosity": "No se conserva un corpus seguro de obras matemáticas escritas por ella; algunas atribuciones de comentarios y tratados son indirectas o discutidas.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Hypatia of Alexandria — MacTutor, University of St Andrews",
           "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
+        },
+        {
+          "title": "Ecclesiastical History, Book VII, chapter 15 — Socrates Scholasticus",
+          "url": "https://www.newadvent.org/fathers/26017.htm"
+        },
+        {
+          "title": "Letters of Synesius of Cyrene — Internet Archive catalogue",
+          "url": "https://archive.org/search?query=Synesius+Letters"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-069",
@@ -177,18 +261,30 @@
       "period": "Edad de Oro islámica",
       "origin": "Asia Central y Persia",
       "dates": "980–1037",
-      "biography": "Filósofo y médico persa, autor de El canon de la medicina y de obras influyentes de filosofía y ciencias naturales. Su producción circuló ampliamente en el mundo islámico y en Europa medieval.",
-      "highlight_facts": [],
-      "curiosity": "Su autobiografía fue continuada por un discípulo y tiene un propósito intelectual; las versiones latinas de su nombre y obras varían según la tradición.",
+      "biography": "Filósofo y médico persófono nacido cerca de Bujará y fallecido en Hamadán. Escribió obras de filosofía y ciencias naturales, entre ellas El libro de la curación, y El canon de la medicina, texto de gran influencia en la enseñanza médica del mundo islámico y de Europa medieval.",
+      "highlight_facts": [
+        "Compuso El canon de la medicina, una extensa síntesis médica.",
+        "Escribió El libro de la curación, enciclopedia filosófica y científica.",
+        "Su obra fue traducida al latín y utilizada durante siglos en centros de enseñanza."
+      ],
+      "curiosity": "Su autobiografía fue continuada por su discípulo al-Juzjani; es una fuente excepcional, pero no una biografía moderna neutral.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Avicenna/"
+          "title": "Ibn Sina (Avicenna) — Stanford Encyclopedia of Philosophy",
+          "url": "https://plato.stanford.edu/entries/ibn-sina/"
+        },
+        {
+          "title": "Avicenna — Encyclopaedia Iranica",
+          "url": "https://www.iranicaonline.org/articles/avicenna-index/"
+        },
+        {
+          "title": "The Canon of Medicine — U.S. National Library of Medicine catalogue",
+          "url": "https://catalog.nlm.nih.gov/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-070",
@@ -201,18 +297,30 @@
       "period": "Edad de Oro abasí",
       "origin": "Bagdad, califato abasí; origen exacto incierto",
       "dates": "fl. c. 820–850",
-      "biography": "Matemático y astrónomo asociado al entorno intelectual de Bagdad. Su tratado sobre al-jabr contribuyó a establecer el álgebra como disciplina y su nombre dio origen a la palabra algoritmo a través de la tradición latina.",
-      "highlight_facts": [],
-      "curiosity": "Se conocen pocos datos biográficos; no afirmar con certeza su lugar de nacimiento ni atribuirle en solitario la creación de todo el álgebra.",
+      "biography": "Matemático y astrónomo vinculado al entorno intelectual abasí de Bagdad en el siglo IX. Su tratado sobre al-jabr contribuyó a sistematizar métodos algebraicos; la forma latina de su nombre dio origen al término algoritmo.",
+      "highlight_facts": [
+        "Compuso el tratado Al-jabr wa-l-muqabala, fundamental para la historia del álgebra.",
+        "Trabajó con tradiciones matemáticas griegas, babilónicas e indias.",
+        "Sus obras de aritmética y astronomía circularon mediante traducciones y adaptaciones."
+      ],
+      "curiosity": "Se conocen pocos datos biográficos y su lugar de nacimiento no es seguro; no inventó el álgebra desde cero, sino que desarrolló y sistematizó métodos previos.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Al-Khwarizmi — MacTutor, University of St Andrews",
           "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/"
+        },
+        {
+          "title": "Roshdi Rashed, studies on Arabic algebra — Encyclopaedia of the History of Science",
+          "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/al-khwarizmi"
+        },
+        {
+          "title": "The Algebra of al-Khwarizmi — Internet Archive catalogue",
+          "url": "https://archive.org/search?query=Al-Khwarizmi+algebra"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-071",
@@ -224,18 +332,30 @@
       "period": "Renacimiento",
       "origin": "Italia: Vinci, Florencia y Milán; Francia al final de su vida",
       "dates": "1452–1519",
-      "biography": "Artista, ingeniero y observador de la naturaleza del Renacimiento. Sus cuadernos contienen estudios de anatomía, mecánica, hidráulica, óptica y proyectos de máquinas, además de sus pinturas célebres.",
-      "highlight_facts": [],
-      "curiosity": "Muchos diseños fueron estudios o propuestas, no inventos construidos y funcionales; evitar describirlo como inventor de cada tecnología que dibujó.",
+      "biography": "Artista, ingeniero y observador de la naturaleza del Renacimiento. Sus cuadernos reúnen estudios de anatomía, mecánica, hidráulica, óptica, cartografía y arquitectura, junto con proyectos técnicos que muestran su método de observación y experimentación.",
+      "highlight_facts": [
+        "Pintó obras como La última cena y la Mona Lisa.",
+        "Sus cuadernos contienen estudios anatómicos y diseños de ingeniería.",
+        "Trabajó para distintas cortes y patronos en Florencia, Milán y Francia."
+      ],
+      "curiosity": "Muchos diseños fueron estudios conceptuales que no llegaron a construirse durante su vida; no debe presentársele como inventor de máquinas modernas por haber dibujado prototipos.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Leonardo da Vinci — Science Museum Group collection",
+          "url": "https://collection.sciencemuseumgroup.org.uk/people/cp82966/leonardo-da-vinci"
+        },
+        {
+          "title": "Leonardo da Vinci — National Gallery of Art",
           "url": "https://www.nga.gov/artists/1479-leonardo-da-vinci"
+        },
+        {
+          "title": "Leonardo's notebooks — Victoria and Albert Museum",
+          "url": "https://www.vam.ac.uk/articles/leonardo-da-vinci"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-072",
@@ -245,18 +365,30 @@
       "period": "Revolución científica",
       "origin": "Italia",
       "dates": "1564–1642",
-      "biography": "Astrónomo, físico y matemático que perfeccionó el uso del telescopio para observaciones astronómicas, identificó las lunas principales de Júpiter y defendió el copernicanismo; sus investigaciones transformaron la física.",
-      "highlight_facts": [],
-      "curiosity": "No inventó el telescopio; lo mejoró y lo aplicó a la astronomía. Su proceso inquisitorial debe explicarse con contexto histórico y no como un relato simplificado de ciencia contra religión.",
+      "biography": "Astrónomo, físico y matemático italiano que perfeccionó el telescopio y lo aplicó a observaciones decisivas: las lunas mayores de Júpiter, las fases de Venus y el relieve lunar. Sus estudios del movimiento contribuyeron a transformar la física y defendió el copernicanismo.",
+      "highlight_facts": [
+        "Publicó Sidereus Nuncius en 1610 con observaciones telescópicas.",
+        "Identificó cuatro satélites de Júpiter, hoy llamados galileanos.",
+        "Fue juzgado por la Inquisición romana en 1633 y obligado a abjurar del copernicanismo."
+      ],
+      "curiosity": "No inventó el telescopio: mejoró un instrumento desarrollado en los Países Bajos y lo convirtió en una herramienta de investigación astronómica.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Galileo Galilei — Stanford Encyclopedia of Philosophy",
           "url": "https://plato.stanford.edu/entries/galileo/"
+        },
+        {
+          "title": "Sidereus Nuncius (1610) — Galileo Project, Rice University",
+          "url": "https://galileo.rice.edu/sci/observations/sidereal.html"
+        },
+        {
+          "title": "The Galileo Affair — Vatican Observatory historical resources",
+          "url": "https://www.vaticanobservatory.org/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-073",
@@ -266,18 +398,30 @@
       "period": "Revolución científica",
       "origin": "Sacro Imperio Romano Germánico",
       "dates": "1571–1630",
-      "biography": "Astrónomo y matemático que formuló las tres leyes del movimiento planetario, describiendo órbitas elípticas y relaciones matemáticas entre periodos y distancias.",
-      "highlight_facts": [],
-      "curiosity": "Su trabajo combinó observación, matemáticas y convicciones cosmológicas propias de su época; las leyes se apoyaron en los datos de Tycho Brahe.",
+      "biography": "Astrónomo y matemático del Sacro Imperio que formuló tres leyes del movimiento planetario, describiendo órbitas elípticas y relaciones matemáticas entre periodos y distancias. Su análisis se apoyó en las observaciones de gran precisión reunidas por Tycho Brahe.",
+      "highlight_facts": [
+        "Publicó Astronomia nova en 1609, con sus dos primeras leyes planetarias.",
+        "Formuló la tercera ley en Harmonices Mundi, en 1619.",
+        "Utilizó los registros de Tycho Brahe para resolver el movimiento de Marte."
+      ],
+      "curiosity": "Sus leyes no surgieron de observaciones aisladas: fueron el resultado de años de modelización matemática sobre los datos de Tycho Brahe.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://science.nasa.gov/solar-system/planetary-motion/"
+          "title": "Orbits and Kepler's Laws — NASA Science",
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/"
+        },
+        {
+          "title": "Johannes Kepler — MacTutor, University of St Andrews",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/"
+        },
+        {
+          "title": "Astronomia nova (1609) — digital editions catalogue",
+          "url": "https://archive.org/search?query=Kepler+Astronomia+nova"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-074",
@@ -288,19 +432,31 @@
       "category": "Sabios, Científicos e Inventores",
       "period": "Revolución científica",
       "origin": "Inglaterra",
-      "dates": "1642/1643–1727",
-      "biography": "Físico y matemático inglés que formuló las leyes del movimiento y la gravitación universal en los Principia, además de realizar aportes decisivos a la óptica y al cálculo.",
-      "highlight_facts": [],
-      "curiosity": "La prioridad del cálculo fue objeto de una disputa con Leibniz; Newton también dedicó extensos esfuerzos a la teología y la alquimia.",
+      "dates": "25 dic. 1642 (calendario juliano) / 4 ene. 1643 (gregoriano)–1727",
+      "biography": "Matemático y filósofo natural inglés. En Principia (1687) formuló las leyes del movimiento y la gravitación universal; también realizó aportes decisivos a la óptica y desarrolló métodos de cálculo de manera independiente de Leibniz.",
+      "highlight_facts": [
+        "Publicó Philosophiæ Naturalis Principia Mathematica en 1687.",
+        "Formuló las tres leyes del movimiento y la gravitación universal.",
+        "Investigó la descomposición de la luz blanca y publicó Opticks en 1704."
+      ],
+      "curiosity": "La doble fecha de nacimiento refleja el cambio de calendario: Inglaterra usaba el juliano, mientras que el gregoriano ya regía en buena parte de Europa. La prioridad del cálculo con Leibniz fue una disputa compleja.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.britannica.com/biography/Isaac-Newton"
+          "title": "Isaac Newton — MacTutor, University of St Andrews",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/"
+        },
+        {
+          "title": "Isaac Newton — Royal Society archive",
+          "url": "https://makingscience.royalsociety.org/people/na8414/isaac-newton"
+        },
+        {
+          "title": "Principia Mathematica — Cambridge Digital Library",
+          "url": "https://cudl.lib.cam.ac.uk/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-075",
@@ -310,18 +466,30 @@
       "period": "Segunda Revolución Industrial",
       "origin": "Imperio austrohúngaro; Estados Unidos",
       "dates": "1856–1943",
-      "biography": "Inventor e ingeniero eléctrico de origen serbio, fundamental para el desarrollo y la difusión de sistemas de corriente alterna polifásica y motores de inducción.",
-      "highlight_facts": [],
-      "curiosity": "La cultura popular le atribuye numerosos inventos sin sustento; diferenciar sus patentes y aportes documentados de mitos posteriores y de desarrollos colectivos.",
+      "biography": "Ingeniero e inventor de origen serbio, nacido en Smiljan, entonces parte del Imperio austríaco. Sus patentes y desarrollos sobre sistemas polifásicos de corriente alterna y motores de inducción fueron decisivos para la electrificación; colaboró comercialmente con George Westinghouse.",
+      "highlight_facts": [
+        "Desarrolló un motor de inducción de corriente alterna y sistemas polifásicos.",
+        "Sus patentes de corriente alterna fueron adquiridas y explotadas junto con Westinghouse.",
+        "La bobina de Tesla, presentada en 1891, se convirtió en un dispositivo emblemático de alta tensión."
+      ],
+      "curiosity": "La electrificación moderna fue un desarrollo colectivo: no atribuirle a Tesla la invención individual de toda la corriente alterna, la radio o tecnologías que tuvieron múltiples protagonistas.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Nikola Tesla — Encyclopaedia Britannica",
           "url": "https://www.britannica.com/biography/Nikola-Tesla"
+        },
+        {
+          "title": "Nikola Tesla — Smithsonian National Museum of American History collections",
+          "url": "https://americanhistory.si.edu/collections/search?edan_q=Nikola%20Tesla"
+        },
+        {
+          "title": "Tesla patents — Google Patents (primary patent records)",
+          "url": "https://patents.google.com/?inventor=Nikola+Tesla"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-076",
@@ -333,18 +501,30 @@
       "period": "Segunda Revolución Industrial",
       "origin": "Estados Unidos",
       "dates": "1847–1931",
-      "biography": "Inventor y empresario estadounidense que desarrolló y comercializó sistemas de iluminación eléctrica, fonografía y tecnologías de grabación e imagen en movimiento mediante laboratorios y equipos de colaboradores.",
-      "highlight_facts": [],
-      "curiosity": "No fue un inventor solitario: sus logros dependieron de equipos técnicos y de patentes, mejoras y disputas con otros inventores.",
+      "biography": "Inventor y empresario estadounidense que organizó laboratorios de investigación y equipos técnicos para desarrollar y comercializar sistemas de iluminación eléctrica, fonografía y tecnologías de grabación e imagen en movimiento. Su trabajo dependió de colaboradores, patentes y mejoras sucesivas.",
+      "highlight_facts": [
+        "Desarrolló un fonógrafo comercialmente viable en 1877.",
+        "Su laboratorio de Menlo Park desarrolló una lámpara incandescente práctica y un sistema de distribución eléctrica.",
+        "Participó en el desarrollo temprano de tecnologías cinematográficas y de grabación."
+      ],
+      "curiosity": "No inventó por sí solo la lámpara eléctrica ni el cine; sus aportes estuvieron ligados a equipos de investigación, mejoras técnicas y sistemas comerciales.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.britannica.com/biography/Thomas-Edison"
+          "title": "Thomas Edison — National Park Service",
+          "url": "https://www.nps.gov/edis/learn/historyculture/thomas-edison.htm"
+        },
+        {
+          "title": "Thomas A. Edison Papers — Rutgers University",
+          "url": "https://edisondigital.rutgers.edu/"
+        },
+        {
+          "title": "Edison and the incandescent lamp — Smithsonian Institution",
+          "url": "https://americanhistory.si.edu/collections/search?edan_q=Thomas%20Edison%20lamp"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-077",
@@ -357,18 +537,30 @@
       "period": "Ciencia moderna, siglos XIX–XX",
       "origin": "Varsovia y Francia",
       "dates": "1867–1934",
-      "biography": "Física y química pionera en el estudio de la radiactividad; junto con Pierre Curie investigó el fenómeno y descubrió el polonio y el radio. Recibió premios Nobel de Física y Química.",
-      "highlight_facts": [],
-      "curiosity": "Fue la primera persona en recibir dos premios Nobel en distintas disciplinas; su exposición prolongada a radiación ocurrió antes de conocerse plenamente sus riesgos.",
+      "biography": "Física y química nacida Maria Skłodowska en Varsovia. Junto con Pierre Curie investigó la radiactividad y descubrió el polonio y el radio; recibió el Nobel de Física en 1903 y el de Química en 1911, y promovió aplicaciones médicas de la radiación.",
+      "highlight_facts": [
+        "Compartió el Nobel de Física de 1903 con Pierre Curie y Henri Becquerel.",
+        "Descubrió el polonio y el radio junto con Pierre Curie.",
+        "Recibió el Nobel de Química de 1911 por sus investigaciones sobre el radio y el polonio."
+      ],
+      "curiosity": "Fue la primera persona en recibir dos premios Nobel; el reconocimiento de 1903 fue compartido y el de 1911 fue individual.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"
+          "title": "Marie Curie — Nobel Prize: Physics 1903 facts",
+          "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/"
+        },
+        {
+          "title": "Marie Curie — Nobel Prize: Chemistry 1911 biography",
+          "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/biographical/"
+        },
+        {
+          "title": "Marie Curie — Nobel Prize historical profile",
+          "url": "https://www.nobelprize.org/womenwhochangedscience/stories/marie-curie."
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-078",
@@ -380,18 +572,30 @@
       "period": "Ciencia moderna, siglo XIX",
       "origin": "Inglaterra y expedición del Beagle",
       "dates": "1809–1882",
-      "biography": "Naturalista británico que desarrolló la teoría de la evolución por selección natural, expuesta de forma sistemática en El origen de las especies (1859), a partir de observaciones y comparación de evidencias biológicas.",
-      "highlight_facts": [],
-      "curiosity": "La teoría evolutiva tuvo antecedentes y se desarrolló mediante debate científico; Darwin no propuso que los humanos descendieran de los monos actuales.",
+      "biography": "Naturalista británico que desarrolló la teoría de la evolución por selección natural y la expuso ampliamente en El origen de las especies (1859). Sus conclusiones se apoyaron en observaciones acumuladas durante el viaje del Beagle, colecciones, experimentación y comparación de evidencias biológicas.",
+      "highlight_facts": [
+        "Participó en el viaje del HMS Beagle entre 1831 y 1836.",
+        "Presentó junto con Alfred Russel Wallace textos sobre selección natural en 1858.",
+        "Publicó El origen de las especies en 1859."
+      ],
+      "curiosity": "La selección natural fue presentada conjuntamente por Darwin y Wallace en 1858; Darwin desarrolló después una exposición extensa en su libro de 1859.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Charles Darwin — Natural History Museum, London",
           "url": "https://www.nhm.ac.uk/discover/charles-darwin.html"
+        },
+        {
+          "title": "Darwin Correspondence Project — University of Cambridge",
+          "url": "https://www.darwinproject.ac.uk/"
+        },
+        {
+          "title": "On the Origin of Species — Darwin Online",
+          "url": "https://darwin-online.org.uk/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-079",
@@ -403,18 +607,30 @@
       "period": "Ciencia y tecnología del siglo XX",
       "origin": "Reino Unido",
       "dates": "1912–1954",
-      "biography": "Matemático y lógico británico que estableció fundamentos teóricos de la computación y contribuyó al descifrado de códigos alemanes durante la Segunda Guerra Mundial en Bletchley Park.",
-      "highlight_facts": [],
-      "curiosity": "El trabajo criptográfico fue colectivo y permaneció secreto durante décadas; su persecución judicial por homosexualidad fue una injusticia histórica.",
+      "biography": "Matemático y lógico británico que estableció fundamentos teóricos de la computación y contribuyó al criptoanálisis aliado durante la Segunda Guerra Mundial en Bletchley Park. Sus trabajos sobre computabilidad y diseño de máquinas influyeron decisivamente en la informática moderna.",
+      "highlight_facts": [
+        "Publicó en 1936 el trabajo que definió la máquina teórica hoy llamada máquina de Turing.",
+        "Trabajó en Bletchley Park en el criptoanálisis de la máquina Enigma.",
+        "Propuso en 1950 una prueba para discutir la inteligencia de las máquinas."
+      ],
+      "curiosity": "El descifrado de Enigma fue un esfuerzo colectivo que dependió de matemáticos, lingüistas, operadores, inteligencia previa y máquinas; no fue obra de Turing en solitario.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.turing.org.uk/scrapbook/"
+          "title": "Alan Turing — Bletchley Park",
+          "url": "https://www.bletchleypark.org.uk/our-story/alan-turing/"
+        },
+        {
+          "title": "The Turing Digital Archive — King's College, Cambridge",
+          "url": "https://turingarchive.kings.cam.ac.uk/"
+        },
+        {
+          "title": "On Computable Numbers (1936) — original paper record",
+          "url": "https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-080",
@@ -424,18 +640,30 @@
       "period": "Física moderna",
       "origin": "Alemania, Suiza y Estados Unidos",
       "dates": "1879–1955",
-      "biography": "Físico teórico que formuló la relatividad especial y general y realizó contribuciones fundamentales a la teoría cuántica; recibió el Nobel de Física de 1921 por la explicación del efecto fotoeléctrico.",
-      "highlight_facts": [],
-      "curiosity": "No recibió el Nobel por la relatividad; evitar el mito de que fue mal estudiante, pues su trayectoria escolar fue sólida aunque no lineal.",
+      "biography": "Físico teórico nacido en Alemania que formuló la relatividad especial y general y realizó aportes fundamentales a la teoría cuántica. Recibió el Nobel de Física de 1921 por su explicación del efecto fotoeléctrico, no por la teoría de la relatividad.",
+      "highlight_facts": [
+        "Publicó en 1905 trabajos fundamentales sobre relatividad especial y efecto fotoeléctrico.",
+        "Presentó la teoría general de la relatividad en 1915 y su formulación final en 1916.",
+        "Recibió el Nobel de Física de 1921 por la explicación del efecto fotoeléctrico."
+      ],
+      "curiosity": "El Nobel no fue concedido por la relatividad; el premio reconoció específicamente su explicación del efecto fotoeléctrico.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Albert Einstein — Nobel Prize: Physics 1921 biography",
           "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/"
+        },
+        {
+          "title": "Einstein Papers Project — California Institute of Technology",
+          "url": "https://einsteinpapers.press.princeton.edu/"
+        },
+        {
+          "title": "Albert Einstein — American Institute of Physics, Emilio Segrè Visual Archives",
+          "url": "https://photos.aip.org/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-081",
@@ -447,18 +675,30 @@
       "period": "Cosmología contemporánea",
       "origin": "Reino Unido",
       "dates": "1942–2018",
-      "biography": "Físico teórico y cosmólogo que investigó los agujeros negros y la gravedad cuántica; junto con Roger Penrose desarrolló resultados sobre singularidades y propuso la radiación de Hawking.",
-      "highlight_facts": [],
-      "curiosity": "La radiación de Hawking es una predicción teórica, no una señal observada directamente en un agujero negro astrofísico.",
+      "biography": "Físico teórico y cosmólogo británico que investigó la relatividad general, los agujeros negros y el origen del universo. Con Roger Penrose desarrolló teoremas sobre singularidades y propuso que los agujeros negros emiten radiación por efectos cuánticos.",
+      "highlight_facts": [
+        "Desarrolló con Roger Penrose resultados fundamentales sobre singularidades gravitacionales.",
+        "Propuso en 1974 la radiación térmica asociada a los agujeros negros.",
+        "Publicó Una breve historia del tiempo en 1988, acercando la cosmología al público general."
+      ],
+      "curiosity": "La radiación de Hawking es una predicción teórica central que todavía no ha sido observada directamente en un agujero negro astrofísico.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Stephen Hawking — University of Cambridge",
           "url": "https://www.cam.ac.uk/stories/stephen-hawking"
+        },
+        {
+          "title": "Particle Creation by Black Holes — Communications in Mathematical Physics (1975)",
+          "url": "https://doi.org/10.1007/BF02345020"
+        },
+        {
+          "title": "The singularities of gravitational collapse and cosmology — Proceedings of the Royal Society",
+          "url": "https://doi.org/10.1098/rspa.1970.0021"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-082",
@@ -471,18 +711,30 @@
       "period": "Ciencia moderna, siglos XIX–XX",
       "origin": "Bengala, India británica",
       "dates": "1858–1937",
-      "biography": "Físico y biólogo indio que investigó ondas electromagnéticas milimétricas y respuestas de las plantas a estímulos; diseñó instrumentos sensibles para sus experimentos.",
-      "highlight_facts": [],
-      "curiosity": "Su trabajo se desarrolló en un contexto colonial y de reconocimiento desigual; evitar adjudicarle sin matices la invención de la radio, cuyo desarrollo tuvo múltiples protagonistas.",
+      "biography": "Físico y botánico experimental bengalí que investigó ondas electromagnéticas de longitudes milimétricas y desarrolló instrumentos para estudiar respuestas eléctricas y mecánicas de los tejidos vegetales. Presentó sus investigaciones ante sociedades científicas británicas.",
+      "highlight_facts": [
+        "Realizó experimentos pioneros con ondas electromagnéticas milimétricas.",
+        "Diseñó instrumentos sensibles para registrar respuestas de tejidos vegetales.",
+        "Presentó ante la Royal Society investigaciones sobre respuestas mecánicas y eléctricas de las plantas en 1903–1904."
+      ],
+      "curiosity": "No debe atribuírsele sin matices la invención de la radio ni afirmarse que demostró conciencia humana en las plantas; sus investigaciones se referían a respuestas físicas y fisiológicas medibles.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://academic.oup.com/odnb/reference/63486/reference-article-abstract/579650269"
+          "title": "On mechanical and electrical response in plants — Royal Society Archives",
+          "url": "https://makingscience.royalsociety.org/items/ap_76_1/unpublished-paper-on-mechanical-and-electrical-response-in-plants-by-jagadis-chunder-bose"
+        },
+        {
+          "title": "On electro-molecular wave — Royal Society Archives",
+          "url": "https://makingscience.royalsociety.org/items/ap_75_10/paper-on-electro-molecular-wave-by-jagadis-chunder-bose"
+        },
+        {
+          "title": "Jagadish Chandra Bose — Bose Institute",
+          "url": "https://www.boseinst.ernet.in/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-083",
@@ -493,19 +745,31 @@
       "category": "Sabios, Científicos e Inventores",
       "period": "India clásica",
       "origin": "India, probablemente Kusumapura",
-      "dates": "476–c. 550 d. C.",
-      "biography": "Matemático y astrónomo indio, autor del Aryabhatiya, tratado que abordó aritmética, álgebra, trigonometría y astronomía; explicó la rotación diaria aparente del cielo mediante la rotación terrestre.",
-      "highlight_facts": [],
-      "curiosity": "La biografía es escasa y algunos detalles geográficos son inferidos; no confundirlo con Aryabhata II, de época posterior.",
+      "dates": "476–c. 550 d. C. (muerte no documentada con precisión)",
+      "biography": "Matemático y astrónomo indio, autor del Aryabhatiya, compuesto en 499 d. C. La obra reúne métodos de cálculo, álgebra, trigonometría y astronomía; explicó la rotación aparente del cielo mediante la rotación axial de la Tierra.",
+      "highlight_facts": [
+        "Compuso el Aryabhatiya en 499 d. C., cuando tenía 23 años según su propio sistema cronológico.",
+        "Ofreció una aproximación notable de π y una tabla de senos.",
+        "Explicó los movimientos aparentes del cielo mediante la rotación de la Tierra."
+      ],
+      "curiosity": "La fecha de nacimiento se conoce por la propia obra; la muerte es desconocida y c. 550 es una estimación convencional. No confundirlo con Aryabhata II.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Aryabhata I — MacTutor, University of St Andrews",
           "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/"
+        },
+        {
+          "title": "Aryabhatiya — Internet Archive catalogue",
+          "url": "https://archive.org/search?query=Aryabhatiya+Aryabhata"
+        },
+        {
+          "title": "Aryabhata — Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Aryabhata-I"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-084",
@@ -517,18 +781,30 @@
       "period": "Dinastía Han oriental",
       "origin": "China",
       "dates": "78–139 d. C.",
-      "biography": "Erudito, astrónomo, matemático, inventor y poeta chino. Se le asocia con un instrumento para detectar terremotos a distancia y con modelos astronómicos del universo.",
-      "highlight_facts": [],
-      "curiosity": "La reconstrucción del sismoscopio a partir de textos antiguos es discutida; no se conserva el artefacto original.",
+      "biography": "Erudito, astrónomo, matemático, poeta y funcionario de la dinastía Han oriental. Las fuentes históricas chinas le atribuyen un sismoscopio capaz de indicar la ocurrencia de un terremoto y la dirección aproximada de su origen.",
+      "highlight_facts": [
+        "Sirvió como funcionario y astrónomo durante la dinastía Han oriental.",
+        "Se le atribuye un sismoscopio descrito en textos chinos del siglo II.",
+        "Escribió poesía y trabajos sobre astronomía y cosmología."
+      ],
+      "curiosity": "El instrumento original no se conserva; los ejemplares expuestos hoy son reconstrucciones modernas basadas en descripciones textuales y no sismógrafos modernos.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.britannica.com/biography/Zhang-Heng"
+          "title": "Chinese Seismoscope (replica) — Smithsonian National Museum of American History",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_1135162"
+        },
+        {
+          "title": "Dragons and Toads: The Chinese Seismoscope of A.D. 132 — bibliographic record",
+          "url": "https://www.jstor.org/stable/234975"
+        },
+        {
+          "title": "Book of Later Han — Internet Archive catalogue",
+          "url": "https://archive.org/search?query=Hou+Hanshu+Zhang+Heng"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-085",
@@ -540,18 +816,30 @@
       "period": "Dinastía Song del Norte",
       "origin": "China",
       "dates": "1031–1095",
-      "biography": "Erudito, funcionario y científico chino que escribió sobre astronomía, geología, cartografía, magnetismo y tecnología; describió el uso de la brújula magnética y observaciones geológicas relevantes.",
-      "highlight_facts": [],
-      "curiosity": "Su obra fue enciclopédica y refleja conocimientos compartidos de su época; evitar presentarlo como inventor único de tecnologías con desarrollo gradual.",
+      "biography": "Erudito, funcionario y científico de la dinastía Song del Norte. En sus Ensayos del Arroyo de los Sueños registró observaciones sobre astronomía, geología, fósiles, cartografía y magnetismo, incluida la desviación de la aguja de la brújula respecto al norte verdadero.",
+      "highlight_facts": [
+        "Compuso Mengxi bitan, una obra enciclopédica hacia 1088.",
+        "Describió la declinación magnética de la aguja respecto al norte verdadero.",
+        "Analizó fósiles y formaciones geológicas para explicar cambios en el paisaje."
+      ],
+      "curiosity": "No inventó la brújula: describió y analizó propiedades de un instrumento con una larga historia de desarrollo en China.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
+          "title": "Dream Pool Essays — bibliographic record",
+          "url": "https://archive.org/search?query=Shen+Kuo+Dream+Pool+Essays"
+        },
+        {
+          "title": "Science and Civilisation in China — Cambridge University Press catalogue",
+          "url": "https://www.cambridge.org/core/series/science-and-civilisation-in-china"
+        },
+        {
+          "title": "Shen Kuo — Encyclopaedia Britannica",
           "url": "https://www.britannica.com/biography/Shen-Kuo"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-086",
@@ -561,18 +849,30 @@
       "period": "Ilustración y ciencia del siglo XVIII",
       "origin": "Colonias británicas de Norteamérica / Estados Unidos",
       "dates": "1706–1790",
-      "biography": "Polímata, impresor, escritor, diplomático y científico estadounidense. Sus experimentos eléctricos contribuyeron a comprender la naturaleza eléctrica de los rayos y promovió el pararrayos.",
-      "highlight_facts": [],
-      "curiosity": "La historia de la cometa y la llave suele contarse de forma simplificada; no repetirla como experimento plenamente documentado en todos sus detalles.",
+      "biography": "Impresor, escritor, diplomático y científico de las colonias británicas de Norteamérica. Sus investigaciones contribuyeron a comprender la electricidad, a establecer convenciones sobre cargas positivas y negativas y a promover el pararrayos.",
+      "highlight_facts": [
+        "Publicó Experiments and Observations on Electricity desde 1751.",
+        "Promovió el pararrayos para proteger edificios de descargas eléctricas.",
+        "Participó en la vida política y diplomática que condujo a la independencia estadounidense."
+      ],
+      "curiosity": "El relato de la cometa se ha simplificado: no debe ilustrarse ni describirse como si Franklin hubiera recibido directamente el impacto de un rayo. La Library of Congress cataloga representaciones posteriores como obras conjeturales.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.benjaminfranklin.org/"
+          "title": "Franklin and Science — Library of Congress",
+          "url": "https://guides.loc.gov/franklin-business-science/science"
+        },
+        {
+          "title": "Franklin's experiment with the kite — Library of Congress (conjectural artwork record)",
+          "url": "https://www.loc.gov/item/89709410/"
+        },
+        {
+          "title": "Experiments and Observations on Electricity — Internet Archive catalogue",
+          "url": "https://archive.org/search?query=Franklin+Experiments+Observations+Electricity"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-087",
@@ -584,18 +884,30 @@
       "period": "Europa, siglo XV",
       "origin": "Maguncia, Sacro Imperio Romano Germánico",
       "dates": "c. 1400–1468",
-      "biography": "Impresor e innovador asociado al desarrollo en Europa de la imprenta de tipos móviles metálicos reutilizables y de un sistema de producción que transformó la circulación de textos.",
-      "highlight_facts": [],
-      "curiosity": "La impresión con tipos móviles existía antes en Asia; su innovación europea debe situarse en la historia global de la impresión y no presentarse como su invención universal.",
+      "biography": "Impresor e innovador de Maguncia asociado al desarrollo europeo de tipos móviles metálicos reutilizables y de un sistema tipográfico de producción de libros. La Biblia impresa en su taller hacia 1454–1455 se convirtió en una obra emblemática de la imprenta europea.",
+      "highlight_facts": [
+        "Desarrolló en Europa un sistema de impresión con tipos móviles metálicos.",
+        "La Biblia de Gutenberg se imprimió en Maguncia hacia 1454–1455.",
+        "Su innovación aceleró la reproducción de textos y transformó la cultura escrita europea."
+      ],
+      "curiosity": "No inventó la impresión ni los tipos móviles en el mundo: en Corea se utilizaban tipos metálicos móviles casi un siglo antes.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.bl.uk/people/johannes-gutenberg"
+          "title": "The Gutenberg Bible — Library of Congress",
+          "url": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/index.html"
+        },
+        {
+          "title": "The Gutenberg Bible — Library of Congress exhibition",
+          "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+        },
+        {
+          "title": "Jikji — UNESCO Memory of the World",
+          "url": "https://www.unesco.org/en/memory-world/jikji"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-088",
@@ -607,18 +919,30 @@
       "period": "Ciencia del siglo XIX",
       "origin": "Imperio austríaco, actual República Checa",
       "dates": "1822–1884",
-      "biography": "Monje agustino y naturalista cuyos experimentos de cruzamiento con guisantes permitieron formular principios fundamentales de la herencia, redescubiertos y reinterpretados alrededor de 1900.",
-      "highlight_facts": [],
-      "curiosity": "La historia de la recepción de sus resultados es compleja; no reducir la genética moderna a una obra individual ni describir sus leyes como explicación completa de la herencia.",
+      "biography": "Monje agustino y naturalista que realizó experimentos de cruzamiento con guisantes en el monasterio de Brno. Presentó sus resultados en 1865 y publicó en 1866 un estudio que formuló patrones fundamentales de la herencia biológica, redescubiertos y reinterpretados alrededor de 1900.",
+      "highlight_facts": [
+        "Presentó sus experimentos sobre híbridos vegetales en 1865.",
+        "Publicó Versuche über Pflanzen-Hybriden en 1866.",
+        "Sus resultados fueron redescubiertos y reinterpretados alrededor de 1900."
+      ],
+      "curiosity": "Las llamadas leyes de Mendel describen patrones importantes, pero no explican por sí solas toda la herencia: muchos rasgos son poligénicos o dependen también del ambiente.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.britannica.com/biography/Gregor-Mendel"
+          "title": "Mendel — National Human Genome Research Institute",
+          "url": "https://www.genome.gov/es/genetics-glossary/Mendel"
+        },
+        {
+          "title": "Versuche über Pflanzen-Hybriden (1866) — original publication record",
+          "url": "https://www.biodiversitylibrary.org/"
+        },
+        {
+          "title": "Gregor Mendel — Mendel Museum, Masaryk University",
+          "url": "https://mendelmuseum.muni.cz/en"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-089",
@@ -630,18 +954,30 @@
       "period": "Física del siglo XX",
       "origin": "Dinamarca",
       "dates": "1885–1962",
-      "biography": "Físico danés que propuso un modelo atómico cuántico en 1913 y contribuyó al desarrollo de la mecánica cuántica y a la interpretación de Copenhague.",
-      "highlight_facts": [],
-      "curiosity": "El modelo de Bohr fue un paso histórico y luego superado por la mecánica cuántica moderna; su trabajo se desarrolló en diálogo con numerosos científicos.",
+      "biography": "Físico danés que propuso en 1913 un modelo cuántico del átomo, con niveles de energía discretos para los electrones. Sus investigaciones sobre la estructura atómica y la radiación le valieron el Nobel de Física de 1922.",
+      "highlight_facts": [
+        "Publicó su modelo atómico en tres artículos de 1913.",
+        "Introdujo niveles de energía cuantizados para explicar el espectro del hidrógeno.",
+        "Recibió el Nobel de Física de 1922 por sus investigaciones sobre la estructura de los átomos y la radiación."
+      ],
+      "curiosity": "El modelo de Bohr fue un paso histórico decisivo, pero posteriormente fue superado por la mecánica cuántica moderna; no representa órbitas planetarias literales.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.nobelprize.org/prizes/physics/1922/bohr/biographical/"
+          "title": "Niels Bohr — Nobel Prize: Physics 1922 facts",
+          "url": "https://www.nobelprize.org/prizes/physics/1922/bohr/facts/"
+        },
+        {
+          "title": "Niels Bohr Institute — University of Copenhagen",
+          "url": "https://nbi.ku.dk/english/www/niels/bohr/"
+        },
+        {
+          "title": "On the Constitution of Atoms and Molecules (1913) — original paper record",
+          "url": "https://doi.org/10.1080/14786441308634955"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-090",
@@ -651,18 +987,30 @@
       "period": "Ciencia del siglo XIX",
       "origin": "Inglaterra",
       "dates": "1791–1867",
-      "biography": "Físico y químico experimental que descubrió la inducción electromagnética y formuló conceptos esenciales de electroquímica; sus experimentos sentaron bases para motores y generadores eléctricos.",
-      "highlight_facts": [],
-      "curiosity": "Su formación fue principalmente autodidacta y experimental; la teoría matemática posterior del electromagnetismo fue desarrollada, entre otros, por James Clerk Maxwell.",
+      "biography": "Físico y químico experimental inglés que descubrió la inducción electromagnética en 1831, investigó la electrólisis y desarrolló conceptos fundamentales del campo electromagnético. Sus experimentos sentaron bases para motores y generadores eléctricos.",
+      "highlight_facts": [
+        "Descubrió la rotación electromagnética en 1821.",
+        "Demostró la inducción electromagnética con su anillo de hierro en agosto de 1831.",
+        "Sus experimentos con generadores mostraron cómo producir corriente mediante movimiento y magnetismo."
+      ],
+      "curiosity": "Su trabajo experimental fue posteriormente formalizado matemáticamente por James Clerk Maxwell; la generación eléctrica moderna se apoya en principios que Faraday demostró.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.rigb.org/explore-science/explore/person/michael-faraday"
+          "title": "Michael Faraday's ring-coil apparatus — Royal Institution",
+          "url": "https://www.rigb.org/explore-science/explore/collection/michael-faradays-ring-coil-apparatus"
+        },
+        {
+          "title": "Michael Faraday's generator — Royal Institution",
+          "url": "https://www.rigb.org/explore-science/explore/collection/michael-faradays-generator"
+        },
+        {
+          "title": "Michael Faraday's correspondence — Royal Institution",
+          "url": "https://www.rigb.org/explore-science/explore/collection/michael-faradays-correspondence"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     },
     {
       "code": "HIS-091",
@@ -672,18 +1020,30 @@
       "period": "Ciencia del siglo XIX",
       "origin": "Francia",
       "dates": "1822–1895",
-      "biography": "Químico y microbiólogo francés cuyos trabajos sobre fermentación, microorganismos y enfermedades infecciosas impulsaron la microbiología; desarrolló procesos de pasteurización y vacunas contra el carbunco y la rabia.",
-      "highlight_facts": [],
-      "curiosity": "La teoría germinal y las vacunas fueron fruto de debates y avances colectivos; la historia de la vacuna antirrábica incluye colaboradores y ensayos con importantes cuestiones éticas.",
+      "biography": "Químico y microbiólogo francés cuyas investigaciones sobre fermentación y microorganismos contribuyeron a la pasteurización y a la teoría germinal de la enfermedad. Desarrolló vacunas contra el carbunco y la rabia junto con colaboradores; la vacunación de Joseph Meister en julio de 1885 fue un hito decisivo.",
+      "highlight_facts": [
+        "Sus investigaciones sobre fermentación y microorganismos impulsaron la microbiología moderna.",
+        "Desarrolló una vacuna contra el carbunco y un tratamiento preventivo contra la rabia.",
+        "El 6 de julio de 1885, Joseph Meister recibió la primera vacunación humana contra la rabia en el laboratorio de Pasteur."
+      ],
+      "curiosity": "La vacuna antirrábica se desarrolló con colaboradores como Émile Roux y Charles Chamberland; el médico Jacques-Joseph Grancher administró las inoculaciones a Meister.",
       "sources": [
         {
-          "title": "Referencia documental inicial",
-          "url": "https://www.pasteur.fr/en/institut-pasteur/history"
+          "title": "The final years 1877–1887 — Institut Pasteur",
+          "url": "https://www.pasteur.fr/en/about-us/final-years-1877-1887"
+        },
+        {
+          "title": "The history of the first rabies vaccination in 1885 — Institut Pasteur",
+          "url": "https://www.pasteur.fr/en/taxonomy/term/115/history-first-rabies-vaccination-1885"
+        },
+        {
+          "title": "Louis Pasteur — Science History Institute",
+          "url": "https://www.sciencehistory.org/education/scientific-biographies/louis-pasteur/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro documental inicial. Contrastar cronología, atribuciones, contexto y bibliografía especializada antes de aprobar la ficha para impresión."
+      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; pendiente de aprobación editorial formal."
     }
   ]
 }
