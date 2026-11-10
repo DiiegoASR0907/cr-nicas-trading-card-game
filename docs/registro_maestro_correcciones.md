@@ -26,13 +26,13 @@ La aprobación no se deriva automáticamente de la validación técnica del arch
 
 | Archivo | Códigos | Registros | Estado de integración |
 |---|---|---:|---|
-| `gobernantes_001_036.json` | HIS-001–HIS-036 | 36 | En curso |
+| `gobernantes_001_036.json` | HIS-001–HIS-036 | 36 | Integración completada; pendiente de aprobación |
 | `guerreros_037_061.json` | HIS-037–HIS-061 | 25 | Pendiente |
 | `sabios_cientificos_062_091.json` | HIS-062–HIS-091 | 30 | Pendiente |
 | `exploradores_092_109.json` | HIS-092–HIS-109 | 18 | Pendiente |
 | `lideres_espirituales_110_127.json` | HIS-110–HIS-127 | 18 | Pendiente |
 | `bloque_final_128_144.json` | HIS-128–HIS-144 | 17 | Pendiente |
-| **Total** | **HIS-001–HIS-144** | **144** | **1–12 en integración** |
+| **Total** | **HIS-001–HIS-144** | **144** | **36 integrados; 0 aprobados** |
 
 ---
 
@@ -176,3 +176,156 @@ Continuar en orden con HIS-007–HIS-012, luego HIS-013–HIS-018, HIS-019–HIS
 | HIS-012 | Conservar 69–30 | Corregencias; Accio 31 y anexión 30 | Pendiente de aprobación |
 
 **Resultado del subbloque:** seis registros actualizados; todos continúan en `en_verificacion`; 0 aprobados. La categoría se conserva sin cambios en esta pasada.
+
+
+## HIS-013 a HIS-036 — integración documental del primer archivo
+
+### HIS-013 — Nabucodonosor II
+
+- **Discrepancia y decisión documental:** Se mantiene la vida aproximada c. 634–562 a. C.; se explicita reinado 605–562. Se precisan Carquemis (605), Jerusalén (597 y 587/586) y sus obras en Babilonia, sin confundir los dos episodios de Jerusalén.
+- **Fuentes:** Encyclopaedia Iranica: https://www.iranicaonline.org/articles/babylonia/babylonia-i/; Karen Radner et al., Encyclopaedia of the Bible and its Reception: https://research-portal.uu.nl/files/211129242/ebr.mainlemma_1292.pdf; crónica babilónica BM 21946.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-014 — Sargón de Acad
+
+- **Discrepancia y decisión documental:** La fecha original por siglo era demasiado amplia. Se adopta c. 2340–2285 a. C. como cronología aproximada, reconociendo variantes académicas. Se precisa su derrota de Lugalzagesi y la fundación del estado acadio; Acad aún no ha sido localizada.
+- **Fuentes:** Ingo Schrakamp, Wiley: https://doi.org/10.1002/9781118455074.wbeoe395; Metropolitan Museum: https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c; Amanda H. Podany, Oxford: https://academic.oup.com/book/28459/chapter-abstract/229049037.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-015 — Gengis Kan
+
+- **Discrepancia y decisión documental:** Se explicita el debate sobre su nacimiento (1162 o 1167); la unificación se formalizó en 1206. Se distingue la fundación del imperio de su expansión posterior por sus sucesores.
+- **Fuentes:** David O. Morgan, Encyclopaedia Iranica: https://www.iranicaonline.org/articles/cengiz-khan/; Columbia University: https://afe.easia.columbia.edu/mongols/figures/figures.htm; The Secret History of the Mongols.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-016 — Kublai Kan
+
+- **Discrepancia y decisión documental:** Se diferencian su elección como Gran Kan (1260), la proclamación Yuan (1271) y la derrota final de la resistencia Song (1279). Se destaca su gobierno imperial desde China, no solo la conquista.
+- **Fuentes:** Metropolitan Museum: https://www.metmuseum.org/zh/met-publications/the-world-of-khubilai-khan-chinese-art-in-the-yuan-dynasty; Columbia University: https://afe.easia.columbia.edu/mongols/pop/khubilai/kkhan_pop.htm; National Geographic: https://education.nationalgeographic.org/resource/kublai-khan/.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-017 — Atila
+
+- **Discrepancia y decisión documental:** Se explicita que gobernó primero junto a Bleda y luego en solitario (434–453). Se evita atribuirle como causa única la caída del Imperio romano occidental; la fecha exacta de su muerte tiene discusión académica.
+- **Fuentes:** Peter Heather, Oxford Classical Dictionary: https://academic.oup.com/edited-volume/61673/chapter-abstract/548510661; Cameron Barnes, Oxford Bibliographies: https://academic.oup.com/reference/62399/reference-article-abstract/571721214; Péter Kovács (2023): https://doi.org/10.1556/072.2023.00007.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-018 — Timur
+
+- **Discrepancia y decisión documental:** Se mantiene 1336–1405 y se precisa su autoridad como emir, no como kan gengisida. Se contextualizan masacres, deportaciones y traslados de artesanos; no se presenta su dominio como unidad estable y homogénea.
+- **Fuentes:** Ursula Nashashibi, Encyclopaedia Iranica sobre Ibn Arabshah: https://www.iranicaonline.org/articles/ajaeb-al-maqdur/; Beatrice Forbes Manz, The Rise and Rule of Tamerlane (1989); Encyclopaedia Britannica: https://www.britannica.com/biography/Timur.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-019 — Saladino
+
+- **Discrepancia y decisión documental:** Se conserva el nacimiento 1137/1138; se distinguen su ascenso en Egipto, el fin del califato fatimí (1171), la consolidación de poder en Siria y la victoria de Hattin y toma de Jerusalén (1187).
+- **Fuentes:** Stephen R. Humphreys, Oxford Bibliographies: https://academic.oup.com/reference/62361/reference-article-abstract/554569932; Encyclopaedia Iranica: https://www.iranicaonline.org/articles/ayyubids/; Nicholas Morton, Oxford: https://academic.oup.com/book/33710/chapter-abstract/288307477.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-020 — Ricardo Corazón de León
+
+- **Discrepancia y decisión documental:** Se aclara que la Tercera Cruzada no recuperó Jerusalén. La tregua de Jaffa (1192) permitió el acceso de peregrinos cristianos, pero la ciudad permaneció bajo control de Saladino.
+- **Fuentes:** John Gillingham, ODNB: https://academic.oup.com/oxford-dictionary-of-national-biography/reference/63486/reference-article-abstract/581907999; The Royal Family: https://www.royal.uk/richard-i; Stephen J. Spencer, English Historical Review: https://academic.oup.com/ehr/article-abstract/132/556/495/3897145.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-021 — Guillermo el Conquistador
+
+- **Discrepancia y decisión documental:** Se mantiene c. 1028–1087; se destaca su condición de duque de Normandía, la conquista de 1066 y la transformación aristocrática y administrativa del reino, evitando atribuir todos los cambios posteriores a un solo acontecimiento.
+- **Fuentes:** David Bates, Yale University Press: https://academic.oup.com/yale-scholarship-online/book/15081; Emily Zack Tabuteau, Oxford Bibliographies: https://academic.oup.com/reference/62384/reference-article-abstract/555075362; George Garnett, Oxford: https://academic.oup.com/book/28390.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-022 — Carlomagno
+
+- **Discrepancia y decisión documental:** Se conserva c. 747/748–814; fue rey de los francos desde 768 y emperador desde 800. No debe denominarse sin matiz emperador del Sacro Imperio Romano Germánico, institución posterior.
+- **Fuentes:** Thomas F. X. Noble, Oxford Bibliographies: https://academic.oup.com/reference/62384/reference-article-abstract/555061229; John France, Oxford Bibliographies: https://academic.oup.com/reference/62399/reference-article-abstract/571522380; Einhard, Vita Karoli Magni.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-023 — Federico Barbarroja
+
+- **Discrepancia y decisión documental:** Se normaliza a 1122–1190, rey alemán desde 1152 y emperador desde 1155. Murió ahogado en el río Saleph durante la Tercera Cruzada, no en combate.
+- **Fuentes:** Hartmut Heinemann, Historisches Lexikon der Schweiz: https://hls-dhs-dss.ch/de/articles/029199/2009-10-15/; Ferdinand Opll, Friedrich Barbarossa (1990; 3.ª ed. 1998).
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-024 — Iván el Terrible
+
+- **Discrepancia y decisión documental:** Se precisa que fue gran príncipe de Moscú desde 1533 y primer soberano moscovita coronado formalmente zar en 1547. Su reinado combinó expansión territorial, guerras y represión de la opríchnina.
+- **Fuentes:** Alexander Filjushkin, Wiley: https://onlinelibrary.wiley.com/doi/10.1002/9781444338232.wbeow312; Isabel de Madariaga, Ivan the Terrible, Yale University Press (2005); crónicas rusas del siglo XVI.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-025 — Pedro el Grande
+
+- **Discrepancia y decisión documental:** Se distingue la coronación conjunta con Iván V (1682), la toma efectiva del poder en 1689 y la proclamación imperial de 1721. Se equilibra la valoración de sus reformas con la coerción estatal y el fortalecimiento de la servidumbre.
+- **Fuentes:** Carol B. Stevens, Oxford Bibliographies: https://doi.org/10.1093/obo/9780195399301-0200; Jan Hennings, Wiley: https://doi.org/10.1002/9781118885154.dipl0220; Nicholas V. Riasanovsky, Oxford (1992): https://academic.oup.com/book/47776.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-026 — Napoleón Bonaparte
+
+- **Discrepancia y decisión documental:** Se distinguen primer consulado (1799–1804), primer imperio (1804–1814) y retorno durante los Cien Días de 1815. Se equilibran reformas administrativas y Código Civil con las guerras de expansión.
+- **Fuentes:** PARES: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/47184; Assemblée nationale: https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/consulat-et-premier-empire; Ministère de l’Intérieur: https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/histoire-geographie-et-culture/les-regimes-politiques-depuis-1789/le-consulat-1799-1804/.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-027 — Simón Bolívar
+
+- **Discrepancia y decisión documental:** Se evita atribuirle en solitario la independencia de cinco países. Su liderazgo fue central en Venezuela, Nueva Granada y Quito; participó en las campañas del Perú y en el proceso de formación de Bolivia. Se destaca la Gran Colombia y el proyecto de unión republicana.
+- **Fuentes:** Joshua Simon, Oxford Bibliographies: https://academic.oup.com/reference/62333/reference-article-abstract/554086224; Banrepcultural: https://enciclopedia.banrepcultural.org/Sim%C3%B3n_Bol%C3%ADvar; Carta de Jamaica (1815): https://revistas.upb.edu.co/index.php/derecho/article/view/5406.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-028 — José de San Martín
+
+- **Discrepancia y decisión documental:** Se distingue el cruce de los Andes (1817), las campañas de Chile y la expedición al Perú; proclamó la independencia peruana en 1821, pero no concluyó por sí solo toda la guerra en el territorio.
+- **Fuentes:** Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-article-93425.html; Biblioteca Nacional Mariano Moreno: https://museo.bn.gov.ar/noticias/25-de-febrero-de-1778-nace-jose-de-san-martin; Biblioteca Nacional del Perú: https://www.gob.pe/institucion/bnp/noticias/851323-don-jose-de-san-martin-y-su-estrecha-relacion-con-la-bnp.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-029 — George Washington
+
+- **Discrepancia y decisión documental:** Se amplía la descripción para incluir su papel como comandante del Ejército Continental y primer presidente (1789–1797). Se incorpora el dato histórico de que fue propietario de personas esclavizadas, necesario para una representación equilibrada.
+- **Fuentes:** Mount Vernon: https://www.mountvernon.org/george-washington/the-first-president; Smithsonian: https://www.americanhistory.si.edu/explore/exhibitions/american-presidency/online/resources/list-of-presidents; Library of Congress: https://www.loc.gov/collections/george-washington-papers/articles-and-essays/timeline/the-early-republic/.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-030 — Abraham Lincoln
+
+- **Discrepancia y decisión documental:** Se precisa que la Proclamación de Emancipación (1863) se aplicó a zonas en rebelión y no abolió por sí sola la esclavitud nacionalmente. La abolición constitucional llegó con la Decimotercera Enmienda, ratificada en 1865.
+- **Fuentes:** U.S. National Archives: https://www.archives.gov/milestone-documents/emancipation-proclamation; Library of Congress: https://www.loc.gov/collections/abraham-lincoln-papers/articles-and-essays/abraham-lincoln-and-emancipation/timeline/; U.S. National Archives, 13th Amendment: https://www.archives.gov/milestone-documents/13th-amendment.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-031 — Otto von Bismarck
+
+- **Discrepancia y decisión documental:** Se precisan los cargos: primer ministro prusiano desde 1862, canciller de la Confederación Alemana del Norte desde 1867 y canciller imperial desde 1871 hasta 1890. La unificación se presenta como proceso colectivo bajo liderazgo prusiano.
+- **Fuentes:** Otto-von-Bismarck-Stiftung: https://www.bismarck-stiftung.de/otto-von-bismarck/lebenslauf/; Deutsches Historisches Museum: https://www.dhm.de/lemo/biografie/otto-bismarck; German History in Documents and Images: https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/bismarcks-putbus-dictations-on-germanys-future-constitution-october-november-1866.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-032 — Qin Shi Huang
+
+- **Discrepancia y decisión documental:** Se precisa la unificación de 221 a. C., la breve duración de Qin y las estandarizaciones administrativas. Se evita atribuirle la construcción completa de la Gran Muralla: conectó y amplió defensas preexistentes.
+- **Fuentes:** Smithsonian National Museum of Asian Art: https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/explore-by-dynasty/qin-dynasty/; Metropolitan Museum: https://www.metmuseum.org/de/essays/qin-dynasty-221-206-b-c; Age of Empires: Art of the Qin and Han Dynasties (Metropolitan Museum, 2017).
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-033 — Liu Bang
+
+- **Discrepancia y decisión documental:** Se mantiene el nacimiento como discutido; se distingue la victoria sobre Xiang Yu, la fundación de Han y su reinado como Gaozu desde 202 a. C.
+- **Fuentes:** Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/han-dynasty/; Smithsonian National Museum of Asian Art: https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/explore-by-dynasty/qin-dynasty/; Sima Qian, Shiji, biografía de Gaozu.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-034 — Tokugawa Ieyasu
+
+- **Discrepancia y decisión documental:** Se precisa que Sekigahara (1600) no cerró toda resistencia: el clan Toyotomi fue derrotado en las campañas de Osaka (1614–1615). Ieyasu cedió el título de shōgun en 1605, pero conservó influencia.
+- **Fuentes:** National Archives of Japan: https://www.archives.go.jp/exhibition/digital/ieyasu/contents3_01/; Tokugawa Art Museum: https://www.tokugawa-art-museum.jp/wp-content/uploads/2025/03/Tokugawa-Ieyasu_handout.pdf; National Diet Library of Japan: https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F14579796.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-035 — Mehmed II
+
+- **Discrepancia y decisión documental:** Se recuerda su primer reinado (1444–1446) siendo menor y su segundo reinado (1451–1481). La conquista de Constantinopla en 1453 fue seguida de reconstrucción, repoblación y reorganización imperial.
+- **Fuentes:** Halil İnalcık, Cambridge History of Islam: https://www.cambridge.org/core/books/abs/cambridge-history-of-islam/rise-of-the-ottoman-empire/307404FFFFA9EAE1488260843074A62F; Abdurrahman Atçıl, Cambridge: https://www.cambridge.org/core/books/abs/scholars-and-sultans-in-the-early-modern-ottoman-empire/scholars-in-mehmed-iis-nascent-imperial-bureaucracy-14531481/525AA44454FF09B7347729B37C8EA811; Çiğdem Kafescioğlu, Penn State University Press: https://www.psupress.org/books/titles/978-0-271-02776-0.html.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+### HIS-036 — Suleimán el Magnífico
+
+- **Discrepancia y decisión documental:** Se conserva 1494/1495–1566 porque las fuentes difieren sobre el nacimiento. Se refuerzan los hitos de expansión, poder naval, codificación legal y mecenazgo; «Magnífico» y «Legislador» se tratan como epítetos históricos.
+- **Fuentes:** Güneş Işıksel, Wiley: https://doi.org/10.1002/9781118885154.dipl0267; Linda Komaroff y Suzan Yalman, Metropolitan Museum: https://www.metmuseum.org/pt/essays/the-age-of-suleyman-the-magnificent-r-1520-1566; Getty Research Institute, ULAN: https://www.getty.edu/vow/ULANFullDisplay?find=&nation=&role=&subjectid=500126202.
+- **Estado:** integrado; pendiente de aprobación editorial.
+
+## Revisión transversal de clasificación — HIS-001 a HIS-036
+
+Se conservan las categorías actuales en esta pasada, respetando la distribución editorial aprobada. Leónidas y Temístocles permanecen en «Guerreros y Generales»; Pericles, Washington, Lincoln y Bismarck en «Líderes Políticos y Estadistas». Bolívar y San Martín tienen perfiles político-militares mixtos: se mantiene provisionalmente su ubicación en «Gobernantes y Conquistadores», pero quedan señalados para comparación con el criterio aplicado a los siguientes archivos. No se modificaron códigos, nombres ni categorías. La decisión definitiva se reserva para la revisión comparativa global.
+
+**Cierre de integración del archivo:** HIS-001–HIS-036 cuentan con una pasada de integración documental y referencias ampliadas; 36/36 integrados, 0/36 aprobados. Todos continúan en `en_verificacion`. La validación estructural no constituye aprobación histórica.
