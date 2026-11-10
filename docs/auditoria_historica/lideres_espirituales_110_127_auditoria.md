@@ -308,3 +308,52 @@ Se priorizan textos atribuibles a la propia figura cuando existen, manuscritos, 
 **Siguiente archivo:** bloque_final_128_144.json (HIS-128–HIS-144).
 
 La auditoría documental no equivale a aprobación editorial. Antes de las ilustraciones definitivas se deberán resolver los asuntos pendientes, reforzar bibliografía, revisar clasificación y aprobar formalmente cada ficha. La validación estructural del JSON no prueba exactitud histórica.
+
+
+---
+
+# Addenda — integración documental transversal (10 de noviembre de 2026)
+
+**Alcance:** revisión completa del JSON HIS-110–HIS-127 y actualización de las 18 fichas.  
+**Resultado:** 18/18 integrados; 0/18 aprobados para diseño.  
+**Estado editorial:** los registros permanecen en `en_verificacion`; la integración no equivale a aprobación histórica ni editorial.
+
+## Decisiones por personaje
+
+| Código | Integración y decisión | Reserva que se conserva |
+|---|---|---|
+| HIS-110 Siddhartha Gautama | Se mantiene «c. siglo V a. C.» como aproximación; se amplía la explicación de la transmisión oral y de los cánones budistas. | No existe consenso sobre fechas exactas; las biografías tradicionales no son transcripciones contemporáneas. |
+| HIS-111 Confucio | Se conserva 551–479 a. C. como cronología tradicional; se describen las capas de las Analectas y la reinterpretación posterior del confucianismo. | No atribuir literalmente todos los diálogos o doctrinas del corpus a Confucio. |
+| HIS-112 Lao Tsé | Se sustituye la biografía cerrada por la figura tradicional asociada al Daodejing; se incorporan los manuscritos de Guodian y Mawangdui. | Autoría individual e historicidad de Laozi inciertas; las versiones textuales varían. |
+| HIS-113 Zoroastro | Se conserva c.1000 a. C. como hipótesis influyente, junto con la amplitud de las cronologías propuestas; se refuerza el papel de los Gathas. | No hay sincronismos históricos firmes ni consenso absoluto sobre fecha y lugar. |
+| HIS-114 Mahavira | Se mantiene 599–527 a. C. como cronología tradicional y se añade el marco histórico alternativo del siglo VI–V a. C.; se evita llamarlo fundador absoluto del jainismo. | La cronología y la atribución de formulaciones doctrinales concretas requieren más crítica textual. |
+| HIS-115 Moisés | Se mantiene fecha desconocida y se describe su función en las tradiciones del Éxodo, alianza y Ley. | Figura fundacional cuya biografía no puede verificarse con fuentes contemporáneas independientes; no afirmar ni negar como certeza confesional. |
+| HIS-116 Abraham | Se mantiene sin fecha; se distingue la historia de las tradiciones patriarcales de la verificación del individuo. | No hay evidencia concluyente que identifique al Abraham individual o confirme los episodios del Génesis. |
+| HIS-117 San Pablo | Se mantienen fechas aproximadas; se enumeran las siete cartas ampliamente aceptadas como auténticas y se distingue Hechos como fuente de otro autor. | Cronología absoluta y fecha de muerte siguen reconstruidas; cartas disputadas no se atribuyen sin matiz. |
+| HIS-118 San Agustín | Se conserva 354–430; se amplía su contexto norteafricano y las controversias doctrinales. | Confesiones es obra literaria, filosófica y teológica, no autobiografía neutral. |
+| HIS-119 Tomás de Aquino | Se conserva c.1225–1274; se precisa que la Summa theologiae quedó inconclusa y se destaca la circulación intercultural del aristotelismo. | Distinguir Summa contra gentiles de Summa theologiae; cautela con anécdotas hagiográficas. |
+| HIS-120 Martín Lutero | Se conservan 1483–1546; las tesis de 1517 se presentan como invitación académica al debate y se incorpora explícitamente su antisemitismo tardío. | La escena tradicional de clavar personalmente las tesis es debatida; no reducir la Reforma a un individuo. |
+| HIS-121 Juan Calvino | Se conservan 1509–1564; se amplía la organización de Ginebra y el caso Servet, distinguiendo autoridades civiles y participación de Calvino. | Evitar tanto la absolución simplificadora como atribuirle en solitario la sentencia civil. |
+| HIS-122 Guru Nanak | Se conserva 1469–1539; se refuerza la historia manuscrita de sus composiciones y la distinción frente a las janamsakhis. | Los relatos devocionales posteriores no equivalen a documentación contemporánea; evitar reducir el sijismo a una síntesis de otras religiones. |
+| HIS-123 Teresa de Ávila | Se conserva 1515–1582; se incorpora la reforma carmelita colectiva, la ascendencia conversa y la retención inquisitorial del Libro de la vida. | La Vida es una narración espiritual revisada y situada, no autobiografía moderna transparente. |
+| HIS-124 Francisco de Asís | Se conserva c.1181/1182–1226; se precisan la Regla de 1223, la canonización de 1228 y el encuentro con al-Kamil en 1219. | Se conocen pocos detalles de la audiencia; evitar proyectar sobre ella categorías contemporáneas de diálogo interreligioso. |
+| HIS-125 Maimónides | Se conserva 1138–1204; se añade el contexto almohade, su labor médica y la recepción polémica de la Mishné Torá. | No presentar la Mishné Torá como reemplazo indiscutido del Talmud ni la Guía como conciliación simple. |
+| HIS-126 Patanjali | Se sustituye el rango demasiado amplio por c.400 d. C. como propuesta académica para el Pātañjalayogaśāstra. | Fecha y autoría debatidas; no identificar automáticamente al autor de los Yoga Sutras con el gramático o el médico. |
+| HIS-127 Nagarjuna | Se conserva c.150–250 d. C.; se delimita la Mūlamadhyamakakārikā como obra central y se explica vacuidad sin nihilismo. | La biografía es escasa y la atribución de otros textos debe examinarse individualmente. |
+
+## Referencias y criterio documental
+
+El JSON contiene tres referencias identificables por personaje. Se priorizaron Oxford Academic, Stanford Encyclopedia of Philosophy, Encyclopaedia Iranica, Routledge Encyclopedia of Philosophy, Cambridge University Press, Library of Congress, Harvard, universidades y estudios revisados por pares. Se añadieron textos primarios y manuscritos cuando resultaban pertinentes.
+
+La cantidad de referencias no significa que todos los debates estén agotados. En particular, requieren una siguiente revisión especializada la cronología del Buda y Mahavira, la autoría del Daodejing, los estratos del canon budista, la historicidad individual de Moisés y Abraham, la relación entre las fuentes paulinas y Hechos, el proceso Servet, los manuscritos sij y la datación del Yogaśāstra.
+
+## Hallazgos transversales
+
+1. Diferenciar persona documentada, figura tradicional, personaje fundacional y autoría textual discutida; la categoría «histórico» no debe homogeneizar casos distintos.
+2. Tratar escrituras sagradas, hagiografías, janamsakhis y relatos de conversión como fuentes de historia religiosa, pero no automáticamente como biografías contemporáneas.
+3. No presentar como palabras literales de un maestro los textos transmitidos, editados y compilados por generaciones posteriores.
+4. Mantener cronologías aproximadas cuando no hay sincronismos seguros.
+5. Incluir contextos críticos —antisemitismo de Lutero, coerción y autoridad en Ginebra, cruzadas, Inquisición y conflictos doctrinales— sin hagiografía ni caricatura.
+6. Reconocer redes intelectuales entre India, Irán, China, el Mediterráneo islámico, el judaísmo y el cristianismo.
+
+**Cierre de integración:** 18/18 actualizados; 0/18 aprobados. La validación técnica del JSON no acredita por sí sola exactitud histórica ni autoriza ilustraciones definitivas.
