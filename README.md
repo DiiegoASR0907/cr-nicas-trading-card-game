@@ -156,10 +156,10 @@ Fionn mac Cumhaill
 ## Estado de documentación histórica
 
 - Distribución editorial de los 144 registros actualizada según la reorganización aprobada.
-- Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros), `data/historicos/guerreros_037_061.json` (25 registros) y `data/historicos/sabios_cientificos_062_091.json` (30 registros).
+- Bloques documentales cargados: `data/historicos/gobernantes_001_036.json` (36 registros), `data/historicos/guerreros_037_061.json` (25 registros), `data/historicos/sabios_cientificos_062_091.json` (30 registros) y `data/historicos/exploradores_092_109.json` (18 registros).
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
-- Total de registros documentales iniciales cargados: 91 de 144. Restan 53 por documentar y verificar.
-- Siguiente bloque previsto: Exploradores y Navegantes (18 personajes), con códigos HIS-092 a HIS-109.
+- Total de registros documentales iniciales cargados: 109 de 144. Restan 35 por documentar y verificar.
+- Siguiente bloque previsto: Líderes Espirituales y Religiosos (18 personajes), con códigos HIS-110 a HIS-127.
 - La documentación diferencia hechos históricos, tradiciones posteriores, fechas aproximadas y aspectos debatidos.
 - Las fuentes se guardan en cada registro para facilitar la auditoría y evitar depender del historial del chat.
 
