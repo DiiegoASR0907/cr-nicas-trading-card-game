@@ -5,7 +5,7 @@
   "batch": "HIS-128 a HIS-144",
   "schema_version": "1.0-draft",
   "status": "integracion_documental_transversal_completada_pendiente_aprobacion_editorial",
-  "note": "Integración documental transversal del bloque HIS-128 a HIS-144 completada. Los 17 registros permanecen en_verificacion y no están aprobados para impresión o ilustración. La categoría editorial no implica igual grado de historicidad; las fuentes y notas distinguen evidencia contemporánea, tradición posterior y literatura.",
+  "note": "Registros con integración documental completada y aprobación editorial global para producción. Las reservas y cautelas historiográficas permanecen en editorial_note y sources. No enviar a imprenta hasta superar el control visual y técnico de producción.",
   "records": [
     {
       "code": "HIS-128",
@@ -40,7 +40,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: conservar el nacimiento como estimación y la ejecución en 1525; la fecha tradicional del 28 de febrero se apoya en Ciencia UNAM. La identificación de restos de Ichcateopan no está demostrada. La defensa de Tenochtitlan enfrentó una coalición hispano-indígena. Pendiente de aprobación editorial.",
+      "editorial_note": "Integración documental: conservar el nacimiento como estimación y la ejecución en 1525; la fecha tradicional del 28 de febrero se apoya en Ciencia UNAM. La identificación de restos de Ichcateopan no está demostrada. La defensa de Tenochtitlan enfrentó una coalición hispano-indígena. aprobación editorial global otorgada; pendiente únicamente el control de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -77,7 +77,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: precisar la secuencia elecciones del 27 de abril e investidura del 10 de mayo de 1994; contextualizar MK y el juicio de Rivonia y no atribuir el fin del apartheid a una sola persona. Pendiente de aprobación editorial.",
+      "editorial_note": "Integración documental: precisar la secuencia elecciones del 27 de abril e investidura del 10 de mayo de 1994; contextualizar MK y el juicio de Rivonia y no atribuir el fin del apartheid a una sola persona. aprobación editorial global otorgada; pendiente únicamente el control de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -188,7 +188,7 @@
       ],
       "historical_nature": "Legendario / posible trasfondo folclórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: reemplazadas referencias genéricas por bibliografía especializada sobre las baladas medievales; no atribuir identidad civil ni relación histórica comprobada con Ricardo I. Pendiente de aprobación editorial.",
+      "editorial_note": "Integración documental: reemplazadas referencias genéricas por bibliografía especializada sobre las baladas medievales; no atribuir identidad civil ni relación histórica comprobada con Ricardo I. aprobación editorial global otorgada; pendiente únicamente el control de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -368,7 +368,7 @@
       ],
       "historical_nature": "Semihistórico / legendario",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: retirada la referencia de FamilySearch por no ser fuente historiográfica. Se incorporan estudios académicos que muestran posiciones distintas sobre la historicidad de Ragnar; no afirmar identidad única ni genealogía con Ivar como hechos probados. Pendiente de aprobación editorial.",
+      "editorial_note": "Integración documental: retirada la referencia de FamilySearch por no ser fuente historiográfica. Se incorporan estudios académicos que muestran posiciones distintas sobre la historicidad de Ragnar; no afirmar identidad única ni genealogía con Ivar como hechos probados. aprobación editorial global otorgada; pendiente únicamente el control de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -478,7 +478,7 @@
       ],
       "historical_nature": "Semihistórico / épico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: diferenciar el Hruodland mencionado en la tradición carolingia de la figura épica posterior; la identificación y el texto de Einhard requieren atención a variantes manuscritas. Pendiente de aprobación editorial.",
+      "editorial_note": "Integración documental: diferenciar el Hruodland mencionado en la tradición carolingia de la figura épica posterior; la identificación y el texto de Einhard requieren atención a variantes manuscritas. aprobación editorial global otorgada; pendiente únicamente el control de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -590,7 +590,7 @@
       ],
       "historical_nature": "Semihistórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: retirada la referencia sobre las hermanas Trưng por no documentar a Lady Triệu. Se conserva 248 como fecha tradicional del levantamiento, pero no 225 como nacimiento comprobado; fuentes vietnamitas tardías y estudios modernos deben distinguirse, y las fuentes chinas no nombran a la líder en el registro principal del episodio. Pendiente de aprobación editorial.",
+      "editorial_note": "Integración documental: retirada la referencia sobre las hermanas Trưng por no documentar a Lady Triệu. Se conserva 248 como fecha tradicional del levantamiento, pero no 225 como nacimiento comprobado; fuentes vietnamitas tardías y estudios modernos deben distinguirse, y las fuentes chinas no nombran a la líder en el registro principal del episodio. aprobación editorial global otorgada; pendiente únicamente el control de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -628,7 +628,7 @@
       ],
       "historical_nature": "Legendario / literario",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental: reforzado con catálogo académico del Early Fenian Corpus y bibliografía especializada; diferenciar corpus textual, variantes lingüísticas y fechas de manuscritos. Pendiente de aprobación editorial.",
+      "editorial_note": "Integración documental: reforzado con catálogo académico del Early Fenian Corpus y bibliografía especializada; diferenciar corpus textual, variantes lingüísticas y fechas de manuscritos. aprobación editorial global otorgada; pendiente únicamente el control de producción.",
       "production_status": "aprobado_produccion"
     }
   ],
