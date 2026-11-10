@@ -86,9 +86,10 @@
       "highlight_facts": [],
       "curiosity": "La narración más conocida procede de Heródoto y debe leerse dentro de la tradición historiográfica griega.",
       "sources": [
-        "Heródoto, Historias, libro VII, 201–233 (fuente antigua principal): https://www.livius.org/sources/content/herodotus/herodotus-on-thermopylae/",
-        "Richard Evans, Commemorating Thermopylae: The Andreia of Glorious Defeat as a Literary Construct, Edinburgh University Press, 2020.",
-        "HISTORY, Leonidas: https://www.history.com/articles/leonidas"
+        "Paul Cartledge, Oxford Classical Dictionary, “Leonidas (1), Agiad king of Sparta”: https://academic.oup.com/edited-volume/61673/chapter-abstract/549657234",
+        "John F. Lazenby, Oxford Classical Dictionary, “Thermopylae, battle of”: https://academic.oup.com/edited-volume/61673/chapter-abstract/548203592",
+        "Richard Evans, “Commemorating Thermopylae: The Andreia of Glorious Defeat as a Literary Construct”, Edinburgh University Press, 2020: https://doi.org/10.3366/edinburgh/9781474459945.003.0003",
+        "Heródoto, Historias, libro VII, 201–233, fuente antigua principal, con lectura crítica."
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
@@ -284,13 +285,17 @@
       "period": "Imperio neobabilónico",
       "origin": "Babilonia",
       "dates": "c. 634–562 a. C.",
-      "biography": "Rey de Babilonia entre 605 y 562 a. C.; amplió el poder neobabilónico, tomó Jerusalén y promovió importantes construcciones en Babilonia.",
+      "biography": "Rey del Imperio neobabilónico entre 605 y 562 a. C.; derrotó a Egipto en Carquemis, extendió el dominio babilónico sobre Judá y promovió grandes obras en Babilonia, incluida la Puerta de Ishtar.",
       "highlight_facts": [],
       "curiosity": "Las crónicas babilónicas y documentos administrativos permiten contrastar los relatos bíblicos y las tradiciones posteriores.",
-      "sources": [],
+      "sources": [
+        "Encyclopaedia Iranica, “Babylonia i. History of Babylonia in the Median and Achaemenid periods”: https://www.iranicaonline.org/articles/babylonia/babylonia-i/",
+        "Karen Radner et al., “Nebuchadnezzar II”, Encyclopaedia of the Bible and its Reception (PDF académico): https://research-portal.uu.nl/files/211129242/ebr.mainlemma_1292.pdf",
+        "Crónica babilónica BM 21946 y textos cuneiformes administrativos y reales; véase la bibliografía especializada citada en las referencias anteriores."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-014",
@@ -302,14 +307,18 @@
       "category": "Gobernantes y Conquistadores",
       "period": "Edad del Bronce",
       "origin": "Acad, Mesopotamia",
-      "dates": "siglo XXIV a. C. (fechas aproximadas y debatidas)",
-      "biography": "Fundador de la dinastía acadia y del primer gran imperio territorial conocido en Mesopotamia; unificó amplias zonas de Sumer y Acad.",
+      "dates": "c. 2340–2285 a. C. (cronología aproximada)",
+      "biography": "Rey de Acad y fundador de la dinastía acadia; sometió ciudades sumerias, derrotó a Lugalzagesi y estableció un estado territorial que extendió su influencia por gran parte de Mesopotamia.",
       "highlight_facts": [],
       "curiosity": "La ciudad de Acad no ha sido localizada con certeza; las historias de su nacimiento humilde y origen extraordinario proceden de tradiciones literarias posteriores.",
-      "sources": [],
+      "sources": [
+        "Ingo Schrakamp, “Akkadian Empire”, The Encyclopedia of Ancient History, Wiley: https://doi.org/10.1002/9781118455074.wbeoe395",
+        "The Metropolitan Museum of Art, “The Akkadian Period (ca. 2350–2150 B.C.)”: https://www.metmuseum.org/essays/the-akkadian-period-ca-2350-2150-b-c",
+        "Amanda H. Podany, The Ancient Near East: A Very Short Introduction, Oxford University Press, capítulo sobre el Imperio acadio: https://academic.oup.com/book/28459/chapter-abstract/229049037"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-015",
@@ -321,14 +330,18 @@
       "category": "Gobernantes y Conquistadores",
       "period": "Imperio mongol",
       "origin": "Mongolia",
-      "dates": "c. 1162–1227",
-      "biography": "Unificó diversas confederaciones mongolas y fue proclamado Chinggis Khan en 1206, fundando el Imperio mongol.",
+      "dates": "c. 1162/1167–1227 (nacimiento debatido)",
+      "biography": "Unificó las principales confederaciones mongolas y fue proclamado Chinggis Khan en 1206. Sus campañas fundaron un imperio que sus sucesores extendieron por gran parte de Eurasia.",
       "highlight_facts": [],
       "curiosity": "La fecha de nacimiento es aproximada; la historia de su ascenso debe contrastarse con la Historia secreta de los mongoles y estudios modernos.",
-      "sources": [],
+      "sources": [
+        "David O. Morgan, Encyclopaedia Iranica, “Čengīz Khan”: https://www.iranicaonline.org/articles/cengiz-khan/",
+        "Columbia University, Asia for Educators, “Key Figures in Mongol History”: https://afe.easia.columbia.edu/mongols/figures/figures.htm",
+        "The Secret History of the Mongols, fuente narrativa medieval fundamental; su composición se sitúa en el siglo XIII y requiere lectura crítica."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-016",
@@ -341,13 +354,17 @@
       "period": "Imperio mongol y dinastía Yuan",
       "origin": "Mongolia y China",
       "dates": "1215–1294",
-      "biography": "Nieto de Gengis Kan; fue Gran Kan y estableció la dinastía Yuan en 1271. Completó la conquista mongola del sur de China en 1279.",
+      "biography": "Nieto de Chinggis Khan; fue elegido Gran Kan en 1260 y proclamó la dinastía Yuan en 1271. Conquistó el último bastión de la dinastía Song en 1279 y gobernó desde China.",
       "highlight_facts": [],
       "curiosity": "Su gobierno combinó instituciones mongolas y chinas; también mantuvo jerarquías sociales y emprendió campañas fallidas contra Japón.",
-      "sources": [],
+      "sources": [
+        "The Metropolitan Museum of Art, The World of Khubilai Khan: Chinese Art in the Yuan Dynasty: https://www.metmuseum.org/zh/met-publications/the-world-of-khubilai-khan-chinese-art-in-the-yuan-dynasty",
+        "Columbia University, Asia for Educators, “Khubilai Khan”: https://afe.easia.columbia.edu/mongols/pop/khubilai/kkhan_pop.htm",
+        "National Geographic Education, “Kublai Khan”: https://education.nationalgeographic.org/resource/kublai-khan/"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-017",
@@ -359,14 +376,18 @@
       "category": "Gobernantes y Conquistadores",
       "period": "Antigüedad tardía",
       "origin": "Europa central y cuenca del Danubio",
-      "dates": "fallecido en 453",
-      "biography": "Gobernante de los hunos desde 434 hasta su muerte; dirigió campañas contra los imperios romanos de Oriente y Occidente.",
+      "dates": "fallecido en 453 d. C.",
+      "biography": "Rey de los hunos, gobernó junto a su hermano Bleda y después en solitario. Dirigió campañas contra el Imperio romano de Oriente y Occidente; tras su muerte, el poder huno se desintegró rápidamente.",
       "highlight_facts": [],
       "curiosity": "Las fuentes romanas son externas y presentan sesgos; el sobrenombre «Azote de Dios» refleja una tradición posterior.",
-      "sources": [],
+      "sources": [
+        "Peter Heather, Oxford Classical Dictionary, “Attila”: https://academic.oup.com/edited-volume/61673/chapter-abstract/548510661",
+        "Cameron Barnes, Oxford Bibliographies in Military History, “Attila and the Huns” (2024): https://academic.oup.com/reference/62399/reference-article-abstract/571721214",
+        "Péter Kovács, “Some Notes on the Date of Attila’s Death”, Acta Archaeologica Academiae Scientiarum Hungaricae 74 (2023): https://doi.org/10.1556/072.2023.00007"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-018",
@@ -379,13 +400,17 @@
       "period": "Edad Media tardía",
       "origin": "Transoxiana, Asia Central",
       "dates": "1336–1405",
-      "biography": "Conquistador de origen turco-mongol que fundó el Imperio timúrida, con centro en Samarcanda, y emprendió campañas desde Asia Central hasta Oriente Próximo y el norte de India.",
+      "biography": "Conquistador de origen turco-mongol que fundó el poder timúrida con centro en Samarcanda. Sus campañas alcanzaron Persia, Asia Central, el Cáucaso, Anatolia y el norte de India, dejando una profunda devastación en numerosas ciudades.",
       "highlight_facts": [],
       "curiosity": "No fue descendiente directo de Gengis Kan; su legitimidad política se apoyó en alianzas dinásticas y títulos, no en una descendencia demostrada.",
-      "sources": [],
+      "sources": [
+        "Ursula Nashashibi, Encyclopaedia Iranica, “ʿAjāʾeb al-Maqdūr”, estudio de la crónica de Aḥmad b. ʿArabšāh sobre Timur: https://www.iranicaonline.org/articles/ajaeb-al-maqdur/",
+        "“Timur”, Encyclopaedia Britannica, biografía y campañas: https://www.britannica.com/biography/Timur",
+        "Beatrice Forbes Manz, The Rise and Rule of Tamerlane, Cambridge University Press, 1989."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-019",
@@ -397,13 +422,17 @@
       "period": "Edad Media",
       "origin": "Egipto y Siria",
       "dates": "1137/1138–1193",
-      "biography": "Sultán de Egipto y Siria y fundador de la dinastía ayubí; recuperó Jerusalén en 1187 tras la batalla de Hattin.",
+      "biography": "Sultán de Egipto y Siria y fundador del poder ayubí; unificó territorios de la región y derrotó a los cruzados en Hattin (1187), antes de recuperar Jerusalén ese mismo año.",
       "highlight_facts": [],
       "curiosity": "Su memoria fue idealizada tanto en tradiciones musulmanas como europeas; la ficha debe evitar el retrato de héroe sin matices.",
-      "sources": [],
+      "sources": [
+        "Stephen R. Humphreys, Oxford Bibliographies in Islamic Studies, “Ayyubids”: https://academic.oup.com/reference/62361/reference-article-abstract/554569932",
+        "Encyclopaedia Iranica, “Ayyubids”: https://www.iranicaonline.org/articles/ayyubids/",
+        "R. Stephen Humphreys, From Saladin to the Mongols: The Ayyubids of Damascus, 1193–1260, SUNY Press, 1977; para la trayectoria de Saladino, véase también M. C. Lyons y D. E. P. Jackson, Saladin: The Politics of the Holy War, Cambridge University Press, 1982."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-020",
@@ -416,13 +445,17 @@
       "period": "Edad Media",
       "origin": "Inglaterra y dominios angevinos",
       "dates": "1157–1199",
-      "biography": "Rey de Inglaterra entre 1189 y 1199; participó en la Tercera Cruzada y en conflictos dinásticos y territoriales en Francia.",
+      "biography": "Rey de Inglaterra entre 1189 y 1199; dirigió parte de la Tercera Cruzada, recuperó posiciones costeras y acordó con Saladino la tregua de Jaffa (1192), que permitió el acceso cristiano a Jerusalén sin conquistar la ciudad.",
       "highlight_facts": [],
       "curiosity": "Su reputación caballeresca procede en parte de crónicas y literatura posteriores; su reinado también implicó elevados costes fiscales y largos periodos fuera de Inglaterra.",
-      "sources": [],
+      "sources": [
+        "John Gillingham, Oxford Dictionary of National Biography, “Richard I (1157–1199)”: https://academic.oup.com/oxford-dictionary-of-national-biography/reference/63486/reference-article-abstract/581907999",
+        "The Royal Family, “Richard I Coeur de Lion (r. 1189–1199)”: https://www.royal.uk/richard-i",
+        "Stephen J. Spencer, “Like a Raging Lion”, English Historical Review 132 (2017): https://academic.oup.com/ehr/article-abstract/132/556/495/3897145"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-021",
@@ -435,13 +468,17 @@
       "period": "Edad Media",
       "origin": "Normandía e Inglaterra",
       "dates": "c. 1028–1087",
-      "biography": "Duque de Normandía que conquistó Inglaterra en 1066 y gobernó como rey hasta 1087.",
+      "biography": "Duque de Normandía que conquistó Inglaterra tras la batalla de Hastings (1066) y fue coronado rey ese mismo año. Su reinado transformó profundamente la aristocracia, la administración y las relaciones entre Inglaterra y el continente.",
       "highlight_facts": [],
       "curiosity": "La conquista normanda transformó las élites, la tenencia de tierras y la administración inglesa; considerar el impacto sobre la población anglosajona.",
-      "sources": [],
+      "sources": [
+        "David Bates, William the Conqueror, Yale University Press, 2017: https://academic.oup.com/yale-scholarship-online/book/15081",
+        "Emily Zack Tabuteau, Oxford Bibliographies in Medieval Studies, “Anglo-Norman Realm”: https://academic.oup.com/reference/62384/reference-article-abstract/555075362",
+        "George Garnett, The Norman Conquest: A Very Short Introduction, Oxford University Press, 2009: https://academic.oup.com/book/28390"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-022",
@@ -454,13 +491,17 @@
       "period": "Alta Edad Media",
       "origin": "Reino franco y Europa occidental",
       "dates": "c. 747/748–814",
-      "biography": "Rey de los francos y los lombardos; fue coronado emperador en Roma en el año 800 y amplió el poder carolingio en Europa occidental.",
+      "biography": "Rey de los francos desde 768 y de los lombardos desde 774; fue coronado emperador en Roma en el año 800. Expandió el poder carolingio y promovió reformas administrativas, religiosas y culturales.",
       "highlight_facts": [],
       "curiosity": "El año de nacimiento es incierto; la coronación imperial debe explicarse dentro de la relación entre el papado y el poder franco.",
-      "sources": [],
+      "sources": [
+        "“Charlemagne”, Encyclopaedia Britannica: https://www.britannica.com/biography/Charlemagne",
+        "Martin Conway, “The Amulet of Charlemagne”, The Antiquaries Journal 2 (1922): https://doi.org/10.1017/S0003581500003437",
+        "Einhard, Vita Karoli Magni, fuente biográfica cercana a la corte carolingia, que debe leerse atendiendo a su carácter encomiástico."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-023",
@@ -471,14 +512,18 @@
       "category": "Gobernantes y Conquistadores",
       "period": "Edad Media",
       "origin": "Sacro Imperio Romano Germánico",
-      "dates": "c. 1122/1123–1190",
-      "biography": "Rey alemán y emperador del Sacro Imperio desde 1155; intervino en Italia y participó en la Tercera Cruzada, donde murió durante la expedición.",
+      "dates": "1122–1190",
+      "biography": "Rey de romanos desde 1152 y emperador del Sacro Imperio desde 1155; intervino repetidamente en Italia y encabezó la Tercera Cruzada, durante la cual murió ahogado en el río Saleph (1190).",
       "highlight_facts": [],
       "curiosity": "Las fuentes discrepan en algunos detalles de su nacimiento; no confundir su título imperial con el de un monarca nacional moderno.",
-      "sources": [],
+      "sources": [
+        "Hartmut Heinemann, Historisches Lexikon der Schweiz, “Friedrich I. (Barbarossa)”: https://hls-dhs-dss.ch/de/articles/029199/2009-10-15/",
+        "Ferdinand Opll, Friedrich Barbarossa, Wissenschaftliche Buchgesellschaft, 1990 (3.ª ed. 1998), bibliografía especializada citada por el Historisches Lexikon der Schweiz.",
+        "Annales de la Tercera Cruzada y crónicas contemporáneas, contrastadas con la historiografía moderna."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-024",
@@ -491,13 +536,17 @@
       "period": "Edad Moderna temprana",
       "origin": "Rusia",
       "dates": "1530–1584",
-      "biography": "Gran príncipe de Moscú y primer gobernante coronado formalmente como zar de toda Rusia; expandió el territorio ruso y centralizó el poder.",
+      "biography": "Gran príncipe de Moscú desde 1533 y primer soberano moscovita coronado zar en 1547. Amplió el territorio hacia el Volga, pero su reinado también estuvo marcado por guerras prolongadas y la violencia de la opríchnina.",
       "highlight_facts": [],
       "curiosity": "El epíteto ruso Grozny significa aproximadamente «imponente» o «temible»; traducirlo simplemente como «terrible» puede distorsionar su sentido.",
-      "sources": [],
+      "sources": [
+        "Alexander Filjushkin, “Ivan IV (‘the Dread,’ ‘the Terrible’) (1530–1584)”, The Encyclopedia of War, Wiley: https://onlinelibrary.wiley.com/doi/10.1002/9781444338232.wbeow312",
+        "Isabel de Madariaga, Ivan the Terrible, Yale University Press, 2005.",
+        "Crónicas rusas del siglo XVI y documentación diplomática, que deben contrastarse por sus perspectivas cortesanas y políticas."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-025",
@@ -510,13 +559,17 @@
       "period": "Edad Moderna",
       "origin": "Rusia",
       "dates": "1672–1725",
-      "biography": "Zar y primer emperador de Rusia; impulsó reformas administrativas, militares y navales y fundó San Petersburgo.",
+      "biography": "Zar de Rusia desde 1682 y gobernante efectivo desde 1689; fue proclamado emperador en 1721. Impulsó reformas militares, navales y administrativas, fundó San Petersburgo y amplió la proyección rusa en Europa, mediante políticas que también reforzaron la coerción estatal.",
       "highlight_facts": [],
       "curiosity": "Las reformas modernizadoras estuvieron acompañadas de coerción estatal, cargas fiscales y trabajo forzado.",
-      "sources": [],
+      "sources": [
+        "Carol B. Stevens, Oxford Bibliographies, “Peter the Great, Tsar of Russia”: https://academic.oup.com/reference/62333/reference-article-abstract/554086224",
+        "Jan Hennings, “Peter I (1672–1725)”, Encyclopedia of Diplomacy, Wiley: https://doi.org/10.1002/9781118885154.dipl0220",
+        "Nicholas V. Riasanovsky, The Image of Peter the Great in Russian History and Thought, Oxford University Press, 1992: https://academic.oup.com/book/47776"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-026",
@@ -529,13 +582,17 @@
       "period": "Edad Contemporánea temprana",
       "origin": "Francia y Europa",
       "dates": "1769–1821",
-      "biography": "General y estadista francés; fue primer cónsul y emperador de los franceses. Sus campañas transformaron el mapa político europeo.",
+      "biography": "Militar y dirigente francés; fue primer cónsul desde 1799 y emperador de los franceses entre 1804 y 1814, y nuevamente durante los Cien Días de 1815. Sus guerras transformaron Europa y su gobierno impulsó reformas administrativas y el Código Civil.",
       "highlight_facts": [],
       "curiosity": "El Código Napoleónico y las reformas administrativas tuvieron efectos duraderos, mientras que sus guerras causaron enormes pérdidas humanas y expansión imperial.",
-      "sources": [],
+      "sources": [
+        "PARES, Portal de Archivos Españoles, autoridad “Napoleón I (1769–1821)”: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/47184",
+        "Assemblée nationale, “Consulat et Premier Empire”: https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/consulat-et-premier-empire",
+        "Ministère de l’Intérieur, “Le Consulat (1799–1804)”: https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/histoire-geographie-et-culture/les-regimes-politiques-depuis-1789/le-consulat-1799-1804/"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-027",
@@ -547,13 +604,17 @@
       "period": "Independencias hispanoamericanas",
       "origin": "Venezuela y América del Sur",
       "dates": "1783–1830",
-      "biography": "Dirigente político y militar de las independencias de Venezuela, Nueva Granada, Quito, Perú y Bolivia; figura central de la formación de nuevas repúblicas.",
+      "biography": "Dirigente político y militar de las independencias hispanoamericanas; tuvo un papel central en la emancipación de Venezuela, Nueva Granada y Quito, y participó en las campañas de Perú. Impulsó la creación de la Gran Colombia y el proyecto de unión republicana.",
       "highlight_facts": [],
       "curiosity": "Su proyecto de unidad política continental enfrentó conflictos regionales y divisiones internas; tratar sus campañas dentro de procesos colectivos.",
-      "sources": [],
+      "sources": [
+        "Joshua Simon, Oxford Bibliographies in Atlantic History, “Simón Bolívar”: https://academic.oup.com/reference/62333/reference-article-abstract/554086224",
+        "Banco de la República de Colombia, Banrepcultural, “Simón Bolívar”: https://enciclopedia.banrepcultural.org/Sim%C3%B3n_Bol%C3%ADvar",
+        "Simón Bolívar, “Carta de Jamaica” (1815), texto primario; edición en Hojas Universitarias: https://revistas.ucentral.edu.co/index.php/hojasUniv/article/view/847"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-028",
@@ -565,13 +626,17 @@
       "period": "Independencias hispanoamericanas",
       "origin": "Río de la Plata, Chile y Perú",
       "dates": "1778–1850",
-      "biography": "Militar y dirigente de la independencia sudamericana; organizó el Ejército de los Andes y encabezó campañas decisivas en Chile y Perú.",
+      "biography": "Militar y dirigente de la independencia sudamericana; organizó el Ejército de los Andes, cruzó la cordillera en 1817 y dirigió campañas decisivas en Chile. Encabezó la expedición libertadora al Perú y proclamó su independencia en 1821.",
       "highlight_facts": [],
       "curiosity": "Su estrategia continental se articuló con otros movimientos independentistas; no reducir la independencia a una sola figura.",
-      "sources": [],
+      "sources": [
+        "Memoria Chilena, Biblioteca Nacional de Chile, “José de San Martín (1778–1850)”: https://www.memoriachilena.gob.cl/602/w3-article-93425.html",
+        "Biblioteca Nacional Mariano Moreno, “25 de febrero de 1778: nace José de San Martín”: https://museo.bn.gov.ar/noticias/25-de-febrero-de-1778-nace-jose-de-san-martin",
+        "Biblioteca Nacional del Perú, “Don José de San Martín y su estrecha relación con la BNP”: https://www.gob.pe/institucion/bnp/noticias/851323-don-jose-de-san-martin-y-su-estrecha-relacion-con-la-bnp"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-029",
@@ -583,13 +648,17 @@
       "period": "Revolución estadounidense y primera república",
       "origin": "Virginia y Estados Unidos",
       "dates": "1732–1799",
-      "biography": "Comandante en jefe del Ejército Continental y primer presidente de Estados Unidos (1789–1797).",
+      "biography": "Comandante en jefe del Ejército Continental durante la guerra de independencia y primer presidente de Estados Unidos (1789–1797). Su liderazgo contribuyó a establecer precedentes para la nueva república; también fue propietario de personas esclavizadas.",
       "highlight_facts": [],
       "curiosity": "Su legado debe contextualizarse incluyendo su condición de propietario de personas esclavizadas y la contradicción entre esclavitud y los ideales republicanos.",
-      "sources": [],
+      "sources": [
+        "George Washington’s Mount Vernon, “First President”: https://www.mountvernon.org/george-washington/the-first-president",
+        "Smithsonian National Museum of American History, “List of the Presidents”: https://www.americanhistory.si.edu/explore/exhibitions/american-presidency/online/resources/list-of-presidents",
+        "Library of Congress, George Washington Papers, “The Early Republic”: https://www.loc.gov/collections/george-washington-papers/articles-and-essays/timeline/the-early-republic/"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-030",
@@ -601,13 +670,17 @@
       "period": "Siglo XIX",
       "origin": "Estados Unidos",
       "dates": "1809–1865",
-      "biography": "Decimosexto presidente de Estados Unidos; dirigió el país durante la Guerra Civil y emitió la Proclamación de Emancipación en 1863.",
+      "biography": "Decimosexto presidente de Estados Unidos (1861–1865), dirigió la Unión durante la Guerra Civil. Emitió la Proclamación de Emancipación en 1863, que se aplicó a zonas en rebelión y transformó los objetivos de la guerra; la abolición nacional llegó con la Decimotercera Enmienda en 1865.",
       "highlight_facts": [],
       "curiosity": "La abolición constitucional de la esclavitud llegó con la Decimotercera Enmienda; diferenciarla de la Proclamación de Emancipación.",
-      "sources": [],
+      "sources": [
+        "U.S. National Archives, “Emancipation Proclamation (1863)”: https://www.archives.gov/milestone-documents/emancipation-proclamation",
+        "Library of Congress, Abraham Lincoln Papers, “Emancipation Timeline”: https://www.loc.gov/collections/abraham-lincoln-papers/articles-and-essays/abraham-lincoln-and-emancipation/timeline/",
+        "U.S. National Archives, “13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)”: https://www.archives.gov/milestone-documents/13th-amendment"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-031",
@@ -619,13 +692,17 @@
       "period": "Unificación alemana y siglo XIX",
       "origin": "Prusia y Alemania",
       "dates": "1815–1898",
-      "biography": "Estadista prusiano que dirigió el proceso de unificación alemana y fue primer canciller del Imperio alemán.",
+      "biography": "Estadista prusiano que dirigió la unificación alemana bajo liderazgo prusiano y fue primer canciller del Imperio alemán (1871–1890). Su política combinó guerras, diplomacia de alianzas y reformas internas dentro de un orden monárquico autoritario.",
       "highlight_facts": [],
       "curiosity": "Su política combinó diplomacia, guerras limitadas y construcción estatal; se trasladó a Líderes Políticos y Estadistas.",
-      "sources": [],
+      "sources": [
+        "Otto-von-Bismarck-Stiftung, “Lebenslauf”: https://www.bismarck-stiftung.de/otto-von-bismarck/lebenslauf/",
+        "LeMO, Deutsches Historisches Museum, “Otto von Bismarck 1815–1898”: https://www.dhm.de/lemo/biografie/otto-bismarck",
+        "German History in Documents and Images, “Bismarck’s ‘Putbus Dictations’ on Germany’s Future Constitution”: https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/bismarck-s-putbus-dictations-on-germany-s-future-constitution-october-november-1866"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-032",
@@ -638,13 +715,17 @@
       "period": "China antigua, dinastía Qin",
       "origin": "Estado de Qin y China",
       "dates": "259–210 a. C.",
-      "biography": "Unificó los principales estados combatientes en 221 a. C. y se proclamó primer emperador de China; impulsó estandarizaciones administrativas y materiales.",
+      "biography": "Rey de Qin que conquistó los demás estados y unificó gran parte de China en 221 a. C., proclamándose primer emperador. Centralizó la administración y estandarizó pesos, medidas, moneda y escritura; su dinastía cayó pocos años después de su muerte.",
       "highlight_facts": [],
       "curiosity": "Las fuentes sobre su gobierno incluyen tradiciones historiográficas posteriores; presentar tanto la unificación como la coerción de su régimen.",
-      "sources": [],
+      "sources": [
+        "Smithsonian National Museum of Asian Art, “Qin Dynasty (221–206 B.C.E.)”: https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/explore-by-dynasty/qin-dynasty/",
+        "The Metropolitan Museum of Art, “The Qin Dynasty and the Terracotta Army”: https://www.metmuseum.org/toah/hd/qin/hd_qin.htm",
+        "Amanda H. Podany, The Ancient Near East: A Very Short Introduction, Oxford University Press, para el contexto comparativo de formación estatal antigua."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-033",
@@ -656,14 +737,18 @@
       "category": "Gobernantes y Conquistadores",
       "period": "Dinastía Han",
       "origin": "China",
-      "dates": "256/247–195 a. C. (fecha de nacimiento discutida)",
-      "biography": "Líder rebelde que derrotó a sus rivales tras la caída de Qin y fundó la dinastía Han, reinando como emperador Gaozu desde 202 a. C.",
+      "dates": "c. 256–195 a. C. (nacimiento discutido)",
+      "biography": "Líder rebelde que emergió durante la caída de Qin y venció a Xiang Yu en la guerra Chu-Han. Fundó la dinastía Han y gobernó como emperador Gaozu desde 202 a. C.",
       "highlight_facts": [],
       "curiosity": "Las fuentes antiguas ofrecen tradiciones divergentes sobre su nacimiento y juventud; la cronología de nacimiento no es uniforme.",
-      "sources": [],
+      "sources": [
+        "Stanford Encyclopedia of Philosophy, “Philosophy in Han Dynasty China”, sección sobre Gaozu/Liu Bang: https://plato.stanford.edu/entries/han-dynasty/",
+        "Smithsonian National Museum of Asian Art, “Qin Dynasty (221–206 B.C.E.)”, transición de Qin a Han: https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/explore-by-dynasty/qin-dynasty/",
+        "Sima Qian, Shiji (Records of the Grand Historian), biografía de Gaozu; fuente antigua fundamental, redactada bajo los Han y con perspectiva dinástica."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-034",
@@ -676,13 +761,17 @@
       "period": "Periodo Sengoku y Edo",
       "origin": "Japón",
       "dates": "1543–1616",
-      "biography": "Se impuso en las luchas por la unificación japonesa, venció en Sekigahara en 1600 y fue nombrado shōgun en 1603, estableciendo el shogunato Tokugawa.",
+      "biography": "Se impuso en las guerras de unificación japonesa, venció en Sekigahara (1600) y fue nombrado shōgun en 1603. Fundó el shogunato Tokugawa y mantuvo influencia política incluso después de ceder el título a su hijo en 1605.",
       "highlight_facts": [],
       "curiosity": "La consolidación del régimen fue un proceso compartido con otros líderes de la unificación; su gobierno continuó mediante sucesión familiar.",
-      "sources": [],
+      "sources": [
+        "National Archives of Japan, exposición digital “Tokugawa Ieyasu”, batalla de Sekigahara y nombramiento de 1603: https://www.archives.go.jp/exhibition/digital/ieyasu/contents3_01/",
+        "Tokugawa Art Museum, “Tokugawa Ieyasu: Birth and Childhood” (PDF): https://www.tokugawa-art-museum.jp/wp-content/uploads/2025/03/Tokugawa-Ieyasu_handout.pdf",
+        "National Diet Library of Japan, “The Edo Period: 1603–1867”: https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F14579796"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-035",
@@ -695,13 +784,17 @@
       "period": "Edad Media tardía",
       "origin": "Imperio otomano",
       "dates": "1432–1481",
-      "biography": "Sultán otomano que conquistó Constantinopla en 1453 y convirtió la ciudad en centro imperial otomano.",
+      "biography": "Sultán otomano que conquistó Constantinopla en 1453 y la convirtió en capital imperial. Consolidó el dominio otomano en los Balcanes y Anatolia y promovió la reorganización administrativa y cultural del Estado.",
       "highlight_facts": [],
       "curiosity": "La conquista transformó el equilibrio político regional; incluir también el papel de la población y las instituciones bizantinas preexistentes.",
-      "sources": [],
+      "sources": [
+        "Halil İnalcık, “The Rise of the Ottoman Empire”, The Cambridge History of Islam: https://www.cambridge.org/core/books/abs/cambridge-history-of-islam/rise-of-the-ottoman-empire/307404FFFFA9EAE1488260843074A62F",
+        "Abdurrahman Atçıl, “Scholars in Mehmed II’s Nascent Imperial Bureaucracy (1453–1481)”, Cambridge University Press: https://www.cambridge.org/core/books/abs/scholars-and-sultans-in-the-early-modern-ottoman-empire/scholars-in-mehmed-iis-nascent-imperial-bureaucracy-14531481/525AA44454FF09B7347729B37C8EA811",
+        "Çiğdem Kafescioğlu, Constantinopolis/Istanbul: Cultural Encounter, Imperial Vision, and the Construction of the Ottoman Capital, Pennsylvania State University Press, 2009: https://www.psupress.org/books/titles/978-0-271-02776-0.html"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-036",
@@ -713,14 +806,18 @@
       "category": "Gobernantes y Conquistadores",
       "period": "Edad Moderna",
       "origin": "Imperio otomano",
-      "dates": "1494–1566",
-      "biography": "Sultán otomano entre 1520 y 1566; expandió el poder imperial y promovió reformas legales, arquitectura y mecenazgo cultural.",
+      "dates": "1494/1495–1566",
+      "biography": "Sultán otomano entre 1520 y 1566; durante su reinado el imperio alcanzó gran expansión territorial y poder naval. Promovió la codificación legal y el mecenazgo artístico y arquitectónico, por lo que recibió los sobrenombres de «el Magnífico» y «el Legislador».",
       "highlight_facts": [],
       "curiosity": "En la tradición turca es conocido como Kanuni, «el Legislador»; el epíteto occidental «el Magnífico» enfatiza el esplendor cortesano.",
-      "sources": [],
+      "sources": [
+        "Güneş Işıksel, “Suleiman the Magnificent (1494–1566)”, Encyclopedia of Diplomacy, Wiley: https://doi.org/10.1002/9781118885154.dipl0267",
+        "Linda Komaroff y Suzan Yalman, The Metropolitan Museum of Art, “The Age of Süleyman ‘the Magnificent’ (r. 1520–1566)”: https://www.metmuseum.org/pt/essays/the-age-of-suleyman-the-magnificent-r-1520-1566",
+        "Getty Research Institute, Union List of Artist Names, record for Süleyman (1494/1495–1566): https://www.getty.edu/vow/ULANFullDisplay?find=&nation=&role=&subjectid=500126202"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Integración documental de la revisión transversal del archivo; pendiente de aprobación editorial final."
     }
   ]
 }
