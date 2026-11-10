@@ -16,13 +16,17 @@
       "period": "Antigüedad clásica",
       "origin": "Macedonia",
       "dates": "356–323 a. C.",
-      "biography": "Rey de Macedonia desde 336 a. C.; derrotó al Imperio aqueménida y extendió su campaña hasta el noroeste del subcontinente indio.",
+      "biography": "Rey de Macedonia desde 336 a. C.; derrotó al Imperio aqueménida y llevó su campaña hasta el noroeste del subcontinente indio.",
       "highlight_facts": [],
       "curiosity": "La narración de sus campañas depende en gran medida de autores posteriores; distinguir fuentes antiguas y leyenda alejandrina.",
-      "sources": [],
+      "sources": [
+        "Pierre Briant, Encyclopaedia Iranica, Alexander the Great: https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/",
+        "Albert Brian Bosworth, Oxford Classical Dictionary, Alexander III of Macedon: https://academic.oup.com/edited-volume/61673/chapter-abstract/548059801",
+        "Arriano, Anábasis de Alejandro; Diodoro Sículo, Biblioteca histórica, libro XVII; Plutarco, Vida de Alejandro (fuentes antiguas que deben leerse críticamente)."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-002",
@@ -34,13 +38,17 @@
       "period": "República romana tardía",
       "origin": "Roma",
       "dates": "100–44 a. C.",
-      "biography": "General y dirigente político romano; su carrera militar y concentración de poder contribuyeron a la crisis final de la República.",
+      "biography": "General y dirigente político romano; su carrera militar y concentración de poder fueron factores decisivos en la crisis final de la República, un proceso de causas múltiples.",
       "highlight_facts": [],
       "curiosity": "Sus Comentarios son testimonios de primera mano, pero también textos políticos y justificativos.",
-      "sources": [],
+      "sources": [
+        "T. P. Wiseman, Oxford Dictionary of National Biography, Caesar (100–44 bc): https://academic.oup.com/oxford-dictionary-of-national-biography/reference/63486/reference-article-abstract/579736904",
+        "Kate Gilliver, The Encyclopedia of War, Caesar, Gaius Julius (100–44 BCE): https://onlinelibrary.wiley.com/doi/10.1002/9781444338232.wbeow093",
+        "Cayo Julio César, Commentarii de bello Gallico y Commentarii de bello civili; contrastar con Cicerón y Salustio."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-003",
@@ -53,13 +61,16 @@
       "period": "Roma antigua",
       "origin": "Roma",
       "dates": "63 a. C.–14 d. C.",
-      "biography": "Primer emperador romano; recibió el título de Augusto en 27 a. C. y consolidó un nuevo sistema de gobierno tras las guerras civiles.",
+      "biography": "Dirigente romano considerado convencionalmente el primer emperador; recibió el título de Augusto en 27 a. C. y consolidó el nuevo orden político tras las guerras civiles.",
       "highlight_facts": [],
       "curiosity": "Su imagen pública fue cuidadosamente construida mediante monumentos, literatura y propaganda oficial.",
-      "sources": [],
+      "sources": [
+        "Alison Cooley, Oxford Classical Dictionary, Augustus, Roman emperor, 63 BCE–14 CE: https://academic.oup.com/edited-volume/61673/chapter-abstract/548059949",
+        "Res Gestae Divi Augusti, texto y contexto: https://sourcebooks.web.fordham.edu/ancient/14resgestae.asp"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-004",
@@ -71,13 +82,17 @@
       "period": "Grecia clásica",
       "origin": "Esparta, Grecia",
       "dates": "fallecido en 480 a. C.",
-      "biography": "Rey agíada de Esparta, recordado por dirigir la resistencia griega en el paso de las Termópilas frente al ejército de Jerjes I.",
+      "biography": "Rey agíada de Esparta que comandó la defensa aliada del paso de las Termópilas frente a Jerjes I; murió durante la derrota griega de 480 a. C.",
       "highlight_facts": [],
       "curiosity": "La narración más conocida procede de Heródoto y debe leerse dentro de la tradición historiográfica griega.",
-      "sources": [],
+      "sources": [
+        "Heródoto, Historias, libro VII, 201–233 (fuente antigua principal): https://www.livius.org/sources/content/herodotus/herodotus-on-thermopylae/",
+        "Richard Evans, Commemorating Thermopylae: The Andreia of Glorious Defeat as a Literary Construct, Edinburgh University Press, 2020.",
+        "HISTORY, Leonidas: https://www.history.com/articles/leonidas"
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-005",
@@ -88,14 +103,18 @@
       "category": "Guerreros y Generales",
       "period": "Grecia clásica",
       "origin": "Atenas, Grecia",
-      "dates": "c. 524–459 a. C.",
-      "biography": "Estadista y estratega ateniense; impulsó el desarrollo naval de Atenas y tuvo un papel decisivo en Salamina (480 a. C.).",
+      "dates": "c. 524/523–c. 460/459 a. C.",
+      "biography": "Estadista y estratega ateniense que impulsó la expansión de la flota de su ciudad y desempeñó un papel decisivo en la estrategia griega de Salamina (480 a. C.).",
       "highlight_facts": [],
       "curiosity": "La estrategia naval ateniense fue un esfuerzo político y colectivo, no obra individual aislada.",
-      "sources": [],
+      "sources": [
+        "Andrew Robert Burn y P. J. Rhodes, Oxford Classical Dictionary, Themistocles, Athenian politician: https://academic.oup.com/edited-volume/61673/chapter-abstract/557491019",
+        "Sarah Bolmarcich, The Encyclopedia of Ancient History, Themistokles: https://onlinelibrary.wiley.com/doi/10.1002/9781444338386.wbeah04307",
+        "Heródoto, Historias, libro VIII; Tucídides, Historia de la guerra del Peloponeso, I.138."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-006",
@@ -107,13 +126,18 @@
       "period": "Grecia clásica",
       "origin": "Atenas, Grecia",
       "dates": "c. 495–429 a. C.",
-      "biography": "Dirigente político ateniense asociado con la democracia imperial, las grandes obras públicas y el auge cultural de Atenas.",
+      "biography": "Dirigente político ateniense asociado con la consolidación de la democracia, el poder marítimo y el programa monumental de Atenas durante el siglo V a. C.",
       "highlight_facts": [],
       "curiosity": "La expresión «siglo de Pericles» es una etiqueta historiográfica; su gobierno también estuvo ligado al imperialismo ateniense y a la guerra.",
-      "sources": [],
+      "sources": [
+        "Ernst Badian, Encyclopaedia Iranica, Pericles: https://www.iranicaonline.org/articles/pericles/",
+        "Tucídides, Historia de la guerra del Peloponeso, II.35–46 y II.65.",
+        "University of Bristol, II.43: Context and Meaning: https://www.bristol.ac.uk/classics/research/thucydides/ttt/context/",
+        "Stephen V. Tracy, Pericles: A Sourcebook and Reader, University of California Press, 2009."
+      ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Ficha documental de trabajo; validar fechas, traducciones y referencias antes de marcar como verificada."
+      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-007",
