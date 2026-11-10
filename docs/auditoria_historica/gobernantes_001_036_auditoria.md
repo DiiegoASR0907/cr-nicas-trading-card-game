@@ -81,6 +81,80 @@ Se contrastan por separado identidad, cronología, cargos y acontecimientos, for
 
 **Resultado de aprobación:** 0 de 6 aprobados para diseño. Esto no significa que los seis sean incorrectos: significa que la revisión de esta primera tanda todavía identifica matices, contrastes y decisiones editoriales pendientes.
 
-## Siguiente tanda
 
-Continuar con HIS-007 a HIS-012: Darío I, Ciro el Grande, Jerjes I, Ramsés II, Tutmosis III y Cleopatra VII. No cambiar las fichas JSON hasta que cada afirmación y fuente haya sido contrastada y la revisión correspondiente quede documentada.
+## Resultados individuales — segunda tanda (HIS-007 a HIS-012)
+
+### HIS-007 — Darío I
+
+- **Datos revisados:** fechas del registro c. 550–486 a. C.; reinado 522–486 a. C.; tercer «rey de reyes» aqueménida; reorganización administrativa y expansión de la infraestructura imperial.
+- **Resultado:** la fecha de nacimiento c. 550 a. C. y la muerte en 486 a. C. son compatibles con la referencia de *Encyclopaedia Iranica*. Es importante distinguir las fechas biográficas del reinado: accedió al trono en 522 a. C. y gobernó hasta 486 a. C.
+- **Matices y correcciones necesarias:** no presentarlo como fundador del Imperio aqueménida, que fue Ciro II. La inscripción de Behistún relata su acceso al trono y sus campañas contra pretendientes y rebeliones, pero es una autorrepresentación oficial destinada a legitimar su autoridad. La afirmación sobre la reorganización administrativa es plausible, pero debe evitarse la simplificación de que inventó el sistema de satrapías; las estructuras imperiales evolucionaron antes y durante su reinado. Para el sistema fiscal y la administración se deben contrastar inscripciones con las tablillas administrativas de Persépolis.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Alireza Shapur Shahbazi, «Darius I the Great», *Encyclopaedia Iranica*; «Bīsotūn iii. Darius’s Inscriptions», *Encyclopaedia Iranica*; Rüdiger Schmitt, *The Bisitun Inscriptions of Darius the Great: Old Persian Text* (Corpus Inscriptionum Iranicarum, SOAS, 1991); tablillas de la Fortificación de Persépolis.
+- **Decisión:** mantener en verificación. La ficha debe distinguir fechas de vida y reinado, y no atribuirle la fundación del imperio ni presentar la inscripción de Behistún como relato neutral.
+
+### HIS-008 — Ciro el Grande
+
+- **Datos revisados:** fechas c. 600/599–530 a. C.; nombre Ciro II; fundación del Imperio aqueménida; conquistas de Media, Lidia y Babilonia.
+- **Resultado:** identificación y papel como fundador del poder imperial aqueménida **confirmados provisionalmente**. La fecha de nacimiento es aproximada; *Encyclopaedia Iranica* propone c. 600 a. C. y sitúa su muerte en 530 a. C. El acceso al trono persa se suele fechar en 559 a. C.; la derrota de Astiages y la toma de Ecbatana ocurrieron en torno a 550 a. C.; Babilonia fue conquistada en 539 a. C.
+- **Matices y correcciones necesarias:** la cronología exacta de la campaña contra Lidia continúa discutida por la lectura fragmentaria de la Crónica de Nabónido; evitar fijar un año exacto sin nota. El Cilindro de Ciro es una inscripción real babilónica de legitimación y restauración cultual tras la conquista; no debe describirse anacrónicamente como una declaración moderna y universal de derechos humanos. Los relatos griegos sobre su infancia y origen contienen elementos literarios que no son verificables como hechos.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Muhammad A. Dandamayev, «Cyrus II the Great», *Encyclopaedia Iranica*; «Iranian History: Pre-Islamic Times», *Encyclopaedia Iranica*; «The Cyrus Cylinder», *Encyclopaedia Iranica*; *Crónica de Nabónido*; cilindro de Ciro (Museo Británico).
+- **Decisión:** mantener en verificación. Conservar las fechas aproximadas y explicar el carácter político y religioso de las inscripciones reales.
+
+### HIS-009 — Jerjes I
+
+- **Datos revisados:** fechas del registro c. 519–465 a. C.; sucesión de Darío I en 486 a. C.; invasión de Grecia en 480 a. C.
+- **Resultado:** sucesión, reinado convencional 486–465 a. C. y campaña contra Grecia **confirmados provisionalmente**. La muerte de Jerjes se sitúa en 465 a. C.; la fecha de nacimiento c. 519 a. C. debe seguir marcada como aproximada, no como dato de igual certeza que los años de reinado.
+- **Matices y correcciones necesarias:** la invasión de Grecia debe situarse dentro de una política imperial que continuó preparativos iniciados bajo Darío. La narrativa griega, especialmente Heródoto, es indispensable pero externa al mundo persa y contiene cifras militares exageradas y perspectivas hostiles. No reducir su reinado a Termópilas y Salamina: también enfrentó rebeliones en Egipto y Babilonia y gobernó un imperio multinacional. La forma «Jerjes» es la forma griega/latina del nombre real aqueménida.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Rüdiger Schmitt, «Xerxes I», entradas sobre el nombre y la titulatura, *Encyclopaedia Iranica*; «Iranian History: Pre-Islamic Times», *Encyclopaedia Iranica*; «Greece i. Greco-Persian Political Relations», *Encyclopaedia Iranica*; inscripciones reales aqueménidas de Persépolis; Heródoto, *Historias*, libros VII–IX.
+- **Decisión:** mantener en verificación. Reforzar la perspectiva persa con inscripciones y evidencia administrativa, sin depender exclusivamente de Heródoto.
+
+### HIS-010 — Ramsés II
+
+- **Datos revisados:** fechas del registro c. 1303–1213 a. C.; faraón de la dinastía XIX; batalla de Qadesh contra los hititas; grandes programas monumentales.
+- **Resultado:** identidad y larga duración del reinado **confirmadas provisionalmente**, pero el campo «dates» necesita una precisión editorial importante. c. 1303–1213 a. C. se interpreta como vida aproximada, no como años de reinado. University College London sitúa el reinado aproximadamente en 1279–1213 a. C.; la *UCLA Encyclopedia of Egyptology* ofrece una cronología alternativa (1290–1224 a. C.). Por ello no se debe imponer una sola cronología sin declarar el sistema adoptado.
+- **Matices y correcciones necesarias:** la batalla de Qadesh (año 5 de su reinado, habitualmente fechada c. 1274 a. C.) fue representada por la propaganda real egipcia como una victoria personal. La evidencia disponible no permite presentarla sin matices como una victoria decisiva egipcia; se suele caracterizar como resultado no concluyente o empate estratégico. El tratado de paz entre Ramsés II y Hattusili III, concluido en el año 21 del reinado, está conservado en versiones egipcia e hitita. No describirlo sin matiz como «el primer tratado de paz de la historia», pues esa afirmación absoluta no puede sostenerse.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** University College London, Digital Egypt, «King Ramesses II»; National Museum of Egyptian Civilization, ficha «Ramses II»; UCLA Encyclopedia of Egyptology, tabla de cronología del Reino Nuevo; Kenneth A. Kitchen, *Ramesside Inscriptions* y estudios sobre el tratado egipcio-hitita.
+- **Decisión:** mantener en verificación. Es necesario separar fecha de vida y reinado, elegir y declarar un marco cronológico, y matizar Qadesh y el tratado.
+
+### HIS-011 — Tutmosis III
+
+- **Datos revisados:** fechas del registro c. 1481–1425 a. C.; faraón de la dinastía XVIII; campañas en el Levante y expansión de la influencia egipcia.
+- **Resultado:** identidad y papel como gobernante y comandante militar **confirmados provisionalmente**. University College London y la *UCLA Encyclopedia of Egyptology* utilizan aproximadamente 1479–1425 a. C.; el comienzo 1481 del JSON difiere de esa cronología de referencia y debe revisarse o justificarse con una cronología alternativa.
+- **Matices y correcciones necesarias:** Tutmosis III accedió al trono siendo niño; Hatshepsut ejerció primero la regencia y después fue corregente/faraón junto a él. Tras la muerte de Hatshepsut, Tutmosis gobernó en solitario durante más de tres décadas. La campaña de Megido y las campañas posteriores deben contextualizarse con los anales inscritos en Karnak, que son registros reales de victoria y tributo, no narraciones neutrales. No atribuir la expansión regional únicamente a una persona: dependió de ejército, administración, diplomacia y redes tributarias.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente, aunque su perfil militar también podría justificar una referencia secundaria a la categoría de guerreros si el sistema editorial permite etiquetas complementarias.
+- **Fuentes de referencia:** University College London, Digital Egypt, «Thutmose III»; *UCLA Encyclopedia of Egyptology*, «Chronology»; Metropolitan Museum of Art, colección y documentación sobre Hatshepsut y Tutmosis III; Peter F. Dorman, «The Early Reign of Thutmose III», en *Thutmose III: A New Biography* (University of Michigan Press, 2006); anales de Tutmosis III en Karnak.
+- **Decisión:** mantener en verificación. Revisar el año inicial y describir con precisión la regencia/corregencia de Hatshepsut.
+
+### HIS-012 — Cleopatra VII
+
+- **Datos revisados:** fechas 69–30 a. C.; gobernante de Egipto ptolemaico; alianzas políticas con Julio César y Marco Antonio; caída del reino tras la derrota de Accio/Actium.
+- **Resultado:** fechas de vida y papel como última gobernante de la dinastía ptolemaica **confirmados provisionalmente**. La referencia actualizada de Christelle Fischer-Bovet en *Oxford Research Encyclopedia of Classics* sitúa su reinado en 51–30 a. C. y documenta sus sucesivas corregencias.
+- **Matices y correcciones necesarias:** «última gobernante activa» debe formularse con precisión: fue la última soberana de la dinastía ptolemaica y la última reina de un Egipto independiente antes de la anexión romana en 30 a. C.; durante parte de su reinado gobernó conjuntamente con familiares varones, incluido su hijo Ptolomeo XV Cesarión. La derrota de Accio en 31 a. C. fue la derrota de las fuerzas de Marco Antonio y Cleopatra frente a Octaviano; Egipto fue anexado tras sus muertes en 30 a. C. Evitar que la biografía reduzca su poder a sus relaciones personales: la evidencia papirácea, monetaria e inscripcional documenta gobierno, fiscalidad, diplomacia y legitimación dinástica. La identidad de su madre no es completamente segura en la bibliografía.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Christelle Fischer-Bovet, «Cleopatra VII, 69–30 BCE», *Oxford Research Encyclopedia of Classics* (versión actualizada en 2023); Christelle Fischer-Bovet, «Egypt, Ptolemaic», *Oxford Research Encyclopedia of Classics* (versión actualizada en 2025); papiros griegos y demóticos, monedas e inscripciones del Egipto ptolemaico; Plutarco, *Vida de Antonio*, leído críticamente por su distancia temporal y perspectiva romana.
+- **Decisión:** mantener en verificación. La biografía necesita dar mayor espacio a su ejercicio del poder y evitar una lectura exclusivamente romántica o romanocéntrica.
+
+## Balance de la segunda tanda
+
+| Código | Resultado de datos | Clasificación | Estado editorial |
+|---|---|---|---|
+| HIS-007 | Vida/reinado deben distinguirse; no fue fundador del imperio | Adecuada provisionalmente | En verificación |
+| HIS-008 | Conquistas principales respaldadas; fechas de Lidia y nacimiento requieren cautela | Adecuada provisionalmente | En verificación |
+| HIS-009 | Reinado 486–465 a. C. respaldado; nacimiento aproximado y fuentes griegas sesgadas | Adecuada provisionalmente | En verificación |
+| HIS-010 | Separar vida y reinado; cronologías egipcias alternativas; matizar Qadesh | Adecuada provisionalmente | En verificación |
+| HIS-011 | Revisar 1481 frente a c. 1479; explicar regencia/corregencia | Adecuada provisionalmente | En verificación |
+| HIS-012 | Reinado y sucesión respaldados; ampliar dimensión política y corregencias | Adecuada provisionalmente | En verificación |
+
+**Resultado de aprobación de esta tanda:** 0 de 6 aprobados para diseño. Se detectan correcciones o precisiones necesarias, especialmente en los campos cronológicos de Darío I, Jerjes I, Ramsés II y Tutmosis III.
+
+## Balance acumulado de auditoría
+
+- Registros examinados individualmente: 12 de 36.
+- Registros aprobados para diseño: 0 de 12.
+- Registros todavía pendientes de auditoría: 24 de 36.
+- El JSON original permanece sin cambios; esta fase continúa siendo documental y de contraste.
+
