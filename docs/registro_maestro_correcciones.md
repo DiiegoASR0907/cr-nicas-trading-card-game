@@ -867,7 +867,7 @@ Se conservan las categorías actuales en esta pasada, respetando la distribució
 - **Fuentes reforzadas:** Smithsonian Libraries and Archives, «Relación del nuevo descubrimiento del Río Grande de las Amazonas (1541–1542)» (https://www.si.edu/object/relacion-del-nuevo-descubrimiento-del-rio-grande-de-las-amazonas-1541-1542-fray-gaspar-de-carvajal%3Asiris_sil_452582); Biblioteca de la Casa de la Cultura Ecuatoriana, «Relación del nuevo descubrimiento del río grande de las Amazonas» (https://biblioteca.casadelacultura.gob.ec/bib/59264); Encyclopaedia Britannica, «Francisco de Orellana: expedición amazónica» (https://www.britannica.com/biography/Francisco-de-Orellana).
 - **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
 
-**Balance global de integración transversal tras este archivo:** 109/144 registros integrados (75,69 %), 35 pendientes de integración y 0/144 aprobados. La fase de examen individual sigue siendo 144/144; no debe confundirse con aprobación.
+**Corte histórico al cierre de este archivo:** 109/144 registros integrados (75,69 %), 35 pendientes en ese momento y 0/144 aprobados. Este balance parcial fue superado por el cierre transversal posterior de 144/144.
 
 
 ## Integración transversal — HIS-110 a HIS-127 (Líderes Espirituales y Religiosos)
@@ -1002,7 +1002,7 @@ Se conservan las categorías actuales en esta pasada, respetando la distribució
 - **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy, «Nāgārjuna — life and works (revised 2026)» (https://plato.stanford.edu/entries/nagarjuna/); Internet Encyclopedia of Philosophy, «Nagarjuna» (https://iep.utm.edu/nagarjun/); Stanford Encyclopedia of Philosophy Archive, «Nāgārjuna — works and attribution» (https://plato.stanford.edu/archives/fall2023/entries/nagarjuna/).
 - **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
 
-**Balance global de integración transversal tras este archivo:** 127/144 registros integrados (88,19 %), 17 pendientes de integración y 0/144 aprobados. La fase de examen individual permanece completada para 144/144; no debe confundirse con aprobación.
+**Corte histórico al cierre de este archivo:** 127/144 registros integrados (88,19 %), 17 pendientes en ese momento y 0/144 aprobados. Este balance parcial fue superado por el cierre transversal posterior de 144/144.
 
 
 # Archivo 6 — Bloque final (HIS-128–HIS-144)
@@ -1035,3 +1035,8 @@ Se conservan las categorías actuales en esta pasada, respetando la distribució
 4. Ragnar Lodbrok y Lady Triệu requieren especial atención a las diferencias entre interpretaciones historiográficas y tradición posterior.
 5. En Roland, la mención de Hruodland debe cotejarse con variantes manuscritas de la tradición carolingia.
 6. Los tres hitos por ficha son síntesis para la tarjeta; el expediente interno conserva las reservas y bibliografía.
+
+
+## Cierre global vigente de integración transversal
+
+**144/144 registros integrados (100 %); 0 pendientes de integración; 0/144 aprobados editorialmente.** Los balances parciales anteriores se conservan como cortes históricos del avance. Todas las fichas permanecen en `en_verificacion` hasta la aprobación editorial formal. Las ilustraciones definitivas siguen suspendidas.
