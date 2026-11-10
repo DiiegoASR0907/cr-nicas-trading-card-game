@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="138mm" height="94mm" viewBox="0 0 1380 940">
+<title>CRÓNICAS — ORÍGENES | Plantilla maestra de carta, anverso y reverso</title>
+<desc>Plantilla vectorial editable para cartas verticales de 63 por 88 milímetros, con 3 milímetros de sangrado. Izquierda: anverso. Derecha: reverso.</desc>
+<defs>
+ <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#11151b"/><stop offset=".55" stop-color="#090d12"/><stop offset="1" stop-color="#17120d"/></linearGradient>
+ <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#8b642c"/><stop offset=".45" stop-color="#f1d28a"/><stop offset="1" stop-color="#9a6b2d"/></linearGradient>
+ <pattern id="grain" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="3" cy="5" r="1" fill="#b58a4a" opacity=".12"/><circle cx="22" cy="27" r=".8" fill="#fff" opacity=".05"/></pattern>
+ <style>
+ .gold{fill:url(#gold)} .white{fill:#f1eadb} .muted{fill:#bdb4a3} .label{font: bold 19px Georgia,serif;letter-spacing:3px} .title{font:bold 43px Georgia,serif} .small{font:21px Georgia,serif} .body{font:22px Georgia,serif} .tiny{font:16px Georgia,serif;letter-spacing:1px}
+ </style>
+</defs>
+<rect width="1380" height="940" fill="#26221b"/>
+<!-- Each panel is 69x94mm including 3mm bleed; trim box is 63x88mm -->
+<g id="front" transform="translate(0 0)">
+ <rect x="0" y="0" width="690" height="940" fill="url(#bg)"/>
+ <rect x="0" y="0" width="690" height="940" fill="url(#grain)"/>
+ <rect x="30" y="30" width="630" height="880" rx="22" fill="none" stroke="url(#gold)" stroke-width="5"/>
+ <rect x="45" y="45" width="600" height="850" rx="17" fill="none" stroke="#72532c" stroke-width="1.5"/>
+ <path d="M55 75 H635 M55 865 H635" stroke="url(#gold)" stroke-width="2"/>
+ <text x="345" y="92" text-anchor="middle" class="gold tiny">CATEGORÍA · SUBCATEGORÍA</text>
+ <text x="610" y="126" text-anchor="end" class="muted tiny">HIS-000</text>
+ <text x="345" y="151" text-anchor="middle" class="white title">NOMBRE DEL PERSONAJE</text>
+ <text x="345" y="183" text-anchor="middle" class="gold small">ÉPOCA · FECHAS</text>
+ <rect x="75" y="210" width="540" height="445" rx="12" fill="#242b31" stroke="url(#gold)" stroke-width="3"/>
+ <path d="M92 232 L598 633 M598 232 L92 633" stroke="#8a7656" opacity=".13" stroke-width="2"/>
+ <text x="345" y="410" text-anchor="middle" class="muted label">ILUSTRACIÓN</text>
+ <text x="345" y="445" text-anchor="middle" class="muted tiny">ÁREA DE ARTE · SIN TEXTO INTEGRADO</text>
+ <rect x="75" y="674" width="540" height="176" rx="10" fill="#0c1015" stroke="#98703a" stroke-width="2"/>
+ <text x="100" y="710" class="gold tiny">SÍNTESIS</text>
+ <text x="100" y="748" class="white body">Descripción breve del personaje</text>
+ <text x="100" y="780" class="white body">en dos o tres líneas como máximo.</text>
+ <text x="100" y="824" class="muted tiny">CRÓNICAS — ORÍGENES</text>
+</g>
+<!-- Back -->
+<g id="back" transform="translate(690 0)">
+ <rect x="0" y="0" width="690" height="940" fill="url(#bg)"/>
+ <rect x="0" y="0" width="690" height="940" fill="url(#grain)"/>
+ <rect x="30" y="30" width="630" height="880" rx="22" fill="none" stroke="url(#gold)" stroke-width="5"/>
+ <rect x="45" y="45" width="600" height="850" rx="17" fill="none" stroke="#72532c" stroke-width="1.5"/>
+ <text x="345" y="94" text-anchor="middle" class="gold label">CRÓNICAS — ORÍGENES</text>
+ <text x="345" y="132" text-anchor="middle" class="white small">HIS-000 · NOMBRE DEL PERSONAJE</text>
+ <path d="M85 158 H605" stroke="url(#gold)" stroke-width="2"/>
+ <text x="90" y="202" class="gold label">HITOS DESTACADOS</text>
+ <circle cx="100" cy="244" r="6" fill="url(#gold)"/><text x="122" y="251" class="white body">Hito principal número uno.</text>
+ <circle cx="100" cy="303" r="6" fill="url(#gold)"/><text x="122" y="310" class="white body">Hito principal número dos.</text>
+ <circle cx="100" cy="362" r="6" fill="url(#gold)"/><text x="122" y="369" class="white body">Hito principal número tres.</text>
+ <path d="M85 410 H605" stroke="#76552d" stroke-width="1.5"/>
+ <text x="90" y="455" class="gold label">DATO CURIOSO</text>
+ <text x="90" y="496" class="white body">Un dato breve que aporte contexto</text>
+ <text x="90" y="528" class="white body">sin repetir los hitos principales.</text>
+ <path d="M85 565 H605" stroke="#76552d" stroke-width="1.5"/>
+ <text x="90" y="610" class="gold label">REFERENCIAS</text>
+ <text x="90" y="650" class="muted tiny">Fuentes institucionales y académicas abreviadas.</text>
+ <text x="90" y="680" class="muted tiny">QR / URL corta opcional para expediente completo.</text>
+ <rect x="510" y="724" width="95" height="95" fill="#f1eadb" opacity=".08" stroke="url(#gold)" stroke-width="2"/>
+ <text x="557" y="779" text-anchor="middle" class="muted tiny">QR</text>
+ <text x="90" y="824" class="muted tiny">Naturaleza: HISTÓRICO / SEMIHISTÓRICO / LEGENDARIO</text>
+ <text x="345" y="865" text-anchor="middle" class="gold tiny">CRÓNICAS · COLECCIÓN FUNDACIONAL</text>
+</g>
+<!-- Trim and safe-area guides: nonprinting in final export -->
+<g id="guides" fill="none" stroke="#39a6c9" stroke-width="1.2" stroke-dasharray="8 8" opacity=".65">
+ <rect x="30" y="30" width="630" height="880"/>
+ <rect x="720" y="30" width="630" height="880"/>
+ <rect x="60" y="60" width="570" height="820"/>
+ <rect x="750" y="60" width="570" height="820"/>
+</g>
+</svg>
