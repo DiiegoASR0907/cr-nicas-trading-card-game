@@ -426,3 +426,12 @@ Emela-Ntouka
 - **Estado del archivo:** 18/18 integrados, 0/18 aprobados para diseño. Los 18 registros permanecen en `en_verificacion`; la integración y la validación técnica no constituyen aprobación editorial.
 - **Balance global de integración transversal:** 109/144 registros integrados (75,69 %), 35 pendientes de integración, 0/144 aprobados para diseño. La primera fase de examen individual permanece completada para 144/144.
 - **Siguiente archivo:** `data/historicos/lideres_espirituales_110_127.json` (HIS-110 a HIS-127). Se mantendrá el procedimiento completo de investigación, documentación, publicación y validación.
+
+
+### Integración transversal — quinto archivo
+
+- Integración documental completada para `data/historicos/lideres_espirituales_110_127.json`: HIS-110 a HIS-127. Se revisaron los 18 registros completos y se actualizaron cronologías, biografías sintéticas, hitos, curiosidades y tres referencias identificables por ficha.
+- Hallazgos relevantes: cronología no consensuada del Buda y transmisión de los cánones; capas textuales de las Analectas; manuscritos de Guodian y Mawangdui para el Daodejing; cronología discutida de Zoroastro y los Gathas; Mahavira como tirthankara y no fundador absoluto; historicidad individual no verificable de Moisés y Abraham; siete cartas paulinas ampliamente aceptadas y contraste con Hechos; contexto africano de Agustín; Summa theologiae inconclusa y transmisión intercultural del aristotelismo en Tomás; debate sobre la escena de las 95 tesis y escritos antijudíos de Lutero; autoridad civil y caso Servet en Ginebra; manuscritos de Guru Nanak y janamsakhis; Libro de la vida y vigilancia inquisitorial de Teresa; encuentro de Francisco con al-Kamil en contexto de cruzada; Maimónides médico y jurista; datación aproximada del Pātañjalayogaśāstra; corpus atribuido a Nāgārjuna.
+- **Estado del archivo:** 18/18 integrados, 0/18 aprobados para diseño. Todos permanecen en `en_verificacion`; la integración documental y la validación técnica no constituyen aprobación editorial.
+- **Balance global de integración transversal:** 127/144 registros integrados (88,19 %), 17 pendientes de integración, 0/144 aprobados para diseño. La primera fase de examen individual permanece completada para 144/144.
+- **Siguiente archivo:** `data/historicos/bloque_final_128_144.json` (HIS-128 a HIS-144). Se mantendrá el procedimiento completo de investigación, documentación, publicación y validación.
