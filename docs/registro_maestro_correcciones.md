@@ -1,7 +1,7 @@
 # Registro maestro de correcciones — CRÓNICAS: ORÍGENES
 
 **Propósito:** concentrar las discrepancias, decisiones documentales y cambios editoriales de los 144 personajes históricos en un único registro trazable.  
-**Regla:** ninguna corrección se incorpora a un JSON sin respaldo suficiente. La inclusión de fuentes o la corrección de una descripción no equivale a aprobación editorial.  
+**Regla:** ninguna corrección se incorpora a un JSON sin respaldo suficiente. La aprobación editorial global para producción fue otorgada por el usuario; las reservas documentales permanecen registradas.  
 **Estado de producción:** autorizada globalmente para los 144 registros; el lote piloto precede a la producción completa y al control de preimpresión.
 
 ## Flujo de trabajo
@@ -10,17 +10,17 @@
 2. Sustituir fuentes inadecuadas y reforzar referencias primarias, institucionales y académicas.
 3. Revisar clasificación y nivel de historicidad.
 4. Corregir el JSON únicamente con evidencia suficiente.
-5. Aprobar editorialmente cada ficha.
+5. Aplicar la aprobación editorial global ya otorgada y continuar con la producción visual mediante plantilla maestra y lote piloto.
 
 ## Estados de seguimiento
 
 - **Pendiente:** no se ha realizado la revisión de integración.
 - **Resuelto documentalmente:** el dato y su formulación cuentan con respaldo suficiente para proponer una corrección.
 - **Revisión comparativa:** requiere decisión transversal de clasificación o criterio común.
-- **Aprobación global de producción otorgada:** corrección integrada, pero ficha aún no aprobada.
-- **Aprobado:** solo tras decisión editorial expresa.
+- **Aprobado globalmente para producción:** autorización editorial del usuario aplicable a HIS-001–HIS-144; no requiere aprobación individual.
+- **Control de producción:** revisión visual, legibilidad, consistencia y preimpresión; no reabre la aprobación editorial.
 
-La aprobación no se deriva automáticamente de la validación técnica del archivo.
+La aprobación global deriva de la decisión expresa del usuario, no de la validación técnica del archivo. Las menciones de estados pendientes en las notas de auditoría individuales son registros históricos previos a esa decisión y no constituyen bloqueos vigentes.
 
 ## Alcance y avance
 
