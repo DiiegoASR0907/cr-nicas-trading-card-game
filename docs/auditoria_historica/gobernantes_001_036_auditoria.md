@@ -2,7 +2,7 @@
 
 **Colección:** CRÓNICAS — ORÍGENES  
 **Archivo auditado:** `data/historicos/gobernantes_001_036.json`  
-**Alcance de esta entrega:** primera tanda, HIS-001 a HIS-006  
+**Alcance de esta entrega:** auditoría completa en seis tandas, HIS-001 a HIS-036  
 **Fecha de revisión:** 10 de noviembre de 2026  
 **Estado general:** auditoría en curso; ningún registro queda aprobado para impresión en esta entrega.
 
@@ -347,26 +347,84 @@ Se contrastan por separado identidad, cronología, cargos y acontecimientos, for
 - **Fuentes de referencia:** National Archives, «Emancipation Proclamation (1863)» y «13th Amendment to the U.S. Constitution: Abolition of Slavery (1865)»; Library of Congress, «Abraham Lincoln and Emancipation», colección *Abraham Lincoln Papers*; Library of Congress, «Abraham Lincoln’s Presidency»; Abraham Lincoln, *Emancipation Proclamation* (1 de enero de 1863), *Gettysburg Address* (19 de noviembre de 1863) y mensajes presidenciales; Eric Foner, *The Fiery Trial: Abraham Lincoln and American Slavery* (W. W. Norton, 2010).
 - **Decisión:** mantener en verificación. Separar la Proclamación de Emancipación de la abolición constitucional, reflejar el carácter colectivo del proceso y evitar atribuir a Lincoln una emancipación nacional consumada antes de su muerte.
 
-## Balance de la quinta tanda
+
+## Resultados individuales — sexta tanda (HIS-031 a HIS-036)
+
+### HIS-031 — Otto von Bismarck
+
+- **Datos revisados:** fechas 1815–1898; ministro-presidente de Prusia desde 1862; canciller de la Confederación Alemana del Norte desde 1867; primer canciller del Imperio alemán desde 1871 hasta 1890; papel central en la unificación alemana bajo hegemonía prusiana.
+- **Resultado:** cronología biográfica y cargos principales **respaldados provisionalmente** por el Deutsches Historisches Museum (DHM), cuyo portal LeMO fecha su nacimiento el 1 de abril de 1815 y muerte el 30 de julio de 1898, y registra sus nombramientos de 1862 y 1871. La unificación no fue un acto individual: se produjo mediante una combinación de diplomacia, decisiones de la monarquía prusiana, fuerzas armadas, nacionalismos y tres guerras principales (contra Dinamarca en 1864, Austria en 1866 y Francia en 1870–1871). La formación del Imperio excluyó a Austria y se proclamó en enero de 1871.
+- **Matices y correcciones necesarias:** evitar la imagen del «fundador» solitario o de una unificación inevitable; Bismarck fue un actor decisivo, pero dependió del rey Guillermo I, del ejército, de alianzas y de procesos políticos anteriores. Su política interior combinó el Kulturkampf contra la influencia política católica, legislación social pionera (seguro de enfermedad de 1883, accidentes de 1884 y vejez/invalidez de 1889) y represión de la socialdemocracia mediante la Ley Antisocialista de 1878, vigente hasta 1890. No presentar el Estado social como simple altruismo: el propio DHM explica que también buscaba reducir la base de la socialdemocracia. La ley prohibió asociaciones, reuniones y prensa socialdemócratas y produjo persecución y encarcelamientos. Deben incluirse asimismo el giro hacia la política colonial alemana desde 1884 y la Conferencia de Berlín, evitando omitir el contexto imperial europeo.
+- **Clasificación:** Líderes Políticos y Estadistas; adecuada provisionalmente y coherente con la clasificación aprobada.
+- **Fuentes de referencia:** Deutsches Historisches Museum, LeMO, «Otto von Bismarck 1815–1898»; Otto-von-Bismarck-Stiftung, «Biography»; German History in Documents and Images (German Historical Institute), «Anti-Socialist Law (October 21, 1878)» y texto legal primario; documentos del Reichstag sobre legislación social; Jonathan Steinberg, *Bismarck: A Life* (Oxford University Press, 2011); Lothar Gall, *Bismarck: The White Revolutionary* (Unwin Hyman, 1986).
+- **Decisión:** mantener en verificación. La cronología y categoría son consistentes; la ficha debe presentar la unificación como proceso colectivo, equilibrar legislación social y represión política e incorporar el contexto colonial.
+
+### HIS-032 — Qin Shi Huang
+
+- **Datos revisados:** Ying Zheng (259–210 a. C.); rey de Qin desde 247 a. C. según la cronología habitual; conquista de los últimos estados rivales y unificación de los principales Estados Combatientes en 221 a. C.; adopción del título Qin Shi Huangdi, «Primer Emperador de Qin»; reinado imperial 221–210 a. C.
+- **Resultado:** fechas de vida y papel como primer emperador de la China imperial **respaldados provisionalmente** por el Metropolitan Museum of Art y el National Museum of Asian Art del Smithsonian. El Met confirma el nombre Ying Zheng, las fechas 259–210 a. C., la unificación, la centralización administrativa y las estandarizaciones de escritura, moneda y medidas. Conviene distinguir su etapa como rey de Qin (antes de 221 a. C.) de su etapa como emperador (221–210 a. C.).
+- **Matices y correcciones necesarias:** no describirlo como creador de una China idéntica al Estado moderno ni afirmar que conquistó todos los territorios de la actual China: unificó los principales estados rivales del periodo y estableció un imperio centralizado en una extensión histórica concreta. La llamada Gran Muralla no fue construida íntegramente por él desde cero; su gobierno conectó, amplió y reorganizó defensas preexistentes en la frontera septentrional. La estandarización de escritura, moneda, pesos y medidas y la red de caminos y canales tuvieron efectos duraderos, pero formaron parte de un programa estatal coercitivo y centralizador. La política de proscripción y quema de determinados textos en 213 a. C. se conoce sobre todo a través de la tradición historiográfica posterior; Christopher J. Foster advierte que el episodio debe leerse en su contexto historiográfico y que la fórmula popular «quema de libros y entierro de eruditos» mezcla episodios y tradiciones distintas. No presentar el supuesto entierro masivo de eruditos como hecho simple e indiscutido. La dinastía Qin colapsó pocos años después de su muerte, en 206 a. C.; no atribuirle una estabilidad dinástica duradera.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Department of Asian Art, Metropolitan Museum of Art, «Qin Dynasty (221–206 B.C.)»; National Museum of Asian Art, Smithsonian Institution, cronología de historia china; Christopher J. Foster, «Burning of the Books», *The Encyclopedia of Ancient History* (Wiley, 2021); Sima Qian, *Shiji* (史記), «Annals of the First Emperor of Qin» (fuente historiográfica fundamental, redactada aproximadamente un siglo después de los hechos); materiales arqueológicos del mausoleo y ejército de terracota.
+- **Decisión:** mantener en verificación. Conservar 259–210 a. C.; separar reinado como rey y como emperador; corregir cualquier idea de que construyó toda la Gran Muralla y tratar críticamente las narraciones sobre quema de libros y ejecución de eruditos.
+
+### HIS-033 — Liu Bang
+
+- **Datos revisados:** fechas de nacimiento discutidas (256 o 247 a. C.) y muerte en 195 a. C.; líder de la rebelión contra Qin; rey de Han desde 206 a. C.; victoria final sobre Xiang Yu en 202 a. C.; proclamación como emperador y fundador de la dinastía Han en 202 a. C.; nombre póstumo/titular Gaozu.
+- **Resultado:** muerte en 195 a. C., ascenso imperial en 202 a. C. y papel como fundador de la dinastía Han **respaldados provisionalmente**. La cronología del Smithsonian National Museum of Asian Art ofrece 256–195 a. C. y sitúa su reinado imperial en 202–195 a. C. El campo del JSON que conserva 256/247 a. C. como nacimiento discutido es prudente: las fuentes de referencia transmiten variantes y no conviene escoger una como certeza. Debe distinguirse el inicio convencional de la dinastía Han (206 a. C., tras el derrumbe Qin y la investidura de Liu Bang como rey de Han) de su proclamación como emperador en 202 a. C.
+- **Matices y correcciones necesarias:** no describirlo simplemente como campesino que derrotó por sí solo a Qin y fundó inmediatamente un imperio. Participó en una coalición rebelde más amplia; el derrumbe Qin, la contienda Chu–Han (206–202 a. C.) y su victoria sobre Xiang Yu fueron procesos distintos. Su ascenso dependió de comandantes, consejeros y alianzas, entre ellos Han Xin, Xiao He y Zhang Liang, cuyas contribuciones deben reconocerse en una biografía breve. Como emperador combinó instituciones centralizadas heredadas de Qin con la concesión de principados a miembros de su familia y aliados; su régimen enfrentó rebeliones y conflictos internos. La narración principal procede de Sima Qian, autor de los *Shiji* en el siglo II–I a. C., valiosa pero retrospectiva y literariamente construida.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** National Museum of Asian Art, Smithsonian Institution, «Timeline of Chinese History, Art, and Culture»; Sima Qian, *Shiji*, «Basic Annals of Gaozu» y «Basic Annals of Xiang Yu»; Ban Gu, *Hanshu* (漢書), especialmente los anales de Gaozu; Michael Loewe, *The Government of the Qin and Han Empires, 221 BC–AD 220* (Hackett, 2006); Denis Twitchett y Michael Loewe (eds.), *The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 B.C.–A.D. 220* (Cambridge University Press, 1986).
+- **Decisión:** mantener en verificación. Mantener la fecha de nacimiento como variante no resuelta; distinguir 206 (reino de Han y comienzo convencional de la dinastía) de 202 (proclamación imperial) y evitar atribuir la victoria a una sola persona.
+
+### HIS-034 — Tokugawa Ieyasu
+
+- **Datos revisados:** fechas convencionales 1543–1616; victoria de Sekigahara en 1600; nombramiento como shōgun por la corte imperial en 1603; renuncia al título en favor de su hijo Hidetada en 1605, aunque conservó gran influencia; campañas de Osaka en 1614–1615 y consolidación del régimen Tokugawa.
+- **Resultado:** secuencia política y militar principal **respaldada provisionalmente** por la cronología de los Archivos Nacionales de Japón. La institución fecha su nombramiento como seii taishōgun el 12 de febrero de 1603, su renuncia en 1605 y su muerte el 17 de abril de 1616 según el calendario japonés histórico. La batalla de Sekigahara (1600) fue decisiva para su predominio, pero no debe confundirse con el nombramiento formal de 1603 ni con el proceso posterior de consolidación del shogunato.
+- **Matices y correcciones necesarias:** la fecha de nacimiento requiere explicar la conversión de calendario: los Archivos Nacionales de Japón registran el 26 del duodécimo mes del año Tenbun 11 (1542, calendario lunisolar), que suele convertirse al 31 de enero de 1543 en calendario gregoriano proléptico. Por ello 1543 es la forma moderna convencional, no una contradicción simple. La victoria de Sekigahara dependió de alianzas, decisiones de daimyō y defecciones, y ocurrió en el contexto del vacío de poder tras la muerte de Toyotomi Hideyoshi; no fue una unificación japonesa instantánea. Ieyasu formalizó el shogunato, pero la consolidación se extendió a través de la sucesión de Hidetada y la derrota final de los Toyotomi en Osaka. La ficha debe evitar sugerir que todo el periodo Edo o sus 265 años de duración fueron obra exclusiva de una sola persona.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente. La dimensión militar es central, pero el establecimiento de un régimen político duradero define su perfil principal.
+- **Fuentes de referencia:** National Archives of Japan, exposición digital «Tokugawa Ieyasu—His Life Seen through the Shogunal Library», cronología biográfica y sección «The Battle of Sekigahara»; National Park Service, Gettysburg National Military Park, «Sekigahara Timeline» (2025); documentos y diarios contemporáneos citados por los Archivos Nacionales de Japón; Conrad Totman, *Early Modern Japan* (University of California Press, 1993); Jeroen Lamers, *Japonius Tyrannus: The Japanese Warlord Oda Nobunaga Reconsidered* (Hotei, 2000), para el contexto de la unificación previa.
+- **Decisión:** mantener en verificación. Conservar 1543–1616 con nota de conversión calendárica; separar Sekigahara, nombramiento de 1603 y consolidación posterior; evitar atribuirle en solitario la unificación.
+
+### HIS-035 — Mehmed II
+
+- **Datos revisados:** fechas 1432–1481; primer reinado 1444–1446 y segundo reinado 1451–1481; conquista otomana de Constantinopla el 29 de mayo de 1453; consolidación territorial en Anatolia y los Balcanes y transformación de Constantinopla en capital imperial.
+- **Resultado:** fechas biográficas y secuencia de reinados **respaldadas provisionalmente** por Halil İnalcık en la *TDV İslâm Ansiklopedisi*, el Metropolitan Museum of Art y bibliografía académica. El artículo de İnalcık fecha su nacimiento en Edirne el 30 de marzo de 1432 y distingue los dos periodos de gobierno. El Met sitúa la caída de Constantinopla en 1453 y el reinado de Mehmed II entre 1451 y 1481 en su segunda etapa.
+- **Matices y correcciones necesarias:** la ficha no debe presentar 1451 como el comienzo de su primer reinado: accedió por primera vez en 1444 siendo adolescente, fue desplazado en 1446 y regresó al trono en 1451. La conquista de 1453 terminó con el gobierno imperial bizantino en Constantinopla, pero la ciudad no quedó transformada de inmediato y sin continuidad: Mehmed impulsó reconstrucción, repoblación y reorganización administrativa, y sobrevivieron comunidades cristianas y tradiciones bizantinas bajo nuevas condiciones. No reducir su reinado a la caída de Constantinopla: continuó campañas contra estados sucesores bizantinos, poderes balcánicos y rivales en Anatolia. La investigación reciente de Rhoads Murphey subraya la combinación de asedio, diplomacia, negociación de rendiciones y traslados de población para consolidar territorios; debe evitarse la imagen de conquista puramente militar y lineal. Las crónicas griegas y otomanas del siglo XV ofrecen perspectivas diferentes y deben contrastarse.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Halil İnalcık, «Mehmed II», *TDV İslâm Ansiklopedisi* (2003); Metropolitan Museum of Art, «Anatolia and the Caucasus, 1400–1600 A.D.» y «Constantinople after 1261»; Rhoads Murphey, «The Evolution of Ottoman Military Strategy during the Reign of Mehmed II, 1444–1446 and 1451–1481», *Turcica* 55 (2024), DOI 10.2143/TURC.55.0.3293736; Franz Babinger, *Mehmed the Conqueror and His Time* (Princeton University Press, edición inglesa 1978/1992), utilizada con contraste historiográfico; testimonios de Kritovoulos, Doukas y Tursun Beg.
+- **Decisión:** mantener en verificación. Incorporar los dos periodos de reinado, explicar la conquista y transformación de Constantinopla sin borrar continuidades y contrastar las fuentes griegas, otomanas y modernas.
+
+### HIS-036 — Suleimán el Magnífico
+
+- **Datos revisados:** fechas 1494–1566; décimo sultán otomano; reinado 1520–1566; expansión militar y diplomática en Europa, el Mediterráneo y Oriente Próximo; legislación imperial, patronazgo artístico y arquitectónico.
+- **Resultado:** cronología de vida y reinado **respaldadas provisionalmente** por Güneş Işıksel en *The Encyclopedia of Diplomacy* (Wiley) y por el Metropolitan Museum of Art. Işıksel ofrece 1494–1566 y el reinado 1520–1566; el Met documenta la expansión otomana, la actividad cultural y el papel de Sinan y otros artistas durante el periodo.
+- **Matices y correcciones necesarias:** el epíteto «el Magnífico» es una denominación difundida en Occidente; en la tradición otomana es conocido como *Kanuni*, «el Legislador». Este último no significa que creara desde cero un código legal uniforme ni que sustituyera la ley religiosa: la legislación sultánica (*kanun*) se articuló con la jurisprudencia islámica y con prácticas administrativas preexistentes. Su expansión fue importante, pero no ilimitada: el asedio de Viena de 1529 no logró tomar la ciudad y las fronteras siguieron disputadas con los Habsburgo y los safávidas. La imagen de «edad de oro» cultural debe atribuirse a procesos colectivos y a instituciones cortesanas; la arquitectura de Sinan y el trabajo de artistas, escribas y administradores no son obras individuales del sultán. Murió durante la campaña y el asedio de Szigetvár en septiembre de 1566, antes de la capitulación final de la fortaleza; no presentar la muerte como consecuencia de una victoria personal en batalla.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Güneş Işıksel, «Suleiman the Magnificent (1494–1566)», *The Encyclopedia of Diplomacy* (Wiley, 2018), DOI 10.1002/9781118885154.dipl0267; Suzan Yalman, basada en Linda Komaroff, «The Age of Süleyman “the Magnificent” (r. 1520–1566)», Metropolitan Museum of Art, Heilbrunn Timeline of Art History (2002); Kaya Şahin, *Peerless among Princes: The Life and Times of Sultan Süleyman* (Oxford University Press, 2023); M. Kunt y C. Woodhead (eds.), *Süleyman the Magnificent and His Age* (Longman, 1995); documentos otomanos y crónicas contemporáneas, contrastados con historiografía moderna.
+- **Decisión:** mantener en verificación. Conservar 1494–1566 y 1520–1566; explicar *Kanuni* sin simplificar el orden jurídico otomano; contextualizar los límites militares y presentar el auge artístico como resultado de redes e instituciones, no como obra individual.
+
+## Balance de la sexta y última tanda
 
 | Código | Resultado de datos | Clasificación | Estado editorial |
 |---|---|---|---|
-| HIS-025 | Fechas y títulos respaldados; matizar coerción y servidumbre | Adecuada provisionalmente | En verificación |
-| HIS-026 | Fechas y cargos respaldados; incorporar esclavitud colonial y distinguir etapas | Adecuada provisionalmente | En verificación |
-| HIS-027 | Fechas respaldadas; evitar atribuirle individualmente todas las independencias y distinguir el papel de Sucre | Adecuada provisionalmente | En verificación |
-| HIS-028 | Fechas y campañas respaldadas; precisar el alcance de las independencias y revisar categoría | Revisión comparativa obligatoria | En verificación |
-| HIS-029 | Fechas y presidencia respaldadas; documentar esclavitud y alcance del testamento | Adecuada provisionalmente | En verificación |
-| HIS-030 | Fechas y hitos respaldados; distinguir proclamación y enmienda constitucional | Adecuada provisionalmente | En verificación |
+| HIS-031 | Fechas y cargos respaldados; equilibrar unificación, reformas sociales, represión y colonialismo | Adecuada provisionalmente | En verificación |
+| HIS-032 | Fechas y unificación respaldadas; separar reinados y matizar Gran Muralla y tradición sobre los libros | Adecuada provisionalmente | En verificación |
+| HIS-033 | Reinado y fundación Han respaldados; nacimiento discutido y proceso colectivo | Adecuada provisionalmente | En verificación |
+| HIS-034 | Hitos respaldados; explicar conversión calendárica y consolidación posterior | Adecuada provisionalmente | En verificación |
+| HIS-035 | Fechas y dos reinados respaldados; ampliar contexto de la conquista y continuidad urbana | Adecuada provisionalmente | En verificación |
+| HIS-036 | Fechas y reinado respaldados; matizar legislación, expansión y patronazgo cultural | Adecuada provisionalmente | En verificación |
 
-**Resultado de aprobación de esta tanda:** 0 de 6 aprobados para diseño. Los registros requieren matices históricos sustantivos y cierre de las decisiones editoriales indicadas.
+**Resultado de aprobación de esta tanda:** 0 de 6 aprobados para diseño. Los seis registros mantienen asuntos de formulación, contextualización o contraste bibliográfico que deben resolverse en la revisión editorial global.
 
-## Balance acumulado de auditoría
+## Cierre de auditoría del archivo HIS-001 a HIS-036
 
-- Registros examinados individualmente: 30 de 36.
-- Registros aprobados para diseño: 0 de 30.
-- Registros todavía pendientes de auditoría: 6 de 36.
-- Las fichas JSON originales permanecen sin cambios; esta fase continúa siendo documental y de contraste.
+- Registros examinados individualmente: **36 de 36 (100 %)**.
+- Registros aprobados para diseño: **0 de 36**.
+- Registros pendientes de examen individual dentro de este archivo: **0 de 36**.
+- Las 36 entradas del JSON original permanecen sin cambios y con `verification_status: en_verificacion`; la auditoría documental no equivale a aprobación final ni a autorización para ilustración.
+- Los resultados de las seis tandas registran correcciones y matices necesarios, fuentes de referencia y decisiones editoriales pendientes. Antes de cambiar los JSON se realizará una pasada de integración para convertir las observaciones en correcciones justificadas y comprobar las fuentes.
 
-## Siguiente tanda
+## Siguiente archivo de auditoría
 
-La próxima y última tanda de este archivo corresponde a HIS-031 a HIS-036: Otto von Bismarck, Qin Shi Huang, Liu Bang, Tokugawa Ieyasu, Mehmed II y Suleimán el Magnífico.
+El siguiente bloque documental será `data/historicos/guerreros_037_061.json`, con los códigos HIS-037 a HIS-061 (Guerreros y Generales). Se aplicará el mismo procedimiento: examen individual, contraste de cronología y atribuciones, bibliografía, publicación del informe y actualización del README, sin modificar las fichas originales durante la auditoría.
