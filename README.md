@@ -443,7 +443,18 @@ Emela-Ntouka
 - Se sustituyeron fuentes inadecuadas detectadas en Ragnar Lodbrok y Lady Triệu; se añadieron referencias académicas e institucionales sobre baladas, manuscritos, crónicas y tradiciones literarias. Las discrepancias y límites de evidencia permanecen documentados en el informe del bloque y el registro maestro.
 - **Estado del archivo:** 17/17 integrados, 0/17 aprobados. Todos permanecen en `en_verificacion`; la integración documental no equivale a aprobación editorial.
 - **Balance global de integración transversal:** 144/144 registros integrados (100 %), 0 pendientes de integración y 0/144 aprobados. El examen individual de 144/144 es una etapa separada.
-- **Siguiente fase:** aprobación editorial formal independiente, ficha por ficha, resolviendo observaciones y criterios transversales. Las ilustraciones definitivas permanecen suspendidas hasta completar y aprobar esa fase.
+- **Siguiente fase:** producción visual. Se comienza con plantilla maestra y lote piloto de tres cartas; luego se extenderá a los 144 registros.
 
 
 **Nota de lectura:** los porcentajes parciales de las secciones de avance por bloque son cortes históricos tomados al publicar cada etapa. El balance vigente, tras el cierre de HIS-128–HIS-144, es 144/144 integrados (100 %), 0 pendientes y 0/144 aprobados editorialmente.
+
+
+## Producción de CRÓNICAS — ORÍGENES
+
+- **Aprobación:** el usuario aprobó globalmente los 144 registros históricos y semihistóricos para producción; no se exige aprobación individual de cada ficha.
+- **Formato:** cartas verticales de 63 × 88 mm, con sangrado técnico de 3 mm por lado.
+- **Plantilla maestra:** `assets/plantillas/cronicas_origenes_plantilla_maestra.svg` (anverso y reverso editables).
+- **Lote piloto:** `data/produccion/lote_piloto_historicos.json` — HIS-129 Nelson Mandela, HIS-110 Siddhartha Gautama (Buda) y HIS-130 Rey Arturo.
+- **Guía de producción:** `docs/produccion/plantilla_maestra_y_lote_piloto.md`.
+- **Cautelas documentales:** `verification_status` y `editorial_note` se conservan como trazabilidad interna; el estado operativo de aprobación se registra en `production_status`.
+- **Próximo hito:** evaluar el piloto en tamaño físico y ajustar legibilidad, marcos, tipografía, ilustraciones y equilibrio entre anverso y reverso antes de producir el resto.
