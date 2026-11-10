@@ -27,12 +27,12 @@ La aprobación no se deriva automáticamente de la validación técnica del arch
 | Archivo | Códigos | Registros | Estado de integración |
 |---|---|---:|---|
 | `gobernantes_001_036.json` | HIS-001–HIS-036 | 36 | Integración completada; pendiente de aprobación |
-| `guerreros_037_061.json` | HIS-037–HIS-061 | 25 | Pendiente |
+| `guerreros_037_061.json` | HIS-037–HIS-061 | 25 | Integración completada; pendiente de aprobación |
 | `sabios_cientificos_062_091.json` | HIS-062–HIS-091 | 30 | Pendiente |
 | `exploradores_092_109.json` | HIS-092–HIS-109 | 18 | Pendiente |
 | `lideres_espirituales_110_127.json` | HIS-110–HIS-127 | 18 | Pendiente |
 | `bloque_final_128_144.json` | HIS-128–HIS-144 | 17 | Pendiente |
-| **Total** | **HIS-001–HIS-144** | **144** | **36 integrados; 0 aprobados** |
+| **Total** | **HIS-001–HIS-144** | **144** | **61 integrados; 0 aprobados** |
 
 ---
 
@@ -329,3 +329,185 @@ Continuar en orden con HIS-007–HIS-012, luego HIS-013–HIS-018, HIS-019–HIS
 Se conservan las categorías actuales en esta pasada, respetando la distribución editorial aprobada. Leónidas y Temístocles permanecen en «Guerreros y Generales»; Pericles, Washington, Lincoln y Bismarck en «Líderes Políticos y Estadistas». Bolívar y San Martín tienen perfiles político-militares mixtos: se mantiene provisionalmente su ubicación en «Gobernantes y Conquistadores», pero quedan señalados para comparación con el criterio aplicado a los siguientes archivos. No se modificaron códigos, nombres ni categorías. La decisión definitiva se reserva para la revisión comparativa global.
 
 **Cierre de integración del archivo:** HIS-001–HIS-036 cuentan con una pasada de integración documental y referencias ampliadas; 36/36 integrados, 0/36 aprobados. Todos continúan en `en_verificacion`. La validación estructural no constituye aprobación histórica.
+
+
+# Archivo 2 — Guerreros y Generales (HIS-037–HIS-061)
+
+## HIS-037 — Aníbal Barca
+
+- **Discrepancia y decisión documental:** Se conserva c. 247 a. C.; muerte c. 183/182 a. C. Se añade su etapa política como sufete en 196 a. C. y se matizan ruta, cifras y pérdidas del cruce alpino.
+- **Fuentes reforzadas:** Oxford Classical Dictionary; Oxford Bibliographies; Polibio, Historias.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-038 — Escipión el Africano
+
+- **Discrepancia y decisión documental:** Se conserva 236–183 a. C. y se contextualiza Zama como victoria de fuerzas romanas y aliadas, con papel de Masinisa; se evita atribución individual exclusiva.
+- **Fuentes reforzadas:** Oxford Classical Dictionary; Polibio, Historias X y XV; Tito Livio XXVI–XXX.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-039 — Belisario
+
+- **Discrepancia y decisión documental:** Se conserva c. 500–565; se precisan África (533–534), campañas italianas desde 535 y toma de Rávena (540), sin sugerir que la guerra terminó allí. Procopio se identifica como fuente de perspectivas distintas.
+- **Fuentes reforzadas:** Oxford Classical Dictionary; Procopio, Guerras e Historia secreta.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-040 — Sun Tzu
+
+- **Discrepancia y decisión documental:** Se reemplaza la cronología biográfica afirmativa por figura tradicional de historicidad debatida; el texto se fecha probablemente en el siglo IV a. C. y se explica su formación gradual y los manuscritos de Yinqueshan.
+- **Fuentes reforzadas:** Stephen Morillo, Encyclopedia of War; Scott Boorman, Cambridge University Press (2024); El arte de la guerra.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-041 — Guan Yu
+
+- **Discrepancia y decisión documental:** Se corrige la muerte a 219 d. C.; se distingue el general histórico de la deificación posterior y de la representación novelística de Romance de los Tres Reinos.
+- **Fuentes reforzadas:** Barend J. ter Haar, Oxford University Press (2017); Sanguozhi, biografía de Guan Yu.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-042 — Yue Fei
+
+- **Discrepancia y decisión documental:** Se conserva 1103–1142; se contextualiza la ejecución bajo Gaozong y se separa la tradición del tatuaje de lealtad de lo documentalmente demostrable.
+- **Fuentes reforzadas:** Yue Du, Journal of Chinese History/Cambridge (2023); Song Shi; Columbia University.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-043 — Miyamoto Musashi
+
+- **Discrepancia y decisión documental:** Se mantiene c. 1584–1645; se distingue El libro de los cinco anillos como fuente de sus ideas, no como verificación de todos los duelos. Se advierte que las biografías detalladas son tardías.
+- **Fuentes reforzadas:** National Diet Library of Japan; Go Rin no Sho; inscripción de Kokura (1654).
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-044 — Hattori Hanzō
+
+- **Discrepancia y decisión documental:** Se señala que Hanzō fue un nombre usado por varias generaciones. La identificación popular con Hattori Masanari (1542–1596) y su papel en 1582 no se presentan como hechos cerrados; se rebaja la certeza sobre la etiqueta ninja.
+- **Fuentes reforzadas:** Nippon.com, entrevista a especialista; Samurai Museum; archivos japoneses pendientes de cotejo directo.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-045 — Juana de Arco
+
+- **Discrepancia y decisión documental:** Se mantiene c. 1412–1431; se incorporan Orleans y Reims (1429), captura (1430), ejecución (1431) y anulación del proceso en 1456. Se evita atribuirle en solitario las victorias.
+- **Fuentes reforzadas:** Proceso de 1431; British Library, registros del proceso de rehabilitación; International Joan of Arc Society.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-046 — El Cid
+
+- **Discrepancia y decisión documental:** Se conserva 1099 como muerte y se marca el nacimiento como incierto (propuestas c. 1043–1054, c. 1048 frecuente). Se distingue documentación de archivo, Historia Roderici y Cantar de mio Cid.
+- **Fuentes reforzadas:** Simon Barton, English Historical Review; Alberto Montaner; Historia Roderici.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-047 — Vercingétorix
+
+- **Discrepancia y decisión documental:** Se elimina el intervalo especulativo de nacimiento; queda como desconocido y se conserva la ejecución en 46 a. C. Se contextualiza Alesia (52 a. C.) y la dependencia de César como fuente adversaria, contrastada con monedas.
+- **Fuentes reforzadas:** James Thorne, Encyclopedia of Ancient History; Musée d’Archéologie nationale; César, De bello Gallico VII.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-048 — Arminio
+
+- **Discrepancia y decisión documental:** Se mantiene c. 18/17 a. C.–21 d. C. como aproximación. Se añade el asesinato por su entorno y se rechaza la proyección de nacionalismo alemán moderno.
+- **Fuentes reforzadas:** Tácito, Anales I–II; Veleyo Patérculo II.117–120; arqueología de Kalkriese.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-049 — Espartaco
+
+- **Discrepancia y decisión documental:** Se eliminan fechas de nacimiento no conocidas; se conserva muerte en 71 a. C. y rebelión 73–71 a. C. Se contextualizan los grupos participantes y el carácter tardío de Plutarco y Apiano.
+- **Fuentes reforzadas:** Andrew Lintott, Oxford Classical Dictionary; Plutarco, Vida de Craso; Apiano, Guerras civiles.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-050 — Hernán Cortés
+
+- **Discrepancia y decisión documental:** Se conserva 1485–1547. La biografía ahora presenta la caída de Tenochtitlan (1521) como resultado de guerra prolongada, alianzas indígenas, epidemias y asedio. Se contrasta la autorrepresentación de las Cartas con testimonios nahuas.
+- **Fuentes reforzadas:** Library of Congress, Cartas de relación y Códice Florentino XII; Javier Molina Villeta, Revista Complutense de Historia de América (2024).
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-051 — Francisco Pizarro
+
+- **Discrepancia y decisión documental:** Se corrige c. 1475 a 1478–1541 según autoridad archivística; se distingue la captura de Atahualpa (1532) de la conquista prolongada, con guerra sucesoria, alianzas y resistencias andinas.
+- **Fuentes reforzadas:** PARES, Portal de Archivos Españoles; Library of Congress; Felipe Guaman Poma de Ayala, Nueva corónica y buen gobierno.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-052 — Pancho Villa
+
+- **Discrepancia y decisión documental:** Se precisan 5-6-1878 a 20-7-1923; se conserva el nombre José Doroteo Arango Arámbula con cautela sobre relatos de juventud y cambio de nombre. Se contextualizan alianzas revolucionarias cambiantes.
+- **Fuentes reforzadas:** INEHRM; Library of Congress, Chronicling America; Norma Sánchez, UAM/UNAM.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-053 — Emiliano Zapata
+
+- **Discrepancia y decisión documental:** Se conserva 1879–1919; se atribuye el Plan de Ayala (28-11-1911) al proceso colectivo del zapatismo y a la colaboración de Otilio E. Montaño, no a autoría individual simplificada.
+- **Fuentes reforzadas:** Archivo General de la Nación; Secretaría de la Defensa Nacional; Plan de Ayala, fuente primaria/Library of Congress.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-054 — Shaka Zulu
+
+- **Discrepancia y decisión documental:** Se conserva c. 1787–1828; se advierte que nacimiento y detalles vitales son aproximados. Se evita atribuirle como causa única el Mfecane y se explicita la mezcla de testimonios coloniales y tradiciones orales.
+- **Fuentes reforzadas:** John Laband, Encyclopedia of War; Elizabeth A. Eldredge, Cambridge University Press; estudio de testimonios orales zulúes.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-055 — Robert E. Lee
+
+- **Discrepancia y decisión documental:** Se conserva 1807–1870; se explicita que comandó el Ejército de Virginia del Norte dentro de la Confederación esclavista y se vincula su memoria posterior a la Causa Perdida.
+- **Fuentes reforzadas:** Library of Congress; National Archives, documentos de secesión; fuentes confederadas primarias.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-056 — Ulysses S. Grant
+
+- **Discrepancia y decisión documental:** Se conserva 1822–1885; se precisa el mando supremo desde 1864, Appomattox (1865) y presidencia 1869–1877. Se separan carrera militar y presidencial.
+- **Fuentes reforzadas:** National Archives, Papers of Ulysses S. Grant; Library of Congress; Personal Memoirs.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-057 — Georgy Zhukov
+
+- **Discrepancia y decisión documental:** Se conserva 1896–1974; se precisan Khalkhin Gol, Moscú, Bagration y Berlín, atribuyendo resultados a operaciones colectivas y al Stavka, no a un solo comandante.
+- **Fuentes reforzadas:** Geoffrey Roberts, Oxford Bibliographies; documentación militar y memorias de Zhukov.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-058 — George S. Patton
+
+- **Discrepancia y decisión documental:** Se precisan fechas 11-11-1885 a 21-12-1945, campañas y avance del Tercer Ejército. Se añade la controversia de las bofetadas a soldados con agotamiento de combate (Sicilia, 1943) y el mando aliado.
+- **Fuentes reforzadas:** National WWII Museum; U.S. Army Center of Military History; archivos militares estadounidenses.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-059 — Subutai
+
+- **Discrepancia y decisión documental:** Se conserva c. 1175/1176–1248. Se aclara que fue uno de varios mandos de la campaña europea, junto con Batu y príncipes mongoles; se evitan cifras populares y explicaciones simplistas de 1242.
+- **Fuentes reforzadas:** Stephen Pow y Jingjing Liao, Journal of Chinese Military History (2018); Cambridge History of the Mongol Empire; Yuan Shi.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-060 — Yi Sun-sin
+
+- **Discrepancia y decisión documental:** Se conserva 1545–1598; se incorpora el Nanjung Ilgi como fuente primaria excepcional y se distingue la documentación histórica de reconstrucciones modernas del barco tortuga.
+- **Fuentes reforzadas:** UNESCO Memory of the World; Academy of Korean Studies; Nanjung Ilgi.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+## HIS-061 — Yasuke
+
+- **Discrepancia y decisión documental:** Se eliminan fechas de nacimiento y muerte no documentadas; se limita la biografía a su presencia en Japón entre 1579 y 1582. No se afirma como hecho demostrado un rango formal de samurái ni un origen geográfico preciso.
+- **Fuentes reforzadas:** Thomas Lockley (2019); Historiographical Institute, University of Tokyo; Luís Fróis y estudios académicos sobre sus fuentes.
+- **Cambio JSON integrado:** fechas, biografía breve, hitos, curiosidad y bibliografía revisados; se conserva el estado `en_verificacion`.
+- **Estado:** integrado; pendiente de aprobación editorial. En HIS-040, HIS-044 y HIS-061 persisten reservas historiográficas específicas.
+
+**Revisión comparativa de clasificación:** se conserva provisionalmente «Guerreros y Generales» para el bloque, respetando la distribución aprobada. HIS-040 requiere tratamiento explícito como figura tradicional/autoría discutida; HIS-044 como identidad familiar compuesta; HIS-050 y HIS-051 son conquistadores y autoridades coloniales además de jefes militares; HIS-053 es también líder agrario y político; HIS-056 combina carrera militar y presidencia; HIS-054 fue asimismo gobernante. Estas dimensiones quedan señaladas para una decisión transversal al comparar las categorías de los 144.
+
+**Cierre de integración:** 25/25 registros actualizados, 0/25 aprobados. Los registros permanecen en `en_verificacion`; la validación técnica del JSON no implica aprobación histórica ni autoriza ilustraciones.
