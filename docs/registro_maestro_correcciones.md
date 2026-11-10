@@ -868,3 +868,138 @@ Se conservan las categorías actuales en esta pasada, respetando la distribució
 - **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
 
 **Balance global de integración transversal tras este archivo:** 109/144 registros integrados (75,69 %), 35 pendientes de integración y 0/144 aprobados. La fase de examen individual sigue siendo 144/144; no debe confundirse con aprobación.
+
+
+## Integración transversal — HIS-110 a HIS-127 (Líderes Espirituales y Religiosos)
+
+**Archivo:** `data/historicos/lideres_espirituales_110_127.json`  
+**Informe:** `docs/auditoria_historica/lideres_espirituales_110_127_auditoria.md`  
+**Resultado:** 18/18 integrados; 0/18 aprobados. Todos permanecen en `en_verificacion`.
+
+### HIS-110 — Siddhartha Gautama (Buda)
+
+- **Decisión integrada:** Maestro ascético del clan Shakya cuya enseñanza dio origen a la comunidad budista. Las tradiciones sitúan su despertar en Bodh Gaya y su actividad docente en la llanura del Ganges. La fecha exacta de su vida sigue debatida: las cronologías tradicionales y las reconstrucciones modernas difieren, y los discursos atribuidos a él fueron transmitidos oralmente antes de su fijación escrita. La ficha distingue al maestro histórico de las biografías hagiográficas desarrolladas posteriormente.
+- **Hitos para tarjeta:** La tradición sitúa su despertar en Bodh Gaya y su primera enseñanza en el Parque de los Ciervos, en Sarnath. La comunidad monástica temprana fue esencial para preservar y transmitir las enseñanzas atribuidas al Buda. No existe una fecha biográfica consensuada; «siglo V a. C.» es una aproximación académica, no una fecha exacta.
+- **Fuentes reforzadas:** Oxford Bibliographies, «Gotama, the Historical Buddha» (https://academic.oup.com/reference/62340/reference-article-abstract/554143156); Oxford Bibliographies, «History of the Buddhist Canon» (https://academic.oup.com/reference/62340/reference-article-abstract/554134298); University of New England, «A Discussion on the Determination of the Date of the Historical Buddha» (https://researchers.une.edu.au/en/publications/a-discussion-on-the-determination-of-the-date-of-the-historical-b-5/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-111 — Confucio
+
+- **Decisión integrada:** Pensador y maestro del estado de Lu, conocido como Kongzi o Maestro Kong. Las fuentes antiguas lo asocian con la enseñanza de la virtud, los ritos, el aprendizaje, las obligaciones familiares y el buen gobierno. Las Analectas reúnen diálogos y dichos transmitidos por discípulos y generaciones posteriores; no son un libro redactado y cerrado por Confucio. El confucianismo posterior seleccionó, comentó y transformó esa herencia durante siglos.
+- **Hitos para tarjeta:** La tradición sitúa su actividad docente en el estado de Lu, durante el periodo de Primaveras y Otoños. Las Analectas contienen materiales de transmisión diversa y no pueden tratarse como transcripción literal de sus palabras. Su autoridad fue reinterpretada por escuelas y gobiernos chinos posteriores, especialmente durante la época imperial.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy, «Confucius» (https://plato.stanford.edu/entries/confucius/); Internet Encyclopedia of Philosophy, «Confucius» (https://iep.utm.edu/confucius/); Stanford Encyclopedia of Philosophy, «Confucius — textual traditions and Analects» (https://plato.stanford.edu/archives/sum2020/entries/confucius/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-112 — Lao Tsé
+
+- **Decisión integrada:** Figura tradicional asociada al Daodejing, uno de los textos centrales del pensamiento daoísta. La obra reflexiona sobre el Dao, la virtud, la espontaneidad y el gobierno no coercitivo. No está demostrado que todo el texto proceda de un solo autor llamado Laozi: manuscritos de Guodian y Mawangdui muestran versiones y agrupaciones anteriores al texto recibido. La biografía del archivero que abandona China pertenece a la tradición y no puede verificarse como relato biográfico.
+- **Hitos para tarjeta:** Los manuscritos de Guodian, depositados hacia 300 a. C., contienen pasajes que hoy forman parte del Daodejing. Los manuscritos de Mawangdui, hallados en una tumba sellada en 168 a. C., conservan otra organización textual. El Daodejing fue transmitido y editado en versiones distintas; la división actual en 81 capítulos no es universal ni necesariamente original.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy, «Laozi — textual traditions and manuscripts» (https://plato.stanford.edu/entries/laozi/); Stanford Encyclopedia of Philosophy, «Laozi — Guodian and Mawangdui manuscripts» (https://plato.stanford.edu/entries/laozi/); Encyclopaedia Britannica, «Daoism: classical texts and traditions» (https://www.britannica.com/topic/Daoism).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-113 — Zoroastro
+
+- **Decisión integrada:** Profeta y maestro religioso asociado al zoroastrismo. Los Gathas, himnos en avéstico antiguo preservados en el Avesta, son la fuente textual más próxima a su pensamiento y se asocian tradicionalmente con Zarathustra. La datación de su vida depende de argumentos lingüísticos e históricos y no cuenta con sincronismos externos firmes: se han propuesto cronologías muy distintas, incluida una fecha cercana a 1000 a. C. y otra alrededor de 600 a. C. Su lugar de origen tampoco está establecido con precisión.
+- **Hitos para tarjeta:** Los Gathas constituyen el núcleo más antiguo del Avesta y la fuente central para estudiar su pensamiento. La datación de Zarathustra se debate entre propuestas muy distantes; c. 1000 a. C. es una hipótesis, no una fecha segura. La tradición relaciona su enseñanza con Ahura Mazda, la verdad y la elección moral.
+- **Fuentes reforzadas:** Encyclopaedia Iranica, «Zoroaster: General Survey» (https://www.iranicaonline.org/articles/zoroaster-ii-general-survey/); Encyclopaedia Iranica, «Zoroaster in the Avesta» (https://www.iranicaonline.org/articles/zoroaster-iii-zoroaster-in-the-avesta/); Wiley / Prods Oktor Skjærvø, «The Gathas, a Forgotten Masterpiece» (https://onlinelibrary.wiley.com/doi/10.1002/9781118635193.ctwl0020).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-114 — Mahavira
+
+- **Decisión integrada:** Maestro espiritual jaina conocido también como Vardhamana y considerado por la tradición el vigésimo cuarto tirthankara de la era actual. Su enseñanza ascética destacó la no violencia, la verdad, la no apropiación y el desapego. La tradición jaina le atribuye un papel decisivo en la organización de la comunidad de monjes, monjas y laicos; no debe describirse como fundador absoluto de una religión que se considera mucho más antigua. Las fechas tradicionales difieren de varias reconstrucciones históricas modernas.
+- **Hitos para tarjeta:** La tradición jaina lo considera el vigésimo cuarto tirthankara y lo vincula con la consolidación de la comunidad jaina. Los textos tempranos jainas, como el Ācārāṅga y el Kalpa Sūtra, transmiten episodios de su vida, pero su redacción y transmisión requieren crítica textual. Sus fechas tradicionales 599–527 a. C. no son universalmente aceptadas por la investigación moderna.
+- **Fuentes reforzadas:** Routledge Encyclopedia of Philosophy, «Mahāvīra (6th–5th century BC)» (https://www.rep.routledge.com/articles/biographical/mahavira-6th-5th-century-bc/v-1); Harvard University, «A Timeline of South Asian History — Bibliography» (https://timelinesouthasianhistory.hsites.harvard.edu/bibliography); Oxford History of Historical Writing, «Historical traditions in early India» (https://culturahistorica.org/wp-content/uploads/2020/05/thapar-historical-traditions-early-india.pdf).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-115 — Moisés
+
+- **Decisión integrada:** Figura fundacional de las tradiciones judía, cristiana e islámica. En la Biblia hebrea aparece como líder del Éxodo, mediador de la alianza y transmisor de la Ley; el Corán también lo presenta como profeta. La investigación histórica estudia la formación de las tradiciones mosaicas y la composición del Pentateuco, pero no dispone de una biografía contemporánea independiente que confirme los episodios bíblicos ni permita fijar fechas de nacimiento o muerte. La importancia religiosa de Moisés debe distinguirse de lo que puede establecerse históricamente.
+- **Hitos para tarjeta:** La tradición bíblica lo vincula con el Éxodo, la alianza del Sinaí y la transmisión de la Ley. El Pentateuco es una colección textual de composición y redacción complejas, no un testimonio unitario contemporáneo. No existe consenso histórico que permita fijar una cronología biográfica de Moisés o verificar de manera independiente todos los episodios del Éxodo.
+- **Fuentes reforzadas:** Oxford Scholarship Online, «Moses and the Exodus — James K. Hoffmeier» (https://academic.oup.com/book/25374/chapter-abstract/192467684); Society of Biblical Literature, «Bible Odyssey: Moses» (https://www.bibleodyssey.org/people/main-articles/moses/); Encyclopaedia Britannica, «Moses: Hebrew prophet» (https://www.britannica.com/biography/Moses-Hebrew-prophet).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-116 — Abraham
+
+- **Decisión integrada:** Patriarca central de las tradiciones judía, cristiana e islámica. El Génesis lo presenta como Abram, llamado a dejar su tierra y establecerse en Canaán, y como antepasado de una promesa y alianza. La investigación puede estudiar la antigüedad, geografía y formación de las tradiciones patriarcales, pero no dispone de evidencia contemporánea concluyente que identifique al Abraham individual ni confirme los acontecimientos narrados. Debe describirse como figura fundacional de tradición, no como biografía históricamente comprobada.
+- **Hitos para tarjeta:** El Génesis sitúa sus relatos entre Mesopotamia y Canaán, dentro de narraciones sobre parentesco, migración y alianza. Las tradiciones sobre Abraham contienen elementos de distintas épocas y no pueden fecharse como una biografía unitaria. Su figura es central para las genealogías religiosas de judaísmo, cristianismo e islam.
+- **Fuentes reforzadas:** Oxford Scholarship Online, «Historical Memories in the Patriarchal Narratives — Ronald Hendel» (https://academic.oup.com/book/10720/chapter/158790336); Oxford Scholarship Online, «Remembering Abraham — Ronald Hendel» (https://academic.oup.com/book/10720/chapter/158789824); My Jewish Learning, «Abraham as a Historical Figure — P. Kyle McCarter» (https://www.myjewishlearning.com/article/abraham/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-117 — San Pablo
+
+- **Decisión integrada:** Pablo de Tarso fue un misionero y escritor judío del siglo I, y una de las figuras mejor documentadas del cristianismo primitivo. Sus cartas auténticas, escritas aproximadamente entre los años 50 y 60 d. C., son anteriores a los evangelios conservados. Siete cartas suelen aceptarse ampliamente como auténticas; otras atribuidas a Pablo son discutidas. Sus escritos muestran su trabajo entre comunidades judías y no judías y deben cotejarse críticamente con Hechos de los Apóstoles, una narración posterior y de autor distinto.
+- **Hitos para tarjeta:** Romanos, 1–2 Corintios, Gálatas, Filipenses, 1 Tesalonicenses y Filemón son las siete cartas ampliamente aceptadas como auténticas. Sus cartas son algunos de los textos cristianos más antiguos conservados, anteriores a los evangelios canónicos. Hechos de los Apóstoles y las cartas paulinas ofrecen testimonios de naturaleza distinta y no siempre coinciden en detalles cronológicos.
+- **Fuentes reforzadas:** Oxford Bibliographies, «Pauline Chronology — Mark Reasoner» (https://academic.oup.com/reference/62341/reference-article-abstract/554103486); American Bible Society, «Letters of Paul: chronology and disputed authorship» (https://www.americanbible.org/engage/bible-resources/articles/letters-of-paul/); Oxford Bibliographies, «Paul — early Christian writings and chronology» (https://academic.oup.com/reference/62341/reference-article-abstract/554098508).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-118 — San Agustín
+
+- **Decisión integrada:** Aurelius Augustinus, obispo de Hipona en el norte de África romana, fue filósofo y teólogo de la Antigüedad tardía. Sus Confesiones combinan memoria personal, interpretación bíblica y reflexión filosófica; La ciudad de Dios respondió a debates religiosos y políticos de su tiempo. Participó en controversias con maniqueos, donatistas y pelagianos, y sus ideas sobre gracia, pecado y autoridad tuvieron una influencia duradera. Debe situarse en las redes intelectuales africanas y mediterráneas de su época.
+- **Hitos para tarjeta:** Fue obispo de Hipona y escribió Confesiones y La ciudad de Dios, dos obras influyentes de la Antigüedad tardía. Su trayectoria intelectual estuvo marcada por el maniqueísmo, el neoplatonismo y su conversión al cristianismo. Sus controversias con donatistas y pelagianos influyeron en debates posteriores sobre gracia, Iglesia y autoridad.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy, «Augustine of Hippo» (https://plato.stanford.edu/entries/augustine/); Stanford Encyclopedia of Philosophy, «Augustine of Hippo — works and editions» (https://plato.stanford.edu/entries/augustine/index.html); Encyclopaedia Britannica, «Saint Augustine: bishop and theologian» (https://www.britannica.com/biography/Saint-Augustine).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-119 — Tomás de Aquino
+
+- **Decisión integrada:** Fraile dominico, filósofo y teólogo que desarrolló una síntesis escolástica de la filosofía aristotélica y la teología cristiana. Trabajó con textos y comentarios transmitidos por tradiciones griegas, árabes y judías, además de fuentes latinas y patrísticas. Escribió la Summa contra gentiles y la Summa theologiae, esta última inconclusa al detenerse su trabajo en 1273. Su trayectoria se conoce mediante sus obras y testimonios posteriores, cuyas anécdotas hagiográficas requieren cautela.
+- **Hitos para tarjeta:** La Summa theologiae fue escrita entre aproximadamente 1267 y 1273 y quedó inconclusa tras la tercera parte. Sus comentarios y síntesis filosóficas se apoyaron en traducciones y debates intelectuales de autores griegos, árabes y judíos. Murió en la abadía de Fossanova el 7 de marzo de 1274.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy, «Thomas Aquinas — life and works» (https://plato.stanford.edu/entries/aquinas/); Oxford Scholarship Online, «Chronological List of Aquinas’s Writings» (https://academic.oup.com/edited-volume/28242/chapter/213362059); Stanford Encyclopedia of Philosophy, «Thomas Aquinas — work chronology and unfinished Summa» (https://plato.stanford.edu/entries/aquinas/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-120 — Martín Lutero
+
+- **Decisión integrada:** Teólogo y fraile agustino alemán cuya crítica a las indulgencias y reflexión sobre la justificación contribuyeron al inicio de la Reforma protestante. Las 95 tesis de 1517 fueron concebidas como invitación a una disputa académica; el relato del gesto dramático de clavarlas personalmente en la puerta de la iglesia se consolidó en la memoria posterior y es debatido. La Reforma fue un proceso colectivo y transnacional. Su legado incluye escritos antijudíos virulentos, especialmente los publicados en 1543, que deben mencionarse críticamente.
+- **Hitos para tarjeta:** Las 95 tesis de 1517 cuestionaron la predicación y práctica de las indulgencias y convocaron a debate teológico. La difusión de sus escritos dependió de imprentas, aliados políticos y movimientos religiosos más amplios. En 1543 publicó escritos antijudíos que promovían medidas violentas contra comunidades judías; forman parte central de su legado problemático.
+- **Fuentes reforzadas:** Library of Congress, «Martin Luther as Priest, Heretic and Outlaw: Luther the Priest» (https://guides.loc.gov/martin-luther-priest-heretic-outlaw/luther-the-priest); English Historical Review / Oxford Academic, «Luther’s Ninety-Five Theses and the Origins of the Reformation Narrative» (https://doi.org/10.1093/ehr/cex224); Theology Today, «Martin Luther and the Jews: Context and Content» (https://journals.sagepub.com/doi/10.1177/0040573617721911).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-121 — Juan Calvino
+
+- **Decisión integrada:** Teólogo y reformador francés cuya Institución de la religión cristiana se convirtió en una exposición influyente de la teología reformada. Desarrolló gran parte de su labor en Ginebra, donde participó en la organización de la iglesia y en debates con las autoridades civiles. La disciplina eclesiástica, las Ordenanzas de 1541 y el caso de Miguel Servet en 1553 muestran las tensiones entre autoridad religiosa y gobierno urbano. Calvino tuvo participación en la controversia y defendió el castigo de la herejía, aunque no fue juez civil único ni dictó por sí solo la sentencia.
+- **Hitos para tarjeta:** La primera edición de la Institución de la religión cristiana apareció en 1536 y fue ampliada en ediciones posteriores. Las Ordenanzas Eclesiásticas de 1541 organizaron la vida de la iglesia ginebrina en interacción con los consejos civiles. Miguel Servet fue ejecutado en Ginebra en 1553 tras un proceso civil; Calvino intervino en la controversia y defendió su condena.
+- **Fuentes reforzadas:** Cambridge University Press, «Geneva and Calvin, 1541–64» (https://www.cambridge.org/core/books/abs/christian-polity-of-john-calvin/geneva-and-calvin-154164/93EAAFA927ACD005162D2329186262B2); Verbum et Ecclesia, «The question of Calvin’s involvement in the trial of Servetus» (https://verbumetecclesia.org.za/index.php/ve/article/view/1216); Universidade de São Paulo, «Study of Geneva’s Ecclesiastical Ordinances and Consistory» (https://revistas.usp.br/revhistoria/en/article/view/214575).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-122 — Guru Nanak
+
+- **Decisión integrada:** Guru Nanak fue maestro espiritual, poeta y figura fundacional del sijismo, reconocido como el primero de los diez Gurús humanos en la tradición sij. Sus himnos, incorporados al Guru Granth Sahib, enseñan la devoción a un Dios único, la igualdad, el servicio y la vida honesta. Las janamsakhis narran episodios de su vida y viajes, pero son relatos devocionales redactados posteriormente y no deben tratarse como registros contemporáneos. Los primeros manuscritos de sus composiciones forman parte de una historia textual compleja.
+- **Hitos para tarjeta:** Sus composiciones poéticas forman parte del Guru Granth Sahib, escritura sagrada sij. La tradición vincula su comunidad con Kartarpur, donde se desarrolló una temprana forma de vida comunitaria sij. Los primeros manuscritos y pothis permiten estudiar la transmisión de sus himnos antes de la compilación del Adi Granth.
+- **Fuentes reforzadas:** Oxford Scholarship Online, «A Survey of Early Manuscripts — Pashaura Singh» (https://academic.oup.com/book/10787/chapter-abstract/158919311); Oxford Academic, «Guru Nanak and his first successors — Eleanor Nesbitt» (https://doi.org/10.1093/actrade/9780198745570.003.0002); Stanford Encyclopedia of Philosophy, «Sikh Philosophy — Janamsakhi traditions» (https://plato.stanford.edu/entries/sikh-philosophy/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-123 — Teresa de Ávila
+
+- **Decisión integrada:** Religiosa carmelita, escritora y reformadora castellana que impulsó, junto con colaboradores, la reforma descalza del Carmelo y fundó conventos. Sus obras —entre ellas Libro de la vida, Camino de perfección y Las moradas— son centrales para la literatura mística en español. El Libro de la vida fue redactado a petición de sus confesores y revisado; su manuscrito fue retenido por la Inquisición hasta 1586. Su familia tenía ascendencia conversa, dato relevante para comprender el contexto social de la España del siglo XVI.
+- **Hitos para tarjeta:** Fundó conventos reformados y participó en la reorganización de la rama descalza del Carmelo. Escribió Libro de la vida, Camino de perfección y Las moradas, obras centrales de la mística española. Fue canonizada en 1622 y declarada doctora de la Iglesia católica en 1970.
+- **Fuentes reforzadas:** Oxford Bibliographies, «Teresa of Avila — Elizabeth T. Howe» (https://academic.oup.com/reference/62416/reference-article-abstract/555951626); Oxford Scholarship Online, «Teresa of Avila — Robert S. Miola» (https://academic.oup.com/book/48685/chapter-abstract/420805458); Yale University, «The Life of Saint Teresa of Avila: A Biography» (https://news.yale.edu/2019/07/01/life-saint-teresa-avila-biography).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-124 — Francisco de Asís
+
+- **Decisión integrada:** Predicador de Asís y fundador del movimiento de los Hermanos Menores, asociado a la pobreza voluntaria, la fraternidad y el servicio. La regla franciscana definitiva recibió aprobación papal en 1223 y Francisco fue canonizado en 1228. En 1219 cruzó las líneas durante la Quinta Cruzada y se entrevistó con el sultán al-Malik al-Kamil en Egipto. El encuentro está atestiguado por fuentes cercanas, pero los detalles y su interpretación posterior como diálogo interreligioso moderno deben tratarse con cautela.
+- **Hitos para tarjeta:** La Regla definitiva de los Hermanos Menores recibió aprobación papal en 1223. En 1219 se reunió con el sultán al-Malik al-Kamil durante el sitio cruzado de Damieta. Fue canonizado por Gregorio IX en 1228, dos años después de su muerte.
+- **Fuentes reforzadas:** Cambridge University Press, «Francis and the encounter with the sultan (1219) — Steven J. McMichael» (https://www.cambridge.org/core/books/abs/cambridge-companion-to-francis-of-assisi/francis-and-the-encounter-with-the-sultan-1219/6BC5313CF40FF8620CD2F07432D90824); Cambridge University Press, «The Friar and the Sultan: Francis of Assisi’s Mission to Egypt — John Tolan» (https://www.cambridge.org/core/journals/european-review/article/abs/friar-and-the-sultan-francis-of-assisis-mission-to-egypt/9DDB3996FE485ECBBB10B61121706F40); Vatican City State, «Saint Francis of Assisi: chronology and canonization» (https://www.vaticanstate.va/en/component/content/article/4-october-saint-francis-of-assisi-patron-saint-of-italy.html).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-125 — Maimónides
+
+- **Decisión integrada:** Moisés ben Maimón, conocido como Maimónides o Rambam, fue filósofo, jurista y médico judío nacido en Córdoba. Su Mishné Torá sistematizó la ley judía y su Guía de los perplejos, concluida hacia 1190, examinó la relación entre filosofía aristotélica y tradición religiosa. Tras la conquista almohade de Córdoba en 1148, su familia abandonó al-Ándalus y pasó por el norte de África antes de establecerse en Egipto. También escribió tratados médicos y ejerció como médico en El Cairo.
+- **Hitos para tarjeta:** Nació en Córdoba en 1138 y murió en Fustat, Egipto, en 1204. La Mishné Torá es una extensa sistematización de la ley judía cuya recepción generó debates rabínicos. La Guía de los perplejos, terminada hacia 1190, dialoga con la filosofía aristotélica y la tradición judía.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy, «Maimonides — life, works and medical writings» (https://plato.stanford.edu/entries/maimonides/); Jewish Encyclopedia, «Moses Maimonides: biography and medical works» (https://www.jewishencyclopedia.com/articles/10320-moses-ben-maimon); National Library of Medicine, «Maimonides and medieval medicine» (https://www.nlm.nih.gov/exhibition/islamic_medical/islamic_07.html).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-126 — Patanjali
+
+- **Decisión integrada:** Sabio tradicional asociado a los Yoga Sutras, texto que sistematiza una vía de disciplina mental, concentración y liberación. La datación de la obra y la identidad de su autor son debatidas; estudios filológicos han propuesto que el Pātañjalayogaśāstra, incluidos los sutras y su comentario, tomó forma hacia finales del siglo IV o alrededor del año 400 d. C. No hay base suficiente para identificar sin matices a este Patanjali con el gramático del Mahābhāṣya o con autores de obras médicas.
+- **Hitos para tarjeta:** Los Yoga Sutras sistematizan conceptos y prácticas de una tradición de yoga anterior al texto. Una propuesta filológica sitúa la composición del Pātañjalayogaśāstra alrededor de 380–400 d. C. La identificación del autor de los Yoga Sutras con el gramático Patanjali no está demostrada.
+- **Fuentes reforzadas:** Sahapedia / Philipp A. Maas, «The Pātañjalayogaśāstra alias the Yogasūtra and the Yogabhāṣya» (https://www.sahapedia.org/patanjalayogasastra-alias-yogasutra-and-yogabhasya); Internet Encyclopedia of Philosophy, «Yoga Sutras of Patanjali» (https://iep.utm.edu/yoga/); Journal of Indian Philosophy, «Ethical Causality and Rebirth in the Pātañjalayogaśāstra and Abhidharmakośabhāṣya» (https://doi.org/10.1007/s10781-024-09574-8).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+### HIS-127 — Nagarjuna
+
+- **Decisión integrada:** Monje y filósofo budista indio, figura principal de la escuela Madhyamaka. Su obra más importante, la Mūlamadhyamakakārikā, desarrolla una filosofía de la vacuidad y del surgimiento dependiente, cuestionando que los fenómenos posean una esencia independiente. Se le atribuyen otros tratados con distintos grados de aceptación; la existencia de autores posteriores llamados Nāgārjuna y la atribución de textos a autoridades prestigiosas complican la delimitación de su corpus. Los datos biográficos seguros son escasos y su origen en el sur de India es probable, no definitivo.
+- **Hitos para tarjeta:** La Mūlamadhyamakakārikā es la obra central asociada a Nāgārjuna y a la filosofía Madhyamaka. Su análisis de la vacuidad cuestiona la existencia inherente o independiente de los fenómenos; no equivale a afirmar que nada existe. La atribución de otros textos a Nāgārjuna debe evaluarse individualmente, pues no hay un corpus único aceptado sin reservas.
+- **Fuentes reforzadas:** Stanford Encyclopedia of Philosophy, «Nāgārjuna — life and works (revised 2026)» (https://plato.stanford.edu/entries/nagarjuna/); Internet Encyclopedia of Philosophy, «Nagarjuna» (https://iep.utm.edu/nagarjun/); Stanford Encyclopedia of Philosophy Archive, «Nāgārjuna — works and attribution» (https://plato.stanford.edu/archives/fall2023/entries/nagarjuna/).
+- **Estado:** integrado documentalmente; pendiente de aprobación editorial formal.
+
+**Balance global de integración transversal tras este archivo:** 127/144 registros integrados (88,19 %), 17 pendientes de integración y 0/144 aprobados. La fase de examen individual permanece completada para 144/144; no debe confundirse con aprobación.
