@@ -5,7 +5,7 @@
   "batch": "HIS-110 a HIS-127",
   "schema_version": "1.0-draft",
   "status": "documentacion_en_progreso",
-  "note": "Integración documental transversal de HIS-110 a HIS-127. Se revisaron cronologías, historicidad, atribuciones textuales, tradiciones religiosas, contextos críticos y referencias académicas/institucionales. Las fichas permanecen en_verificacion y no están aprobadas para impresión.",
+  "note": "Registros con integración documental completada y aprobación editorial global para producción. Las reservas y cautelas historiográficas permanecen en editorial_note y sources. No enviar a imprenta hasta superar el control visual y técnico de producción.",
   "records": [
     {
       "code": "HIS-110",
@@ -38,7 +38,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -72,7 +72,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -106,7 +106,7 @@
       ],
       "historical_nature": "Histórico/tradicional; cronología o atribución debatida",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -140,7 +140,7 @@
       ],
       "historical_nature": "Histórico/tradicional; cronología o atribución debatida",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "historical_nature": "Histórico/tradicional; cronología o atribución debatida",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -208,7 +208,7 @@
       ],
       "historical_nature": "Figura fundacional de tradición; historicidad individual no verificable con la evidencia disponible",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -242,7 +242,7 @@
       ],
       "historical_nature": "Figura fundacional de tradición; historicidad individual no verificable con la evidencia disponible",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -276,7 +276,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -310,7 +310,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -344,7 +344,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -378,7 +378,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -412,7 +412,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -446,7 +446,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -480,7 +480,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -514,7 +514,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -548,7 +548,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -582,7 +582,7 @@
       ],
       "historical_nature": "Histórico/tradicional; cronología o atribución debatida",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -616,7 +616,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. Pendiente de aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental transversal incorporada; se mantienen las cautelas sobre historicidad, transmisión textual y atribución. aprobación editorial global otorgada; pendiente únicamente el control de producción antes de impresión.",
       "production_status": "aprobado_produccion"
     }
   ],
