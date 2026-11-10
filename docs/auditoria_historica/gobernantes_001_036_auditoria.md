@@ -220,13 +220,83 @@ Se contrastan por separado identidad, cronología, cargos y acontecimientos, for
 
 **Resultado de aprobación de esta tanda:** 0 de 6 aprobados para diseño. Los seis perfiles tienen una base histórica identificable, pero persisten precisiones cronológicas, de interpretación de fuentes y de redacción que deben resolverse antes de su aprobación.
 
+## Resultados individuales — cuarta tanda (HIS-019 a HIS-024)
+
+### HIS-019 — Saladino
+
+- **Datos revisados:** el registro propone 1137/1138–1193; identifica a Ṣalāḥ al-Dīn Yūsuf ibn Ayyūb como sultán de Egipto y Siria, fundador del poder ayubí y vencedor en Hattin, tras lo cual recuperó Jerusalén en 1187.
+- **Resultado:** nacimiento en 1137 o 1138 y muerte en 1193 son fechas aceptadas en la bibliografía; *Encyclopaedia Iranica* sitúa su nacimiento en Tikrit y su muerte en Damasco. El poder de Saladino en Egipto comenzó tras suceder a Shirkuh como visir en 1169 y la abolición del califato fatimí en 1171; tras la muerte de Nur al-Din en 1174 extendió su autoridad sobre Siria. Conviene no resumir todos esos cambios como un reinado uniforme desde 1171: los títulos y el control territorial se consolidaron por etapas.
+- **Matices y correcciones necesarias:** la victoria de Hattin ocurrió el 4 de julio de 1187; Jerusalén capituló el 2 de octubre del mismo año. La expresión «recuperó Jerusalén» es válida desde la perspectiva de la historia islámica, pero la ficha enciclopédica debe evitar una formulación que sugiera una transferencia sin conflicto o que borre a la población de la ciudad. Tampoco presentar a Saladino como unificador altruista: consolidó su poder mediante campañas y rivalidades contra otros gobernantes musulmanes, además de combatir a los estados cruzados. Las crónicas musulmanas y latinas ofrecen representaciones distintas; su reputación caballeresca fue idealizada en ambas tradiciones y debe distinguirse de la reconstrucción histórica.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Stephen R. Humphreys, «Ayyubids», *Oxford Bibliographies in Islamic Studies*; *Encyclopaedia Iranica*, «Ayyubids»; Andrew S. Ehrenkreutz, *Saladin* (State University of New York Press, 1972); fuentes medievales árabes como Bahāʾ al-Dīn Ibn Shaddād y ʿImād al-Dīn al-Iṣfahānī, contrastadas con crónicas latinas; estudio historiográfico «The Third Crusade in historiographical perspective».
+- **Decisión:** mantener en verificación. Separar el ascenso al poder en Egipto (1169–1171), la expansión siria posterior a 1174 y la recuperación de Jerusalén en 1187. Evitar la imagen hagiográfica del gobernante sin rivalidades ni violencia.
+
+### HIS-020 — Ricardo Corazón de León
+
+- **Datos revisados:** fechas 1157–1199; rey de Inglaterra entre 1189 y 1199; duque de Normandía y Aquitania y conde de Anjou; participación en la Tercera Cruzada.
+- **Resultado:** fechas e identidad respaldadas por John Gillingham en el *Oxford Dictionary of National Biography*. Ricardo nació el 8 de septiembre de 1157 en Oxford y fue coronado rey el 3 de septiembre de 1189; murió en 1199 tras ser herido durante el asedio de Châlus. Su trayectoria política estuvo ligada tanto a los dominios continentales angevinos como al reino de Inglaterra.
+- **Matices y correcciones necesarias:** la Tercera Cruzada (1189–1192) no recuperó Jerusalén para los cruzados. Las fuerzas de Ricardo contribuyeron a la toma de Acre en 1191 y obtuvieron victorias como Arsuf, pero la expedición concluyó con una tregua con Saladino, acordada en septiembre de 1192, que permitió el acceso de peregrinos cristianos a Jerusalén sin devolver la ciudad al control cruzado. En el camino de regreso, Ricardo fue capturado en diciembre de 1192 y permaneció preso hasta 1194; su rescate supuso una enorme carga financiera. La reputación de caballero ideal es una construcción posterior que no debe ocultar decisiones políticas y actos violentos: durante la campaña de Acre, en agosto de 1191, se ejecutó a miles de prisioneros musulmanes tras el fracaso de las negociaciones para su liberación. La cifra exacta y las explicaciones causales requieren tratamiento crítico.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente. Aunque su imagen popular es la de un guerrero cruzado, fue también monarca de varios territorios y su carrera no se limita a la expedición.
+- **Fuentes de referencia:** John Gillingham, «Richard I [called Richard Coeur de Lion, Richard the Lionheart] (1157–1199)», *Oxford Dictionary of National Biography*; Linda Paterson, «The Aftermath of the Third Crusade», *Singing the Crusades* (Cambridge University Press, 2019); «The Third Crusade in historiographical perspective», *History Compass*; crónicas de Roger de Hoveden, Ambroise e Ibn al-Athir, comparadas críticamente.
+- **Decisión:** mantener en verificación. La biografía debe dejar claro que Jerusalén no fue reconquistada por Ricardo, explicar la tregua de 1192 y equilibrar la reputación caballeresca con los hechos controvertidos de la campaña.
+
+### HIS-021 — Guillermo el Conquistador
+
+- **Datos revisados:** el JSON propone nacimiento c. 1028 y muerte en 1087; duque de Normandía desde 1035; conquista de Inglaterra en 1066 y reinado inglés hasta 1087.
+- **Resultado:** identidad, conquista y fecha de muerte respaldadas. La fecha de nacimiento no es completamente uniforme: el Museo de Bayeux propone 1027, mientras que otras obras de referencia usan aproximadamente 1028. Conviene conservar una forma aproximada («c. 1027/1028») en vez de fijar un año exacto. Guillermo sucedió a su padre como duque siendo niño, en 1035, y fue coronado rey de Inglaterra el día de Navidad de 1066 tras la victoria normanda en Hastings.
+- **Matices y correcciones necesarias:** no describir la conquista como una sola batalla: la campaña de 1066 incluyó la invasión normanda, Hastings, la sumisión de distintos territorios y la consolidación militar y administrativa posterior. La conquista transformó profundamente las élites, la tenencia de tierras y la jerarquía eclesiástica, y estuvo acompañada de resistencia y violencia; debe evitarse un relato celebratorio centrado exclusivamente en Guillermo. El Domesday Book fue encargado a finales de 1085 y la encuesta se realizó en 1086; fue un registro de tenencias, recursos y valoración de tierras para fines de gobierno y fiscalidad, no un censo moderno de toda la población. La fuente de The National Archives advierte que los individuos incluidos son sobre todo titulares de tierras.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** David Bates, *William the Conqueror* (Yale University Press, 2016); The National Archives, «Domesday» y guía de investigación del Domesday Book; Bayeux Museum, «Who was William the Conqueror?»; *Anglo-Saxon Chronicle*; Guillermo de Poitiers, *Gesta Guillelmi*, leídos como relatos medievales con perspectivas e intereses propios.
+- **Decisión:** mantener en verificación. Revisar el nacimiento a c. 1027/1028; precisar la secuencia de 1066 y describir el Domesday Book como encuesta territorial y fiscal, no como censo general.
+
+### HIS-022 — Carlomagno
+
+- **Datos revisados:** fechas del JSON c. 747/748–814; rey de los francos desde 768, rey de los lombardos desde 774 y emperador coronado en Roma en 800.
+- **Resultado:** el año 814 para su muerte y los hitos políticos principales están respaldados. Thomas F. X. Noble, en *Oxford Bibliographies in Medieval Studies*, utiliza 748–814 y distingue su reinado como rey (768–800) y como emperador (800–814). La fecha de nacimiento sigue siendo discutida: las fuentes y reconstrucciones modernas proponen 747 o 748, mientras que la tradición de una edad avanzada al morir ha producido cálculos alternativos. El intervalo aproximado del JSON es razonable.
+- **Matices y correcciones necesarias:** la coronación del 25 de diciembre de 800 debe explicarse en el contexto de la alianza y las tensiones entre el poder franco y el papado, así como de la política romana y bizantina. No presentar el acontecimiento como la creación inmediata del Sacro Imperio Romano Germánico en su forma posterior: Carlomagno recibió el título imperial romano y gobernó un imperio carolingio; la denominación y las instituciones del Sacro Imperio se desarrollaron históricamente después. La *Vita Karoli* de Einhard es una fuente cercana y esencial, pero fue escrita décadas después por un miembro del entorno cortesano y sigue convenciones biográficas; no es una descripción neutral. Las guerras sajonas fueron prolongadas y estuvieron acompañadas de conversiones forzadas y violencia, incluida la represión de la resistencia sajona. No reducir su expansión a una «unificación» pacífica de Europa.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Thomas F. X. Noble, «Carolingian Era», *Oxford Bibliographies in Medieval Studies*; Einhard, *Vita Karoli Magni* (texto primario transmitido por Fordham University, Medieval Sourcebook); Carl I. Hammer, «Christmas Day 800: Charles the Younger, Alcuin and the Frankish Royal Succession», *English Historical Review* (Oxford University Press, 2012); *Annales regni Francorum*; estudios sobre las guerras sajonas y la expansión carolingia.
+- **Decisión:** mantener en verificación. Conservar la fecha de nacimiento como aproximada; evitar identificar sin matices el imperio carolingio con el Sacro Imperio posterior; incluir el carácter coercitivo de las guerras sajonas y leer críticamente a Einhard.
+
+### HIS-023 — Federico Barbarroja
+
+- **Datos revisados:** el JSON propone c. 1122/1123–1190; Federico I fue elegido rey de los romanos en 1152, coronado emperador en 1155 y murió durante la Tercera Cruzada.
+- **Resultado:** elección en 1152, coronación imperial en 1155 y muerte el 10 de junio de 1190 están respaldadas por la bibliografía especializada. La fecha de nacimiento suele situarse en 1122 o c. 1123; el intervalo aproximado del registro es prudente. La biografía de John B. Freed, *Frederick Barbarossa: The Prince and the Myth* (Yale University Press, 2016), estudia su política imperial, diplomacia, redes familiares y construcción posterior de su reputación.
+- **Matices y correcciones necesarias:** distinguir el título de rey de los romanos, obtenido por elección en 1152, de la coronación como emperador en 1155. Su intervención en Italia incluyó conflictos con ciudades lombardas y con el papado; no describirla como una expansión territorial lineal ni como control efectivo y uniforme de toda Italia. En 1189 partió por tierra hacia Oriente al frente de un contingente de la Tercera Cruzada y murió ahogado en el río Saleph (actual Göksu), en Cilicia, el 10 de junio de 1190. No murió en batalla ni llegó a Jerusalén. Su muerte contribuyó a la formación de una memoria heroica y legendaria, que debe separarse de los hechos.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente. Su actividad militar es importante, pero su posición como rey y emperador define el perfil.
+- **Fuentes de referencia:** John B. Freed, *Frederick Barbarossa: The Prince and the Myth* (Yale University Press, 2016), especialmente el capítulo «The Third Crusade»; *Gesta Friderici* de Otto de Freising y Rahewin; documentos y diplomas imperiales editados en colecciones diplomáticas; estudios sobre la Liga Lombarda y la Paz de Constanza.
+- **Decisión:** mantener en verificación. Distinguir elección de 1152 y coronación de 1155; precisar que murió ahogado durante la marcha de la cruzada en 1190 y evitar el relato legendario como sustituto del registro histórico.
+
+### HIS-024 — Iván el Terrible
+
+- **Datos revisados:** fechas 1530–1584; gran príncipe de Moscú desde 1533; coronado zar en 1547; expansión territorial y centralización del poder; creación de la opríchnina en 1565.
+- **Resultado:** fechas y secuencia de títulos respaldadas por Alexander Filjushkin en *The Encyclopedia of the Wars of the Roses and the Wars of the Roses* [referencia bibliográfica a normalizar] y por la historiografía moderna sobre Moscovia. La referencia académica de Filjushkin en Wiley identifica a Iván IV como gran príncipe desde 1533 y zar desde 1547. La Biblioteca Presidencial Boris Yeltsin conserva una colección documental con cartas, crónicas, legislación, correspondencia y testimonios contemporáneos. Debe distinguirse la minoría de edad y regencia de 1533–1547 del gobierno personal posterior.
+- **Matices y correcciones necesarias:** fue coronado en 1547 como primer soberano moscovita en adoptar formalmente la coronación de zar de toda Rusia; evitar sugerir que antes de él nadie había usado el término «zar» en contextos eslavos. La conquista de Kazán (1552) y Astracán (1556) amplió el dominio moscovita hacia el Volga; la guerra de Livonia (1558–1583) terminó sin alcanzar los objetivos de acceso estable al Báltico. La opríchnina, establecida en 1565 y abolida en 1572, implicó confiscaciones, terror político y violencia contra sectores de la nobleza y la población. Su alcance, motivaciones y consecuencias siguen siendo objeto de debate; no reducir todo el reinado a una personalidad supuestamente patológica. Las fuentes sobre su vida y gobierno son parciales y a menudo polémicas, tanto contemporáneas como posteriores.
+- **Matices lingüísticos:** el epíteto ruso *Grozny* puede traducirse como «temible», «imponente» o «formidable»; «el Terrible» es la forma tradicional en español, pero no debe interpretarse como una traducción literal unívoca ni como una descripción neutral.
+- **Clasificación:** Gobernantes y Conquistadores; adecuada provisionalmente.
+- **Fuentes de referencia:** Alexander Filjushkin, «Ivan IV (“the Dread,” “the Terrible”) (1530–1584)», *The Encyclopedia of the Wars of the Roses and the Wars of the Roses* [título exacto de la obra de Wiley debe comprobarse antes de bibliografía final]; Janet Martin, *Medieval Russia, 980–1584*, 2.ª ed. (Cambridge University Press); Charles J. Halperin, *Ivan the Terrible: Free to Reward and Free to Punish* (University of Pittsburgh Press, 2019); Biblioteca Presidencial Boris Yeltsin, colección «Ivan IV (1530–1584)»; documentos legislativos, crónicas y correspondencia del siglo XVI, contrastados por procedencia.
+- **Decisión:** mantener en verificación. La cronología básica es consistente, pero debe precisarse la coronación de 1547, el balance territorial de las guerras y el alcance de la opríchnina; contextualizar la traducción de *Grozny* y evitar psicologizar el reinado.
+
+## Balance de la cuarta tanda
+
+| Código | Resultado de datos | Clasificación | Estado editorial |
+|---|---|---|---|
+| HIS-019 | Fechas y ascenso ayubí respaldados; separar 1169, 1171, 1174 y 1187 | Adecuada provisionalmente | En verificación |
+| HIS-020 | Fechas y carrera respaldadas; Jerusalén no fue recuperada en la cruzada y hubo violencia en Acre | Adecuada provisionalmente | En verificación |
+| HIS-021 | Conquista y reinado respaldados; nacimiento c. 1027/1028 y alcance del Domesday precisables | Adecuada provisionalmente | En verificación |
+| HIS-022 | Reinado y coronación respaldados; nacimiento aproximado y guerras sajonas requieren contexto | Adecuada provisionalmente | En verificación |
+| HIS-023 | Elección 1152, coronación 1155 y muerte 1190 respaldadas; separar hechos y mito | Adecuada provisionalmente | En verificación |
+| HIS-024 | Fechas y títulos respaldados; contextualizar opríchnina, expansión y epíteto Grozny | Adecuada provisionalmente | En verificación |
+
+**Resultado de aprobación de esta tanda:** 0 de 6 aprobados para diseño. Los datos generales son consistentes, pero la aprobación editorial exige integrar matices cronológicos, contrastar fuentes de tradiciones distintas y ajustar formulaciones que podrían inducir a error.
+
 ## Balance acumulado de auditoría
 
-- Registros examinados individualmente: 18 de 36.
-- Registros aprobados para diseño: 0 de 18.
-- Registros todavía pendientes de auditoría: 18 de 36.
-- El JSON original permanece sin cambios; esta fase continúa siendo documental y de contraste.
+- Registros examinados individualmente: 24 de 36.
+- Registros aprobados para diseño: 0 de 24.
+- Registros todavía pendientes de auditoría: 12 de 36.
+- Las fichas JSON originales permanecen sin cambios; esta fase continúa siendo documental y de contraste.
 
 ## Siguiente tanda
 
-La próxima revisión individual corresponde a HIS-019 a HIS-024: Saladino, Ricardo Corazón de León, Guillermo el Conquistador, Carlomagno, Federico Barbarroja e Iván el Terrible.
+La próxima revisión individual corresponde a HIS-025 a HIS-030: Pedro el Grande, Napoleón Bonaparte, Simón Bolívar, José de San Martín, George Washington y Abraham Lincoln.
