@@ -226,3 +226,7 @@ Se contrastan por separado identidad, cronología, cargos y acontecimientos, for
 - Registros aprobados para diseño: 0 de 18.
 - Registros todavía pendientes de auditoría: 18 de 36.
 - El JSON original permanece sin cambios; esta fase continúa siendo documental y de contraste.
+
+## Siguiente tanda
+
+La próxima revisión individual corresponde a HIS-019 a HIS-024: Saladino, Ricardo Corazón de León, Guillermo el Conquistador, Carlomagno, Federico Barbarroja e Iván el Terrible.
