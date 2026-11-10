@@ -182,3 +182,51 @@ La consulta de referencias institucionales no equivale a una auditoría exhausti
 **Siguiente archivo:** data/historicos/lideres_espirituales_110_127.json (HIS-110–HIS-127).
 
 La aprobación editorial requerirá resolver pendientes, reforzar bibliografía y revisar coherencia de clasificación. La validación estructural del JSON no prueba exactitud histórica.
+
+
+---
+
+# Addenda — integración documental transversal (10 de noviembre de 2026)
+
+**Alcance:** revisión completa de HIS-092 a HIS-109 y actualización del JSON.  
+**Resultado:** 18/18 registros integrados; 0/18 aprobados para diseño.  
+**Estado:** todos permanecen en `en_verificacion`. Esta integración no equivale a aprobación historiográfica o editorial.
+
+## Decisiones integradas por ficha
+
+| Código | Decisión documental integrada | Cautela que se conserva |
+|---|---|---|
+| HIS-092 Cristóbal Colón | Se conserva c. 1451–1506 y los cuatro viajes (1492–1504). Se precisa la transmisión indirecta del diario y se distingue la Santa María como nao. | La documentación sobre su gobierno colonial requiere seguir cotejándose con pesquisas y denuncias; no se conserva el diario original completo. |
+| HIS-093 Américo Vespucio | Se mantienen 1451–1512 y la relación con viajes ibéricos; se refuerza la explicación del mapa de Waldseemüller de 1507. | No se fija un número incontrovertible de viajes ni se trata cada carta atribuida como auténtica sin análisis textual. |
+| HIS-094 Fernando de Magallanes | Se conserva c. 1480–1521; se explicita su muerte en Mactán (27-04-1521) y el regreso de la Victoria con Elcano en 1522. | Magallanes no completó la circunnavegación; la expedición intervino en un conflicto político local. |
+| HIS-095 Vasco da Gama | Se conserva la fecha de nacimiento alternativa c. 1460/1469; se precisa llegada a Calicut en 1498 y virreinato en 1524. | La ruta se incorporó a redes previas del Índico; se contextualiza la coerción portuguesa posterior. |
+| HIS-096 Marco Polo | Se conserva 1254–1324 y se describe Il Milione como obra de transmisión manuscrita compleja vinculada a Rustichello. | No se afirma que el relato sea íntegramente verdadero ni que todo sea ficticio; los episodios requieren evaluación individual. |
+| HIS-097 Zheng He | Se precisan siete expediciones entre 1405 y 1433 y sus funciones diplomáticas, comerciales y estatales. | Se conserva la divergencia 1433/1435 para su muerte; no se repiten cifras extraordinarias de barcos sin prueba. |
+| HIS-098 Leif Erikson | Se mantiene «floreció c. 1000» y se incorpora el fechado arqueológico de 1021 para L’Anse aux Meadows. | El yacimiento confirma presencia nórdica, no todos los episodios ni la participación personal de Leif en cada viaje de las sagas. |
+| HIS-099 James Cook | Se precisan los tres viajes, el tránsito de Venus, el cruce del círculo polar antártico y su muerte en Kealakekua Bay el 14-02-1779. | No se presenta el Pacífico como espacio vacío; se incorpora la perspectiva hawaiana y el carácter imperial de los viajes. |
+| HIS-100 Roald Amundsen | Se refuerza el Paso del Noroeste (1903–1906), el Polo Sur (14-12-1911) y la desaparición en 1928. | Se reconoce la importancia del conocimiento inuit para la supervivencia y las técnicas polares. |
+| HIS-101 Ernest Shackleton | Se aclara que sobrevivieron los 28 integrantes de la partida del Endurance. | La expedición completa perdió tres hombres en la partida del mar de Ross; el cruce continental nunca comenzó. |
+| HIS-102 Ibn Battuta | Se precisa la salida de Tánger el 14-06-1325 y la composición de la Rihla por dictado y edición de Ibn Juzayy (1355–1356). | La obra no es un diario continuo y algunos tramos del itinerario siguen debatidos. |
+| HIS-103 David Livingstone | Se incorpora el nombre local Mosi-oa-Tunya y se contextualiza la travesía de 1852–1856 y la última expedición. | No se usa «descubrió» para la cascada ni se presenta África como espacio vacío; se matiza su legado misionero e imperial. |
+| HIS-104 Vasco Núñez de Balboa | Se precisa que fue el primer europeo documentado en avistar el Pacífico desde el istmo en 1513 y su ejecución en 1519. | El océano no fue descubierto por los europeos; la expedición dependió de guías y aliados indígenas. |
+| HIS-105 Álvar Núñez Cabeza de Vaca | Se separan el inicio de la expedición (1527), su dispersión (1528) y la llegada de cuatro supervivientes a Nueva España (1536). | Naufragios (1542) es un testimonio colonial mediado, no una descripción neutral ni voz indígena directa. |
+| HIS-106 Richard Francis Burton | Se conserva 1821–1890; se distingue el lago Tanganica (expedición con Speke) del lago Victoria, al que llegó Speke. | Se contextualizan sus traducciones y escritos dentro de marcos orientalistas y coloniales. |
+| HIS-107 John Cabot | Se conserva nacimiento aproximado c. 1450 y se deja sin fecha de muerte, pues su destino tras 1498 no está documentado. | El punto exacto de desembarco de 1497 sigue debatido; no se convierte la reivindicación inglesa en descubrimiento de tierras vacías. |
+| HIS-108 Bartolomeu Dias | Se conserva c. 1450–1500; se precisa el rodeo del extremo sur africano en 1488 y su participación en la flota de Cabral en 1500. | Se evita presentar la ruta como hazaña individual aislada; el cambio de nombre del cabo conserva una cautela sobre la tradición documental. |
+| HIS-109 Francisco de Orellana | Se precisa el descenso del Napo y Amazonas (1541–1542), la relación de Carvajal y la segunda expedición. | La separación de Pizarro y el episodio de las mujeres guerreras se presentan como asuntos de interpretación; no se describe la Amazonía como territorio vacío. |
+
+## Fuentes y calidad documental
+
+El JSON incorpora tres referencias identificables por ficha, combinando archivos, bibliotecas, museos, instituciones patrimoniales, publicaciones académicas y testimonios históricos. Las fuentes principales incluyen la Biblioteca Nacional de España y UCLA para Colón; Library of Congress y Ca’ Foscari para Vespucio; PARES/Archivo General de Indias y estudios de fuentes para Magallanes-Elcano; UNESCO y Cambridge para Vasco da Gama; Smithsonian, Nature y UNESCO para Zheng He y Leif Erikson; museos y bibliotecas nacionales para Cook, Amundsen y Shackleton; Library of Congress y Berkeley para Ibn Battuta y Livingstone; y archivos y ediciones de crónicas para Cabeza de Vaca, Cabot y Orellana.
+
+La presencia de tres referencias no significa que cada problema historiográfico esté agotado. Las fuentes deben cotejarse en una siguiente ronda de aprobación, especialmente en las áreas donde predominan relatos europeos, crónicas retrospectivas o documentación incompleta.
+
+## Temas transversales
+
+1. Diferenciar el primer registro europeo de la presencia humana previa y del conocimiento indígena.
+2. Distinguir testimonio contemporáneo, resumen posterior, relato dictado, crónica colonial y reconstrucción historiográfica.
+3. No atribuir a un individuo logros colectivos de tripulaciones, guías, pilotos, intérpretes, aliados y comunidades.
+4. Conservar fechas aproximadas y destinos desconocidos cuando el registro no permite mayor precisión.
+5. Contextualizar la expansión imperial, la violencia, la evangelización, la explotación y las reivindicaciones territoriales.
+
+**Cierre de integración:** 18/18 actualizados; 0/18 aprobados. La validación técnica del JSON no acredita por sí sola la exactitud histórica ni autoriza ilustraciones definitivas.
