@@ -160,11 +160,16 @@ Fionn mac Cumhaill
 - Estado de las fichas: `en_verificacion`; las entradas no se consideran listas para impresión.
 - Total de registros documentales iniciales cargados: 144 de 144. No quedan registros pendientes de documentación inicial.
 - Siguiente paso: continuar la auditoría historiográfica individual de los 144 registros, contrastar fuentes primarias y académicas, resolver discrepancias y realizar la aprobación editorial antes de desarrollar las ilustraciones definitivas.
+
+
+
+
+
 - Primera auditoría de archivo completada: `data/historicos/gobernantes_001_036.json`, con informe en `docs/auditoria_historica/gobernantes_001_036_auditoria.md`. Se examinaron individualmente HIS-001 a HIS-036: 36/36 examinados, 0/36 aprobados para diseño.
-- Segunda auditoría de archivo completada: `data/historicos/guerreros_037_061.json`, con informe en `docs/auditoria_historica/guerreros_037_061_auditoria.md`. Se examinaron individualmente HIS-037 a HIS-061 en un solo bloque: 25/25 examinados, 0/25 aprobados para diseño. Se documentaron discrepancias de cronología, problemas de atribución, tradiciones posteriores, clasificación y bibliografía; los JSON originales permanecen sin cambios.
-- Balance de auditoría histórica global: 61/144 registros examinados (42,36 %), 0/61 aprobados para diseño y 83 registros pendientes de examen individual. Los 61 registros continúan en `en_verificacion`; el examen documental no equivale a aprobación editorial ni autoriza ilustraciones definitivas.
-- Siguiente archivo de auditoría: `data/historicos/sabios_cientificos_062_091.json`, códigos HIS-062 a HIS-091.
-- Próxima tanda de auditoría: HIS-031 a HIS-036 (Otto von Bismarck, Qin Shi Huang, Liu Bang, Tokugawa Ieyasu, Mehmed II y Suleimán el Magnífico).
+- Segunda auditoría de archivo completada: `data/historicos/guerreros_037_061.json`, con informe en `docs/auditoria_historica/guerreros_037_061_auditoria.md`. Se examinaron individualmente HIS-037 a HIS-061: 25/25 examinados, 0/25 aprobados para diseño. Los hallazgos, discrepancias y bibliografía quedaron documentados sin modificar el JSON original.
+- Tercera auditoría de archivo completada: `data/historicos/sabios_cientificos_062_091.json`, con informe en `docs/auditoria_historica/sabios_cientificos_062_091_auditoria.md`. Se examinaron individualmente HIS-062 a HIS-091 en un solo bloque: 30/30 examinados, 0/30 aprobados para diseño. Se documentaron cronologías, atribuciones, obras, descubrimientos, controversias historiográficas y bibliografía; el JSON original permanece sin cambios.
+- Balance de auditoría histórica global: 91/144 registros examinados (63,19 %), 0/91 aprobados para diseño y 53 registros pendientes de examen individual. Los 91 registros continúan en `en_verificacion`; el examen documental no equivale a aprobación editorial ni autoriza ilustraciones definitivas.
+- Siguiente archivo de auditoría: `data/historicos/exploradores_092_109.json`, códigos HIS-092 a HIS-109.
 - La documentación diferencia hechos históricos, tradiciones posteriores, fechas aproximadas y aspectos debatidos.
 - Las fuentes se guardan en cada registro para facilitar la auditoría y evitar depender del historial del chat.
 
