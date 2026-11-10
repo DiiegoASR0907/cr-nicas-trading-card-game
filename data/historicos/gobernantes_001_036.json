@@ -93,7 +93,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Revisión documental integrada en el registro maestro; pendiente de aprobación editorial final."
+      "editorial_note": "Fuente académica reforzada; pendiente de aprobación editorial final."
     },
     {
       "code": "HIS-005",
@@ -495,7 +495,7 @@
       "highlight_facts": [],
       "curiosity": "El año de nacimiento es incierto; la coronación imperial debe explicarse dentro de la relación entre el papado y el poder franco.",
       "sources": [
-        "“Charlemagne”, Encyclopaedia Britannica: https://www.britannica.com/biography/Charlemagne",
+        "Thomas F. X. Noble, Oxford Bibliographies, “Carolingian Era”: https://academic.oup.com/reference/62384/reference-article-abstract/555061229",
         "Martin Conway, “The Amulet of Charlemagne”, The Antiquaries Journal 2 (1922): https://doi.org/10.1017/S0003581500003437",
         "Einhard, Vita Karoli Magni, fuente biográfica cercana a la corte carolingia, que debe leerse atendiendo a su carácter encomiástico."
       ],
@@ -563,7 +563,7 @@
       "highlight_facts": [],
       "curiosity": "Las reformas modernizadoras estuvieron acompañadas de coerción estatal, cargas fiscales y trabajo forzado.",
       "sources": [
-        "Carol B. Stevens, Oxford Bibliographies, “Peter the Great, Tsar of Russia”: https://academic.oup.com/reference/62333/reference-article-abstract/554086224",
+        "Carol B. Stevens, Oxford Bibliographies, “Peter the Great, Tsar of Russia”: https://doi.org/10.1093/obo/9780195399301-0200",
         "Jan Hennings, “Peter I (1672–1725)”, Encyclopedia of Diplomacy, Wiley: https://doi.org/10.1002/9781118885154.dipl0220",
         "Nicholas V. Riasanovsky, The Image of Peter the Great in Russian History and Thought, Oxford University Press, 1992: https://academic.oup.com/book/47776"
       ],
@@ -720,7 +720,7 @@
       "curiosity": "Las fuentes sobre su gobierno incluyen tradiciones historiográficas posteriores; presentar tanto la unificación como la coerción de su régimen.",
       "sources": [
         "Smithsonian National Museum of Asian Art, “Qin Dynasty (221–206 B.C.E.)”: https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/explore-by-dynasty/qin-dynasty/",
-        "The Metropolitan Museum of Art, “The Qin Dynasty and the Terracotta Army”: https://www.metmuseum.org/toah/hd/qin/hd_qin.htm",
+        "The Metropolitan Museum of Art, “Qin Dynasty (221–206 B.C.)”: https://www.metmuseum.org/de/essays/qin-dynasty-221-206-b-c",
         "Amanda H. Podany, The Ancient Near East: A Very Short Introduction, Oxford University Press, para el contexto comparativo de formación estatal antigua."
       ],
       "historical_nature": "Histórico",
