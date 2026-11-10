@@ -417,3 +417,12 @@ Emela-Ntouka
 - **Estado del archivo:** 30/30 integrados, 0/30 aprobados para diseño. Los 30 registros permanecen en `en_verificacion`; la integración y la validación técnica no constituyen aprobación editorial.
 - **Balance de integración transversal:** 91/144 registros integrados (63,19 %), 53 pendientes de integración, 0/144 aprobados para diseño. La primera fase de examen individual permanece completada para 144/144.
 - **Siguiente archivo:** `data/historicos/exploradores_092_109.json` (HIS-092 a HIS-109). Se mantendrá el mismo procedimiento de investigación, documentación, publicación y validación.
+
+
+### Integración transversal — cuarto archivo
+
+- Integración documental completada para `data/historicos/exploradores_092_109.json`: HIS-092 a HIS-109. Se revisaron los 18 registros completos y se actualizaron cronologías, biografías sintéticas, hitos, curiosidades y tres referencias identificables por ficha.
+- Hallazgos relevantes: transmisión indirecta del diario de Colón; debate textual sobre los viajes y cartas de Vespucio; distinción Magallanes/Elcano en la primera circunnavegación; redes comerciales preexistentes y coerción portuguesa en el Índico; transmisión manuscrita del relato de Marco Polo; fuentes e incertidumbres sobre Zheng He; arqueología de L’Anse aux Meadows fechada en 1021; perspectivas hawaianas y conocimientos inuit en las expediciones de Cook y Amundsen; distinción entre las partidas del Endurance y del mar de Ross; composición de la Rihla; reconocimiento de Mosi-oa-Tunya; agencia indígena en Balboa y Cabeza de Vaca; distinción Burton/Speke; incertidumbre sobre el destino de Cabot; cautelas sobre Dias y la crónica de Carvajal para Orellana.
+- **Estado del archivo:** 18/18 integrados, 0/18 aprobados para diseño. Los 18 registros permanecen en `en_verificacion`; la integración y la validación técnica no constituyen aprobación editorial.
+- **Balance global de integración transversal:** 109/144 registros integrados (75,69 %), 35 pendientes de integración, 0/144 aprobados para diseño. La primera fase de examen individual permanece completada para 144/144.
+- **Siguiente archivo:** `data/historicos/lideres_espirituales_110_127.json` (HIS-110 a HIS-127). Se mantendrá el procedimiento completo de investigación, documentación, publicación y validación.
