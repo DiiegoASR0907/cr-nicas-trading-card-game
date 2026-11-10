@@ -428,3 +428,20 @@ Se contrastan por separado identidad, cronología, cargos y acontecimientos, for
 ## Siguiente archivo de auditoría
 
 El siguiente bloque documental será `data/historicos/guerreros_037_061.json`, con los códigos HIS-037 a HIS-061 (Guerreros y Generales). Se aplicará el mismo procedimiento: examen individual, contraste de cronología y atribuciones, bibliografía, publicación del informe y actualización del README, sin modificar las fichas originales durante la auditoría.
+
+---
+
+## Integración documental y correcciones justificadas — HIS-001 a HIS-006
+
+Esta sección registra la primera pasada de integración posterior a la auditoría individual. Las fuentes se incorporaron al JSON y se ajustaron únicamente las formulaciones y fechas respaldadas. Ninguna ficha queda aprobada por esta integración.
+
+| Código | Integración realizada | Observación pendiente |
+|---|---|---|
+| HIS-001 | Se incorporaron referencias académicas y antiguas; se conservó la descripción geográfica acotada al noroeste del subcontinente indio. | Cotejo final de episodios y fuentes antiguas antes de aprobación. |
+| HIS-002 | Se reforzó la descripción para indicar que César fue un factor decisivo en una crisis republicana de causas múltiples; se añadieron referencias académicas y primarias. | Evaluación editorial de síntesis y equilibrio narrativo. |
+| HIS-003 | Se calificó «primer emperador» como denominación convencional; se añadieron Oxford Classical Dictionary y *Res Gestae*. | Mantener la lectura crítica de la autorrepresentación augustea. |
+| HIS-004 | Se precisó que Leónidas comandó una defensa aliada y murió en la derrota de 480 a. C.; se añadieron Heródoto y bibliografía. | Evitar que la narrativa visual o el texto reduzcan el episodio a los 300 espartanos. |
+| HIS-005 | Se ajustó la cronología a c. 524/523–c. 460/459 a. C.; se precisó el papel naval y se añadieron Oxford, Wiley y fuentes antiguas. | La clasificación «Guerreros y Generales» sigue en revisión comparativa; no se cambia aún. |
+| HIS-006 | Se simplificó la descripción y se añadieron Badian, Tucídides y University of Bristol. | Mantener el contexto de democracia e imperio y no presentar el discurso fúnebre como transcripción literal. |
+
+**Validación del subbloque:** 6 registros actualizados; 6 continúan en `en_verificacion`; 0 aprobados. La revisión comparativa de clasificación de HIS-005 permanece abierta. El resto de HIS-007–HIS-036 no se modificó en esta pasada.
