@@ -4,8 +4,8 @@
   "category": "Bloque final: categorías históricas y semihistóricas",
   "batch": "HIS-128 a HIS-144",
   "schema_version": "1.0-draft",
-  "status": "documentacion_en_progreso",
-  "note": "Bloque final de 17 registros para completar la colección histórica fundacional de 144 personajes. La categoría editorial y la naturaleza histórica se distinguen: los personajes legendarios no se presentan como individuos históricamente comprobados. Todos los registros permanecen en_verificacion y requieren auditoría documental especializada antes de aprobarse para impresión.",
+  "status": "integracion_documental_transversal_completada_pendiente_aprobacion_editorial",
+  "note": "Integración documental transversal del bloque HIS-128 a HIS-144 completada. Los 17 registros permanecen en_verificacion y no están aprobados para impresión o ilustración. La categoría editorial no implica igual grado de historicidad; las fuentes y notas distinguen evidencia contemporánea, tradición posterior y literatura.",
   "records": [
     {
       "code": "HIS-128",
@@ -20,7 +20,8 @@
       "biography": "Último huey tlatoani mexica de México-Tenochtitlan. Asumió el gobierno en 1520, en medio de la guerra y la epidemia que afectaban a la ciudad, y dirigió su defensa durante el sitio encabezado por las fuerzas de Hernán Cortés y sus aliados indígenas. Fue capturado el 13 de agosto de 1521 y permaneció prisionero. Murió durante la expedición de Cortés a las Hibueras en 1525. Las fuentes discrepan en detalles de su biografía temprana y en la interpretación de algunos episodios; su figura posterior adquirió gran importancia en la memoria histórica mexicana.",
       "highlight_facts": [
         "La UNAM señala que su nacimiento suele estimarse entre 1497 y 1499, sin fecha documental exacta; fue ejecutado en 1525.",
-        "Los restos atribuidos a Cuauhtémoc en Ichcateopan no cuentan con evidencia suficiente para una identificación concluyente."
+        "Los restos atribuidos a Cuauhtémoc en Ichcateopan no cuentan con evidencia suficiente para una identificación concluyente.",
+        "La UNAM sitúa la ejecución el 28 de febrero de 1525 y confirma que los restos atribuidos en Ichcateopan no están identificados de manera concluyente."
       ],
       "curiosity": "Su nombre náhuatl suele interpretarse como «águila que desciende». La fecha tradicional de su muerte es el 28 de febrero de 1525.",
       "sources": [
@@ -33,13 +34,13 @@
           "url": "https://www.noticonquista.unam.mx/participante/564/2532"
         },
         {
-          "title": "Secretaría de Cultura de México — El tormento de Cuauhtémoc",
-          "url": "https://www.gob.mx/cultura/articulos/77959"
+          "title": "UNAM Global — La muerte de Cuauhtémoc, un suceso histórico en constante reinterpretación",
+          "url": "https://unamglobal.unam.mx/global_revista/la-muerte-de-cuauhtemoc-un-suceso-historico-en-constante-reinterpretacion/"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro histórico inicial. Contrastar fuentes nahuas y españolas, cronología de la captura y ejecución, y evitar tratar como certeza la identificación de restos humanos atribuidos al personaje."
+      "editorial_note": "Integración documental: conservar el nacimiento como estimación y la ejecución en 1525; la fecha tradicional del 28 de febrero se apoya en Ciencia UNAM. La identificación de restos de Ichcateopan no está demostrada. La defensa de Tenochtitlan enfrentó una coalición hispano-indígena. Pendiente de aprobación editorial."
     },
     {
       "code": "HIS-129",
@@ -55,7 +56,8 @@
       "biography": "Abogado, dirigente del Congreso Nacional Africano y figura central de la lucha contra el régimen del apartheid. Participó en campañas de resistencia y, tras el juicio de Rivonia, fue condenado a cadena perpetua en 1964. Pasó más de 27 años encarcelado y fue liberado en 1990. Participó en las negociaciones que condujeron a las primeras elecciones nacionales por sufragio universal en 1994 y fue elegido presidente de Sudáfrica, cargo que ejerció hasta 1999. Su trayectoria incluyó tanto la movilización no violenta como el apoyo a la formación del brazo armado Umkhonto we Sizwe; la documentación debe conservar esa complejidad histórica.",
       "highlight_facts": [
         "Recibió el Premio Nobel de la Paz de 1993 junto con Frederik Willem de Klerk.",
-        "Fue el primer presidente de Sudáfrica elegido en comicios democráticos no raciales, en 1994."
+        "Fue el primer presidente de Sudáfrica elegido en comicios democráticos no raciales, en 1994.",
+        "Fue investido presidente el 10 de mayo de 1994; las elecciones nacionales no raciales se celebraron el 27 de abril. La transición fue colectiva y negociada."
       ],
       "curiosity": "Mandela y Oliver Tambo establecieron un despacho de abogados en Johannesburgo en 1952, descrito por la Fundación Mandela como uno de los primeros bufetes negros del país.",
       "sources": [
@@ -68,13 +70,13 @@
           "url": "https://www.nobelprize.org/prizes/peace/1993/mandela/biographical/"
         },
         {
-          "title": "South African Government — Life and Times of Mandela",
-          "url": "https://www.gov.za/mandela100/biography"
+          "title": "United Nations — Building on the Legacy of Nelson Mandela",
+          "url": "https://www.un.org/en/exhibits/page/building-legacy-nelson-mandela"
         }
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Registro histórico inicial. Contextualizar apartheid, resistencia, represión estatal y lucha armada sin simplificar la trayectoria ni atribuir el fin del apartheid a una sola persona."
+      "editorial_note": "Integración documental: precisar la secuencia elecciones del 27 de abril e investidura del 10 de mayo de 1994; contextualizar MK y el juicio de Rivonia y no atribuir el fin del apartheid a una sola persona. Pendiente de aprobación editorial."
     },
     {
       "code": "HIS-130",
@@ -90,7 +92,8 @@
       "biography": "Rey y caudillo legendario de la tradición artúrica. Los relatos medievales lo presentan como defensor de los britanos frente a invasores sajones y, con el tiempo, incorporaron Camelot, la Mesa Redonda, Excalibur y la búsqueda del Grial. Algunas hipótesis relacionan el personaje con recuerdos de líderes britano-romanos de la Antigüedad tardía, pero no existe consenso que permita identificar a Arturo con una persona histórica concreta. Su primera elaboración literaria se desarrolló en fuentes galesas y latinas medievales.",
       "highlight_facts": [
         "La tradición artúrica se desarrolló durante siglos y recibió una forma influyente en la Historia regum Britanniae de Geoffrey de Monmouth, compuesta en el siglo XII.",
-        "La posible base histórica de Arturo continúa discutida por especialistas."
+        "La posible base histórica de Arturo continúa discutida por especialistas.",
+        "La Historia regum Britanniae de Geoffrey de Monmouth se terminó hacia 1138; su relato no es testimonio contemporáneo de la Britania posromana."
       ],
       "curiosity": "La imagen popular del rey con corte en Camelot y una Mesa Redonda es el resultado de capas literarias medievales posteriores, no un retrato contemporáneo de un monarca del siglo VI.",
       "sources": [
@@ -99,12 +102,12 @@
           "url": "https://academic.oup.com/reference/62384/reference-article-abstract/571510414"
         },
         {
-          "title": "Oxford Medieval Studies — Where Do Myths, Legends and Folktales Come From?",
-          "url": "https://medieval.ox.ac.uk/where-do-myths-legends-and-folktales-come-from/"
+          "title": "Cambridge University Press — Geoffrey, Merlin, and De gestis Britonum",
+          "url": "https://www.cambridge.org/core/books/abs/history-of-the-kings-of-britain/introduction/A8233452C6A6E3E4FBCCE1E3A87D38C3"
         },
         {
-          "title": "JSTOR — The Arthur of the Welsh",
-          "url": "https://www.jstor.org/stable/jj.14491583"
+          "title": "Oxford Medieval Studies — Where Do Myths, Legends and Folktales Come From?",
+          "url": "https://medieval.ox.ac.uk/where-do-myths-legends-and-folktales-come-from/"
         }
       ],
       "historical_nature": "Semihistórico / legendario",
@@ -125,12 +128,13 @@
       "biography": "Profeta, consejero y figura mágica asociada al ciclo del rey Arturo. Su perfil literario combina elementos de tradiciones galesas vinculadas a Myrddin con la construcción narrativa de Geoffrey de Monmouth, quien desarrolló al personaje en sus obras del siglo XII. En textos posteriores aparece como consejero de Uther Pendragon y Arturo, arquitecto de prodigios y profeta. No hay evidencia suficiente para tratar al Merlín artúrico como una persona histórica identificable.",
       "highlight_facts": [
         "Geoffrey de Monmouth incorporó a Merlín en la Historia regum Britanniae y escribió además la Vita Merlini.",
-        "Las tradiciones galesas anteriores y paralelas aportaron materiales que fueron transformados por la literatura latina y romance."
+        "Las tradiciones galesas anteriores y paralelas aportaron materiales que fueron transformados por la literatura latina y romance.",
+        "La configuración del Merlín artúrico depende de obras de Geoffrey de Monmouth del siglo XII; Myrddin y Merlín no deben tratarse como una misma biografía histórica demostrada."
       ],
       "curiosity": "La figura medieval de Merlín se relacionó con la profecía, la astrología y los saberes naturales de su época, no solo con la imagen moderna del mago de fantasía.",
       "sources": [
         {
-          "title": "Oxford Academic / Yale Scholarship — The True History of Merlin the Magician",
+          "title": "Yale Scholarship Online — The True History of Merlin the Magician",
           "url": "https://academic.oup.com/yale-scholarship-online/book/21479"
         },
         {
@@ -160,13 +164,18 @@
       "biography": "Héroe popular de las baladas inglesas, representado como arquero fuera de la ley que desafía a autoridades abusivas y ayuda a los pobres. Las versiones más conocidas lo sitúan en Sherwood junto a Little John, Will Scarlet y Marian, pero estos elementos se consolidaron en diferentes etapas de la tradición. Se han propuesto candidatos históricos con nombres semejantes, aunque no existe identificación aceptada que demuestre que el Robin Hood de las baladas corresponda a un individuo concreto.",
       "highlight_facts": [
         "Las baladas medievales son la base principal para estudiar la evolución del personaje.",
-        "La asociación con Ricardo Corazón de León y el príncipe Juan se consolidó en adaptaciones posteriores y no constituye una cronología histórica segura."
+        "La asociación con Ricardo Corazón de León y el príncipe Juan se consolidó en adaptaciones posteriores y no constituye una cronología histórica segura.",
+        "La referencia literaria a las rimas de Robin Hood aparece en el siglo XIV; las baladas conservadas muestran una tradición en evolución, no una biografía contemporánea."
       ],
       "curiosity": "El personaje cambió con cada época: de proscrito de baladas medievales pasó a noble desposeído en muchas versiones modernas.",
       "sources": [
         {
-          "title": "Oxford Medieval Studies — Where Do Myths, Legends and Folktales Come From?",
-          "url": "https://medieval.ox.ac.uk/where-do-myths-legends-and-folktales-come-from/"
+          "title": "Oxford Bibliographies — Robin Hood",
+          "url": "https://academic.oup.com/reference/62384/reference-article-abstract/555058805"
+        },
+        {
+          "title": "Cambridge University Press — The Medieval Tales of Robin Hood",
+          "url": "https://www.cambridge.org/core/books/abs/robin-hood-legend-and-reality/medieval-tales-of-robin-hood/6560F8E878F8145B8C117D8BF159BFAA"
         },
         {
           "title": "Encyclopaedia Britannica — Robin Hood",
@@ -175,7 +184,7 @@
       ],
       "historical_nature": "Legendario / posible trasfondo folclórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Evitar adjudicarle fechas, identidad civil o relación comprobada con Ricardo I. Revisar las baladas medievales y la historia de sus reelaboraciones."
+      "editorial_note": "Integración documental: reemplazadas referencias genéricas por bibliografía especializada sobre las baladas medievales; no atribuir identidad civil ni relación histórica comprobada con Ricardo I. Pendiente de aprobación editorial."
     },
     {
       "code": "HIS-133",
@@ -188,17 +197,22 @@
       "biography": "Héroe protagonista del poema épico en inglés antiguo Beowulf. La narración lo presenta como guerrero de los gautas que ayuda al rey danés Hrothgar contra Grendel y su madre y, décadas después, combate a un dragón. El poema incorpora nombres y referencias que pueden conservar recuerdos de sociedades escandinavas de la época de las migraciones, pero Beowulf como individuo no está documentado por fuentes contemporáneas independientes.",
       "highlight_facts": [
         "El único manuscrito superviviente forma parte del Nowell Codex, conservado en la British Library.",
-        "La fecha de composición del poema continúa discutida; el manuscrito fue copiado alrededor del año 1000."
+        "La fecha de composición del poema continúa discutida; el manuscrito fue copiado alrededor del año 1000.",
+        "La British Library cataloga el Nowell Codex como copiado a fines del siglo X o comienzos del XI y conserva la única copia medieval conocida del poema."
       ],
       "curiosity": "El poema tiene 3.182 versos y es una de las obras fundamentales de la literatura en inglés antiguo.",
       "sources": [
         {
-          "title": "Oxford Academic — Beowulf, Craig R. Davis",
-          "url": "https://academic.oup.com/edited-volume/43514/chapter/364248252"
+          "title": "British Library — Cotton MS Vitellius A XV",
+          "url": "https://searcharchives.bl.uk/catalog/040-001102971"
         },
         {
           "title": "Oxford Bibliographies — Beowulf",
           "url": "https://academic.oup.com/reference/62384/reference-article-abstract/555077567"
+        },
+        {
+          "title": "McMaster University — Beowulf Project: The Manuscript",
+          "url": "https://www.humanities.mcmaster.ca/~beowulf/manuscript.html"
         }
       ],
       "historical_nature": "Legendario / literario",
@@ -219,7 +233,8 @@
       "biography": "Héroe legendario del ciclo de los nibelungos, conocido en la tradición nórdica como Sigurd. Los relatos lo vinculan con la muerte del dragón Fáfnir, un tesoro maldito y su relación con Brynhild y los burgundios. Las versiones germánicas y nórdicas presentan diferencias importantes y combinan motivos míticos, heroicos y posibles recuerdos de conflictos históricos del periodo de las migraciones. No existe una biografía histórica verificable del personaje.",
       "highlight_facts": [
         "La Völsunga saga, redactada en Islandia en la Edad Media, desarrolla una de las versiones nórdicas más conocidas.",
-        "El Nibelungenlied integra la leyenda de Sigfrido con recuerdos literarios del destino de los burgundios."
+        "El Nibelungenlied integra la leyenda de Sigfrido con recuerdos literarios del destino de los burgundios.",
+        "La Völsunga saga fue redactada aproximadamente entre 1200 y 1270; las versiones nórdicas y germánicas son tradiciones relacionadas, pero no idénticas."
       ],
       "curiosity": "El nombre Sigurd en la tradición nórdica y Siegfried en la germánica corresponde a versiones relacionadas, pero no idénticas, del héroe.",
       "sources": [
@@ -230,6 +245,10 @@
         {
           "title": "Cambridge University Press — On the Original Form of the Legend of Sigfrid",
           "url": "https://www.cambridge.org/core/journals/pmla/article/abs/xion-the-original-form-of-the-legend-of-sigfrid/3E7FEC2EB3580EAB4533A14D89D89067"
+        },
+        {
+          "title": "Encyclopaedia Britannica — Nibelungenlied",
+          "url": "https://www.britannica.com/topic/Nibelungenlied"
         }
       ],
       "historical_nature": "Legendario / literario",
@@ -249,17 +268,22 @@
       "biography": "Rey de Uruk y héroe de la literatura mesopotámica, protagonista de la Epopeya de Gilgamesh. El relato narra su amistad con Enkidu, la búsqueda de fama y su viaje para afrontar la mortalidad. Gilgamesh aparece también en la Lista Real Sumeria, texto que mezcla gobernantes históricos, mitos y reinados extraordinariamente largos. El Museo Metropolitano señala que no se conserva información contemporánea que confirme su vida; pudo existir un rey histórico detrás de la figura literaria, pero no está demostrado.",
       "highlight_facts": [
         "La Epopeya de Gilgamesh circuló en distintas versiones y fue copiada en tablillas cuneiformes en Mesopotamia y regiones vecinas.",
-        "La Lista Real Sumeria combina memoria política, legitimación dinástica y elementos míticos."
+        "La Lista Real Sumeria combina memoria política, legitimación dinástica y elementos míticos.",
+        "El Metropolitan Museum señala que no se conoce información contemporánea que confirme a Gilgamesh como individuo histórico; la fecha c. 2700 a. C. es hipotética."
       ],
       "curiosity": "La epopeya incluye una versión mesopotámica del relato del gran diluvio, transmitida en una de las aventuras que Gilgamesh escucha durante su búsqueda.",
       "sources": [
         {
           "title": "The Metropolitan Museum of Art — Gilgamesh",
-          "url": "https://www.metmuseum.org/ko/essays/gilgamesh"
+          "url": "https://www.metmuseum.org/essays/gilgamesh"
         },
         {
           "title": "Ashmolean Museum — Sumerian King List",
           "url": "https://ashmolean.web.ox.ac.uk/node/178641"
+        },
+        {
+          "title": "The Metropolitan Museum of Art — The Epic of Gilgamesh (collection essay)",
+          "url": "https://www.metmuseum.org/essays/gilgamesh"
         }
       ],
       "historical_nature": "Semihistórico / legendario",
@@ -279,7 +303,8 @@
       "biography": "Heroína de la Balada de Mulan, poema que relata cómo una joven toma el lugar de su padre en el servicio militar, combate durante años y regresa a casa sin reclamar honores. La balada más antigua se vincula al contexto de las dinastías septentrionales, pero su protagonista no puede identificarse con una persona histórica concreta. Las versiones posteriores añadieron detalles y reinterpretaron su historia según ideales familiares, de género y lealtad de distintas épocas.",
       "highlight_facts": [
         "La balada se asocia con el periodo de las Dinastías del Norte y del Sur; una versión temprana se conoce por referencias textuales del siglo VI.",
-        "La versión conservada más conocida aparece en una antología de canciones compilada durante la dinastía Song."
+        "La versión conservada más conocida aparece en una antología de canciones compilada durante la dinastía Song.",
+        "La referencia más temprana conocida de la balada se atribuye a una compilación de alrededor de 568, hoy perdida; la versión conservada más antigua está en una antología Song."
       ],
       "curiosity": "En la balada temprana, el gobernante es llamado «khan», un detalle que refleja el contexto político y cultural del norte de China de aquel periodo.",
       "sources": [
@@ -288,8 +313,12 @@
           "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-mulan.htm"
         },
         {
-          "title": "The Multiple Layers of Mulan’s Legend in Chinese Classical Literature",
+          "title": "Zhou Chenglong — The Multiple Layers of Mulan’s Legend in Chinese Classical Literature",
           "url": "https://doi.org/10.1080/02549948.2024.2414635"
+        },
+        {
+          "title": "Tian and Laguna Mariscal — La Balada de Mulan: edición, traducción al español e interpretación literaria",
+          "url": "https://doi.org/10.20420/Phil.Can.2024.689"
         }
       ],
       "historical_nature": "Legendario / tradición literaria",
@@ -310,22 +339,27 @@
       "biography": "Héroe y rey vikingo de las sagas nórdicas y de la historiografía medieval danesa. Los relatos le atribuyen expediciones en Francia e Inglaterra, matrimonio con Aslaug y una muerte en un pozo de serpientes tras caer prisionero del rey Ælla. La figura parece reunir motivos narrativos y episodios asociados a distintos caudillos de la Era Vikinga. Sus supuestos hijos incluyen personajes que sí aparecen con mayor claridad en fuentes históricas, pero la existencia de Ragnar como individuo único no está demostrada.",
       "highlight_facts": [
         "Las principales narraciones sobre Ragnar fueron redactadas siglos después de la época en que sitúan sus acciones.",
-        "Saxo Grammaticus y las sagas islandesas ofrecen relatos que no coinciden plenamente entre sí."
+        "Saxo Grammaticus y las sagas islandesas ofrecen relatos que no coinciden plenamente entre sí.",
+        "La historiografía no es unánime: Ó Corráin defiende una base histórica para Ragnarr, mientras la tradición biográfica y su parentesco con Ivar requieren cautela."
       ],
       "curiosity": "La frase sobre los «cerditos» que gruñirán al conocer el destino del viejo jabalí pertenece a la tradición literaria de su muerte y no debe tratarse como cita contemporánea comprobada.",
       "sources": [
         {
-          "title": "University of Oxford / scholarly discussion of Viking Age memory and Ragnar tradition",
-          "url": "https://www.familysearch.org/en/memories/memory/109926584"
+          "title": "Donnchadh Ó Corráin — High-kings, Vikings and other kings, Irish Historical Studies",
+          "url": "https://doi.org/10.1017/S002112140011315X"
         },
         {
-          "title": "Academic discussion of Ragnar traditions and medieval sources",
+          "title": "University of Groningen — Academic study of Ragnar Lodbrok and Viking Age tradition",
+          "url": "https://pure.rug.nl/ws/portalfiles/portal/49801422/Complete_Thesis.pdf"
+        },
+        {
+          "title": "Taylor & Francis — Academic study of Ragnar traditions and medieval sources",
           "url": "https://www.tandfonline.com/doi/full/10.1080/13527258.2023.2212003"
         }
       ],
       "historical_nature": "Semihistórico / legendario",
       "verification_status": "en_verificacion",
-      "editorial_note": "La fuente secundaria sobre su historicidad es debatida. Contrastar sagas, Gesta Danorum y registros contemporáneos de incursiones vikingas antes de fijar cualquier episodio."
+      "editorial_note": "Integración documental: retirada la referencia de FamilySearch por no ser fuente historiográfica. Se incorporan estudios académicos que muestran posiciones distintas sobre la historicidad de Ragnar; no afirmar identidad única ni genealogía con Ivar como hechos probados. Pendiente de aprobación editorial."
     },
     {
       "code": "HIS-138",
@@ -341,10 +375,15 @@
       "biography": "Caudillo vikingo conocido en fuentes anglosajonas como uno de los líderes del Gran Ejército Pagano que invadió varios reinos anglosajones desde 865. La Crónica anglosajona y otros testimonios permiten estudiar campañas y alianzas de líderes escandinavos, aunque la identificación exacta de Ívarr de las sagas con cada mención de «Ivar» requiere cautela. El sobrenombre «el Deshuesado» aparece en tradiciones nórdicas y su explicación —discapacidad, apodo figurado o interpretación narrativa— no es segura.",
       "highlight_facts": [
         "Las fuentes anglosajonas registran la actividad del Gran Ejército Pagano en Inglaterra desde 865.",
-        "Las sagas lo integran en la familia legendaria de Ragnar Lodbrok; esa genealogía no está demostrada por documentación contemporánea."
+        "Las sagas lo integran en la familia legendaria de Ragnar Lodbrok; esa genealogía no está demostrada por documentación contemporánea.",
+        "El Oxford Dictionary of National Biography registra a Ívarr como caudillo vikingo fallecido en 873 y advierte que su vida se mezcla con añadidos legendarios."
       ],
       "curiosity": "El sobrenombre «el Deshuesado» ha generado explicaciones diversas, pero ninguna debe presentarse como diagnóstico histórico cierto.",
       "sources": [
+        {
+          "title": "Oxford Dictionary of National Biography — Ívarr, Viking leader",
+          "url": "https://academic.oup.com/oxford-dictionary-of-national-biography/reference/63486/reference-article-abstract/580786904"
+        },
         {
           "title": "The Anglo-Saxon Chronicle — Project Gutenberg transcription",
           "url": "https://www.gutenberg.org/ebooks/657"
@@ -371,17 +410,22 @@
       "biography": "Sabio, cantor y héroe central del Kalevala, epopeya compilada por Elias Lönnrot a partir de poesía oral finlandesa y carelia. Se le representa como un anciano dotado de conocimiento y poder musical, cuya voz y canto influyen sobre el mundo y los demás personajes. No es una persona histórica: su perfil pertenece a tradiciones orales de larga transmisión que fueron seleccionadas, ordenadas y editadas en el siglo XIX.",
       "highlight_facts": [
         "La primera edición del Kalevala apareció en 1835 y la versión ampliada en 1849.",
-        "El personaje reúne motivos de poesía oral y de la mitología finesa y carelia."
+        "El personaje reúne motivos de poesía oral y de la mitología finesa y carelia.",
+        "La edición inicial del Kalevala apareció en 1835 y la versión ampliada en 1849; ambas son compilaciones editoriales de materiales orales, no transcripciones intactas de una epopeya única."
       ],
       "curiosity": "El kantele, instrumento de cuerda asociado a Väinämöinen, se convirtió en uno de los símbolos culturales más reconocibles del Kalevala.",
       "sources": [
         {
-          "title": "Finnish Literature Society — Kalevala and folklore collections",
-          "url": "https://www.finlit.fi/en/"
+          "title": "Library of Congress — Kalevala, first and expanded editions",
+          "url": "https://www.loc.gov/resource/gdcwdl.wdl_19332_002/"
         },
         {
-          "title": "Encyclopaedia Britannica — Kalevala",
-          "url": "https://www.britannica.com/topic/Kalevala"
+          "title": "Kalevalaseura — The Kalevala: Introduction",
+          "url": "https://kalevalaseura.fi/en/the-kalevala-introduction/"
+        },
+        {
+          "title": "Finnish Literature Society — Kalevala and folklore collections",
+          "url": "https://www.finlit.fi/en/"
         }
       ],
       "historical_nature": "Legendario / mitológico",
@@ -402,22 +446,27 @@
       "biography": "Roland o Hruodland fue un prefecto de la Marca de Bretaña mencionado por fuentes carolingias como uno de los jefes muertos en la emboscada de Roncesvalles del año 778. La Chanson de Roland, compuesta varios siglos después, transformó ese episodio en una epopeya caballeresca donde Roland aparece como sobrino de Carlomagno, portador de la espada Durendal y héroe de una batalla contra fuerzas musulmanas. La emboscada histórica fue atribuida a vascones, no a un ejército sarraceno como en el poema.",
       "highlight_facts": [
         "Einhard menciona a Hruodland entre los jefes de la retaguardia muertos durante el regreso de Carlomagno en 778.",
-        "La Chanson de Roland se conserva en manuscritos medievales y es una de las chansons de geste más influyentes."
+        "La Chanson de Roland se conserva en manuscritos medievales y es una de las chansons de geste más influyentes.",
+        "Einhard menciona a Hruodland en la retaguardia muerta en 778, aunque la transmisión manuscrita del pasaje presenta variantes que requieren edición crítica."
       ],
       "curiosity": "La diferencia entre el breve registro carolingio y la épica posterior permite observar cómo la memoria literaria transformó una emboscada local en una gran epopeya.",
       "sources": [
         {
-          "title": "Sorbonne — The Song of Roland: the epic that founded French literature",
-          "url": "https://www.ccfs-sorbonne.fr/en/song-of-roland-french-epic/"
+          "title": "Einhard — Vita Karoli Magni, Medieval Sourcebook, Fordham University",
+          "url": "https://sourcebooks.web.fordham.edu/basis/einhard.asp"
         },
         {
-          "title": "Larousse — La Chanson de Roland",
-          "url": "https://www.larousse.fr/encyclopedie/oeuvre/la_Chanson_de_Roland/112702"
+          "title": "Cambridge University Press — The Battle of Errozabal in Light of the Frankish Sources",
+          "url": "https://www.cambridge.org/core/books/abs/charlemagnes-defeat-in-the-pyrenees/battle-of-errozabal-in-the-light-of-the-frankish-sources/916CD895B52F07555B880840E8195963"
+        },
+        {
+          "title": "Sorbonne — The Song of Roland: the epic that founded French literature",
+          "url": "https://www.ccfs-sorbonne.fr/en/song-of-roland-french-epic/"
         }
       ],
       "historical_nature": "Semihistórico / épico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Separar al prefecto carolingio documentado de la caracterización literaria. Evitar trasladar al año 778 los elementos narrativos de la epopeya del siglo XI."
+      "editorial_note": "Integración documental: diferenciar el Hruodland mencionado en la tradición carolingia de la figura épica posterior; la identificación y el texto de Einhard requieren atención a variantes manuscritas. Pendiente de aprobación editorial."
     },
     {
       "code": "HIS-141",
@@ -433,13 +482,18 @@
       "biography": "Héroe central del ciclo del Úlster, conocido por su papel en el Táin Bó Cúailnge y por defender Ulster frente a los ejércitos de Connacht. Los relatos lo vinculan con el rey Conchobar, la guerrera Scáthach y la transformación de su cuerpo en frenesí de combate. Los textos conservados reflejan una tradición narrativa irlandesa transmitida oralmente y puesta por escrito en la Edad Media; no existe evidencia para tratarlo como un guerrero histórico identificable.",
       "highlight_facts": [
         "El ciclo del Úlster se conserva en manuscritos medievales como Lebor na hUidre y versiones posteriores.",
-        "Las historias combinan elementos heroicos, sobrenaturales y referencias a instituciones y paisajes de la Irlanda medieval."
+        "Las historias combinan elementos heroicos, sobrenaturales y referencias a instituciones y paisajes de la Irlanda medieval.",
+        "Los testimonios manuscritos medievales del ciclo del Úlster preservan versiones literarias; no constituyen pruebas contemporáneas de la existencia de Cú Chulainn."
       ],
       "curiosity": "Su nombre se interpreta tradicionalmente como «el perro de Culann», derivado del relato en que asume la función de guardián tras matar al perro del herrero.",
       "sources": [
         {
           "title": "University College Cork — CELT: The Wooing of Emer by Cú Chulainn",
           "url": "https://celt.ucc.ie/document/T301021/"
+        },
+        {
+          "title": "University College Cork — CELT: Táin Bó Cúailnge",
+          "url": "https://celt.ucc.ie/published/G301035/header.html"
         },
         {
           "title": "Encyclopaedia Britannica — Cuchulain",
@@ -464,17 +518,22 @@
       "biography": "Héroe legendario suizo al que se atribuye la resistencia contra el alguacil de los Habsburgo Hermann Gessler. La historia más conocida cuenta que fue obligado a disparar una ballesta contra una manzana colocada sobre la cabeza de su hijo y que posteriormente mató a Gessler. No se ha encontrado documentación contemporánea fiable que confirme su existencia o los episodios atribuidos; la leyenda se convirtió en un símbolo de libertad y resistencia política en la memoria suiza.",
       "highlight_facts": [
         "La figura aparece en la tradición escrita suiza tardomedieval, incluida la crónica conocida como Libro Blanco de Sarnen.",
-        "El motivo del disparo a la manzana tiene paralelos en relatos folclóricos europeos anteriores o independientes."
+        "El motivo del disparo a la manzana tiene paralelos en relatos folclóricos europeos anteriores o independientes.",
+        "El White Book of Sarnen, compilado hacia 1470/1471, contiene una de las primeras versiones escritas de la leyenda, siglos después de la fecha tradicional."
       ],
       "curiosity": "La historia de Tell fue adaptada en obras teatrales, literatura y música, incluida la ópera Guillaume Tell de Gioachino Rossini.",
       "sources": [
         {
-          "title": "Swiss Federal Department of Foreign Affairs — William Tell, a symbol of Switzerland",
-          "url": "https://www.aboutswitzerland.eda.admin.ch/en/william-tell-a-symbol-of-switzerland-known-throughout-the-world"
+          "title": "e-codices — White Book of Sarnen, manuscript record",
+          "url": "https://www.e-codices.ch/en/list/one/staow/A02CHR0003"
         },
         {
-          "title": "SWI swissinfo.ch — William Tell: killer or freedom fighter?",
-          "url": "https://www.swissinfo.ch/eng/culture/william-tell-killer-or-freedom-fighter/31244332"
+          "title": "Swiss National Museum — Tell’s birth in the White Book of Sarnen",
+          "url": "https://blog.nationalmuseum.ch/en/2019/04/tells-birth-in-the-white-book-of-sarnen/"
+        },
+        {
+          "title": "Museum Obwalden — The White Book of Sarnen and the Tell legend",
+          "url": "https://www.museum-obwalden.ch/en/towntales/hexenturm"
         }
       ],
       "historical_nature": "Legendario",
@@ -496,22 +555,27 @@
       "biography": "Líder de una rebelión contra el dominio de los Wu orientales en el territorio del actual Vietnam durante el siglo III. La tradición vietnamita la recuerda como una comandante que encabezó fuerzas locales y murió tras la derrota del levantamiento en 248. Las fuentes sobre su vida son escasas y las narraciones posteriores incorporaron elementos legendarios; por ello, deben diferenciarse los datos sobre la rebelión y la memoria cultural de los detalles biográficos transmitidos siglos después.",
       "highlight_facts": [
         "La tradición sitúa el levantamiento en 248 contra la administración de los Wu orientales.",
-        "Su figura ha sido recordada en Vietnam como símbolo de resistencia y liderazgo femenino."
+        "Su figura ha sido recordada en Vietnam como símbolo de resistencia y liderazgo femenino.",
+        "La rebelión regional de 248 se estudia en fuentes sobre la administración Wu, pero Keith Taylor advierte que los registros chinos no nombran a Lady Triệu; los detalles personales proceden de tradición vietnamita posterior."
       ],
       "curiosity": "Las crónicas y relatos populares posteriores describen su presencia en combate de forma heroica; los detalles físicos y discursos atribuidos a ella no deben asumirse como testimonios contemporáneos.",
       "sources": [
         {
-          "title": "Encyclopedia of Asian American Folklore — Two Ladies Trung (contexto de rebeliones femeninas tempranas en Vietnam)",
-          "url": "https://erenow.org/common/american-myths-legends-tall-tales-3-volumes-encyclopedia-american-folklore/439.php"
+          "title": "Department of Cultural Heritage of Vietnam — Bà Triệu historical site",
+          "url": "https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-khu-di-tich-ba-trieu-1237"
         },
         {
-          "title": "Encyclopaedia Britannica — Trieu Thi Trinh",
-          "url": "https://www.britannica.com/biography/Trieu-Thi-Trinh"
+          "title": "Keith W. Taylor — A History of the Vietnamese (Cambridge University Press)",
+          "url": "https://api.pageplace.de/preview/DT0400.9781107239852_A23760209/preview-9781107239852_A23760209.pdf"
+        },
+        {
+          "title": "Vietnam News Agency — Khởi Nghĩa Bà Triệu (248)",
+          "url": "https://nvsk.vnanet.vn/print/khoi-nghia-ba-trieu-248-34973.vna"
         }
       ],
       "historical_nature": "Semihistórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Las fuentes accesibles para su biografía son limitadas y tardías. Reforzar con bibliografía especializada vietnamita antes de aprobar la ficha final."
+      "editorial_note": "Integración documental: retirada la referencia sobre las hermanas Trưng por no documentar a Lady Triệu. Se conserva 248 como fecha tradicional del levantamiento, pero no 225 como nacimiento comprobado; fuentes vietnamitas tardías y estudios modernos deben distinguirse, y las fuentes chinas no nombran a la líder en el registro principal del episodio. Pendiente de aprobación editorial."
     },
     {
       "code": "HIS-144",
@@ -528,22 +592,27 @@
       "biography": "Héroe, poeta y jefe de la fían en el ciclo feniano de la tradición irlandesa. Las narraciones cuentan sus aventuras junto a los guerreros conocidos como fianna y presentan episodios de caza, combate, conocimiento adquirido y encuentros con el Otro Mundo. Los relatos pertenecen a la literatura vernácula irlandesa, conservada en manuscritos medievales y ampliada durante siglos. No existe una biografía histórica que permita identificar a Fionn con una persona concreta.",
       "highlight_facts": [
         "El ciclo feniano constituye un amplio corpus de relatos sobre Fionn y su grupo de guerreros-cazadores.",
-        "Los relatos combinan tradiciones heroicas, poesía, motivos sobrenaturales y valores sociales de distintas épocas."
+        "Los relatos combinan tradiciones heroicas, poesía, motivos sobrenaturales y valores sociales de distintas épocas.",
+        "El Early Fenian Corpus de University College Cork cataloga textos, fechas de composición, manuscritos y ediciones; el ciclo no es una única obra ni una biografía fija."
       ],
       "curiosity": "En la tradición irlandesa y escocesa, el personaje aparece también bajo variantes del nombre Finn y fue reinterpretado en la cultura popular moderna.",
       "sources": [
         {
-          "title": "Wiley Blackwell Encyclopedia — Fenian Cycle, Joseph Falaky Nagy",
-          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118396957.wbemlb231"
+          "title": "Joseph Falaky Nagy — Fenian Cycle, Wiley Blackwell Encyclopedia of Literature",
+          "url": "https://doi.org/10.1002/9781118396957.wbemlb231"
         },
         {
-          "title": "Encyclopaedia Britannica — Finn MacCool",
-          "url": "https://www.britannica.com/topic/Finn-MacCool"
+          "title": "University College Cork — The Early Fenian Corpus",
+          "url": "https://www.ucc.ie/en/cscl/"
+        },
+        {
+          "title": "Natasha Sumner — Fenian bibliography",
+          "url": "https://natashasumner.scholars.harvard.edu/fenian-bibliography"
         }
       ],
       "historical_nature": "Legendario / literario",
       "verification_status": "en_verificacion",
-      "editorial_note": "Tratar como héroe del ciclo feniano. Distinguir variantes irlandesas y escocesas y no atribuirle fechas o hechos biográficos verificables."
+      "editorial_note": "Integración documental: reforzado con catálogo académico del Early Fenian Corpus y bibliografía especializada; diferenciar corpus textual, variantes lingüísticas y fechas de manuscritos. Pendiente de aprobación editorial."
     }
   ]
 }
