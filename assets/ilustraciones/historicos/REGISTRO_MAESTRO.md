@@ -6,11 +6,20 @@ Este directorio conserva las ilustraciones originales aprobadas para producción
 
 | Código | Personaje | Aprobación del usuario | Archivo previsto | Estado del archivo |
 |---|---|---|---|---|
-| HIS-110 | Siddhartha Gautama (Buda) | Aprobada | `HIS-110_buda.png` | Pendiente de recuperar el original y subirlo |
-| HIS-129 | Nelson Mandela | Aprobada; referencia conceptual principal | `HIS-129_nelson_mandela.png` | Pendiente de recuperar el original y subirlo |
+| HIS-110 | Siddhartha Gautama (Buda) | Aprobada | `HIS-110_buda.png` | Original recibido en esta conversación; validado localmente; pendiente de subir a GitHub |
+| HIS-129 | Nelson Mandela | Aprobada; referencia conceptual principal | `HIS-129_nelson_mandela.png` | Original recibido en esta conversación; validado localmente; pendiente de subir a GitHub |
 | HIS-130 | Rey Arturo | Aprobada | `HIS-130_rey_arturo.png` | Pendiente de recuperar el original y subirlo |
 | HIS-001 | Alejandro Magno | Aprobada | `HIS-001_alejandro_magno.png` | Pendiente de recuperar el original y subirlo |
 | HIS-002 | Julio César | Aprobada | `HIS-002_julio_cesar.png` | Original generado disponible en la sesión; pendiente de incorporación al repositorio |
+
+## Recepción y comprobación de originales
+
+| Código | Archivo recibido | Dimensiones | Formato | SHA-256 del original recibido |
+|---|---|---:|---|---|
+| HIS-129 | `217997.png` (identificado como Nelson Mandela) | 1404 × 1536 | PNG RGB | `397ca9d45dcb8eaa5fec8fe762cff552d8b9a70e26482b9881f9a8ae5dd0df7e` |
+| HIS-110 | `221029.png` (identificado como Buda) | 1404 × 1536 | PNG RGB | `5719412d743a58e3088e4eaebb8f6d0708fb413a3a487fc3dade02485ee39b49` |
+
+Los dos originales fueron abiertos y comprobados en esta sesión. Sus nombres de carga se conservarán como referencia de recepción; al archivarlos se usarán los nombres normalizados por código indicados en el inventario. **La comprobación local no equivale a una subida a GitHub.**
 
 ## Reglas de conservación
 
@@ -23,6 +32,7 @@ Este directorio conserva las ilustraciones originales aprobadas para producción
 ## Verificación al crear este registro
 
 - Cinco pilotos constan como aprobados por el usuario.
+- HIS-129 y HIS-110: originales recibidos y verificados localmente en esta sesión; todavía no incorporados como binarios al repositorio.
 - Los estados de aprobación HIS-001 y HIS-002 fueron comprobados en `data/produccion/prompts_ilustracion_historicos_001_144.json`.
 - Este registro crea el índice maestro, pero **no afirma que los cinco archivos binarios ya estén en GitHub**.
 - No se han modificado la plantilla SVG ni los archivos históricos editoriales.
