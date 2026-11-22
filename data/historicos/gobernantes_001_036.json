@@ -14,11 +14,17 @@
       ],
       "category": "Gobernantes y Conquistadores",
       "period": "Antigüedad clásica",
-      "origin": "Macedonia",
+      "origin": "Pella, reino de Macedonia",
       "dates": "356–323 a. C.",
-      "biography": "Rey de Macedonia desde 336 a. C.; derrotó al Imperio aqueménida y llevó su campaña hasta el noroeste del subcontinente indio.",
-      "highlight_facts": [],
-      "curiosity": "La narración de sus campañas depende en gran medida de autores posteriores; distinguir fuentes antiguas y leyenda alejandrina.",
+      "biography": "Alejandro III, conocido como Alejandro Magno, fue rey de Macedonia desde 336 a. C. Tras heredar el reino y el ejército organizado por su padre, Filipo II, dirigió una campaña que derrotó al Imperio aqueménida y extendió su dominio por Egipto, Asia Central y parte del noroeste del subcontinente indio. Sus conquistas transformaron el mundo mediterráneo y asiático, y favorecieron la expansión de la cultura helenística. Murió en Babilonia en 323 a. C.; después de su muerte, sus generales se disputaron y dividieron los territorios conquistados.",
+      "highlight_facts": [
+        "Ascenso al trono: se convirtió en rey de Macedonia en 336 a. C., después del asesinato de su padre, Filipo II.",
+        "Inicio de la expedición asiática: cruzó el Helesponto en 334 a. C. y comenzó la campaña contra el Imperio aqueménida; obtuvo su primera gran victoria en el río Gránico.",
+        "Derrota del Imperio aqueménida: venció a Darío III en Issos (333 a. C.) y Gaugamela (331 a. C.), y ocupó centros imperiales como Babilonia y Susa.",
+        "Conquista de Egipto y fundación de Alejandría: incorporó Egipto a sus dominios en 332 a. C. y ordenó fundar Alejandría, futura gran ciudad del mundo helenístico.",
+        "Campañas en Asia Central y la India: extendió sus campañas hasta el río Hidaspes en 326 a. C.; después de que sus soldados se negaran a continuar hacia el este, inició el regreso."
+      ],
+      "curiosity": "En 324 a. C., Alejandro organizó en Susa una ceremonia de matrimonios entre macedonios y mujeres de la nobleza persa. Él mismo se casó con dos mujeres de la casa real persa. La iniciativa formó parte de sus intentos por consolidar su autoridad sobre los territorios conquistados y acercar a las élites macedonias y persas.",
       "sources": [
         "Pierre Briant, Encyclopaedia Iranica, Alexander the Great: https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/",
         "Albert Brian Bosworth, Oxford Classical Dictionary, Alexander III of Macedon: https://academic.oup.com/edited-volume/61673/chapter-abstract/548059801",
