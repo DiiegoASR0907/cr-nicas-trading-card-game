@@ -728,7 +728,13 @@
       "origin": "Rusia",
       "dates": "1672–1725",
       "biography": "Zar de Rusia desde 1682 y gobernante efectivo desde 1689; fue proclamado emperador en 1721. Impulsó reformas militares, navales y administrativas, fundó San Petersburgo y amplió la proyección rusa en Europa, mediante políticas que también reforzaron la coerción estatal.",
-      "highlight_facts": [],
+      "highlight_facts": [
+        "En 1682 fue proclamado zar junto con su hermanastro Iván V, aunque durante sus primeros años el poder efectivo estuvo en manos de regentes.",
+        "Tras asumir el gobierno efectivo, impulsó la reorganización del ejército y la creación de una marina rusa permanente.",
+        "Fundó San Petersburgo en 1703, en territorios arrebatados a Suecia durante la Gran Guerra del Norte.",
+        "La victoria rusa en Poltava (1709) cambió el equilibrio militar de la guerra contra Suecia.",
+        "El Tratado de Nystad (1721) puso fin a la guerra y consolidó la expansión rusa en el Báltico; ese mismo año Pedro adoptó el título de emperador."
+      ],
       "curiosity": "Las reformas modernizadoras estuvieron acompañadas de coerción estatal, cargas fiscales y trabajo forzado.",
       "sources": [
         "Carol B. Stevens, Oxford Bibliographies, “Peter the Great, Tsar of Russia”: https://doi.org/10.1093/obo/9780195399301-0200",
@@ -752,12 +758,19 @@
       "origin": "Francia y Europa",
       "dates": "1769–1821",
       "biography": "Militar y dirigente francés; fue primer cónsul desde 1799 y emperador de los franceses entre 1804 y 1814, y nuevamente durante los Cien Días de 1815. Sus guerras transformaron Europa y su gobierno impulsó reformas administrativas y el Código Civil.",
-      "highlight_facts": [],
-      "curiosity": "El Código Napoleónico y las reformas administrativas tuvieron efectos duraderos, mientras que sus guerras causaron enormes pérdidas humanas y expansión imperial.",
+      "highlight_facts": [
+        "Participó en el golpe del 18 de brumario (1799), que terminó con el Directorio y abrió el periodo del Consulado.",
+        "La Constitución del año VIII lo convirtió en primer cónsul, cargo desde el que concentró progresivamente el poder.",
+        "El Código Civil de 1804 unificó buena parte del derecho privado francés y tuvo influencia internacional, aunque mantuvo profundas desigualdades jurídicas, especialmente para las mujeres.",
+        "Fue coronado emperador de los franceses en diciembre de 1804 y extendió el dominio francés mediante campañas militares por Europa.",
+        "Tras abdicar en 1814 regresó al poder durante los Cien Días; su derrota en Waterloo en 1815 terminó definitivamente su gobierno."
+      ],
+      "curiosity": "En 1802, durante el Consulado, Bonaparte promovió el mantenimiento y la restauración de la esclavitud en las colonias francesas donde había sido abolida o no se aplicaba; la política colonial provocó resistencia y violencia, especialmente en Saint-Domingue.",
       "sources": [
         "PARES, Portal de Archivos Españoles, autoridad “Napoleón I (1769–1821)”: https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/47184",
         "Assemblée nationale, “Consulat et Premier Empire”: https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/consulat-et-premier-empire",
-        "Ministère de l’Intérieur, “Le Consulat (1799–1804)”: https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/histoire-geographie-et-culture/les-regimes-politiques-depuis-1789/le-consulat-1799-1804/"
+        "Ministère de l’Intérieur, “Le Consulat (1799–1804)”: https://formation-civique.interieur.gouv.fr/fiches-par-thematiques/histoire-geographie-et-culture/les-regimes-politiques-depuis-1789/le-consulat-1799-1804/",
+        "Assemblée nationale, « Rétablissement progressif de l’esclavage (1802–1804) »: https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/consulat-et-premier-empire/retablissement-progressif-de-l-esclavage"
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
@@ -775,7 +788,13 @@
       "origin": "Venezuela y América del Sur",
       "dates": "1783–1830",
       "biography": "Dirigente político y militar de las independencias hispanoamericanas; tuvo un papel central en la emancipación de Venezuela, Nueva Granada y Quito, y participó en las campañas de Perú. Impulsó la creación de la Gran Colombia y el proyecto de unión republicana.",
-      "highlight_facts": [],
+      "highlight_facts": [
+        "La Campaña Admirable de 1813 permitió su entrada en Caracas y la proclamación de la llamada Segunda República de Venezuela.",
+        "En la Carta de Jamaica (1815) analizó la situación política americana y las posibilidades de emancipación frente a España.",
+        "La victoria patriota en Boyacá (1819), dentro de una campaña colectiva, abrió el camino para la liberación de Nueva Granada.",
+        "Impulsó la creación de la República de Colombia, conocida posteriormente como Gran Colombia, mediante la Ley Fundamental de 1819.",
+        "La victoria de Carabobo (1821) consolidó la independencia venezolana y la campaña de Sucre en Ayacucho (1824) contribuyó decisivamente al fin del dominio español en Sudamérica."
+      ],
       "curiosity": "Su proyecto de unidad política continental enfrentó conflictos regionales y divisiones internas; tratar sus campañas dentro de procesos colectivos.",
       "sources": [
         "Joshua Simon, Oxford Bibliographies in Atlantic History, “Simón Bolívar”: https://academic.oup.com/reference/62333/reference-article-abstract/554086224",
@@ -798,7 +817,13 @@
       "origin": "Río de la Plata, Chile y Perú",
       "dates": "1778–1850",
       "biography": "Militar y dirigente de la independencia sudamericana; organizó el Ejército de los Andes, cruzó la cordillera en 1817 y dirigió campañas decisivas en Chile. Encabezó la expedición libertadora al Perú y proclamó su independencia en 1821.",
-      "highlight_facts": [],
+      "highlight_facts": [
+        "Organizó el Ejército de los Andes desde Cuyo y preparó una campaña militar para liberar Chile del dominio español.",
+        "Dirigió el cruce de los Andes en 1817, una operación que utilizó varias rutas cordilleranas.",
+        "La victoria de Chacabuco (1817) permitió a las fuerzas independentistas recuperar Santiago; la victoria de Maipú (1818) consolidó la independencia chilena.",
+        "Encabezó la expedición libertadora al Perú y proclamó su independencia en Lima en julio de 1821; posteriormente asumió el título de Protector.",
+        "Se reunió con Bolívar en Guayaquil en julio de 1822 y renunció al Protectorado peruano en septiembre de ese año."
+      ],
       "curiosity": "Su estrategia continental se articuló con otros movimientos independentistas; no reducir la independencia a una sola figura.",
       "sources": [
         "Memoria Chilena, Biblioteca Nacional de Chile, “José de San Martín (1778–1850)”: https://www.memoriachilena.gob.cl/602/w3-article-93425.html",
@@ -821,7 +846,13 @@
       "origin": "Virginia y Estados Unidos",
       "dates": "1732–1799",
       "biography": "Comandante en jefe del Ejército Continental durante la guerra de independencia y primer presidente de Estados Unidos (1789–1797). Su liderazgo contribuyó a establecer precedentes para la nueva república; también fue propietario de personas esclavizadas.",
-      "highlight_facts": [],
+      "highlight_facts": [
+        "Fue nombrado comandante en jefe del Ejército Continental en junio de 1775.",
+        "Mantuvo unido al ejército revolucionario durante años de derrotas, escasez y dificultades logísticas.",
+        "La victoria de Yorktown en 1781, conseguida con apoyo francés, fue decisiva para la independencia estadounidense.",
+        "En 1783 renunció a su comisión militar y entregó el mando al poder civil, gesto importante para la tradición republicana estadounidense.",
+        "Fue el primer presidente de Estados Unidos, entre 1789 y 1797, y presidió la puesta en marcha del nuevo gobierno federal."
+      ],
       "curiosity": "Su legado debe contextualizarse incluyendo su condición de propietario de personas esclavizadas y la contradicción entre esclavitud y los ideales republicanos.",
       "sources": [
         "George Washington’s Mount Vernon, “First President”: https://www.mountvernon.org/george-washington/the-first-president",
@@ -844,7 +875,13 @@
       "origin": "Estados Unidos",
       "dates": "1809–1865",
       "biography": "Decimosexto presidente de Estados Unidos (1861–1865), dirigió la Unión durante la Guerra Civil. Emitió la Proclamación de Emancipación en 1863, que se aplicó a zonas en rebelión y transformó los objetivos de la guerra; la abolición nacional llegó con la Decimotercera Enmienda en 1865.",
-      "highlight_facts": [],
+      "highlight_facts": [
+        "Asumió la presidencia en 1861, cuando la secesión de varios estados llevó a Estados Unidos a la Guerra Civil.",
+        "Su gobierno dirigió el esfuerzo de la Unión para preservar el país durante el conflicto.",
+        "La Proclamación de Emancipación, efectiva desde el 1 de enero de 1863, declaró libres a las personas esclavizadas en las zonas que seguían en rebelión, con excepciones importantes.",
+        "En el Discurso de Gettysburg (1863) vinculó la continuidad de la república con los principios de igualdad y gobierno popular.",
+        "Apoyó la aprobación de la Decimotercera Enmienda, que abolió constitucionalmente la esclavitud en Estados Unidos; fue ratificada después de su asesinato."
+      ],
       "curiosity": "La abolición constitucional de la esclavitud llegó con la Decimotercera Enmienda; diferenciarla de la Proclamación de Emancipación.",
       "sources": [
         "U.S. National Archives, “Emancipation Proclamation (1863)”: https://www.archives.gov/milestone-documents/emancipation-proclamation",
@@ -867,8 +904,14 @@
       "origin": "Prusia y Alemania",
       "dates": "1815–1898",
       "biography": "Estadista prusiano que dirigió la unificación alemana bajo liderazgo prusiano y fue primer canciller del Imperio alemán (1871–1890). Su política combinó guerras, diplomacia de alianzas y reformas internas dentro de un orden monárquico autoritario.",
-      "highlight_facts": [],
-      "curiosity": "Su política combinó diplomacia, guerras limitadas y construcción estatal; se trasladó a Líderes Políticos y Estadistas.",
+      "highlight_facts": [
+        "Fue nombrado ministro-presidente de Prusia en 1862 y dirigió la política de unificación alemana bajo liderazgo prusiano.",
+        "La guerra contra Dinamarca de 1864, junto con Austria, modificó el control de los ducados de Schleswig y Holstein.",
+        "La victoria prusiana sobre Austria en 1866 permitió reorganizar los estados alemanes del norte bajo predominio prusiano.",
+        "La guerra franco-prusiana de 1870–1871 favoreció la proclamación del Imperio alemán en Versalles en enero de 1871.",
+        "Durante su etapa como canciller impulsó seguros sociales para trabajadores, pero también promovió leyes represivas contra el movimiento socialista."
+      ],
+      "curiosity": "La expresión «Canciller de Hierro» quedó asociada a su imagen política; su gobierno combinó la represión del movimiento socialista con la creación de seguros sociales estatales.",
       "sources": [
         "Otto-von-Bismarck-Stiftung, “Lebenslauf”: https://www.bismarck-stiftung.de/otto-von-bismarck/lebenslauf/",
         "LeMO, Deutsches Historisches Museum, “Otto von Bismarck 1815–1898”: https://www.dhm.de/lemo/biografie/otto-bismarck",
@@ -891,12 +934,18 @@
       "origin": "Estado de Qin y China",
       "dates": "259–210 a. C.",
       "biography": "Rey de Qin que conquistó los demás estados y unificó gran parte de China en 221 a. C., proclamándose primer emperador. Centralizó la administración y estandarizó pesos, medidas, moneda y escritura; su dinastía cayó pocos años después de su muerte.",
-      "highlight_facts": [],
+      "highlight_facts": [
+        "Como rey de Qin conquistó los demás grandes estados rivales y unificó gran parte de China en 221 a. C.",
+        "Adoptó el título de Primer Emperador y estableció un gobierno centralizado que sustituyó el sistema de reinos independientes.",
+        "Estandarizó la escritura administrativa, la moneda, los pesos y las medidas para facilitar la integración imperial.",
+        "Impulsó caminos, canales y la conexión de fortificaciones defensivas preexistentes en la frontera norte; no debe afirmarse que construyó por sí solo toda la Gran Muralla.",
+        "Su mausoleo, custodiado por el Ejército de Terracota, constituye uno de los grandes conjuntos arqueológicos de la China antigua."
+      ],
       "curiosity": "Las fuentes sobre su gobierno incluyen tradiciones historiográficas posteriores; presentar tanto la unificación como la coerción de su régimen.",
       "sources": [
         "Smithsonian National Museum of Asian Art, “Qin Dynasty (221–206 B.C.E.)”: https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/explore-by-dynasty/qin-dynasty/",
         "The Metropolitan Museum of Art, “Qin Dynasty (221–206 B.C.)”: https://www.metmuseum.org/de/essays/qin-dynasty-221-206-b-c",
-        "Amanda H. Podany, The Ancient Near East: A Very Short Introduction, Oxford University Press, para el contexto comparativo de formación estatal antigua."
+        "UNESCO World Heritage Centre, « Mausoleum of the First Qin Emperor»: https://whc.unesco.org/en/list/441/"
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
@@ -915,8 +964,14 @@
       "origin": "China",
       "dates": "c. 256–195 a. C. (nacimiento discutido)",
       "biography": "Líder rebelde que emergió durante la caída de Qin y venció a Xiang Yu en la guerra Chu-Han. Fundó la dinastía Han y gobernó como emperador Gaozu desde 202 a. C.",
-      "highlight_facts": [],
-      "curiosity": "Las fuentes antiguas ofrecen tradiciones divergentes sobre su nacimiento y juventud; la cronología de nacimiento no es uniforme.",
+      "highlight_facts": [
+        "Surgió como dirigente rebelde durante la caída de la dinastía Qin y llegó a controlar una fuerza política y militar propia.",
+        "Compitió con Xiang Yu por el dominio de China en el conflicto conocido como la contienda Chu-Han.",
+        "La victoria de sus fuerzas en 202 a. C. puso fin a la contienda y le permitió establecer una nueva dinastía.",
+        "Fundó la dinastía Han y gobernó con el nombre imperial de Gaozu.",
+        "Su gobierno conservó parte de la estructura administrativa centralizada de Qin, pero redujo algunas de sus medidas más severas y combinó el poder central con reinos concedidos a familiares y aliados."
+      ],
+      "curiosity": "Las fuentes antiguas ofrecen tradiciones divergentes sobre su nacimiento y juventud; por ello, su fecha de nacimiento suele presentarse como aproximada.",
       "sources": [
         "Stanford Encyclopedia of Philosophy, “Philosophy in Han Dynasty China”, sección sobre Gaozu/Liu Bang: https://plato.stanford.edu/entries/han-dynasty/",
         "Smithsonian National Museum of Asian Art, “Qin Dynasty (221–206 B.C.E.)”, transición de Qin a Han: https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/explore-by-dynasty/qin-dynasty/",
@@ -932,14 +987,20 @@
       "name": "Tokugawa Ieyasu",
       "alternate_names": [
         "Matsudaira Takechiyo",
-        "Tokugawa Ieyasu"
+        "Matsudaira Motoyasu"
       ],
       "category": "Gobernantes y Conquistadores",
       "period": "Periodo Sengoku y Edo",
       "origin": "Japón",
       "dates": "1543–1616",
       "biography": "Se impuso en las guerras de unificación japonesa, venció en Sekigahara (1600) y fue nombrado shōgun en 1603. Fundó el shogunato Tokugawa y mantuvo influencia política incluso después de ceder el título a su hijo en 1605.",
-      "highlight_facts": [],
+      "highlight_facts": [
+        "Participó en las guerras de unificación japonesa y consolidó su posición tras la muerte de Toyotomi Hideyoshi.",
+        "Su victoria en la batalla de Sekigahara (1600) le permitió imponerse sobre los principales rivales políticos y militares.",
+        "En 1603 recibió del emperador el título de shōgun y estableció el shogunato Tokugawa.",
+        "En 1605 cedió el título de shōgun a su hijo Hidetada, pero continuó ejerciendo una gran influencia política.",
+        "Las campañas de Osaka de 1614–1615 acabaron con el último gran foco de resistencia de la familia Toyotomi y consolidaron el dominio Tokugawa."
+      ],
       "curiosity": "La consolidación del régimen fue un proceso compartido con otros líderes de la unificación; su gobierno continuó mediante sucesión familiar.",
       "sources": [
         "National Archives of Japan, exposición digital “Tokugawa Ieyasu”, batalla de Sekigahara y nombramiento de 1603: https://www.archives.go.jp/exhibition/digital/ieyasu/contents3_01/",
@@ -962,13 +1023,20 @@
       "period": "Edad Media tardía",
       "origin": "Imperio otomano",
       "dates": "1432–1481",
-      "biography": "Sultán otomano que conquistó Constantinopla en 1453 y la convirtió en capital imperial. Consolidó el dominio otomano en los Balcanes y Anatolia y promovió la reorganización administrativa y cultural del Estado.",
-      "highlight_facts": [],
-      "curiosity": "La conquista transformó el equilibrio político regional; incluir también el papel de la población y las instituciones bizantinas preexistentes.",
+      "biography": "Sultán otomano que conquistó Constantinopla en 1453 y la convirtió en capital imperial. La toma estuvo acompañada de saqueos y cautiverios; posteriormente promovió la reconstrucción y repoblación de la ciudad. Consolidó el dominio otomano en los Balcanes y Anatolia y reorganizó instituciones imperiales.",
+      "highlight_facts": [
+        "Reconquistó Constantinopla para los otomanos en 1453, poniendo fin al Imperio bizantino.",
+        "La conquista se apoyó en un prolongado asedio, una flota y el uso de artillería pesada contra las defensas de la ciudad.",
+        "Convirtió Constantinopla en capital imperial y promovió su reconstrucción y repoblación.",
+        "Amplió el dominio otomano en los Balcanes y Anatolia, incorporando territorios y centros políticos estratégicos.",
+        "Reorganizó instituciones imperiales y promovió una corte que reunió tradiciones administrativas, religiosas y culturales diversas."
+      ],
+      "curiosity": "La conquista de 1453 no solo transformó el equilibrio político regional: también tuvo un coste humano inmediato, con saqueos, cautiverios y desplazamientos, seguidos por políticas de reconstrucción y repoblación.",
       "sources": [
         "Halil İnalcık, “The Rise of the Ottoman Empire”, The Cambridge History of Islam: https://www.cambridge.org/core/books/abs/cambridge-history-of-islam/rise-of-the-ottoman-empire/307404FFFFA9EAE1488260843074A62F",
         "Abdurrahman Atçıl, “Scholars in Mehmed II’s Nascent Imperial Bureaucracy (1453–1481)”, Cambridge University Press: https://www.cambridge.org/core/books/abs/scholars-and-sultans-in-the-early-modern-ottoman-empire/scholars-in-mehmed-iis-nascent-imperial-bureaucracy-14531481/525AA44454FF09B7347729B37C8EA811",
-        "Çiğdem Kafescioğlu, Constantinopolis/Istanbul: Cultural Encounter, Imperial Vision, and the Construction of the Ottoman Capital, Pennsylvania State University Press, 2009: https://www.psupress.org/books/titles/978-0-271-02776-0.html"
+        "Çiğdem Kafescioğlu, Constantinopolis/Istanbul: Cultural Encounter, Imperial Vision, and the Construction of the Ottoman Capital, Pennsylvania State University Press, 2009: https://www.psupress.org/books/titles/978-0-271-02776-0.html",
+        "Anthony Kaldellis, «Conquerors and Slaves», en 1453: The Conquest and Tragedy of Constantinople, Oxford University Press, 2026: https://doi.org/10.1093/oso/9780197827505.003.0010"
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
@@ -987,7 +1055,13 @@
       "origin": "Imperio otomano",
       "dates": "1494/1495–1566",
       "biography": "Sultán otomano entre 1520 y 1566; durante su reinado el imperio alcanzó gran expansión territorial y poder naval. Promovió la codificación legal y el mecenazgo artístico y arquitectónico, por lo que recibió los sobrenombres de «el Magnífico» y «el Legislador».",
-      "highlight_facts": [],
+      "highlight_facts": [
+        "Accedió al trono otomano en 1520 y gobernó durante uno de los periodos de mayor expansión territorial y poder imperial.",
+        "La victoria otomana en Mohács (1526) debilitó decisivamente al reino de Hungría y amplió la influencia otomana en Europa central.",
+        "En 1529 dirigió la campaña que culminó en el primer gran asedio otomano de Viena, aunque no logró conquistar la ciudad.",
+        "Promovió la codificación y organización de leyes imperiales, motivo por el que en la tradición turca es conocido como Kanuni, «el Legislador».",
+        "Su reinado fue un periodo de gran actividad artística y arquitectónica; el arquitecto Mimar Sinan desarrolló algunas de sus obras más representativas durante esta época."
+      ],
       "curiosity": "En la tradición turca es conocido como Kanuni, «el Legislador»; el epíteto occidental «el Magnífico» enfatiza el esplendor cortesano.",
       "sources": [
         "Güneş Işıksel, “Suleiman the Magnificent (1494–1566)”, Encyclopedia of Diplomacy, Wiley: https://doi.org/10.1002/9781118885154.dipl0267",
