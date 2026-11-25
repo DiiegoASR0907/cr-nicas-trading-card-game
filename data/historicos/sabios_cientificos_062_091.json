@@ -439,13 +439,15 @@
       "period": "Revolución científica",
       "origin": "Sacro Imperio Romano Germánico",
       "dates": "1571–1630",
-      "biography": "Astrónomo y matemático del Sacro Imperio que formuló tres leyes del movimiento planetario, describiendo órbitas elípticas y relaciones matemáticas entre periodos y distancias. Su análisis se apoyó en las observaciones de gran precisión reunidas por Tycho Brahe.",
+      "biography": "Astrónomo y matemático que formuló tres leyes fundamentales del movimiento planetario. Utilizó las observaciones de Tycho Brahe para explicar las órbitas de los planetas mediante relaciones matemáticas.",
       "highlight_facts": [
-        "Publicó Astronomia nova en 1609, con sus dos primeras leyes planetarias.",
-        "Formuló la tercera ley en Harmonices Mundi, en 1619.",
-        "Utilizó los registros de Tycho Brahe para resolver el movimiento de Marte."
+        "Trabajó con las observaciones astronómicas de Tycho Brahe, especialmente las de Marte.",
+        "Publicó Astronomia nova en 1609, donde presentó sus dos primeras leyes planetarias.",
+        "Estableció que los planetas se desplazan en órbitas elípticas y que el Sol ocupa uno de sus focos.",
+        "En 1619 publicó la tercera ley del movimiento planetario en Harmonices mundi.",
+        "Sus leyes permitieron describir matemáticamente el movimiento de los planetas dentro del modelo heliocéntrico."
       ],
-      "curiosity": "Sus leyes no surgieron de observaciones aisladas: fueron el resultado de años de modelización matemática sobre los datos de Tycho Brahe.",
+      "curiosity": "Sus leyes fueron resultado de años de cálculos y análisis de observaciones, no de una única intuición.",
       "sources": [
         {
           "title": "Orbits and Kepler's Laws — NASA Science",
@@ -478,10 +480,12 @@
       "biography": "Matemático y filósofo natural inglés. En Principia (1687) formuló las leyes del movimiento y la gravitación universal; también realizó aportes decisivos a la óptica y desarrolló métodos de cálculo de manera independiente de Leibniz.",
       "highlight_facts": [
         "Publicó Philosophiæ Naturalis Principia Mathematica en 1687.",
-        "Formuló las tres leyes del movimiento y la gravitación universal.",
-        "Investigó la descomposición de la luz blanca y publicó Opticks en 1704."
+        "Formuló tres leyes del movimiento que describen la relación entre fuerzas y movimiento.",
+        "En Principia presentó la ley de gravitación universal.",
+        "Investigó cómo un prisma separa la luz blanca en distintos colores.",
+        "Publicó Opticks en 1704, obra dedicada a sus investigaciones sobre la luz."
       ],
-      "curiosity": "La doble fecha de nacimiento refleja el cambio de calendario: Inglaterra usaba el juliano, mientras que el gregoriano ya regía en buena parte de Europa. La prioridad del cálculo con Leibniz fue una disputa compleja.",
+      "curiosity": "Inglaterra todavía utilizaba el calendario juliano cuando nació. Por eso su fecha de nacimiento aparece como 25 de diciembre de 1642 en ese calendario y 4 de enero de 1643 en el gregoriano.",
       "sources": [
         {
           "title": "Isaac Newton — MacTutor, University of St Andrews",
@@ -507,15 +511,17 @@
       "alternate_names": [],
       "category": "Sabios, Científicos e Inventores",
       "period": "Segunda Revolución Industrial",
-      "origin": "Imperio austrohúngaro; Estados Unidos",
+      "origin": "Imperio austríaco (actual Croacia); Estados Unidos",
       "dates": "1856–1943",
-      "biography": "Ingeniero e inventor de origen serbio, nacido en Smiljan, entonces parte del Imperio austríaco. Sus patentes y desarrollos sobre sistemas polifásicos de corriente alterna y motores de inducción fueron decisivos para la electrificación; colaboró comercialmente con George Westinghouse.",
+      "biography": "Ingeniero e inventor de origen serbio, nacido en Smiljan, entonces parte del Imperio austríaco. Sus desarrollos en motores de inducción y sistemas polifásicos de corriente alterna contribuyeron decisivamente a la electrificación moderna.",
       "highlight_facts": [
-        "Desarrolló un motor de inducción de corriente alterna y sistemas polifásicos.",
-        "Sus patentes de corriente alterna fueron adquiridas y explotadas junto con Westinghouse.",
-        "La bobina de Tesla, presentada en 1891, se convirtió en un dispositivo emblemático de alta tensión."
+        "Desarrolló un sistema de motor de inducción basado en corriente alterna polifásica.",
+        "En 1888 presentó sus investigaciones sobre motores y transformadores de corriente alterna.",
+        "Sus patentes y desarrollos fueron comercializados en colaboración con George Westinghouse.",
+        "En 1891 presentó públicamente experimentos con corrientes de alta frecuencia y alto voltaje.",
+        "La bobina de Tesla se convirtió en uno de los dispositivos más conocidos asociados a sus investigaciones eléctricas."
       ],
-      "curiosity": "La electrificación moderna fue un desarrollo colectivo: no atribuirle a Tesla la invención individual de toda la corriente alterna, la radio o tecnologías que tuvieron múltiples protagonistas.",
+      "curiosity": "La electrificación fue un desarrollo colectivo. No debe atribuírsele a Tesla la invención individual de toda la corriente alterna ni de la radio.",
       "sources": [
         {
           "title": "Nikola Tesla — Encyclopaedia Britannica",
@@ -547,11 +553,13 @@
       "dates": "1847–1931",
       "biography": "Inventor y empresario estadounidense que organizó laboratorios de investigación y equipos técnicos para desarrollar y comercializar sistemas de iluminación eléctrica, fonografía y tecnologías de grabación e imagen en movimiento. Su trabajo dependió de colaboradores, patentes y mejoras sucesivas.",
       "highlight_facts": [
-        "Desarrolló un fonógrafo comercialmente viable en 1877.",
-        "Su laboratorio de Menlo Park desarrolló una lámpara incandescente práctica y un sistema de distribución eléctrica.",
-        "Participó en el desarrollo temprano de tecnologías cinematográficas y de grabación."
+        "En 1877 desarrolló el fonógrafo, uno de los primeros dispositivos capaces de grabar y reproducir sonido.",
+        "En Menlo Park estableció un laboratorio dedicado a la investigación y desarrollo de inventos.",
+        "Trabajó en una lámpara incandescente práctica y en un sistema de iluminación eléctrica.",
+        "Impulsó sistemas de generación y distribución eléctrica para uso comercial.",
+        "Participó en el desarrollo temprano de tecnologías de grabación y de imágenes en movimiento."
       ],
-      "curiosity": "No inventó por sí solo la lámpara eléctrica ni el cine; sus aportes estuvieron ligados a equipos de investigación, mejoras técnicas y sistemas comerciales.",
+      "curiosity": "Edison no inventó por sí solo la lámpara eléctrica ni el cine. Sus logros estuvieron ligados a equipos de investigación, mejoras técnicas y sistemas de comercialización.",
       "sources": [
         {
           "title": "Thomas Edison — National Park Service",
@@ -584,11 +592,13 @@
       "dates": "1867–1934",
       "biography": "Física y química nacida Maria Skłodowska en Varsovia. Junto con Pierre Curie investigó la radiactividad y descubrió el polonio y el radio; recibió el Nobel de Física en 1903 y el de Química en 1911, y promovió aplicaciones médicas de la radiación.",
       "highlight_facts": [
+        "Investigó las propiedades de la radiactividad, fenómeno descubierto por Henri Becquerel.",
+        "Junto con Pierre Curie, anunció el descubrimiento del polonio en 1898.",
+        "Ese mismo año, los Curie anunciaron el descubrimiento del radio.",
         "Compartió el Nobel de Física de 1903 con Pierre Curie y Henri Becquerel.",
-        "Descubrió el polonio y el radio junto con Pierre Curie.",
         "Recibió el Nobel de Química de 1911 por sus investigaciones sobre el radio y el polonio."
       ],
-      "curiosity": "Fue la primera persona en recibir dos premios Nobel; el reconocimiento de 1903 fue compartido y el de 1911 fue individual.",
+      "curiosity": "Fue la primera persona en recibir dos premios Nobel, en dos disciplinas científicas diferentes.",
       "sources": [
         {
           "title": "Marie Curie — Nobel Prize: Physics 1903 facts",
@@ -620,11 +630,13 @@
       "dates": "1809–1882",
       "biography": "Naturalista británico que desarrolló la teoría de la evolución por selección natural y la expuso ampliamente en El origen de las especies (1859). Sus conclusiones se apoyaron en observaciones acumuladas durante el viaje del Beagle, colecciones, experimentación y comparación de evidencias biológicas.",
       "highlight_facts": [
-        "Participó en el viaje del HMS Beagle entre 1831 y 1836.",
-        "Presentó junto con Alfred Russel Wallace textos sobre selección natural en 1858.",
+        "Viajó como naturalista a bordo del HMS Beagle entre 1831 y 1836.",
+        "Durante el viaje reunió especímenes y observaciones geológicas y zoológicas.",
+        "Desarrolló una explicación de la evolución basada en la selección natural.",
+        "Presentó junto con Alfred Russel Wallace trabajos sobre selección natural en 1858.",
         "Publicó El origen de las especies en 1859."
       ],
-      "curiosity": "La selección natural fue presentada conjuntamente por Darwin y Wallace en 1858; Darwin desarrolló después una exposición extensa en su libro de 1859.",
+      "curiosity": "Darwin y Wallace presentaron sus ideas conjuntamente en 1858; Darwin desarrolló después una exposición extensa en su libro.",
       "sources": [
         {
           "title": "Charles Darwin — Natural History Museum, London",
@@ -656,11 +668,13 @@
       "dates": "1912–1954",
       "biography": "Matemático y lógico británico que estableció fundamentos teóricos de la computación y contribuyó al criptoanálisis aliado durante la Segunda Guerra Mundial en Bletchley Park. Sus trabajos sobre computabilidad y diseño de máquinas influyeron decisivamente en la informática moderna.",
       "highlight_facts": [
-        "Publicó en 1936 el trabajo que definió la máquina teórica hoy llamada máquina de Turing.",
-        "Trabajó en Bletchley Park en el criptoanálisis de la máquina Enigma.",
-        "Propuso en 1950 una prueba para discutir la inteligencia de las máquinas."
+        "En 1936 publicó un trabajo que describía una máquina teórica capaz de ejecutar operaciones lógicas.",
+        "Sus ideas sobre computabilidad contribuyeron a establecer fundamentos matemáticos de la informática.",
+        "Durante la Segunda Guerra Mundial trabajó en Bletchley Park en el criptoanálisis de Enigma.",
+        "Diseñó una máquina Bombe que ayudó a buscar configuraciones de Enigma.",
+        "En 1950 publicó Computing Machinery and Intelligence, donde propuso el llamado juego de imitación."
       ],
-      "curiosity": "El descifrado de Enigma fue un esfuerzo colectivo que dependió de matemáticos, lingüistas, operadores, inteligencia previa y máquinas; no fue obra de Turing en solitario.",
+      "curiosity": "El descifrado de Enigma fue un esfuerzo colectivo que también dependió de criptógrafos polacos, matemáticos, operadores y otros equipos aliados.",
       "sources": [
         {
           "title": "Alan Turing — Bletchley Park",
@@ -690,11 +704,13 @@
       "dates": "1879–1955",
       "biography": "Físico teórico nacido en Alemania que formuló la relatividad especial y general y realizó aportes fundamentales a la teoría cuántica. Recibió el Nobel de Física de 1921 por su explicación del efecto fotoeléctrico, no por la teoría de la relatividad.",
       "highlight_facts": [
-        "Publicó en 1905 trabajos fundamentales sobre relatividad especial y efecto fotoeléctrico.",
-        "Presentó la teoría general de la relatividad en 1915 y su formulación final en 1916.",
-        "Recibió el Nobel de Física de 1921 por la explicación del efecto fotoeléctrico."
+        "En 1905 publicó trabajos fundamentales sobre la relatividad especial.",
+        "Ese mismo año explicó el efecto fotoeléctrico mediante la cuantización de la luz.",
+        "Desarrolló la teoría general de la relatividad, presentada en su forma final en 1915.",
+        "Su teoría de la relatividad general describió la gravedad como una propiedad de la estructura del espacio-tiempo.",
+        "Recibió el Nobel de Física de 1921 por su explicación del efecto fotoeléctrico."
       ],
-      "curiosity": "El Nobel no fue concedido por la relatividad; el premio reconoció específicamente su explicación del efecto fotoeléctrico.",
+      "curiosity": "El Nobel no se le concedió por la teoría de la relatividad, sino específicamente por su explicación del efecto fotoeléctrico.",
       "sources": [
         {
           "title": "Albert Einstein — Nobel Prize: Physics 1921 biography",
@@ -726,11 +742,13 @@
       "dates": "1942–2018",
       "biography": "Físico teórico y cosmólogo británico que investigó la relatividad general, los agujeros negros y el origen del universo. Con Roger Penrose desarrolló teoremas sobre singularidades y propuso que los agujeros negros emiten radiación por efectos cuánticos.",
       "highlight_facts": [
-        "Desarrolló con Roger Penrose resultados fundamentales sobre singularidades gravitacionales.",
-        "Propuso en 1974 la radiación térmica asociada a los agujeros negros.",
+        "Desarrolló junto con Roger Penrose teoremas sobre singularidades en la relatividad general.",
+        "Sus investigaciones contribuyeron a explicar matemáticamente condiciones relacionadas con el origen del universo.",
+        "Estudió las propiedades físicas de los agujeros negros.",
+        "En 1974 propuso que los agujeros negros pueden emitir radiación, hoy llamada radiación de Hawking.",
         "Publicó Una breve historia del tiempo en 1988, acercando la cosmología al público general."
       ],
-      "curiosity": "La radiación de Hawking es una predicción teórica central que todavía no ha sido observada directamente en un agujero negro astrofísico.",
+      "curiosity": "La radiación de Hawking es una predicción teórica fundamental, pero no ha sido observada directamente en un agujero negro astrofísico.",
       "sources": [
         {
           "title": "Stephen Hawking — University of Cambridge",
@@ -763,11 +781,13 @@
       "dates": "1858–1937",
       "biography": "Físico y botánico experimental bengalí que investigó ondas electromagnéticas de longitudes milimétricas y desarrolló instrumentos para estudiar respuestas eléctricas y mecánicas de los tejidos vegetales. Presentó sus investigaciones ante sociedades científicas británicas.",
       "highlight_facts": [
-        "Realizó experimentos pioneros con ondas electromagnéticas milimétricas.",
-        "Diseñó instrumentos sensibles para registrar respuestas de tejidos vegetales.",
-        "Presentó ante la Royal Society investigaciones sobre respuestas mecánicas y eléctricas de las plantas en 1903–1904."
+        "Realizó experimentos pioneros con ondas electromagnéticas de longitud milimétrica.",
+        "Diseñó instrumentos sensibles para registrar fenómenos eléctricos y mecánicos.",
+        "Investigó la respuesta de los tejidos vegetales a estímulos físicos.",
+        "Presentó ante la Royal Society investigaciones sobre respuestas eléctricas y mecánicas de las plantas en 1903–1904.",
+        "Sus trabajos ayudaron a documentar que los tejidos vegetales presentan respuestas físicas medibles ante estímulos."
       ],
-      "curiosity": "No debe atribuírsele sin matices la invención de la radio ni afirmarse que demostró conciencia humana en las plantas; sus investigaciones se referían a respuestas físicas y fisiológicas medibles.",
+      "curiosity": "No debe afirmarse que demostró conciencia humana en las plantas. Sus experimentos estudiaban respuestas fisiológicas y físicas.",
       "sources": [
         {
           "title": "On mechanical and electrical response in plants — Royal Society Archives",
@@ -799,11 +819,13 @@
       "dates": "476–c. 550 d. C. (muerte no documentada con precisión)",
       "biography": "Matemático y astrónomo indio, autor del Aryabhatiya, compuesto en 499 d. C. La obra reúne métodos de cálculo, álgebra, trigonometría y astronomía; explicó la rotación aparente del cielo mediante la rotación axial de la Tierra.",
       "highlight_facts": [
-        "Compuso el Aryabhatiya en 499 d. C., cuando tenía 23 años según su propio sistema cronológico.",
-        "Ofreció una aproximación notable de π y una tabla de senos.",
-        "Explicó los movimientos aparentes del cielo mediante la rotación de la Tierra."
+        "Compuso el Aryabhatiya en 499, cuando tenía 23 años según su propio sistema cronológico.",
+        "Presentó una aproximación de π cercana a 3,1416.",
+        "Incluyó una tabla de senos y métodos de cálculo trigonométrico.",
+        "Explicó el movimiento aparente de las estrellas mediante la rotación axial de la Tierra.",
+        "Describió correctamente que los eclipses se producen por sombras y alineaciones entre la Tierra, la Luna y el Sol."
       ],
-      "curiosity": "La fecha de nacimiento se conoce por la propia obra; la muerte es desconocida y c. 550 es una estimación convencional. No confundirlo con Aryabhata II.",
+      "curiosity": "Su modelo astronómico seguía siendo geocéntrico; reconocer la rotación terrestre no significa que propusiera un sistema heliocéntrico.",
       "sources": [
         {
           "title": "Aryabhata I — MacTutor, University of St Andrews",
@@ -836,10 +858,12 @@
       "biography": "Erudito, astrónomo, matemático, poeta y funcionario de la dinastía Han oriental. Las fuentes históricas chinas le atribuyen un sismoscopio capaz de indicar la ocurrencia de un terremoto y la dirección aproximada de su origen.",
       "highlight_facts": [
         "Sirvió como funcionario y astrónomo durante la dinastía Han oriental.",
-        "Se le atribuye un sismoscopio descrito en textos chinos del siglo II.",
-        "Escribió poesía y trabajos sobre astronomía y cosmología."
+        "Desarrolló investigaciones sobre astronomía y cosmología.",
+        "Se le atribuye un sismoscopio descrito alrededor de 132 d. C.",
+        "El instrumento utilizaba un mecanismo que podía señalar una dirección asociada al terremoto mediante bolas que caían desde figuras de dragones.",
+        "También fue conocido por sus escritos literarios y su trabajo matemático."
       ],
-      "curiosity": "El instrumento original no se conserva; los ejemplares expuestos hoy son reconstrucciones modernas basadas en descripciones textuales y no sismógrafos modernos.",
+      "curiosity": "El instrumento original no se conserva. Los modelos actuales son reconstrucciones basadas en descripciones históricas, no sismógrafos modernos.",
       "sources": [
         {
           "title": "Chinese Seismoscope (replica) — Smithsonian National Museum of American History",
