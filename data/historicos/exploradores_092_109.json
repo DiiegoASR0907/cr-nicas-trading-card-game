@@ -18,13 +18,15 @@
       "period": "Siglos XV–XVI",
       "origin": "República de Génova; al servicio de las Coronas de Castilla y Aragón",
       "dates": "c. 1451–1506",
-      "biography": "Navegante genovés que dirigió cuatro expediciones transatlánticas al servicio de la monarquía castellana entre 1492 y 1504. Sus viajes iniciaron un contacto transatlántico sostenido entre Europa y el Caribe, dentro de procesos de conquista, colonización, esclavización y desposesión de pueblos indígenas. Murió sin reconocer que las tierras alcanzadas formaban parte de un continente distinto de Asia. Los diarios originales no se conservan íntegros y su reconstrucción depende de copias, resúmenes y testimonios posteriores.",
+      "biography": "Navegante genovés que dirigió cuatro expediciones transatlánticas al servicio de la monarquía castellana entre 1492 y 1504. Sus viajes iniciaron un contacto transatlántico sostenido entre Europa y el Caribe, dentro de procesos de conquista, colonización, esclavización y desposesión de pueblos indígenas. Murió sin reconocer que las tierras alcanzadas formaban parte de un continente distinto de Asia.",
       "highlight_facts": [
-        "Zarpó en 1492 con la Niña, la Pinta y la nao Santa María; llegó a las Antillas en octubre.",
+        "Zarpó en 1492 con la Niña, la Pinta y la Santa María; llegó a las Antillas en octubre.",
         "Realizó cuatro viajes transatlánticos entre 1492 y 1504.",
-        "La Corona investigó su gobierno en La Española; las fuentes sobre esa administración deben leerse junto con las denuncias y la documentación colonial."
+        "Sus expediciones iniciaron un contacto transatlántico sostenido entre Europa y el Caribe, dentro de procesos de conquista y colonización.",
+        "La Corona investigó su administración en La Española tras denuncias sobre su gobierno.",
+        "Sus viajes afectaron profundamente a pueblos indígenas del Caribe, que ya habitaban y conocían esas tierras."
       ],
-      "curiosity": "El diario del primer viaje se conoce mediante un resumen transmitido por Bartolomé de las Casas; no se conserva el original completo.",
+      "curiosity": "El diario original del primer viaje no se conserva íntegro; conocemos su contenido principalmente por un resumen transmitido por Bartolomé de las Casas.",
       "sources": [
         {
           "title": "Biblioteca Nacional de España: Viajes de Cristóbal Colón",
@@ -41,7 +43,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal completada en esta pasada; conserva cautelas historiográficas y requiere aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -55,13 +57,15 @@
       "period": "Siglos XV–XVI",
       "origin": "Florencia, República de Florencia (actual Italia)",
       "dates": "1451–1512",
-      "biography": "Mercader, navegante y cosmógrafo florentino vinculado a viajes ibéricos por las costas atlánticas de Sudamérica. Los textos atribuidos a él presentan problemas de autoría, transmisión y veracidad que impiden aceptar sin matices el número tradicional de expediciones. Sus escritos contribuyeron a la discusión cosmográfica europea sobre la existencia de tierras continentales distintas de Asia. En 1507 Martin Waldseemüller empleó el nombre America en su mapa, a partir de la forma latinizada Americus.",
+      "biography": "Mercader, navegante y cosmógrafo florentino vinculado a viajes ibéricos por las costas atlánticas de Sudamérica. Los textos atribuidos a él presentan problemas de autoría, transmisión y veracidad que impiden aceptar sin matices el número tradicional de expediciones. Sus escritos contribuyeron al debate cosmográfico europeo sobre la existencia de tierras continentales distintas de Asia.",
       "highlight_facts": [
         "Trabajó en redes comerciales y navieras de Sevilla y Lisboa.",
-        "Los viajes que se le atribuyen y la autenticidad de algunas cartas siguen siendo objeto de debate filológico e historiográfico.",
-        "El mapa de Waldseemüller de 1507 es el primer uso cartográfico conocido del nombre America."
+        "Participó en viajes por las costas atlánticas de Sudamérica, aunque la atribución y el número de expediciones siguen debatidos.",
+        "Sus escritos contribuyeron al debate cosmográfico europeo sobre tierras continentales distintas de Asia.",
+        "En 1507 Martin Waldseemüller empleó el nombre America en un mapa.",
+        "El nombre deriva de la forma latinizada Americus, no de una denominación creada por Vespucio."
       ],
-      "curiosity": "El nombre America apareció en un proyecto cartográfico europeo de 1507; no fue una denominación creada por Vespucio ni usada por los pueblos originarios.",
+      "curiosity": "El nombre America fue introducido en el mapa de Waldseemüller de 1507; no fue creado ni utilizado originalmente por Vespucio como nombre del continente.",
       "sources": [
         {
           "title": "Library of Congress: Recognizing and Naming America: Waldseemüller’s 1507 Map",
@@ -78,7 +82,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal completada en esta pasada; conserva cautelas historiográficas y requiere aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -92,13 +96,15 @@
       "period": "Siglos XV–XVI",
       "origin": "Reino de Portugal; expedición al servicio de la Monarquía Hispánica",
       "dates": "c. 1480–1521",
-      "biography": "Navegante portugués que dirigió inicialmente la expedición de cinco naves organizada por la monarquía hispánica en 1519 para alcanzar las islas de las especias navegando hacia el oeste. La flota atravesó el estrecho que recibió su nombre y entró en el Pacífico. Magallanes murió en Mactán, Filipinas, el 27 de abril de 1521, durante una intervención armada en un conflicto local. La nao Victoria regresó a España en 1522 bajo el mando de Juan Sebastián Elcano, completando la primera circunnavegación documentada.",
+      "biography": "Navegante portugués que dirigió inicialmente la expedición de cinco naves organizada por la monarquía hispánica en 1519 para alcanzar las islas de las especias navegando hacia el oeste. La flota atravesó el estrecho que recibió su nombre y entró en el Pacífico. Magallanes murió en Mactán en 1521; la nao Victoria regresó a España en 1522 bajo Juan Sebastián Elcano, completando la primera circunnavegación documentada.",
       "highlight_facts": [
-        "La expedición partió en 1519 con cinco naves; solo la Victoria regresó a España.",
+        "La expedición salió de España en 1519 con cinco naves.",
+        "La flota encontró el paso entre el Atlántico y el Pacífico, conocido después como estrecho de Magallanes.",
         "El paso fue llamado inicialmente estrecho de Todos los Santos.",
-        "Magallanes murió en Mactán en 1521; Elcano y los supervivientes completaron la circunnavegación en 1522."
+        "Magallanes murió en Mactán, Filipinas, el 27 de abril de 1521.",
+        "La nao Victoria regresó a España en 1522 bajo Juan Sebastián Elcano, completando la primera circunnavegación documentada."
       ],
-      "curiosity": "La primera circunnavegación fue una empresa colectiva: Magallanes dirigió su fase inicial, pero murió antes del regreso de la Victoria.",
+      "curiosity": "La circunnavegación fue colectiva: Magallanes dirigió la expedición en su primera etapa, pero murió antes de que la Victoria regresara.",
       "sources": [
         {
           "title": "Mateo Martinić Beroš, Abriu: Estudio sobre las fuentes primarias de la travesía del estrecho",
@@ -115,7 +121,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal completada en esta pasada; conserva cautelas historiográficas y requiere aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -128,13 +134,15 @@
       "period": "Siglos XV–XVI",
       "origin": "Reino de Portugal",
       "dates": "c. 1460/1469–1524",
-      "biography": "Navegante portugués cuya expedición de 1497–1499 estableció una ruta marítima directa entre Portugal y la costa de Malabar, en India, rodeando África. Su llegada a Calicut en 1498 fue un hito de la expansión portuguesa en el océano Índico, cuyas redes comerciales y conocimientos náuticos ya estaban desarrollados por sociedades africanas, árabes, persas e indias. Las expediciones portuguesas posteriores recurrieron a la coerción naval y la violencia para imponer intereses comerciales y políticos. Fue nombrado virrey en 1524 y murió ese mismo año en Cochin.",
+      "biography": "Navegante portugués cuya expedición de 1497–1499 estableció una ruta marítima directa entre Portugal y la costa de Malabar, en India, rodeando África. Su llegada a Calicut en 1498 fue un hito de la expansión portuguesa en el océano Índico, cuyas redes comerciales y conocimientos náuticos ya estaban desarrollados por sociedades africanas, árabes, persas e indias. Fue nombrado virrey en 1524 y murió ese mismo año en Cochin.",
       "highlight_facts": [
-        "Zarpó de Lisboa en julio de 1497 y llegó a Calicut en mayo de 1498.",
-        "Su primera expedición se conoce, entre otras fuentes, por un diario anónimo atribuido tradicionalmente a un participante.",
-        "Fue nombrado virrey de la India portuguesa en 1524 y murió en Cochin ese año."
+        "Zarpó de Lisboa en julio de 1497.",
+        "Rodeó el cabo de Buena Esperanza durante la expedición hacia el océano Índico.",
+        "Llegó a Calicut, en la costa de Malabar, en mayo de 1498.",
+        "Su viaje estableció una ruta marítima portuguesa entre Europa y la costa de India.",
+        "Fue nombrado virrey de la India portuguesa en 1524 y murió ese mismo año en Cochin."
       ],
-      "curiosity": "La ruta de Gama se incorporó a un océano Índico con redes comerciales antiguas; no inauguró el comercio entre esas regiones.",
+      "curiosity": "El océano Índico ya contaba con redes comerciales y conocimientos náuticos de larga tradición; la llegada portuguesa no inauguró el comercio regional.",
       "sources": [
         {
           "title": "UNESCO, Memoria del Mundo: Diario del primer viaje de Vasco da Gama a la India, 1497–1499",
@@ -151,7 +159,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal completada en esta pasada; conserva cautelas historiográficas y requiere aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -164,13 +172,15 @@
       "period": "Siglo XIII",
       "origin": "República de Venecia",
       "dates": "1254–1324",
-      "biography": "Mercader veneciano que viajó por rutas euroasiáticas junto con su padre Niccolò y su tío Maffeo, según la tradición biográfica y el relato conocido como Il Milione. La obra fue redactada en colaboración con Rustichello de Pisa durante el cautiverio de ambos en Génova y circuló en múltiples versiones manuscritas. Describe la corte de Kublai Kan y diversas regiones de Asia, pero combina experiencias, información recibida y recursos literarios; la fiabilidad de episodios concretos debe evaluarse por separado.",
+      "biography": "Mercader veneciano que viajó por rutas euroasiáticas junto con su padre Niccolò y su tío Maffeo, según la tradición biográfica y el relato conocido como Il Milione. La obra fue redactada en colaboración con Rustichello de Pisa durante el cautiverio de ambos en Génova y circuló en múltiples versiones manuscritas. Describe la corte de Kublai Kan y diversas regiones de Asia, pero combina experiencias, información recibida y recursos literarios.",
       "highlight_facts": [
-        "La tradición sitúa su partida hacia Asia en 1271 y su regreso a Venecia en 1295.",
-        "Su relato describe la corte de Kublai Kan y rutas comerciales del Imperio mongol.",
-        "El texto se asocia a Rustichello de Pisa y presenta una compleja transmisión manuscrita."
+        "La tradición sitúa su partida hacia Asia en 1271 junto con su padre Niccolò y su tío Maffeo.",
+        "Viajó por regiones conectadas con el Imperio mongol y las rutas comerciales euroasiáticas.",
+        "Su relato describe la corte de Kublai Kan y diversas regiones de Asia.",
+        "La obra se asocia con Rustichello de Pisa, quien participó en su redacción durante el cautiverio en Génova.",
+        "La tradición sitúa su regreso a Venecia en 1295; el texto combina experiencia, información recibida y recursos literarios."
       ],
-      "curiosity": "No existe un único manuscrito original definitivo de Il Milione: la obra se conserva en numerosas versiones y lenguas.",
+      "curiosity": "Il Milione circuló en numerosas versiones manuscritas y lenguas; no existe un único manuscrito original definitivo que resuelva todos los detalles del relato.",
       "sources": [
         {
           "title": "David Jacoby, Mediterranean Historical Review: Marco Polo, His Close Relatives, and His Travel Account",
@@ -187,7 +197,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal completada en esta pasada; conserva cautelas historiográficas y requiere aprobación editorial formal antes de impresión.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
