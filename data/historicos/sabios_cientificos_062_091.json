@@ -893,13 +893,15 @@
       "period": "Dinastía Song del Norte",
       "origin": "China",
       "dates": "1031–1095",
-      "biography": "Erudito, funcionario y científico de la dinastía Song del Norte. En sus Ensayos del Arroyo de los Sueños registró observaciones sobre astronomía, geología, fósiles, cartografía y magnetismo, incluida la desviación de la aguja de la brújula respecto al norte verdadero.",
+      "biography": "Erudito, funcionario y científico de la dinastía Song del Norte. En sus Ensayos del Arroyo de los Sueños registró observaciones sobre astronomía, geología, fósiles, cartografía y magnetismo, incluida la diferencia entre la orientación de una aguja magnetizada y el sur verdadero.",
       "highlight_facts": [
-        "Compuso Mengxi bitan, una obra enciclopédica hacia 1088.",
-        "Describió la declinación magnética de la aguja respecto al norte verdadero.",
-        "Analizó fósiles y formaciones geológicas para explicar cambios en el paisaje."
+        "Compuso Mengxi bitan (Ensayos del Arroyo de los Sueños) hacia 1088.",
+        "Describió el uso de una aguja magnetizada para orientación.",
+        "Registró la diferencia entre la dirección magnética y el sur verdadero, fenómeno conocido como declinación magnética.",
+        "Analizó fósiles y formaciones geológicas para explicar cambios del paisaje.",
+        "Sus escritos también abordaron astronomía, calendarios, cartografía y observación natural."
       ],
-      "curiosity": "No inventó la brújula: describió y analizó propiedades de un instrumento con una larga historia de desarrollo en China.",
+      "curiosity": "No inventó la brújula: describió y analizó propiedades de un instrumento desarrollado en China antes de su época.",
       "sources": [
         {
           "title": "Shen Kuo — Encyclopaedia Britannica",
@@ -916,7 +918,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; aprobación editorial global otorgada; pendiente únicamente el control de producción.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -929,11 +931,13 @@
       "dates": "1706–1790",
       "biography": "Impresor, escritor, diplomático y científico de las colonias británicas de Norteamérica. Sus investigaciones contribuyeron a comprender la electricidad, a establecer convenciones sobre cargas positivas y negativas y a promover el pararrayos.",
       "highlight_facts": [
-        "Publicó Experiments and Observations on Electricity desde 1751.",
-        "Promovió el pararrayos para proteger edificios de descargas eléctricas.",
-        "Participó en la vida política y diplomática que condujo a la independencia estadounidense."
+        "Publicó Experiments and Observations on Electricity a partir de 1751.",
+        "Propuso una explicación de la electricidad mediante cargas positivas y negativas.",
+        "Investigó la relación entre electricidad y rayos.",
+        "Promovió una varilla conductora conectada a tierra para proteger edificios de descargas.",
+        "Recibió la Medalla Copley de la Royal Society en 1753 por sus investigaciones eléctricas."
       ],
-      "curiosity": "El relato de la cometa se ha simplificado: no debe ilustrarse ni describirse como si Franklin hubiera recibido directamente el impacto de un rayo. La Library of Congress cataloga representaciones posteriores como obras conjeturales.",
+      "curiosity": "El experimento de la cometa no debe representarse como si Franklin hubiera recibido directamente el impacto de un rayo; las imágenes populares suelen dramatizarlo.",
       "sources": [
         {
           "title": "Franklin and Science — Library of Congress",
@@ -950,7 +954,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; aprobación editorial global otorgada; pendiente únicamente el control de producción.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -965,11 +969,13 @@
       "dates": "c. 1400–1468",
       "biography": "Impresor e innovador de Maguncia asociado al desarrollo europeo de tipos móviles metálicos reutilizables y de un sistema tipográfico de producción de libros. La Biblia impresa en su taller hacia 1454–1455 se convirtió en una obra emblemática de la imprenta europea.",
       "highlight_facts": [
-        "Desarrolló en Europa un sistema de impresión con tipos móviles metálicos.",
-        "La Biblia de Gutenberg se imprimió en Maguncia hacia 1454–1455.",
-        "Su innovación aceleró la reproducción de textos y transformó la cultura escrita europea."
+        "Desarrolló en Europa un sistema de impresión con tipos móviles metálicos reutilizables.",
+        "Trabajó en Maguncia, en el Sacro Imperio Romano Germánico.",
+        "La Biblia producida en su taller se completó probablemente hacia 1454–1455.",
+        "La Biblia de Gutenberg fue uno de los primeros grandes libros europeos impresos con tipos móviles metálicos.",
+        "Su sistema contribuyó a ampliar la reproducción y circulación de textos en Europa."
       ],
-      "curiosity": "No inventó la impresión ni los tipos móviles en el mundo: en Corea se utilizaban tipos metálicos móviles casi un siglo antes.",
+      "curiosity": "Gutenberg no fue el primero del mundo en usar tipos móviles: Corea y otras regiones de Asia desarrollaron sistemas anteriores.",
       "sources": [
         {
           "title": "The Gutenberg Bible — Library of Congress",
@@ -986,7 +992,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; aprobación editorial global otorgada; pendiente únicamente el control de producción.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -1001,11 +1007,13 @@
       "dates": "1822–1884",
       "biography": "Monje agustino y naturalista que realizó experimentos de cruzamiento con guisantes en el monasterio de Brno. Presentó sus resultados en 1865 y publicó en 1866 un estudio que formuló patrones fundamentales de la herencia biológica, redescubiertos y reinterpretados alrededor de 1900.",
       "highlight_facts": [
-        "Presentó sus experimentos sobre híbridos vegetales en 1865.",
+        "Realizó experimentos de cruzamiento con guisantes en el monasterio de Brno.",
+        "Presentó sus resultados ante la Sociedad de Historia Natural de Brno en 1865.",
         "Publicó Versuche über Pflanzen-Hybriden en 1866.",
+        "Analizó cómo ciertos rasgos aparecían en distintas generaciones de plantas híbridas.",
         "Sus resultados fueron redescubiertos y reinterpretados alrededor de 1900."
       ],
-      "curiosity": "Las llamadas leyes de Mendel describen patrones importantes, pero no explican por sí solas toda la herencia: muchos rasgos son poligénicos o dependen también del ambiente.",
+      "curiosity": "Los patrones mendelianos son fundamentales, pero no explican por sí solos toda la herencia; muchos rasgos son poligénicos o dependen del ambiente.",
       "sources": [
         {
           "title": "Mendel — National Human Genome Research Institute",
@@ -1022,7 +1030,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; aprobación editorial global otorgada; pendiente únicamente el control de producción.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -1037,11 +1045,13 @@
       "dates": "1885–1962",
       "biography": "Físico danés que propuso en 1913 un modelo cuántico del átomo, con niveles de energía discretos para los electrones. Sus investigaciones sobre la estructura atómica y la radiación le valieron el Nobel de Física de 1922.",
       "highlight_facts": [
-        "Publicó su modelo atómico en tres artículos de 1913.",
+        "Desarrolló su modelo atómico a partir del modelo nuclear de Ernest Rutherford.",
+        "Publicó su propuesta en tres artículos de 1913.",
         "Introdujo niveles de energía cuantizados para explicar el espectro del hidrógeno.",
-        "Recibió el Nobel de Física de 1922 por sus investigaciones sobre la estructura de los átomos y la radiación."
+        "Explicó por qué el átomo de hidrógeno emite o absorbe frecuencias específicas.",
+        "Recibió el Nobel de Física de 1922 por sus investigaciones sobre la estructura atómica y la radiación."
       ],
-      "curiosity": "El modelo de Bohr fue un paso histórico decisivo, pero posteriormente fue superado por la mecánica cuántica moderna; no representa órbitas planetarias literales.",
+      "curiosity": "El modelo de Bohr fue un paso histórico decisivo, pero la mecánica cuántica moderna lo superó; los electrones no recorren órbitas planetarias literales.",
       "sources": [
         {
           "title": "Niels Bohr — Nobel Prize: Physics 1922 facts",
@@ -1058,7 +1068,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; aprobación editorial global otorgada; pendiente únicamente el control de producción.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -1071,11 +1081,13 @@
       "dates": "1791–1867",
       "biography": "Físico y químico experimental inglés que descubrió la inducción electromagnética en 1831, investigó la electrólisis y desarrolló conceptos fundamentales del campo electromagnético. Sus experimentos sentaron bases para motores y generadores eléctricos.",
       "highlight_facts": [
-        "Descubrió la rotación electromagnética en 1821.",
-        "Demostró la inducción electromagnética con su anillo de hierro en agosto de 1831.",
-        "Sus experimentos con generadores mostraron cómo producir corriente mediante movimiento y magnetismo."
+        "Demostró la rotación electromagnética en 1821, un paso temprano hacia el motor eléctrico.",
+        "Descubrió la inducción electromagnética en 1831.",
+        "Construyó un aparato de anillo de hierro con bobinas para investigar la inducción.",
+        "Demostró que el movimiento de un imán podía inducir corriente eléctrica en un circuito.",
+        "Sus experimentos sobre inducción sentaron bases para los generadores eléctricos."
       ],
-      "curiosity": "Su trabajo experimental fue posteriormente formalizado matemáticamente por James Clerk Maxwell; la generación eléctrica moderna se apoya en principios que Faraday demostró.",
+      "curiosity": "James Clerk Maxwell formalizó matemáticamente después parte del electromagnetismo; Faraday destacó por sus demostraciones experimentales.",
       "sources": [
         {
           "title": "Michael Faraday's ring-coil apparatus — Royal Institution",
@@ -1092,7 +1104,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; aprobación editorial global otorgada; pendiente únicamente el control de producción.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     },
     {
@@ -1105,11 +1117,13 @@
       "dates": "1822–1895",
       "biography": "Químico y microbiólogo francés cuyas investigaciones sobre fermentación y microorganismos contribuyeron a la pasteurización y a la teoría germinal de la enfermedad. Desarrolló vacunas contra el carbunco y la rabia junto con colaboradores; la vacunación de Joseph Meister en julio de 1885 fue un hito decisivo.",
       "highlight_facts": [
-        "Sus investigaciones sobre fermentación y microorganismos impulsaron la microbiología moderna.",
-        "Desarrolló una vacuna contra el carbunco y un tratamiento preventivo contra la rabia.",
-        "El 6 de julio de 1885, Joseph Meister recibió la primera vacunación humana contra la rabia en el laboratorio de Pasteur."
+        "Investigó la fermentación y el papel de los microorganismos en procesos biológicos.",
+        "Desarrolló el procedimiento de calentamiento conocido como pasteurización.",
+        "Participó en el desarrollo de una vacuna contra el carbunco.",
+        "Joseph Meister recibió inoculaciones contra la rabia el 6 de julio de 1885.",
+        "Sus investigaciones y las de sus colaboradores contribuyeron al desarrollo de la microbiología moderna."
       ],
-      "curiosity": "La vacuna antirrábica se desarrolló con colaboradores como Émile Roux y Charles Chamberland; el médico Jacques-Joseph Grancher administró las inoculaciones a Meister.",
+      "curiosity": "El desarrollo de la vacuna antirrábica contó con colaboradores como Émile Roux y Charles Chamberland; el médico Jacques-Joseph Grancher administró las inoculaciones a Meister.",
       "sources": [
         {
           "title": "The final years 1877–1887 — Institut Pasteur",
@@ -1126,7 +1140,7 @@
       ],
       "historical_nature": "Histórico",
       "verification_status": "en_verificacion",
-      "editorial_note": "Integración documental transversal: cronología, descripción sintética, hitos y referencias reforzados. Se mantienen reservas historiográficas indicadas en el informe; aprobación editorial global otorgada; pendiente únicamente el control de producción.",
+      "editorial_note": "Integración documental del bloque HIS-085–HIS-096 completada y aprobada globalmente; se conservan cautelas historiográficas y queda pendiente el control visual y técnico de producción.",
       "production_status": "aprobado_produccion"
     }
   ],
